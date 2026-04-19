@@ -23,7 +23,7 @@ python build_index.py
 python test_query.py
 ```
 
-Пример ответа
+**Пример ответа**
 
 ```1c
 🔍 Запрос: Что питает технологию HyperRelay?
@@ -31,48 +31,28 @@ python test_query.py
 [1] Источник: ..\rag_project\knowledge_base\First_Order.md
     Текст: static hyperspace field generator
 , which enveloped arrays of databanks and computers in a localized hyperspace field that accelerated their calculation speeds to unimaginable rates.
-[
-12
-]
-Tukuvebe, ...
+Additionally, the...
 
-[2] Источник: ..\rag_project\knowledge_base\The_Force.md
-    Текст: [
-9
-]
-or several more
-[
-37
-]
-to be taken elsewhere in the name of balance. As such, the Jucuxux believed the Wucacepo needed to be "freed" from use and that Wucacepo users were abusing it.
-[
-9
-]
-Kibeq...
+[2] Источник: ..\rag_project\knowledge_base\First_Order.md
+    Текст: Puzol Badotu also developed the hyperspace tracker which was a type of
+active tracker
+with the ability to detect starships traveling through hyperspace developed by Kinoq Guwufo scientists. Xidemagly ...
 
-[3] Источник: ..\rag_project\knowledge_base\Galactic_Empire.md
-    Текст: Valib Kujagi of Somog Qavemo
-, which was responsible for the completion of the long-delayed project, this was supported by a complex logistical network of bases.
-[
-4
-]
-Huqon Fugehi was also believed t...
+[3] Источник: ..\rag_project\knowledge_base\The_Force.md
+    Текст: or several more
+to be taken elsewhere in the name of balance. As such, the Mimeqexudi believed the Remadize needed to be "freed" from use and that Remadize users were abusing it.
+Wowagu the Remadize i...
 ```
 
-```json
-{
-  "model": "all-MiniLM-L6-v2",
-  "embedding_dim": 384,
-  "total_documents": 43,
-  "total_chunks": 11398,
-  "chunk_size": 500,
-  "chunk_overlap": 50,
-  "index_path": "faiss_index",
-  "build_time_seconds": 333.29
-}
-```
+## Итоговое описание
 
-🗂️ Создание векторного индекса...
-💾 Индекс сохранён в faiss_index
-✅ Готово за 506.5 сек.
-📊 Модель: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 | Чанков: 10381 | Размерность: 384
+| **Параметр**                     | **Значение**                                                                          |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Модель эмбеддингов            | `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`                                     |
+| База знаний                          | `../rag_project/knowledge_base`(43 документа, вымышленная вселенная) |
+| Количество чанков              | 10 381                                                                                              |
+| Размерность эмбеддинга    | 384                                                                                                 |
+| Размер чанка / перекрытие | 500 / 50 токенов                                                                             |
+| Векторная БД                        | FAISS (CPU)                                                                                         |
+| Время генерации                  | 506.5 сек (~8.4 мин)                                                                          |
+| Путь к индексу                     | `faiss_index/`                                                                                    |
