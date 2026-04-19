@@ -8,9 +8,6 @@ Link
 (
 file info
 )
-[
-12
-]
 Tatooine
 was a sparsely inhabited circumbinary
 desert
@@ -168,9 +165,6 @@ Description
 What a desolate place this is.
 "
 ―C-3PO
-[
-12
-]
 A remote settlement within the vast canyons of the
 Jundland Wastes
 Tatooine was a
@@ -192,9 +186,6 @@ Guermessa
 , and
 Chenini
 .
-[
-8
-]
 Tatooine orbited twin
 suns
 ,
@@ -202,12 +193,6 @@ Tatoo I
 and
 Tatoo II
 .
-[
-8
-]
-[
-1
-]
 According to
 Jawa
 folklore, the desert known as the
@@ -215,13 +200,7 @@ Dune Sea
 was once a true
 ocean
 .
-[
-6
-]
 The whole planet was covered in harsh deserts, and only a small part of its northern hemisphere could sustain intelligent life.
-[
-42
-]
 The landscape was covered with sand dunes,
 mountains
 , and canyons, which made traversing the planet very difficult. Due to the absence of surface
@@ -229,9 +208,6 @@ water
 , those who lived on Tatooine had to draw moisture through the dry
 air
 .
-[
-43
-]
 Rain was incredibly rare on Tatooine, coming once a
 year
 ,
@@ -241,9 +217,6 @@ century
 . When the rain came, some
 plants
 were able to grow in a brief yet glorious period.
-[
-44
-]
 Inhabiting the planet were many native
 species
 , the largest of which were the
@@ -264,12 +237,6 @@ massiffs
 , and
 scurriers
 .
-[
-1
-]
-[
-6
-]
 The
 cities
 of Tatooine were frequently blasted by
@@ -277,9 +244,6 @@ sandstorms
 and the inhabitants always seemed to know when one was coming. Not much distinguished the towns as the poor standard of living was common. The cities were separated from each other by large expanses of deserts. Rural life, on the other hand, was mostly small
 moisture farms
 that sold water and food for a meager living.
-[
-14
-]
 History
 [
 ]
@@ -296,43 +260,22 @@ Link
 (
 file info
 )
-[
-45
-]
 Tatooine was the
 homeworld
 of the Jawa and
 Tusken Raider
 species. It once had vast oceans of surface water, lush rainforest
-[
-6
-]
 and flowered fields.
-[
-46
-]
 According to the
 Legend of Lehon
 , Tatooine had also been inhabited by a group called the
 Kumumgah
 during this time, but there was little evidence to support the story.
-[
-45
-]
 Sometime in Tatooine's history, the whole planet became a desert by unknown means
-[
-8
-]
 when the oceans dried away.
-[
-47
-]
 Much later, it would be colonized by early settlers and explorers, who mistook the planet for a third sun owing to its highly reflective
 silicate
 surface.
-[
-8
-]
 Jawa traders sold scrap to offworlders who settled on Tatooine as moisture farmers
 As a result of sporadic and unsuccessful colonization ventures, the planet became a haven for
 smugglers
@@ -341,21 +284,12 @@ mining
 boom saw the widespread use of
 sandcrawlers
 on the desert plains in an effort to mine valuable minerals. However, after it was discovered that most valuable minerals could be found on the surface,
-[
-8
-]
 along with most minerals having unwanted
 metallurgic
 properties,
-[
-6
-]
 the sandcrawlers were abandoned and eventually picked up by the native Jawas for use as shelter and mobile bases, from which they collected scrap from thousands of years of crashed
 spacecraft
 and failed mining projects.
-[
-8
-]
 Offworlders erected various cities in the desert, and colonists who decided to stay on the planet built moisture farms. The
 B'omarr Order
 on Tatooine kept their disembodied
@@ -369,17 +303,11 @@ Jabba Desilijic Tiure
 as
 his palace
 .
-[
-8
-]
 Most wealth eventually found its way into the city of
 Mos Espa
 , with most of it procured from gambling and off-world trade, especially through the lucrative black market. The influx of commercial ventures fueled Mos Espa's growth, eventually securing its regional importance as a hub of economic and financial activity. With high tariffs imposed by the Hutts, some believed themselves able to escape paying them by doing business in the planet's de facto
 capital
 , however often found themselves scammed and broke if not through gambling, through simple bad luck.
-[
-6
-]
 Scum and villainy
 [
 ]
@@ -387,27 +315,15 @@ Scum and villainy
 The Republic doesn't exist out here. We must survive on our own.
 "
 ―Shmi Skywalker, to Padmé Amidala
-[
-24
-]
 In the last decades of the
 Galactic Republic
 , Tatooine was known as a haven for smugglers and criminal activity,
-[
-8
-]
 including
 slavery
 .
-[
-24
-]
 The sand people regularly attacked
 Fort Tusken
 , earning them their name of "Tusken Raiders."
-[
-20
-]
 It was home to a
 human
 slave
@@ -416,9 +332,6 @@ Shmi Skywalker
 and her son
 Anakin
 .
-[
-24
-]
 During this period,
 Queen
 Padmé Amidala
@@ -443,22 +356,19 @@ Watto
 in the city of Mos Espa, and the Queen's party left Tatooine with the boy. After participating in numerous adventures, including the Invasion of Naboo, the former Tatooinian slave joined the
 Jedi Order
 under Kenobi's tutelage.
-[
-24
-]
 Ten years later, Skywalker, now a gifted but unruly Jedi student, sensed that his mother, who had stayed on Tatooine and gotten
 married
-, was in terrible pain. Skywalker returned to the desert world in the company of Amidala, who was now a senator of the Republic and the young Jedi's secret lover. It transpired that Shmi Skywalker had been captured by Tusken Raiders and was detained in one of their camps. When Skywalker finally discovered his mother's location, he arrived too late, and she died in his arms from the consequences of the Tuskens' mistreatment of her. Enraged, the young Jedi slaughtered the entire Tusken tribe. This had serious consequences as the first step towards Anakin Skywalker's fall from grace. Shortly after the incident, the
+, was in terrible pain.
+Skywalker returned to the desert world in the company of Amidala, who was now a senator of the Republic and the young Jedi's secret lover.
+It transpired that Shmi Skywalker had been captured by Tusken Raiders and was detained in one of their camps.
+When Skywalker finally discovered his mother's location, he arrived too late, and she died in his arms from the consequences of the Tuskens' mistreatment of her.
+Enraged, the young Jedi slaughtered the entire Tusken tribe.
+This had serious consequences as the first step towards Anakin Skywalker's fall from grace.
+Shortly after the incident, the
 Clone Wars
 broke out, and the tortured Tatooinian Jedi became a major player of the pan-galactic conflict.
-[
-30
-]
 Republic forces on Tatooine after Jabba the Hutt agreed to sign a Republic treaty.
 For the most part, Tatooine avoided the Clone Wars.
-[
-48
-]
 Nevertheless, a Jedi-led
 mission
 to Jabba's Palace occurred, with the Jedi hoping to rescue
@@ -468,9 +378,6 @@ Huttlet
 from the
 Separatist Alliance
 .
-[
-49
-]
 Later during the war, Chairman
 Papanoida
 and his son,
@@ -480,9 +387,6 @@ Greedo
 , who had
 kidnapped
 members of their family.
-[
-50
-]
 Three years after the start of the war, Skywalker fell to the dark side and joined the
 Sith
 , old adversaries of the Jedi who had long planned to take over the galaxy. The
@@ -490,20 +394,11 @@ Galactic Empire
 , a new regime established to replace the Republic, started to hunt all Jedi. Skywalker's former master Obi-Wan Kenobi went into hiding on Tatooine, bringing the infant son of the fallen Jedi with him. On the desert expanses of Tatooine, Kenobi hoped that he could keep young
 Luke
 from his father's evil influence. Kenobi entrusted the boy
-[
-51
-]
 to Shmi's stepson,
-[
-30
-]
 Owen Lars
 , and his wife
 Beru
 .
-[
-51
-]
 Time of great hardship
 [
 ]
@@ -518,16 +413,10 @@ all throughout the day. Lest he perspire in the heat. But I didn't believe that 
 "
 ―An excerpt from
 The Journals of Ben Kenobi
-[
-21
-]
 Obi-Wan Kenobi in exile on Tatooine
 In
 9 BBY
 ,
-[
-52
-]
 The Grand Inquisitor
 ,
 The Fifth Brother
@@ -540,40 +429,23 @@ Galactic Empire
 , and for this reason the
 Inquisitorius
 did not have jurisdiction on the planet, but this by no means prevents them from operating.
-[
-53
-]
 Later, Bail Organa shows up on Tatooine looking for Obi-Wan Kenobi's help in finding his daughter, Leia Organa. The Third Sister eventually returns to Tatooine looking to murder Luke Skywalker. The Third Sister redeems herself and decided not to hurt Luke, and brings him back to his uncles.
-[
-53
-]
 In the years following Emperor Palpatine's formation of his New Order, the
 Great Drought
-of Tatooine scorched the world's surface, impoverishing the many moisture farmers of a reliable source of income to procure food and other basic supplies. The situation was not helped by Jabba's thugs collecting "water taxes" from the many towns and isolated settlements across the planet, often resorting to threats and brute force to acquire enough water for the crime lord. With Obi-Wan Kenobi witnessing the suffering of the population, he disabled the weapons of the thugs, allowing the populace to chase them off. Later, a young Luke Skywalker attempted to confront the thugs, but was ultimately rescued by Obi-Wan after falling unconscious in a brief scuffle. With the legacy of the Jedi safe, Obi-Wan vowed never to return to town, while a week later the drought finally ended, and Jabba vowed revenge on the man who had stolen his water, to no avail.
-[
-21
-]
+of Tatooine scorched the world's surface, impoverishing the many moisture farmers of a reliable source of income to procure food and other basic supplies.
+The situation was not helped by Jabba's thugs collecting "water taxes" from the many towns and isolated settlements across the planet, often resorting to threats and brute force to acquire enough water for the crime lord.
+With Obi-Wan Kenobi witnessing the suffering of the population, he disabled the weapons of the thugs, allowing the populace to chase them off.
+Later, a young Luke Skywalker attempted to confront the thugs, but was ultimately rescued by Obi-Wan after falling unconscious in a brief scuffle.
+With the legacy of the Jedi safe, Obi-Wan vowed never to return to town, while a week later the drought finally ended, and Jabba vowed revenge on the man who had stolen his water, to no avail.
 The Empire
 annexed
 Tatooine at one point
-[
-54
-]
 but largely ignored the planet. All the same, the Empire left a small
-[
-55
-]
 garrison
 on Tatooine.
-[
-56
-]
 Additionally, the Empire's rise prompted the Hutts to revise their often times shady business schemes, resulting in a transfer of regional wealth and influence from Mos Espa to
 Mos Eisley
 , prompting the slow economic decline of Mos Espa.
-[
-6
-]
 The final fight between Jedi Master Obi-Wan Kenobi and former Lord Sith Maul took place on the sands of the Tatooine desert.
 In
 2 BBY
@@ -597,9 +469,6 @@ Atollon
 while he defeated and fatally wounded Maul in combat. As Maul died in Kenobi's arms, Kenobi confirmed Maul's suspicions that he was hiding the
 Chosen One
 .
-[
-57
-]
 War comes to Tatooine
 [
 ]
@@ -607,9 +476,6 @@ War comes to Tatooine
 Lord Vader! It is my distinct pleasure and great honor to welcome you to Tatooine!
 "
 ―Ardo Banch, to Darth Vader
-[
-58
-]
 Imperial sandtrooper on the streets of Mos Eisley.
 Shortly after the
 Battle of Scarif
@@ -630,13 +496,7 @@ Devastator
 . With the droids carrying the technical readouts to the
 Death Star
 , a task force was sent to the planet in order to capture the two droids,
-[
-12
-]
 marking the moment the Empire began to truly pay attention to Tatooine.
-[
-55
-]
 Upon coming in contact with a Jawa sandcrawler, the two were abducted and later sold to Owen Lars of the
 Lars moisture farm
 , with R2 being chosen after another astromech droid,
@@ -644,12 +504,12 @@ R5-D4
 broke down. Later that day, Luke Skywalker, unknowingly Anakin Skywalker's son came across a recorded message of Princess
 Leia
 pleading for the help of Obi-Wan Kenobi against the Galactic Empire. Intrigued, if only because R2 later ran away, forcing Luke and C-3PO to retrieve him, the two were attacked by native Tusken Raiders.
-[
-12
-]
 Being saved by Kenobi, Skywalker learned that he was a
 Jedi
-while Kenobi offered to train him. Refusing and heading home, Skywalker came across the remains of the sandcrawler that originally sold the two droids to his family. Realizing that it was the work of Imperial forces and that they may have traced the droids back to his house, he rushed back only to find the moisture farm burned to the ground, with the charred remains of his aunt and uncle laying outside in the sun. Agreeing to go with Kenobi to Mos Eisley, they discovered the city under Imperial control and they hired the services of
+while Kenobi offered to train him.
+Refusing and heading home, Skywalker came across the remains of the sandcrawler that originally sold the two droids to his family.
+Realizing that it was the work of Imperial forces and that they may have traced the droids back to his house, he rushed back only to find the moisture farm burned to the ground, with the charred remains of his aunt and uncle laying outside in the sun.
+Agreeing to go with Kenobi to Mos Eisley, they discovered the city under Imperial control and they hired the services of
 smuggler
 Han Solo
 and his partner,
@@ -659,9 +519,6 @@ Alderaan
 . Barely escaping an intense firefight with multiple
 sandtroopers
 , the two escaped Tatooine and several Star Destroyers into hyperspace.
-[
-12
-]
 Sometime during the Galactic Civil War, Tusken Raiders under the leadership of the
 Jundland General
 attacked local settlements. He and his followers were ultimately defeated by a
@@ -669,13 +526,7 @@ gang
 of
 mercenaries
 located on-world.
-[
-38
-]
 Having allied with the Rebel Alliance,
-[
-59
-]
 the gang led the Rebels into a series of successful
 operations on Tatooine
 that would conclude with the
@@ -685,20 +536,11 @@ Tatooine garrison
 , whose ranks included the
 68th Legion
 .
-[
-38
-]
 Nevertheless, the Empire would come to reestablish its presence on the desert world,
-[
-60
-]
 with
 Lieutenant
 Ardo Banch
 serving as an officer in the garrison.
-[
-58
-]
 Shortly after the Battle of Yavin, a shuttle with emissaries in the employ of Jabba, who were meant to negotiate a deal to provide support to the Empire at
 Weapons Factory Alpha
 on
@@ -715,13 +557,7 @@ Boba Fett
 and
 Krrsantan
 to ascertain the identity of the pilot who destroyed the First Death Star.
-[
-61
-]
 Fett tracked down and dueled Skywalker, who had returned to the late Ben Kenobi's dwelling for education, learning his name and reporting to Vader.
-[
-62
-]
 The sands and twin suns of Tatooine between 3 and 4 ABY
 After learning he had a son, Vader traveled to Tatooine with his
 crew
@@ -733,54 +569,27 @@ Chelli Lona Aphra
 , and
 BT-1
 , to investigate the Lars Homestead and Kenobi's home.
-[
-63
-]
 When the Rebel Alliance split its forces up to escape the Empire
-[
-64
-]
 after its major losses in the
 Battle of Hoth
 ,
-[
-65
-]
 the young human
 Vulaada Klam
 and her pet
 qaberworm
 Gurtyl
 found themselves on Tatooine
-[
-66
-]
 after their time with the Rebellion on Hoth.
-[
-67
-]
 Vader also returned to Tatooine in the aftermath of the
 duel on Cloud City
 to investigate the Lars Homestead
-[
-58
-]
 once more.
-[
-63
-]
 Following the
 battle over Jekara
 , Fett delivered Solo, now frozen in
 carbonite
 , to Jabba,
-[
-68
-]
 where he served as a wall decoration.
-[
-15
-]
 Following
 Qi'ra
 's revival of
@@ -802,9 +611,6 @@ Imperial Checkpoint
 near Bestine. They also set up an
 Imperial Outpost
 in the Western Dune Sea and continued their presence in Mos Eisley.
-[
-26
-]
 When Aphra was taken over by the
 Spark Eternal
 , her allies
@@ -812,17 +618,11 @@ Sana Starros
 and
 Kho Phon Farrus
 traveled throughout the galaxy to collect those who cared about Aphra to save her. They traveled to Tatooine to recruit Klam, who was sitting atop Gurtyl in a town among several other residents,
-[
-66
-]
 though Klam ultimately did not accompany them when they traveled to a
 Rebel Rendezvous
 to recruit
 Magna Tolvan
 .
-[
-69
-]
 Kitster and Wald freed their friends Melee, Seek, and Amee.
 Kitster Banai and Wald returned to Tatooine to free their friends, Melee, Amee, and Seek on a
 moisture farm
@@ -835,9 +635,6 @@ Galactic Empire
 and gave the
 money
 to free all the enslaved workers there. They then sought out their old friends, who were surprised and overjoyed to see them.
-[
-70
-]
 The Heroes of Yavin put an end to Jabba's rule.
 Attempting to rescue Solo, the droids R2-D2 and C-3PO infiltrated Jabba's Palace disguised as servants after Luke Skywalker "gifted" them to the crime lord. Arriving at the palace not long after, Skywalker attempted to bargain with Jabba for his friend's life, only to be refused and dropped into a
 rancor
@@ -852,13 +649,7 @@ Lando Calrissian
 , who had been disguised as a guard, to make their escape. After an intense shootout, Organa strangled Jabba to death with the chain used to keep her hostage, and Boba Fett was knocked into the
 sarlacc
 . Skywalker, Solo, Organa, Chewbacca, Calrissian, and the two droids escaped the planet once more.
-[
-15
-]
 Although Fett was swallowed by the sarlacc, he survived and managed to escape the creature's stomach, though his armor was stolen by Jawas shortly thereafter due to his weakness from his escape.
-[
-32
-]
 New days ahead
 [
 ]
@@ -868,42 +659,24 @@ mining companies
 are swooping in with brutes like your boss at the helm.
 "
 ―Cobb Vanth, to Adwin Charu
-[
-71
-]
 Cobb Vanth became the enigmatic lawman of Mos Pelgo.
 Following the creasing of Imperial rule, numerous crime syndicates attempted to build legitimacy as mining companies, with one such company, the
 Red Key Raiders
 , afraid that the
 New Republic
 would eventually stamp out their operations on the planet. These companies tried to take advantage of the power vacuum caused by the death of Jabba.
-[
-71
-]
 However Fett lived on, having only been knocked unconscious for an unknown length of time, and dug himself out of the great pit. Exahusted and suffering wounds from the enounter, collapsed, where a Jawa sandcrawler scavenged the wreckage from Jabba's sail barge, including his set of
 Mandalorian armor
 .
-[
-32
-]
 The enigmatic lawman
 Cobb Vanth
 then obtained Boba Fett's armor
-[
-60
-]
 from the Jawa sandcrawler and went on to defeat the Red Key gangster
 Adwin Charu
 .
-[
-71
-]
 By
 5 ABY
 ,
-[
-72
-]
 Vanth had become the
 mayor
 and
@@ -913,9 +686,6 @@ Mos Pelgo
 and dedicated his life to protecting the town from the Red Key Raiders. He also enlisted Jabba's former Beastmaster
 Malakili
 in helping to tame two unruly rontos and to raise the Huttlet
-[
-37
-]
 named
 Borgo
 . With Malakili's help, Cobb struck a deal with the local Tusken Raiders to protect the town in exchange for water and receiving a
@@ -925,9 +695,6 @@ attack
 by the Red Key syndicate led by
 Lorgan Movellan
 .
-[
-41
-]
 In
 9 ABY
 , the bounty hunter
@@ -946,28 +713,29 @@ Grogu
 Yoda's species
 traveling under the care of Djarin, exited the
 Razor Crest
-and attracted the attention of Peli Motto, who cared for him while repairing the ship for Djarin. Djarin and Calican then traveled into the Dune Sea on speeder bikes, looking for Shand. They came upon Tusken Raiders; Djarin bartered with them for safe passage. They eventually came across a Dewback with a dead bounty hunter attached to it, which is revealed to be bait laid out by Shand to attract anyone looking for her. The two managed to fend off Shand's attacks, but lost one of their speeder bikes in the process. Nevertheless, the pair was able to take Shand into custody.
-[
-73
-]
-Djarin agreed to go retrieve the Dewback they encountered earlier to replace the destroyed speeder. Calican watched over Shand during this period. While alone, Shand told him that Mando was a traitor to the guild and that the bounty on him was worth a great deal more than her bounty. Calican was unconcerned with the bounty, but Shand pointed out that taking out a Mandalorian would make him a legend. She then offered to help Calican capture the Mandalorian if he set her free. However, Calican instead shot her, assuming that she would betray him, and then headed to the repair facility on the speeder bike, where he took Motto and Grogu hostage. Shortly thereafter, Djarin arrived and used a flash grenade to disorient Calican, using the opportunity to kill him. Mando then gave Calican's money to Motto to pay for the repairs on his ship. He and Grogu then left Tatooine.
-[
-73
-]
+and attracted the attention of Peli Motto, who cared for him while repairing the ship for Djarin.
+Djarin and Calican then traveled into the Dune Sea on speeder bikes, looking for Shand.
+They came upon Tusken Raiders; Djarin bartered with them for safe passage.
+They eventually came across a Dewback with a dead bounty hunter attached to it, which is revealed to be bait laid out by Shand to attract anyone looking for her.
+The two managed to fend off Shand's attacks, but lost one of their speeder bikes in the process.
+Nevertheless, the pair was able to take Shand into custody.
+Djarin agreed to go retrieve the Dewback they encountered earlier to replace the destroyed speeder.
+Calican watched over Shand during this period.
+While alone, Shand told him that Mando was a traitor to the guild and that the bounty on him was worth a great deal more than her bounty.
+Calican was unconcerned with the bounty, but Shand pointed out that taking out a Mandalorian would make him a legend.
+She then offered to help Calican capture the Mandalorian if he set her free.
+However, Calican instead shot her, assuming that she would betray him, and then headed to the repair facility on the speeder bike, where he took Motto and Grogu hostage.
+Shortly thereafter, Djarin arrived and used a flash grenade to disorient Calican, using the opportunity to kill him.
+Mando then gave Calican's money to Motto to pay for the repairs on his ship.
+He and Grogu then left Tatooine.
 Djarin, through a lead given by
 Gor Koresh
 , would later return to Tatooine in search of other Mandalorians in his quest to find a Jedi. Upon his return, in place of another Mandalorian, he was instead met by the lawman Cobb Vanth donning Boba Fett's armor. After a tumultuous start, the two became allies and worked together to unite the local citizens of Mos Pelgo and nearby Tusken Raiders to liberate all from the terror of a
 leviathan krayt dragon
 . During this time, the bounty hunter Boba Fett began to track Din Djarin, watching him from a distance in the Tatooine desert.
-[
-60
-]
 Joined by Shand, whose life he had saved after Calican shot her, Fett eventually regained his armor after following Djarin to the planet
 Tython
 .
-[
-74
-]
 Rule with respect
 [
 ]
@@ -981,26 +749,14 @@ Link
 (
 file info
 )
-[
-32
-]
 Boba Fett takes control of Jabba's Palace, becoming the new crime lord.
 Eventually, Fett returned to Tatooine accompanied by Shand and took over Jabba's Palace and the criminal empire that once belonged to the Hutt
-[
-32
-]
 after killing Bib Fortuna.
-[
-75
-]
 Some time later, Fett was attacked and was injured by the
 Order of the Night Wind
 , which was later revealed to have been sent by Jabba's cousins,
 the Twins
 , who wanted to acquire the territory that formerly belonged to their deceased cousin.
-[
-29
-]
 The Twins sent Krrsantan to
 kill
 Lord Fett at his palace. After Krrsantan's failure and capture, they arrived to apologize to Fett and offer him a
@@ -1011,33 +767,19 @@ by
 Mayor
 Mok Shaiz
 , and they had no interest in starting a war over a "worthless rock".
-[
-47
-]
 With a war with the Pyke Syndicate on the horizon, Fett began assembling an army, recruiting even Krrsantan despite his attempt on his life
-[
-76
-]
 and Djarin.
-[
-34
-]
-Although Krrsantan and Djarin joined the fight against the Pykes, Fett still needed a infantry as the Pykes outnumbered them. Djarin offered to help with this. He went to Freetown, the town formerly known as Mos Pelgo, to enlist the help of his acquaintance, Sheriff Cobb Vanth. Djarin asked that he and the townspeople join Fett, saying that the Pykes' influence would inevitably reach the town as well. Though Djarin didn't know it, Vanth had already faced the Pykes when he saw them trading spices in the city's territory.
-[
-19
-]
+Although Krrsantan and Djarin joined the fight against the Pykes, Fett still needed a infantry as the Pykes outnumbered them.
+Djarin offered to help with this.
+He went to Freetown, the town formerly known as Mos Pelgo, to enlist the help of his acquaintance, Sheriff Cobb Vanth.
+Djarin asked that he and the townspeople join Fett, saying that the Pykes' influence would inevitably reach the town as well.
+Though Djarin didn't know it, Vanth had already faced the Pykes when he saw them trading spices in the city's territory.
 However, Vanth initially saw no reason for people to join the fight, as he thought the Pykes wouldn't mind Freetown, at least not with him around. Djarin left, but Vanth said he'd think about it. Shortly after Djarin's departure, Vanth decided to recruit those in the city who were willing to fight. At this time, the famous bounty hunter
 Cad Bane
 , who was in the employ of the Pykes, arrived in the city. Bane had gone to deal with Vanth for his meddling in syndicate affairs. After a brief conversation and Vanth refusing to let the Pykes continue with the spice trade in the city, Bane wounded Vanth and killed his assistant before clearing things up for the citizens and departing.
-[
-19
-]
 After a
 battle in the streets of Mos Espa
 , which led to Bane's death at the hands of Fett, many damages in the city and many losses to the Pykes, the syndicate withdrew from incorporating Tatooine into their territory. With Fett having fought within the city to defend it and winning the day, he became respected by the people he ruled over.
-[
-46
-]
 Resistance era
 [
 ]
@@ -1048,16 +790,10 @@ Eloc Throno
 and advertised in
 Traveler's Guide to Batuu
 .
-[
-77
-]
 Hondo Ohnaka
 also covered the planet in the
 Galactic Explorer's Guide
 . At this time, Hutts continued to operate on Tatooine, and the planet was known for being controlled by criminal enterprises.
-[
-36
-]
 With the
 destruction
 of the
@@ -1086,9 +822,6 @@ Palpatine's lineage
 , going by the name "Rey Skywalker" with the blessing of the
 Force spirits
 of Luke and Leia. Rey and BB-8 then looked off into the distance as the twin suns of Tatooine rose.
-[
-78
-]
 Inhabitants
 [
 ]
@@ -1100,9 +833,6 @@ Jawa
 and
 Tusken Raider
 The Raiders, native to the planet, were a nomadic tribal society with strict social and moral codes, along with defined territorial boundaries. Frequent colonial trespasses on their sovereign territory, along with the collusion between old values and galactic modernization, often forced the Tuskens to attack colonists whom they both vehemently feared and despised.
-[
-6
-]
 Tusken Raiders often attacked isolated settlements on the fringes of their territory such as
 Anchorhead
 , and often took potshots at podracers during the
@@ -1110,26 +840,15 @@ Boonta Eve Classic
 , celebrated once every year as part of the
 Boonta Eve
 holiday.
-[
-8
-]
 Jawas collected scrap metal and repurposed droids which they sold to settlers.
-Jawas were also a native species to Tatooine, and as such deeply entrenched into a nomadic lifestyle. Unlike the Tuskens, whom they attempted to avoid, Jawas frequently sold collected scrap metal and droids to the scattered settlers on the planet, earning a reputation as merchants and vagabonds. Myth and folklore also played an important part in Jawa society, with the Jawa's belief that the great Dune Sea was once a true ocean. Later research into ancient fossil-bearing rock and eroded canyons seemed to support this notion. Nonetheless, most of Tatooine's inhabitants refused to believe the story, finding it far-fetched and ludicrous.
-[
-6
-]
+Jawas were also a native species to Tatooine, and as such deeply entrenched into a nomadic lifestyle.
+Unlike the Tuskens, whom they attempted to avoid, Jawas frequently sold collected scrap metal and droids to the scattered settlers on the planet, earning a reputation as merchants and vagabonds.
+Myth and folklore also played an important part in Jawa society, with the Jawa's belief that the great Dune Sea was once a true ocean.
+Later research into ancient fossil-bearing rock and eroded canyons seemed to support this notion.
+Nonetheless, most of Tatooine's inhabitants refused to believe the story, finding it far-fetched and ludicrous.
 The Jawas made use of sandcrawlers,
-[
-8
-]
 former mining vehicles claimed by the Jawas
-[
-71
-]
 as mobile bases.
-[
-8
-]
 Other inhabitants
 [
 ]
@@ -1137,33 +856,21 @@ Other inhabitants
 Tatooine is sparsely populated. If the trace was correct, I will find them quickly, Master.
 "
 ―Darth Maul, to Darth Sidious
-[
-24
-]
 Mos Eisley was one of the rare cities on Tatooine.
 Lawful inhabitants on the planet often utilized
 moisture vaporators
 owing to their energy efficiency, resulting in their status as one of the most crucial pieces of equipment for survival. While single vaporators often cost 500
 credits
 each, some individuals bought and owned multiple units, creating moisture farms. Often utilizing the extra water for small hydroponic gardens, few gardens yielded enough to make substantial profits. In addition, vaporators required frequent maintenance and security systems to deter attacks from Tusken Raiders, who believed all water was sacred and belonged to them.
-[
-38
-]
 Tatooine had only a few
 port cities
 , including Mos Espa and Mos Eisley. Beside those cities, which attracted many criminals, most settlers of Tatooine operated
 moisture farms
 in the expanse of the desert.
-[
-1
-]
 Due to the planet's dangerously high daytime temperature and whipping sandstorms, most residents of Tatooine kept their skin covered with practical materials that wick away sweat and limit exposure to the harmful
 ultraviolet
 radiation
 of the twin suns.
-[
-23
-]
 Economy
 [
 ]
@@ -1174,15 +881,9 @@ Hutt Clan
 taking near-full control over the trafficking and
 smuggling
 trades, new citizens had a large time breaking into the criminal market even though it was more lucrative than the water market.
-[
-79
-]
 Slavery, while banned through Republic laws, was readily and blatantly practiced under the twin suns. An entire section of Mos Espa was purposed as a
 Slave Quarter
 . On Tatooine, at least, the institution of slavery was seen as a socioeconomic symbol of wealth and prestige, resulting in highly protective owners who reluctantly parted with their possessions. Used as capital in business transactions, nearly all slavery operations were overseen by the Hutt gangsters, who regarded slavery as a useful institution.
-[
-6
-]
 Cultural traits
 [
 ]
@@ -1190,21 +891,12 @@ Cultural traits
 There's a big race tomorrow, on Boonta Eve.
 "
 ―Anakin Skywalker
-[
-24
-]
 An annual holiday celebrated on the planet was Boonta Eve. The holiday was celebrated in honor of
 Boonta Hestilic Shad'ruu
 , a Hutt who rose to be a
 god
 . The Boonta Eve Classic
-[
-8
-]
 was a big podrace held on Boonta Eve.
-[
-24
-]
 The
 Max Rebo Band
 's song "
@@ -1220,9 +912,6 @@ Goodnight, But Not Goodbye
 (Mad About Me Remix)." The Max Rebo Band was left with only two of Tatooine's top five songs, with their number-four hit "
 (That Joyous Night) I Ate My Mate
 ."
-[
-8
-]
 Interactive Map
 [
 ]
@@ -1250,9 +939,6 @@ A New Hope
 Star Wars
 original trilogy
 .
-[
-12
-]
 It then went to appear in the
 1983
 film
@@ -1262,18 +948,6 @@ Return of the Jedi
 and in all three films of the
 prequel trilogy
 .
-[
-15
-]
-[
-24
-]
-[
-30
-]
-[
-51
-]
 The planet wasn't actually named in Episode IV, though director
 George Lucas
 had called it
@@ -1287,9 +961,6 @@ Tunisia
 (see also
 Tunisia
 for other Tunisian-inspired names).
-[
-80
-]
 Filming of Tatooine scenes took place around
 Djerba
 ,
@@ -1313,9 +984,6 @@ Yuma
 in
 Arizona
 .
-[
-81
-]
 Anthony Forrest
 , the actor who played Luke Skywalker's friend
 Laze Loneozner
@@ -1326,18 +994,12 @@ Star Wars
 universe, Forrest rationalized that Lucas did so because Tatooine was a world where water needed to be harvested, so people on the planet would not waste it extensively cleaning their clothes or equipment. The heat in Tunisia was an issue for everyone on set. Forrest was sunburnt during the filming in Tunisia, which made acting in the stormtrooper armor difficult. However, he was nevertheless very happy to share a scene with
 Alec Guinness
 .
-[
-82
-]
 Star Wars Insider
 writer
 Melissa T. Miller
 theorized in the piece "
 Got Blue Milk?
 " that blue wildflowers grew as fields on Tatooine within its deserts. As Miller reasoned, if the blue hue of blue milk was natural, banthas eating blue foliage would explain where the blue milk's coloration came from.
-[
-83
-]
 Real-world similarities
 [
 ]
@@ -1375,9 +1037,6 @@ Kepler-35b
 The
 Centaurus
 constellation contains a planet that orbits three stars – one more than Tatooine a configurationwhich scientists were previously unsure could survive.
-[
-84
-]
 Tatooine could also be taken as a derivative of the planet
 Mongo
 of the
@@ -1391,9 +1050,6 @@ rough draft
 , the same planet which was later named Utapau in the
 second draft
 , where Gordon is briefly mentioned. Utapau, as noted above, was ultimately renamed Tatooine.
-[
-80
-]
 Appearances
 [
 ]

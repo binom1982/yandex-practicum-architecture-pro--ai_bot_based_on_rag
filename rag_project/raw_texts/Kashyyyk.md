@@ -2,9 +2,6 @@
 There's still so much the Empire hasn't touched…
 "
 ―Cal Kestis, overlooking Kashyyyk
-[
-16
-]
 Kashyyyk
 , also known as
 Planet Wookiee C
@@ -90,9 +87,6 @@ Hunting on Kashyyyk is a great challenge. If you don't get eaten by one of the f
 "
 ―
 Charr
-[
-34
-]
 Can-cells fly over Kashyyyk's mountains.
 Kashyyyk was a temperate
 jungle
@@ -107,24 +101,12 @@ Mid Rim
 . The planet had a complement of three
 moons
 ,
-[
-3
-]
-[
-5
-]
 one of which was
 orange
 .
-[
-35
-]
 The planet had no axial tilt and a perfectly circular orbit, causing it to lack seasons. The center of the planet was covered with a tropical ocean belt, which contained a number of islands and large
 coral
 reefs.
-[
-9
-]
 Covered in
 wroshyr trees
 , Kashyyyk served as
@@ -143,14 +125,8 @@ Kachirho
 would be built into the planet's
 trees
 .
-[
-10
-]
 The Kashyyykian wilds could be dangerous to many, thanks to dangerous animals, such as
 Terentateks
-[
-24
-]
 or
 wyyyschokk
 spiders
@@ -161,9 +137,6 @@ jaw plant
 and
 saava
 .
-[
-16
-]
 The crash site of the prison ship
 Ashmead's Lock
 was known as the
@@ -171,35 +144,23 @@ Black Forest
 . Wookiees believed that the Black Forest was cursed and haunted by bad spirits. By
 5 ABY
 , sections of Kashyyyk's forests had been deforested and several rivers had been drained. The Empire also established undersea mining platforms.
-[
-13
-]
 Mount Arayakyak
 was once a rainforest orchard known as the Cultivating Talon, which provided Wookiees with fruits, such as
 shi-shok
 . By the
 Imperial Era
 , it had been defoliated by a poisonous black mold.
-[
-12
-]
 Two years
 after the
 planet's
 liberation by the New Republic, much of the Black Forest had grown back. The growing forest was still littered with the remnants of Imperial machinery, including an
 AT-ACT walker
 .
-[
-35
-]
 Kashyyyk was in the same star system as
 Trandosha
 , the home of the
 Trandoshan
 species, who were traditional enemies of the Wookiees.
-[
-3
-]
 History
 [
 ]
@@ -207,9 +168,6 @@ The Zeffo and Czerka occupation
 [
 ]
 In its early history, the Zeffo, an ancient technologically advanced species, travelled to Kashyyyk where they had contact with the Wookiees.
-[
-16
-]
 Millennia
 before the
 Galactic Civil War
@@ -221,9 +179,6 @@ Ashmead's Lock
 crashed on the planet when a nearby
 gravity well
 collapsed on itself.
-[
-13
-]
 Four
 millennia
 before the
@@ -231,17 +186,11 @@ Battle of Yavin
 , Kashyyyk was discovered by the
 Czerka Corporation
 , who renamed the planet G5-623, and later to Edean.
-[
-14
-]
 Using superior technology, the company managed to
 enslave
 the Wookiees until an
 uprising
 drove the invaders away. That painful episode left lasting scars in the Wookiees' hearts.
-[
-7
-]
 Republic Era
 [
 ]
@@ -250,9 +199,6 @@ What about the droid attack on the Wookiees?
 "
 ―Jedi Master
 Ki-Adi-Mundi
-[
-10
-]
 Life Day during the High Republic era.
 By
 232 BBY
@@ -261,9 +207,6 @@ Jedi Order
 had established a
 Jedi outpost
 on Kashyyyk.
-[
-36
-]
 As well as celebrating life day
 At some point prior to the
 Invasion of Naboo
@@ -276,9 +219,6 @@ on Kashyyyk, accompanied by his then
 Padawan
 Dooku
 .
-[
-24
-]
 At another point, Jedi Master
 Eno Cordova
 was researching
@@ -287,17 +227,11 @@ culture on Kashyyyk, and befriended Wookiee
 chieftain
 Tarfful
 .
-[
-16
-]
 For twenty
 years
 , Kashyyyk's Wookiees, as well as the Wookiee population of its colony planets, needed to repeatedly repel the
 Trade Federation
 .
-[
-37
-]
 Clone Wars
 [
 ]
@@ -307,9 +241,6 @@ It is settled then. Yoda will take a battalion of clones to reinforce the Wookie
 ―
 Jedi Master
 Mace Windu
-[
-10
-]
 Aided by the clone forces of the Galactic Republic, the Wookiees defended their homeworld from a Separatist invasion.
 In the years following the Invasion of
 Naboo
@@ -318,30 +249,18 @@ Count
 Dooku fomented
 political
 turmoil on the planet.
-[
-38
-]
 Due to its status as a major navigational point, Kashyyyk was of prime strategic importance to the
 Galactic Republic
 .
-[
-26
-]
 After the Wookiees
 fought off its raiders
 ,
-[
-39
-]
 the
 Confederacy of Independent Systems
 attacked
 the planet toward the end of the
 Clone Wars
 .
-[
-10
-]
 During the battle for their homeworld, hundreds of the Wookiee's
 catamarans
 were deployed. Eventually, the Confederacy's invasion
@@ -361,9 +280,6 @@ gunships
 remained and occupied the
 Wawaatt Archipelago
 .
-[
-37
-]
 In the last days of the
 Clone Wars
 , with the help of Yoda and Jedi Master
@@ -383,17 +299,11 @@ clone troopers
 that attacked him after the initiation of
 Order 66
 ,
-[
-10
-]
 Unduli was captured and taken to
 Stygeon Prime
 's prison,
 the Spire
 .
-[
-40
-]
 Imperial repression
 [
 ]
@@ -401,9 +311,6 @@ Imperial repression
 He's a Wookiee, right? Kashyyyk, that's where he comes from, that's his home. But it's not his anymore. I've been there. I've seen what the Empire has done. They ripped down the trees. They put cuffs and collars on all the Wookiees. Some of them they cut open. Others they ship off to work the worst jobs the Empire has on offer.
 "
 ―Han Solo
-[
-13
-]
 Certain tribes of Wookiees rode mylaya as mounts.
 Despite Kashyyyk's loyalty to the Republic, the self-appointed
 Emperor
@@ -412,15 +319,9 @@ enslaved
 , and their planet itself was
 blockaded
 ,
-[
-26
-]
 when the Empire launched a
 siege
 of the planet.
-[
-41
-]
 Used as
 slave
 labor, the Empire would utilize the Wookiees to cut down the planet's native wroshyr trees for lumber and farm
@@ -430,17 +331,11 @@ Imperial Army
 as well as send them off to labor camps and construction jobs, such as building the first
 Death Star
 , or for science and bio-weapon experiments.
-[
-42
-]
 In addition to being
 occupied
 and enslaved, Kashyyyk was also stripped of its name and designated
 Imperial territory G5-623
 .
-[
-9
-]
 Several months into Kashyyyk's occupation,
 Trandoshan
 mercenaries were contracted by the Empire and supplied with
@@ -451,9 +346,6 @@ Gungi
 later assisted a tribe of Wookiees in
 destroying
 a convoy of these tanks.
-[
-21
-]
 By
 18 BBY
 , news of the Imperial subjugation of Kashyyyk had spread to the news bulletins, leading the former
@@ -463,9 +355,6 @@ Ahsoka Tano
 to worry about her Wookiee friend
 Chewbacca
 , who she had briefly met during the Clone Wars.
-[
-41
-]
 Padawan Cal Kestis worked with a resistance cell on Kashyyyk during his quest to restore the Jedi Order.
 In
 14 BBY
@@ -484,15 +373,9 @@ Stinger Mantis
 arrived to continue their search for a
 Jedi holocron
 . Gerrera's cell assisted them in their search for Tarfful, but the majority of their forces later retreated after being overwhelmed by the Empire.
-[
-16
-]
 Cal crossed paths with Kashyyyk again when he received a communication that Tarfful was willing to meet. Back on Kashyyyk, Tarfful instructed Cal to seek answers at the top of the Origin Tree. On the way up, he was attacked by the
 Ninth Sister
 , whose ship was taken down by a large winged creature. Cal found the creature wounded from the attack and healed it, granting him access to the top of the Origin tree via a flight on its back. Cal is attacked once again by the Ninth Sister and defeated her.
-[
-16
-]
 At some point during the
 Imperial Era
 , the natives of Kashyyyk attempted to
@@ -503,17 +386,11 @@ Kahdah
 and the Imperial
 212th Attack Battalion
 managed to quell the insurrection.
-[
-1
-]
 On Kashyyyk, the
 Spectres
 raided several supply convoys before the
 Battle of Yavin
 .
-[
-43
-]
 In the years leading up to the Battle of
 Yavin
 , the Imperial
@@ -529,9 +406,6 @@ attempt
 by the insurgent leader
 Nightswan
 to rescue the slaves.
-[
-44
-]
 A Wookiee
 Auzituck anti-slaver gunship
 patrols against slavers.
@@ -545,17 +419,11 @@ starfighter
 hubs at level five or higher, rebel operations sectors and regional headquarters, and shadow planets with deep space caches, included Kashyyyk. The map would eventually be included in
 The Rebel Files
 .
-[
-32
-]
 Some time before the
 Battle of Endor
 occurred, a
 massacre
 occurred on the planet under the command of the Empire.
-[
-45
-]
 Galactic Civil War
 [
 ]
@@ -570,9 +438,6 @@ New Order
 would be thrown into a fractured and volatile state, putting Kashyyyk on lockdown as supply lines and convoys fell victim to the newly formed
 New Republic
 .
-[
-42
-]
 Imperial territory G5-623 was ruled by
 Grand Moff
 Lozen Tolruck
@@ -590,9 +455,6 @@ and
 Fleet Admiral
 Gallius Rax
 .
-[
-13
-]
 As the Galactic Empire declined, Han Solo endeavored to liberate the homeworld of his friend, the Wookiee Chewbacca.
 With the Republic unwilling to divert resources towards the planet,
 Han Solo
@@ -605,17 +467,11 @@ Imra
 reported that Imperial redeployments would reduce the planet's garrison, if only for a few
 days
 .
-[
-42
-]
 Imra's information proved unreliable and Chewbacca was captured by the Empire and imprisoned at Ashmead's Lock. Han managed to rescue Chewie and the other prisoners with the help of
 Norra Wexley
 and
 her rebel band
 .
-[
-13
-]
 While Norra and her son,
 Temmin Wexley
 returned to
@@ -634,18 +490,12 @@ Ackbar
 and
 Leia Organa
 attacked the Imperial fleet and forced their surrender.
-[
-13
-]
 New Republic Era
 [
 ]
 Following the liberation of Kashyyyk, Wookiee and New Republic forces conducted mopping-up operations against Imperial holdouts. During one of these operations, Chewbacca reunited with his son,
 Lumpawaroo
 , who had escaped from an Imperial slave labor camp.
-[
-12
-]
 By
 7 ABY
 , Chewbacca had settled down in a village led by the female Wookiee chief
@@ -661,21 +511,12 @@ Lando Calrissian
 visited Kashyyyk, seeking Chewbacca's help in a quest to recover the
 Phylanx Redux Transmitter
 . Chewbacca agreed to help Han and Lando track down this "Long Man" in order to recover the remains of the murdered Wookiees to give them proper funeral rites. Chewbacca subsequently returned to Kashyyyk following his adventures.
-[
-35
-]
 The following years of relative peace allowed the forests of Kashyyyk to heal and regrow.
-[
-2
-]
 Chewbacca lived on Kashyyyk with his
 family
 until resuming his adventures with Han Solo prior to the
 Hosnian Cataclysm
 .
-[
-19
-]
 Target of the First Order
 [
 ]
@@ -693,13 +534,7 @@ Stormtrooper Corps
 to the surface. When the Resistance arrived to end the
 blockade
 ,
-[
-33
-]
 the First Order attempted to enslave members of the Wookiee population, but the operation was stopped by Chewbacca.
-[
-46
-]
 Behind the scenes
 [
 ]
@@ -714,9 +549,6 @@ Star Wars
 : Episode V
 The Empire Strikes Back
 and was set to appear in the film, described as a planet with huge trees.
-[
-47
-]
 According to
 Much to Learn You Still Have: 8 Things You Might Not Know About Wookiees
 on
@@ -735,9 +567,6 @@ Endor
 and
 Ewoks
 ,
-[
-48
-]
 but
 Star Wars: The Annotated Screenplays
 and
@@ -745,12 +574,6 @@ The Making of Return of the Jedi
 contradict this, instead saying that Ewoks and Endor were present in Lucas's earliest notes and scripts for
 Return of the Jedi
 while Kashyyyk and Wookiees other than Chewbacca were never present.
-[
-49
-]
-[
-50
-]
 The
 planet
 first appeared in the
@@ -761,9 +584,6 @@ continuity in
 in
 The Star Wars Holiday Special
 .
-[
-51
-]
 Kashyyyk's first canon appearance was in
 2005
 in
@@ -771,9 +591,6 @@ Star Wars
 : Episode III
 Revenge of the Sith
 .
-[
-10
-]
 Kashyyyk appeared in the non-
 canon
 animated television series
@@ -781,9 +598,6 @@ LEGO Star Wars: The Freemaker Adventures
 episode "
 Peril on Kashyyyk
 ,"
-[
-52
-]
 which premiered on
 Disney XD
 on
@@ -791,9 +605,6 @@ June 27
 ,
 2016
 .
-[
-53
-]
 As in the Legends and Canon timelines, Kashyyyk is blockaded by an Imperial fleet. In the story, the
 Freemakers
 , a scavenging family, rescue the Wookiee prince
@@ -803,9 +614,6 @@ Trandoshan
 fortress island. Hitherto, the Trandoshans had been ruling Kashyyyk on the Empire's behalf and had taken Tantarra as a hostage in order to force Tantarra's submission. The rescue of Tantarra allows his father Chief
 Attiburra
 to launch an attack on the Trandoshans.
-[
-52
-]
 Appearances
 [
 ]

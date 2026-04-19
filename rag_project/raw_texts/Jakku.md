@@ -4,9 +4,6 @@ Here we have the desert world of Jakku—worthless on its own but soon to live f
 ―
 Grand Moff
 Randd
-[
-22
-]
 Jakku
 was a remote
 desert
@@ -115,44 +112,23 @@ Well, you found it, buddy. You don't get more nowhere than here. War ain't got n
 ―
 Ergel
 and Corwin Ballast
-[
-18
-]
 Niima Outpost was a junkyard settlement named after Niima the Hutt.
 An isolated
 planet
-[
-18
-]
 located in the
 Jakku system
-[
-9
-]
 in the
 Western Reaches
 of the
 Inner Rim
 ,
-[
-2
-]
 Jakku was once a verdant world
-[
-7
-]
 with
 forests
 and
 water
 ,
-[
-9
-]
 but some past calamity turned it into a barren globe of scorched badlands and marching dunes.
-[
-7
-]
 It hosted the
 Wheel Races
 in the north and mining operations dotted the planet. Buttes were located in the south in which
@@ -164,9 +140,6 @@ Anchorite
 if certain vows were taken, while scavengers often used
 luggabeasts
 to carry supplies across the desert.
-[
-17
-]
 Tuanul
 ,
 Reestkii
@@ -180,42 +153,27 @@ Zuvio
 and his
 Niima Outpost Militia
 .
-[
-18
-]
 Lacking a communications grid, spacers seeking to escape debts, create a new life or simply see the galaxy often wound up at Niima Outpost, owing to it having the only navigational beacon. Not all residents were scavengers, however, with the isolated villagers of Tuanul worshiping the
 Church of the Force
 , an underground faith of Jedi worshipers hiding from first the
 Galactic Empire
 .
-[
-17
-]
 Owing to the planet's distance from populated space, it served as a jumping-off point for warships heading into the
 Unknown Regions
 in the final years of the
 Galactic Civil War
 .
-[
-23
-]
 Nearby worlds to Jakku included
 Ogem
 and
 Ponemah Terminal
 ,
-[
-17
-]
 the latter of which was connected to Jakku by the
 Burke's Trailing
 hyperspace route
 , which also linked Jakku to
 Adrathorpe
 .
-[
-6
-]
 Jakku's nearby
 space
 featured numerous navigational hazards and anomalies, with confidence in
@@ -223,9 +181,6 @@ hyperspace
 routes below
 Bureau of Ships and Services
 minimum standards for safe navigation.
-[
-9
-]
 History
 [
 ]
@@ -233,9 +188,6 @@ History
 They say if you want to get away from it all, head for the Unknown Regions. They say if you want to lose yourself along the way, just stop at Jakku. When the Empire fell apart, Jakku was the rallying point for the retreating Imperial Navy. But the Rebel Alliance was in hot pursuit. So many ships emerged from hyperspace that they say the searing engine wash blew away every stick of Jakku's plant life. And all that was left was sand.
 "
 ―Rey
-[
-24
-]
 The Contingency
 [
 ]
@@ -243,9 +195,6 @@ Darth Sidious, known to the galaxy as Emperor Palpatine, regarded Jakku as essen
 Eons ago, the planet Jakku was once covered with green vegetation and oceans. At some unknown point, the planet was reduced to a barren desert wasteland. However, the planet's core still had the vital spark of life essence, something which disgusted
 Sheev Palpatine
 .
-[
-11
-]
 About 1,000
 standard years
 before the
@@ -253,9 +202,6 @@ Battle of Yavin
 , the
 Plaintive Hand plateau
 was the site of an event that was regarded as significant by Palpatine. He believed that the site would become significant again in the future.
-[
-14
-]
 The
 human
 boy
@@ -266,39 +212,31 @@ Kolob
 , who lived a life of austerity and strict obedience. Galli chafed under Kolob's care and longed to travel to a better world. In
 25 BBY
 ,
-[
-25
-]
 Palpatine and his Adviser
 Yupe Tashu
 traveled to Jakku to supervise an archaeological dig on the Plaintive Hand plateau. During that trip, Palpatine encountered a twelve-year old Galli, who had stowed aboard his yacht
 Imperialis
 . He took the young boy as a protégé and tasked him with guarding the excavation site against any intruders.
-[
-14
-]
 Rax spent the next
 ten years
 guarding the Plaintive Hand plateau, which became the site for the
 Jakku Observatory
 . The Observatory was part of Palpatine's
 Contingency
-plan to destroy the Galactic Empire in the event of his death. Palpatine had no wish to leave his Empire to a successor and tasked Galli with executing the Contingency when the day of his death arrived. The Jakku Observatory was home to computers that projected paths into the Unknown Regions, a collection of Sith relics, and a borehole which led to the planet's core. Palpatine instructed Galli to use the borehole to detonate the planet and the remnants of the Empire. Galli adopted the persona Gallius Rax and later became a
+plan to destroy the Galactic Empire in the event of his death.
+Palpatine had no wish to leave his Empire to a successor and tasked Galli with executing the Contingency when the day of his death arrived.
+The Jakku Observatory was home to computers that projected paths into the Unknown Regions, a collection of Sith relics, and a borehole which led to the planet's core.
+Palpatine instructed Galli to use the borehole to detonate the planet and the remnants of the Empire.
+Galli adopted the persona Gallius Rax and later became a
 Fleet Admiral
 in the
 Imperial Navy
 .
-[
-11
-]
 At some point during the
 Age of the Empire
 , the Galactic Empire established a secret
 research base
 .
-[
-17
-]
 Later, the
 Hutt
 crime lady
@@ -306,13 +244,7 @@ Niima
 established a presence on Jakku and lorded over several
 slaves
 .
-[
-11
-]
 Around 5 BBY
-[
-26
-]
 , Imperial Officer
 Avril Heert
 of the
@@ -320,9 +252,6 @@ ISB
 pointed out an incident to his superior
 Dedra Meero
 regarding targeting consoles from Jakku, one of many incidents within the galaxy that had struck him as suspicious and likely part of a concerted effort against the Empire.
-[
-27
-]
 Galactic Civil War
 [
 ]
@@ -336,9 +265,6 @@ Corwin Ballast
 headed to Jakku, believing it to be a worthless rock floating in space and thus of little importance to the galaxy-wide conflict between the
 New Republic
 and Empire. If there was any place to escape the war, he hoped Jakku to be it.
-[
-18
-]
 After learning about Fleet Admiral Rax's connection to Jakku,
 Grand Admiral
 Rae Sloane
@@ -347,9 +273,6 @@ Brentin Lore Wexley
 traveled to Jakku to hunt down and kill Rax. Shortly later, Rax proclaimed himself
 Counselor to the Empire
 and led the remnants of the Imperial Navy to Jakku.
-[
-14
-]
 Counselor Rax established a
 base
 beyond the
@@ -368,9 +291,6 @@ dark side
 of
 the Force
 .
-[
-11
-]
 While hunting for Sloane, the New Republic operative
 Norra Wexley
 , her son
@@ -390,15 +310,9 @@ Chandrila
 to warn the New Republic. Norra and Jas took an
 escape pod
 to Jakku's surface to continue their hunt for Sloane. Under the orders of Temmin, Mister Bones took another escape pod to Jakku to look after his mother, Norra. Norra and Jas were captured by Imperial forces and separated.
-[
-11
-]
 Norra eventually escaped Imperial custody with Mister Bones's help. She then reunited with Jas, who had escaped Niima's custody, and the trio continued their search for Sloane. Meanwhile, Sloane and Brentin learned about Rax's origins from Kolob and later convinced Niima to take them to the Plaintive Hand plateau, which Niima believed held a weapons facility. However, Rax learned about Sloane's presence and bombarded Niima's convoy with
 turbolasers
 . Before Norra and Jas could catch up with Sloane, Rax's Imperial forces captured Sloane and Brentin and brought them to his headquarters.
-[
-11
-]
 Battle of Jakku
 [
 ]
@@ -407,9 +321,6 @@ Our victory on Endor was just the beginning. Now over the barren world of Jakku,
 "
 ―
 New Republic soldier
-[
-28
-]
 The final battle of the Galactic Civil War was fought on Jakku between the New Republic and the remnants of the Galactic Empire.
 After the New Republic's
 Galactic Senate
@@ -427,21 +338,12 @@ Jom Barell
 would see action in the cataclysmic
 Battle of Jakku
 .
-[
-11
-]
 The battle would take place
 one year
 and four
 days
 after the Battle of Endor. It became the last major stand of the Galactic Empire and last major battle of the Galactic Civil War.
-[
-22
-]
 In secret, the Battle of Jakku served as a pretext for Rax to facilitate the final stage of the Contingency.
-[
-11
-]
 During the Battle of Jakku, Imperial and New Republic forces fought on both space and land. The Imperial fleet formed a tight defensive formation around the
 Super Star Destroyer
 Ravager
@@ -467,16 +369,10 @@ Concord
 s commander Agate used her ship's powerful
 tractor beam
 to drag the Super Star Destroyer down to the surface; turning the tide of the battle in the New Republic's favor.
-[
-11
-]
 Meanwhile, New Republic ground forces under
 Lieutenant General
 Brockway
 assaulted the main Imperial base and weapons facility. Many from both sides were killed or crushed by falling debris from the space battle. Mister Bones was destroyed during the battle after reuniting with Temmin.
-[
-11
-]
 In an attempt to prevent New Republic forces from capturing her ship, Captain
 Ciena Ree
 crashed her Star Destroyer
@@ -485,13 +381,7 @@ onto the planet's surface. She was rescued by her lover New Republic
 pilot
 Thane Kyrell
 .
-[
-22
-]
 Meanwhile, Norra joined forces with Sloane and Brentin to hunt down Rax.
-[
-11
-]
 After launching the battle, Rax traveled with Yupe Tashu, Brendol, his son
 Armitage Hux
 , and the child soldiers to the Observatory to initiate the last stage of the Contingency. While the Huxes and the child soldiers boarded a
@@ -501,9 +391,6 @@ Imperialis
 , Rax and Tashu entered the Observatory to initiate the planet's destruction. After performing a Sith ritual, Rax threw Tashu, who was wearing Sith relics, down the borehole to Jakku's core. Before he could leave, Rax was killed by Sloane with the aid of Norra and Brentin. Sloane managed to stop the planet's destruction by sealing the borehole. She then joined the Huxes and the child soldiers on their journey to the Unknown Regions where they rendezvoused with the Super Star Destroyer
 Eclipse
 .
-[
-11
-]
 While the battle was taking place, the New Republic's
 Chancellor
 Mon Mothma
@@ -512,10 +399,12 @@ Grand Vizier
 Mas Amedda
 signed the
 Galactic Concordance
-on Chandrila; formalizing the Empire's surrender and ending the Galactic Civil War. However, Imperial forces on Jakku and elsewhere continued fighting the New Republic for several months. As the battle turned against them, the Imperials locked tractor beams onto the ships of the New Republic Starfleet, crashing them into the surface below in a desperate gamble. New Republic forces eventually captured the base after fierce fighting. Due to the Battle of Jakku, the planet's surface was covered with wrecked starships and weapons. Niima established a black marketing operation based on selling recovered weapons, computers, and engines.
-[
-11
-]
+on Chandrila; formalizing the Empire's surrender and ending the Galactic Civil War.
+However, Imperial forces on Jakku and elsewhere continued fighting the New Republic for several months.
+As the battle turned against them, the Imperials locked tractor beams onto the ships of the New Republic Starfleet, crashing them into the surface below in a desperate gamble.
+New Republic forces eventually captured the base after fierce fighting.
+Due to the Battle of Jakku, the planet's surface was covered with wrecked starships and weapons.
+Niima established a black marketing operation based on selling recovered weapons, computers, and engines.
 Rise of the First Order
 [
 ]
@@ -535,18 +424,12 @@ Jakku.
 Alright, that is pretty much nowhere.
 "
 ―Luke Skywalker and Rey
-[
-29
-]
 Two First Order TIE fighters pursued the
 Millennium Falcon
 through the Graveyard of Giants.
 After the Battle of Jakku, wreckage from the battle was strewn across a region of desert aptly named the
 Starship Graveyard
 . Sometime after the battle, Niima the Hutt established Niima Outpost, in an effort to scavenge leftover wreckage from the destructive battle.
-[
-17
-]
 In 34 ABY, the up-and-coming
 First Order
 , successor state to the Galactic Empire, deployed the
@@ -573,9 +456,6 @@ Poe Dameron
 , who in turn hid it in his droid,
 BB-
 8, before Dameron was captured by Kylo Ren.
-[
-4
-]
 Steelpeckers fed on the metals from all the crashed ships and vehicles scattered across the Jakku desert.
 The attack led to the
 defection
@@ -591,28 +471,16 @@ Force-sensitive
 girl named
 Rey
 .
-[
-4
-]
 By
 35 ABY
 ,
-[
-30
-]
 Jakku was in open
 rebellion
 against
 the
 First Order
 ,
-[
-31
-]
 with at least one Star Destroyer burning and crashing into Jakku's Starship Graveyard.
-[
-21
-]
 Inhabitants
 [
 ]
@@ -620,21 +488,12 @@ Inhabitants
 Not many folks from here. Most folks...just end up here. Jettisoned like so much worthless cargo. Dropped like waste.
 "
 ―Ergel, to Corwin Ballast
-[
-18
-]
 The settlers and war refugees who inhabited Jakku cobbled together
 clothing
 from recycled material that they scavenged, as clothes were not something they could afford to waste money on when water and nourishment cost a premium.
-[
-32
-]
 The use of
 happabores
 as beasts of burden was a notorious part of the Jakku junk trade.
-[
-33
-]
 Interactive Map
 [
 ]
@@ -656,9 +515,6 @@ The Galactic Explorer's Guide
 Told you we should have double-checked the Western Reaches.
 "
 ―Han Solo, to Chewbacca
-[
-4
-]
 Jakku appeared in the
 2015
 film,
@@ -666,9 +522,6 @@ Star Wars
 : Episode VII
 The Force Awakens
 . The scenes on Jakku were shot in the Rub' al Khali desert, which is shared by the Kingdom of Saudi Arabia, the Sultanate of Oman, the United Arab Emirates (UAE), and Yemen. Production took place at the UAE portion near the Liwa Oasis, which is under the jurisdiction of the UAE state/emirate of Abu Dhabi.
-[
-34
-]
 The comic
 The High Republic — The Blade
 1
@@ -677,32 +530,17 @@ Tashtor sector
 near
 Takodana
 ,
-[
-35
-]
 though all other sources contradict this.
-[
-36
-]
 Jakku has consistently been stated to fall in the Western Reaches,
-[
-4
-]
 but the
 Star Wars: The Galactic Explorer's Guide
 '
 s map of the Western Reaches excluded Jakku.
-[
-37
-]
 Author
 Jason Fry
 has stated that the
 Explorer's Guide
 map should not be taken as overriding other sources, and that the Western Reaches do include Jakku.
-[
-38
-]
 Appearances
 [
 ]

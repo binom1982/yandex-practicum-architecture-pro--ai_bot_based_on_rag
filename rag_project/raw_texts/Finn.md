@@ -11,9 +11,6 @@ Link
 (
 file info
 )
-[
-5
-]
 Finn
 , formerly designated
 FN-2187
@@ -265,9 +262,6 @@ Pre-birth
 We'll see each other again. I believe that.
 "
 ―Rey to Finn, as heard by Ezra Bridger
-[
-12
-]
 In
 1 BBY
 , over a
@@ -275,9 +269,6 @@ decade
 before Finn's
 birth
 ,
-[
-1
-]
 the
 Jedi
 Padawan
@@ -291,9 +282,6 @@ time
 and
 space
 .
-[
-12
-]
 Serving the First Order
 [
 ]
@@ -304,16 +292,10 @@ Cadet of the military
 You have great potential, 2187. You are officer corps material. Your duty is to the First Order above everything. Nothing else comes before that.
 "
 ―Captain Phasma
-[
-7
-]
 Belonging to a new generation of stormtroopers, FN-2187 was raised to fight for the First Order.
 The
 boy
 who would become Finn was taken at the age of three
-[
-3
-]
 from his family to serve the
 First Order
 . Finn later reflected that he had been too young to even remember who his family was. The child received the designation
@@ -327,9 +309,6 @@ decades
 after the
 Galactic Civil War
 .
-[
-7
-]
 During FN-2187's
 childhood
 ,
@@ -337,9 +316,6 @@ FN-1971
 was somehow able to sneak in
 Kade Genti
 comics. Even though they were not regulation and the First Order would have sent the children to reprogramming if they learned about the contraband, FN-2187 enjoyed the comics.
-[
-10
-]
 FN-2187 served under Phasma as a
 cadet
 , alongside fellow
@@ -352,9 +328,6 @@ FN-2003
 "Slip." FN-2187, known to his fellow troopers as Eight-Seven, was seen by his comrades and superiors as an ideal First Order stormtrooper, and consistently scored top marks as a cadet. As a cadet, he appreciated and understood his
 squad
 's Stormtrooper armor, but took pleasure in the moments when he could see their personalities and diverse faces.
-[
-7
-]
 GUHL-J03870 related issues
 [
 ]
@@ -362,9 +335,6 @@ GUHL-J03870 related issues
 This is stupid. Why do we always have to land on mud planets?
 "
 ―Finn to himself on GUHL-J03870
-[
-13
-]
 Following this aboard the
 Finalizer
 , groups of stormtroopers went on
@@ -378,9 +348,6 @@ creature
 from the surface of GUHL-J03870, came aboard one of the assault landers. The multi-armed, purple, furry creature lunged at Finn, causing him to stop cleaning, and run towards a
 Special Forces TIE fighter
 , knocking off his helmet and sending the creature away. Remembering Phasma's strict training, Finn noticed the creature stealing his helmet, and gave chase.
-[
-13
-]
 Finn narrowly avoids Kylo Ren with Phasma's helmet.
 He chased the creature all around the
 Finalizer
@@ -390,13 +357,11 @@ Armitage Hux
 and other
 First Order officers
 , and Ren used his lightsaber to illuminate the room. Concerned about Ren's reaction, FN-2187 continued to chase the creature into the a chamber. There, it found Phasma's helmet, for which it discarded Finn's. As he realized this was her quarters and she was showering, Ren knocked on the door. Using the helmet, Finn went to the length of impersonating Phasma in order to fool the fallen Jedi as he gave orders to find the creature.
-[
-13
-]
-Later, arriving on GUHL-J03870 with the rest of the First Order, Finn thought he finally had a chance to release the creature, but discovered it escaped its box and took control of the AAL. It lifted the transport into the air and drove it straight at Captain Phasma, crashing into the mud and sending Finn out the front ramp. Phasma ordered FN-2187 to eliminate the creature, but Finn, envisioning betraying Phasma and facing the consequences, decided to leave the creature be. Especially considering the larger and more fearsome members of its species closing in on the First Order squad from all directions. Lambasting FN-2187 for his lack of helmet, Phasma ordered a retreat from GUHL-JO3870.
-[
-13
-]
+Later, arriving on GUHL-J03870 with the rest of the First Order, Finn thought he finally had a chance to release the creature, but discovered it escaped its box and took control of the AAL.
+It lifted the transport into the air and drove it straight at Captain Phasma, crashing into the mud and sending Finn out the front ramp.
+Phasma ordered FN-2187 to eliminate the creature, but Finn, envisioning betraying Phasma and facing the consequences, decided to leave the creature be.
+Especially considering the larger and more fearsome members of its species closing in on the First Order squad from all directions.
+Lambasting FN-2187 for his lack of helmet, Phasma ordered a retreat from GUHL-JO3870.
 Kowakian fun-key lizard
 [
 ]
@@ -404,9 +369,6 @@ Kowakian fun-key lizard
 …to the comical...
 "
 ―C-3PO regarding Finn's misadventure
-[
-14
-]
 A Kowakian monkey-lizard attacks FN-2187.
 Sometime after, FN-2187 and a group of stormtroopers including am
 officer
@@ -421,9 +383,6 @@ blaster
 , causing the other stormtroopers from the squad look at him. The monkey-lizard laughed furiously from the prank he made, while Eight-Seven looked rather uncomfortable. At some point later
 C-3PO
 told this story to some visitors and described it as "comical."
-[
-14
-]
 Sanitation and rebellion
 [
 ]
@@ -437,16 +396,10 @@ That doesn't sound so bad.
 The infestation already ate two people.
 "
 ―Captain Bray and Finn regarding an infestation on Starkiller Base
-[
-15
-]
 Finn and the cleaning crew gear up to enter Ilum's tunnels
 FN-2187 was also once in charge of sanitation duties at
 Starkiller Base
 .
-[
-7
-]
 At one point, he and another trooper were cleaning the Base, and FN-2187 was enjoying himself, being playful with his mop. Suddenly,
 Kylo Ren
 and Phasma passed by. Confused on what to do, Finn saluted with the mop. Staring down Kylo Ren directly, the mop dripped on Finn and Ren passed by. After a short relief, he was then ordered to help a group of stormtroopers clear out a 'blockage' in a tunnel. Joining a
@@ -460,17 +413,14 @@ Bray (stormtrooper)
 by using a
 flamethrower
 against the swarming bats.
-[
-15
-]
-After questioning the captain's decisions, Finn was criticized for complaining, and punished with an order to trash escort duty, which took three weeks. During trash escort duty, Finn stumbled upon a crack in the tunnel's wall, leading to a chamber full of blue, glowing, flower-like structures. Realizing this wasn't an infestation as was in fact the creature's native home, FN-2187 attempted to convince the captain to save the tunnel bats, to no avail. Hatching a different plan, Finn accompanied the 'trash' to the junk planet
+After questioning the captain's decisions, Finn was criticized for complaining, and punished with an order to trash escort duty, which took three weeks.
+During trash escort duty, Finn stumbled upon a crack in the tunnel's wall, leading to a chamber full of blue, glowing, flower-like structures.
+Realizing this wasn't an infestation as was in fact the creature's native home, FN-2187 attempted to convince the captain to save the tunnel bats, to no avail.
+Hatching a different plan, Finn accompanied the 'trash' to the junk planet
 Garbage Moon of Maher
 , where he revealed to the garbage barge pilot,
 Marialew
 , that he had smuggled the tunnel bats out of the Base. She decided not to turn him in, saying that compassion was dangerous to a stormtrooper, but a little rebellion was good.
-[
-15
-]
 History with the
 Supremacy
 [
@@ -483,9 +433,6 @@ I'm the guy that used to mop it.
 "
 ―Rose Tico and Finn discussing infiltration of the
 Supremacy
-[
-9
-]
 During the time FN-2187 was stationed aboard the
 Finalizer
 , his
@@ -506,9 +453,6 @@ executioner trooper
 duty, and hoped he would never be ordered to carry out any
 executions
 .
-[
-6
-]
 Mission to the Pressylla system
 [
 ]
@@ -516,26 +460,26 @@ Mission to the Pressylla system
 While I am entirely in support of unit cohesion, General, a stormtrooper's loyalty must be higher, as you know. It must be to the First Order, not to one's comrades.
 "
 ―Captain Phasma to General Armitage Hux, regarding FN-2187
-[
-7
-]
 During his time as a cadet, Eight-Seven and his fellow troopers underwent a training simulation in which they assaulted a
 New Republic
 bunker, with the intention of destroying a
 heavy repeating blaster
-manned by Republic soldiers. During their advance on the bunker, Slip fell behind—a common occurrence—and Eight-Seven intended to rescue him. Over the objections of Zeroes and Nines, who wanted to complete their objective and felt that rescuing Slip would lead the Republic to take them all out, Eight-Seven ordered them to rescue their fellow soldier. Eight-Seven sent Zeroes and Nines in different directions in order to divide the Republic's attention, while Eight-Seven himself went for Slip and successfully rescued him. Though Zeroes and Nines were pinned down, their diversion gave Eight-Seven a clear path into the Republic bunker, into which he threw a
+manned by Republic soldiers.
+During their advance on the bunker, Slip fell behind—a common occurrence—and Eight-Seven intended to rescue him.
+Over the objections of Zeroes and Nines, who wanted to complete their objective and felt that rescuing Slip would lead the Republic to take them all out, Eight-Seven ordered them to rescue their fellow soldier.
+Eight-Seven sent Zeroes and Nines in different directions in order to divide the Republic's attention, while Eight-Seven himself went for Slip and successfully rescued him.
+Though Zeroes and Nines were pinned down, their diversion gave Eight-Seven a clear path into the Republic bunker, into which he threw a
 grenade
 and destroyed the blaster before the Republic could react to his attack.
-[
-7
-]
 Phasma overseeing FN-2187 and his squad's training
 The simulation was monitored by Captain Phasma and General Hux. After the training session ended, Phasma spoke to the troopers and told them that their performance was adequate. Each was given a review of their performance, with Eight-Seven being commended on his
 kill
-rate and the completion of his objective. She further said that his fellow soldiers should follow his example. The other troopers were dismissed, but Eight-Seven was ordered to stay so Phasma could question why he rescued Slip, as it was not the first time Eight-Seven had to help him. Phasma ordered him to stop, as she said the First Order was only as strong as its weakest link. Rather than fixing the problem, Phasma said he was allowing it to persist and weaken the group. Phasma sensed hesitation on his part, but he assured her that he would stop helping Slip.
-[
-7
-]
+rate and the completion of his objective.
+She further said that his fellow soldiers should follow his example.
+The other troopers were dismissed, but Eight-Seven was ordered to stay so Phasma could question why he rescued Slip, as it was not the first time Eight-Seven had to help him.
+Phasma ordered him to stop, as she said the First Order was only as strong as its weakest link.
+Rather than fixing the problem, Phasma said he was allowing it to persist and weaken the group.
+Phasma sensed hesitation on his part, but he assured her that he would stop helping Slip.
 Following this incident, FN-2187 and his fellow troopers were deployed to a
 mining
 colony in an artificial
@@ -551,9 +495,6 @@ Abednedo
 negotiator, yet couldn't bring himself to shoot—Slip attacked the negotiator instead. Upon returning from Pressylla, FN-2187 and his fellow troopers were officially recognized as full-fledged Stormtroopers. Captain Phasma decided that FN-2187 ought to be deployed in an upcoming
 battle
 on Jakku, thinking that he would understand what it meant to be a Stormtrooper and fight back when brought face-to-face with those attacking him back.
-[
-7
-]
 Massacre on Jakku
 [
 ]
@@ -567,9 +508,6 @@ No prior signs of non-conformity?
 This was his first offense.
 "
 ―Phasma and Hux
-[
-5
-]
 FN-2187 became disillusioned with the First Order after witnessing the massacre of Tuanul.
 Soon after, FN-2187 and his fellow troopers were assigned to a mission to the
 desert
@@ -582,16 +520,15 @@ Church of the Force
 , allegedly held part of a map that would lead to the location of
 Luke Skywalker
 , the last of the Jedi.
-[
-5
-]
 FN-2187 was onboard the
 Star Destroyer
 Finalizer,
-heading towards Jakku, when he underwent another training program in a simulation room, accompanied by fellow Stormtroopers FN-2199, FN-2003 and FN-2000. The program was set in a village in Jakku, setup to prepare them for their oncoming mission. During the course of the program, FN-2187 managed to take out most of the enemy targets that presented themselves, with his whole squad making jokes about his perfect marksmanship and how he wasn't leaving anything for the rest of them to do. The simulation finally came to a stop when FN-2187 ordered them all to get down upon wrongly believing that one of the 'targets' had been holding a grenade, when in fact it had been a civilian holding a harmless object. Most of them showed relief that they had not fired upon the civilian as they considered that it posed no threat. A nameless voice then sounded over the intercom ordering them to assemble in the hangar for deployment.
-[
-16
-]
+heading towards Jakku, when he underwent another training program in a simulation room, accompanied by fellow Stormtroopers FN-2199, FN-2003 and FN-2000.
+The program was set in a village in Jakku, setup to prepare them for their oncoming mission.
+During the course of the program, FN-2187 managed to take out most of the enemy targets that presented themselves, with his whole squad making jokes about his perfect marksmanship and how he wasn't leaving anything for the rest of them to do.
+The simulation finally came to a stop when FN-2187 ordered them all to get down upon wrongly believing that one of the 'targets' had been holding a grenade, when in fact it had been a civilian holding a harmless object.
+Most of them showed relief that they had not fired upon the civilian as they considered that it posed no threat.
+A nameless voice then sounded over the intercom ordering them to assemble in the hangar for deployment.
 The First Order's intimidating AALs arriving on the surface, FN-2187 was deployed along with 4 elite First Order
 squadrons
 of Stormtroopers, to the village of
@@ -603,9 +540,6 @@ Poe Dameron
 , wiping his
 blood
 on FN-2187's helmet. This incident affected the Stormtrooper deeply, opening his eyes to the horrors of war. Later, after San Tekka's death, and when ordered by Kylo Ren to kill the villagers, 2187 refused to fire, of which Ren took note, staring him down.
-[
-5
-]
 Deserting from the First Order
 [
 ]
@@ -619,9 +553,6 @@ FN, huh? Finn. I'm gonna call you Finn! That all right?
 Finn... yeah. Finn. I like that!"
 "
 ―Poe Dameron renames FN-2187
-[
-5
-]
 FN-2187 gets his new name from Poe Dameron as they fly a TIE fighter to escape the
 Finalizer
 to return to Jakku
@@ -637,9 +568,6 @@ Finalizer
 s
 turbolasers
 .
-[
-5
-]
 During the escape, Dameron asked the Stormtrooper his name, to which he replied with his number. Not content with calling a man a number, Dameron named the trooper Finn, from the FN in his number. Finn liked the name and went on to use it. Dameron also told him that the map vital to the Resistance was located in his white and orange
 BB-series astromech droid
 ,
@@ -647,9 +575,6 @@ BB-8
 . Finn demanded not to return to Jakku, insisting that they would be killed, but Dameron pressed on, revealing to Finn that the map led to Luke Skywalker. The TIE was hit immediately afterward by a missile, sending it spiraling down to a crash landing in the
 Goazon Badlands
 .
-[
-5
-]
 Meeting Rey and BB-8
 [
 ]
@@ -663,24 +588,15 @@ Finn. What's yours?
 I'm Rey.
 "
 ―Rey and Finn
-[
-5
-]
 Attacked by First Order TIEs, Finn and Rey boarded the
 Millennium Falcon
 to escape the starfighters.
 Finn ejected from the TIE when Dameron triggered the ejector seat. Unfortunately, Dameron's
 jacket
 was caught in the ejector mechanism for the ship, which prevented him from escaping. Left with no choice, Dameron piloted the TIE to a crash landing in the aftermath of which he was thrown clear of the crash and knocked unconscious.
-[
-17
-]
 Waking up alone in the desert, Finn was shocked and breathing very heavily, before noticing a trail of smoke in the distance. Making his way to the crash, Finn found Poe's jacket, but no other sign of the man, and the fighter sank into the sand. Believing Dameron to be dead, Finn discarded his armor as he wandered through the desert, eventually arriving at
 Niima Outpost
 , looking for BB-8 to carry on Poe's mission.
-[
-5
-]
 Once at the settlement, he found BB-8 along with a
 scavenger
 named Rey, after witnessing her and the droid be attacked by a pair of thugs. He attempted to aid them but stopped when the young woman was able to defeat them with her
@@ -701,9 +617,6 @@ Falcon
 s
 quad laser cannons
 while Rey piloted the ship. Despite the cannon getting stuck in forward position, Finn managed to destroy one of the pursuing fighters after Rey managed some clever maneuvering.
-[
-5
-]
 Finn and Rey look up in fright as they are caught in a tractor beam.
 Once in space, the
 Falcon
@@ -712,9 +625,6 @@ Ileenium system
 . Just after Rey had completed the repairs, the ship was caught in a tractor beam. Finn initially believed them to be captured by the First Order, and thus had Rey undo her repairs to flood the
 Falcon
 with poisonous gas, explaining that stormtrooper helmets filter out smoke, not toxins. Putting on breather masks, Finn, along with Rey and BB-8, hid in the maintenance duct.
-[
-5
-]
 Enter Han Solo
 [
 ]
@@ -725,9 +635,6 @@ This was a mistake!
 Huge!
 "
 ―Finn and Rey
-[
-5
-]
 Instead of the First Order, the
 Millennium Falcon
 was boarded by the
@@ -744,9 +651,6 @@ Falcon
 . Having found his stolen ship, Solo told Chewbacca to put Finn and his traveling companions in an
 escape pod
 and drop them off in the nearest inhabited system. However, Finn and Rey convinced Solo and Chewie not to do so by explaining that they needed his help to take BB-8 to the Resistance because the droid had a map that would lead them to Luke Skywalker.
-[
-5
-]
 Rey and Finn crawl through the
 Eravana
 to avoid detection.
@@ -759,9 +663,6 @@ Guavian Death Gang
 and
 Kanjiklub
 , whom Solo was indebted to. Not wanting Rey and Finn to be involved, Han placed both of them in the lower corridors of the freighter while he and Chewie went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both parties that he would fix things eventually.
-[
-5
-]
 The Guavian Death Gang negotiator
 Bala-Tik
 recognized the BB-8 astromech droid from a First Order bounty placed on it and demanded that Han hand over the droid and any stowaways he might have on board. As the scuffle continued, Rey accidentally released three
@@ -776,9 +677,6 @@ Falcon
 . Bala-Tik then ordered his men to inform the First Order that Han Solo and the droid unit had fled aboard the
 Falcon
 .
-[
-5
-]
 Upon entering hyperspace, Finn tended to Chewbacca's injuries but the Wookiee proved a challenging patient to treat. During the journey, Solo got BB-8 to display the map that he was carrying. However, the map was incomplete and turned out to be a portion of a much larger map. Finn and Rey learned from Solo that Luke Skywalker had been trying to restore the
 Jedi Order
 . However, a male apprentice had turned against Skywalker and undone his efforts. Skywalker had since vanished from the galaxy completely. Solo believed that Luke had gone to find the legendary
@@ -786,9 +684,6 @@ First Jedi Temple
 . Not wanting to deliver Finn, Rey, and BB-8 to the Resistance directly, Solo planned to take them to the planet
 Takodana
 where he could find suitable transportation for them.
-[
-5
-]
 Finn, Rey, Han, and Chewbacca in the Millennium Falcon's cockpit.
 On the trip to Takodana, Finn stayed with Chewbacca while Rey worked with Solo in the
 cockpit
@@ -813,9 +708,6 @@ bomb
 aboard the ship and he needed to get the hyperdrive ready for a quick jump. Rey and Chewbacca managed to remove the tracker and as the
 Millennium Falcon
 entered hyperspace, the tracking device exploded behind. Shortly after reentering hyperspace, Finn joined Solo, Rey, Chewbacca, and BB-8 in the cockpit as Rey turned to everyone and remarked at how great of a team they made.
-[
-18
-]
 Takodana
 [
 ]
@@ -826,9 +718,6 @@ I'm looking at the eyes of a man who wants to run.
 You don't know the First Order like I do. They'll slaughter us. We all need to run.
 "
 ―Maz Kanata and Finn
-[
-5
-]
 At Maz Kanata's castle, Finn considered joining the pirate crew of Sidon Ithano.
 After landing on Takodana, Finn and his companions visited the
 pirate
@@ -836,12 +725,14 @@ and tavern keeper
 Maz Kanata
 's
 castle
-, which served as an inn and bar for space. Finn also managed to meet Maz herself, who counseled him to stop running and fight. Finn was then asked to join the Resistance in its struggle against the First Order, but Finn initially refused, believing the First Order to be too powerful. He then confessed to Rey his true identity as a stormtrooper and stated that he was never going back to the First Order. After she declined his offer to join him in escaping the conflict, he wished her well. He planned to leave with pirate Captain
+, which served as an inn and bar for space.
+Finn also managed to meet Maz herself, who counseled him to stop running and fight.
+Finn was then asked to join the Resistance in its struggle against the First Order, but Finn initially refused, believing the First Order to be too powerful.
+He then confessed to Rey his true identity as a stormtrooper and stated that he was never going back to the First Order.
+After she declined his offer to join him in escaping the conflict, he wished her well.
+He planned to leave with pirate Captain
 Sidon Ithano
 , who offered him transportation to the Outer Rim Territories in exchange for work.
-[
-5
-]
 While loading the
 Meson Martinet
 for his departure with Captain Ithano, Finn looked up and witnessed the
@@ -854,9 +745,6 @@ Anakin
 and Luke Skywalker, which she had been holding on to. She instructed Finn find his friend Rey, who had previously discovered the object and fled into the surrounding forest after experiencing a
 Force vision
 .
-[
-5
-]
 Finn, a traitor to the First Order, duels his former friend FN-2199 on Takodana.
 Shortly later, Maz Kanata's castle was
 attacked
@@ -874,9 +762,6 @@ Nymeve Lake
 and counterattacked. Finn witnessed Kylo Ren carrying off Rey into
 his command shuttle
 and ran to rescue her, but could do little to help as Ren left the battlefield.
-[
-5
-]
 Return to Starkiller Base
 [
 ]
@@ -889,9 +774,6 @@ Is there a garbage chute? Trash compactor?!
 "Yeah, there is.
 "
 ―Finn and Han Solo discuss what to do with Captain Phasma
-[
-5
-]
 Finn holds Captain Phasma at the point of his blaster.
 In a
 Resistance transport
@@ -902,15 +784,9 @@ old jacket
 fit the former Stormtrooper and told him to keep it. Finn also met General
 Leia Organa
 who praised him for renouncing the First Order and helping Poe escape.
-[
-5
-]
 Finn then discussed the details of Starkiller Base to Admiral
 Ackbar
 .
-[
-19
-]
 Finn was later present during the meeting held to discuss the
 attack
 on Starkiller Base– which needed to happen before the battle station recharged its weapon. His knowledge of the
@@ -920,15 +796,12 @@ thermal oscillator
 being a weak point. He volunteered to go with Solo and Chewbacca on the
 Falcon
 to shut down the shield generator on the planet's oscillator, but was secretly more interested in rescuing Rey.
-[
-5
-]
-After hyperspace jumping through its shields, and crash-landing on the planet, Finn revealed to Han and Chewie that he used to work on sanitation on Starkiller Base, much to Solo's annoyance. Finn devised a plan to lower the shield around the planet, which would allow the Resistance pilots to attack the thermal oscillator and destroy the weapon. While sneaking around the secretive facility, Chewbacca captured Captain Phasma, and the three, including an overly confident Finn, forced her to lower the shield. She warned them that her troops would storm in and kill them all, but Solo shrugged off her warning, asking Finn if there happened to be any convenient
+After hyperspace jumping through its shields, and crash-landing on the planet, Finn revealed to Han and Chewie that he used to work on sanitation on Starkiller Base, much to Solo's annoyance.
+Finn devised a plan to lower the shield around the planet, which would allow the Resistance pilots to attack the thermal oscillator and destroy the weapon.
+While sneaking around the secretive facility, Chewbacca captured Captain Phasma, and the three, including an overly confident Finn, forced her to lower the shield.
+She warned them that her troops would storm in and kill them all, but Solo shrugged off her warning, asking Finn if there happened to be any convenient
 trash compactors
 in the base and they were able to dump her into one via garbage chute.
-[
-5
-]
 The three then discovered Rey, who had escaped by herself by using her burgeoning
 Force
 powers. Escaping outside and needing to reach the oscillator, Finn and Rey stole one of the First Order's
@@ -936,9 +809,6 @@ Light Infantry Utility Vehicle
 snowspeeders, using it to traverse the long distance. Finn gave Rey the jacket to keep her warm, and they set off. Quickly pursued by several more snowspeeders being flown by First Order
 Snowtroopers
 . Rey began to shoot at their pursuers from her seat, but the two switched places as they drove into the cover of a forest. Finn shot a pile of snow, knocking it on one of the snowspeeders and disabling it, while targeting the others' engines. Finn's blaster was shot out of his hand just before Rey jumped their snowspeeder over a large chasm, ridding them of their pursuers. The two then decided that from then on, Rey would fly and Finn would shoot.
-[
-20
-]
 Finn is injured during a duel with Kylo Ren.
 At the oscillator, Rey and Finn went to set charges, and upon their return, witnessed Han Solo confront Kylo Ren, who was revealed to be Han's son Ben Solo. After witnessing Kylo murder his father, Rey and Finn attempted to escape through the woods, but were met with Kylo again, blocking their path. Rey attempted to use her blaster against Kylo, but he threw Rey back with a
 Force push
@@ -947,13 +817,7 @@ traitor
 . An enraged Finn then ignited the lightsaber, which Ren claimed rightfully belonged to him. Finn challenged him to "come and get it" before engaging him in a
 duel
 . Though Finn briefly held his own, even with him having no training with a lightsaber, he was ultimately no match for the dark warrior, though he did manage to stab Ren in the arm.
-[
-5
-]
 In his defeat, Finn was disarmed and suffered wounds to his shoulder and spine. Badly injured, Finn was overcome by pain and his muscles went limp. He could hear lightsabers clashing around him, but as the pain increased, he could no longer fight the darkness overcoming him. As he fell into unconsciousness, his last thought was of Rey.
-[
-21
-]
 After Finn was disabled, Rey regained consciousness and used the Force to retrieve the lightsaber and defeat Kylo. Rey took Finn to Chewbacca aboard the
 Millennium Falcon
 , and left him in
@@ -961,9 +825,6 @@ intensive care
 at the Resistance base in a
 coma
 . Rey wished him a heartfelt goodbye, kissed his forehead, thanked him for everything, and declared that they would meet again before she departed to find Luke Skywalker.
-[
-5
-]
 First Order/Resistance war
 [
 ]
@@ -978,9 +839,6 @@ May the Force be with you.
 "
 ―Finn attempts to dismiss Rose while boarding an escape pod on the
 Raddus
-[
-9
-]
 Finn's recovery aboard the Raddus.
 Finn awoke in a
 flexpoly bacta suit
@@ -1002,9 +860,6 @@ maintenance worker
 whose sister
 Paige
 had perished in the First Order's attack, and had been assigned to guard the pods from deserters.
-[
-9
-]
 Finn and Rose after meeting aboard the
 Raddus
 .
@@ -1013,9 +868,6 @@ track the fleet through hyperspace
 . The two then began to devise a plan to shut down the tracker aboard the
 Supremacy
 and allow the fleet to jump away, saving both the Resistance and Rey.
-[
-9
-]
 The two presented their plan to Poe, who agreed to sanction it without the knowledge of the fleet's new commander,
 Vice Admiral
 Amilyn Holdo
@@ -1030,9 +882,6 @@ Canto Bight
 , a city on the planet
 Cantonica
 . Finn gave Poe Leia's tracker.
-[
-9
-]
 Canto Bight
 [
 ]
@@ -1043,22 +892,23 @@ Look, this whole place is beautiful. I mean, come on. Why do you hate it so much
 Look closer.
 "
 ―Finn and Rose discussing Canto Bight
-[
-9
-]
 Finn and Rose on Canto Bight in search of the code breaker.
 Finn, along with Rose and BB-8
 departed
 for Cantonica. As they began their descent near the planet's atmosphere however, they were interrupted by the passing of an
 unknown floating tentacled alien
-that emitted electric currents around its body. As it ascended above them, some of the tentacles hit the shuttle, causing a surge of electricity to travel within the ship and temporarily disable BB-8, who had been helping steer the shuttle. Rose then asked Finn to take over as she busied herself with the task of fixing the droid. Finn voiced his concerns regarding his own piloting abilities, but Rose pointed out that they didn't have much of a choice. As they descended further, Finn then saw and pointed out to Rose that there appeared to be more of the unknown alien creatures. As he did his best to navigate them through the flock, Finn saw one of the creatures quickly appear on an apparent collision course. Finn called out to BB-8. Luckily for him, Rose was just about done fixing the droid. BB-8 then resumed control of the ship which allowed them to avoid coming into contact with any of the creatures. As they floated off into safety, Finn inquired about BB-8's condition, which the droid replied to by way of extending his built-in torch. Rose and Finn then complimented the droid as well as each other before proceeding to the rest of their mission.
-[
-22
-]
+that emitted electric currents around its body.
+As it ascended above them, some of the tentacles hit the shuttle, causing a surge of electricity to travel within the ship and temporarily disable BB-8, who had been helping steer the shuttle.
+Rose then asked Finn to take over as she busied herself with the task of fixing the droid.
+Finn voiced his concerns regarding his own piloting abilities, but Rose pointed out that they didn't have much of a choice.
+As they descended further, Finn then saw and pointed out to Rose that there appeared to be more of the unknown alien creatures.
+As he did his best to navigate them through the flock, Finn saw one of the creatures quickly appear on an apparent collision course.
+Finn called out to BB-8.
+Luckily for him, Rose was just about done fixing the droid.
+BB-8 then resumed control of the ship which allowed them to avoid coming into contact with any of the creatures.
+As they floated off into safety, Finn inquired about BB-8's condition, which the droid replied to by way of extending his built-in torch.
+Rose and Finn then complimented the droid as well as each other before proceeding to the rest of their mission.
 They crashed
-[
-23
-]
 their shuttle on a private beach and entered the casino, despite an
 Abednedo
 businessman named
@@ -1066,25 +916,13 @@ Slowen Lo
 trying to stop them. Finn was amazed by the luxury of the casino, but Rose showed him the animal abuse, child labor, and war profiteering that went on behind the scenes. Rose told Finn that she and her sister came from the
 Otomok system
 , which was used as a testing ground by the First Order, and that many of the casino's patrons had become wealthy selling weapons to the First Order.
-[
-9
-]
 BB-8 located the master codebreaker, but Slowen Lo reported them to the
 police
 for parking illegally, and Finn and Rose were arrested and stunned.
-[
-9
-]
 Finn tried to pick the lock to their cell, yet his actions only succeeded in making another panel slide over the mechanism.
-[
-6
-]
 Hearing their debate about their plans, their cellmate,
 DJ
 , offered to help them break onto the Destroyer, but Finn refused, believing DJ to be a mere pickpocket. DJ then used a manufactured passkey to open the cell door, allowing Finn and Rose to escape as well.
-[
-9
-]
 Finn and Rose escaped into the Canto Bight stables, where the stableboy
 Temiri Blagg
 helped them escape, riding on the back of one of the casino's
@@ -1092,9 +930,6 @@ fathiers
 . They initially guided the fathiers towards their shuttle, but the police officers destroyed it. The fathiers rampaged through the casino and town, causing major damage, before losing the police by running through tall underbrush. Rose and Finn were then picked up by BB-8 and DJ aboard the stolen yacht
 Libertine
 .
-[
-9
-]
 The
 Supremacy
 gambit
@@ -1106,9 +941,6 @@ So
 good to have you back.
 "
 ―Phasma "welcomes" Finn upon his capture
-[
-9
-]
 Finn disguised himself as an officer aboard the
 Supremacy
 .
@@ -1117,32 +949,20 @@ Rose's medallion
 as a deposit. Despite Finn's objections, Rose gave it to him. DJ showed Finn that the yacht's
 previous owner
 was an arms dealer who sold weapons to both the First Order and Resistance. DJ attempted to convince Finn that the entire galaxy was a machine, and that he should stay away from causes and live free.
-[
-9
-]
 DJ partially lowered the
 Supremacy
 '
 s shields, allowing the
 Libertine
 to slip aboard. Finn, Rose, and DJ stole uniforms to disguise themselves as First Order officers in order to sneak through the ship and reach the tracker.
-[
-9
-]
 They also encountered
 926
 , a stormtrooper who recognized Finn, as they had been in the same
 stormtrooper batch
 together. However, 926 was unaware of Finn's defection, and believing that Finn had been promoted to officer, congratulated him and told him that he didn't think the former stormtrooper was captain material.
-[
-6
-]
 Finn, Rose, and DJ made it to the tracker, but they were captured by Phasma, who feigned delight at seeing Finn again. However, DJ cut a deal, exchanging information about the Resistance's escape plan he had gleaned from Finn and Rose, which was to use cloaked transports to reach the surface of the mineral planet
 Crait
 , for payment and his freedom, much to the fury of both Finn and Rose. The First Order began to fire on the Resistance transports, destroying most of them .
-[
-9
-]
 Phasma ordered Finn and Rose executed, deciding to make them suffer and have them executed via
 laser ax
 , but before the
@@ -1157,9 +977,6 @@ Xi
 to escape the heavily damaged
 Supremacy
 , but they were cut off by Phasma.
-[
-9
-]
 Duel with Phasma
 [
 ]
@@ -1168,24 +985,16 @@ You were always scum."
 "Rebel scum.
 "
 ―Phasma and Finn
-[
-9
-]
 Finn clashing with Phasma aboard the Supremacy
-Phasma extended her baton, and Finn picked up a riot control baton, with which he dueled Phasma, but he could not hold out against her for long. Phasma beat him back and eventually knocked him off of his feet and into a pit. However, a rising platform below him saved his life. This allowed him to get behind Phasma and deliver a blow that cracked her helmet and sent her tumbling to unstable footing. Finally seeing his corrupt superior's actual flesh in a solitary eye staring up at him, Finn proudly identified himself to Phasma as a rebel before her platform gave way, sending her to her demise into the fire below.
-[
-9
-]
+Phasma extended her baton, and Finn picked up a riot control baton, with which he dueled Phasma, but he could not hold out against her for long.
+Phasma beat him back and eventually knocked him off of his feet and into a pit.
+However, a rising platform below him saved his life.
+This allowed him to get behind Phasma and deliver a blow that cracked her helmet and sent her tumbling to unstable footing.
+Finally seeing his corrupt superior's actual flesh in a solitary eye staring up at him, Finn proudly identified himself to Phasma as a rebel before her platform gave way, sending her to her demise into the fire below.
 After seeing this, Finn noticed BB-8 and Rose, whp gave Finn a lift to the shuttle with a hotwired
 AT-ST
 .
-[
-9
-]
 As the shuttle took off, Finn remarked that they were going where they belonged, and they turned towards Crait to reunite with the Resistance.
-[
-6
-]
 Battle of Crait
 [
 ]
@@ -1196,16 +1005,10 @@ saved
 you, dummy. That's how we're gonna win. Not by fighting what we hate. Saving what we love.
 "
 ―Finn and Rose after Rose stopped Finn's suicide run
-[
-9
-]
 Finn piloting a V-4X D ski speeder during the Battle of Crait
 Pursued by two TIE fighters, Rose barely managed to pilot the shuttle under the closing bunker door of the
 abandoned Rebel outpost
 where the Resistance was hiding out. The Resistance opened fire on the shuttle, but Finn convinced them to stop.
-[
-9
-]
 The Resistance planned to lay low in the bunker until they could send a signal to their allies in the Outer Rim. However, the First Order quickly deployed
 All Terrain MegaCaliber Sixs
 ,
@@ -1219,16 +1022,14 @@ assault
 against the siege cannon, in order to buy the Resistance time to get the message out. Finn piloted one of the speeders in the battle, and was able to exercise more control over the speeder after dropping his monoski. The First Order deployed TIE fighters which destroyed many of the speeders. However, the timely arrival of Rey and Chewbacca in the
 Millennium Falcon
 drew the fighters away from the Resistance speeders.
-[
-9
-]
 Finn and Rose Tico's V-4X D ski speeders crash in front of the First Order line on Crait
-Finn's speeder drew near the cannon, but Poe called off the attack, realizing that they were too late: the cannon was about to fire, and the cost of life was already too high. Finn disobeyed Poe's orders, and began the route to sacrifice, straight down the barrel of the cannon. But before he could sacrifice himself for the Resistance, Rose crashed her speeder into his, knocking them both out of the line of the cannon's fire and to the salty ground below. Just in front of the First Order's line, Finn ran over to an injured Rose, asking why she stopped him. Rose told him that the Resistance would win the
+Finn's speeder drew near the cannon, but Poe called off the attack, realizing that they were too late: the cannon was about to fire, and the cost of life was already too high.
+Finn disobeyed Poe's orders, and began the route to sacrifice, straight down the barrel of the cannon.
+But before he could sacrifice himself for the Resistance, Rose crashed her speeder into his, knocking them both out of the line of the cannon's fire and to the salty ground below.
+Just in front of the First Order's line, Finn ran over to an injured Rose, asking why she stopped him.
+Rose told him that the Resistance would win the
 war
 by saving what they love, not by fighting what they hate. Rose then kissed Finn, and collapsed unconscious as the siege cannon fired, destroying the bunker door.
-[
-9
-]
 Later, Finn dragged Rose's body through the obliterated bunker door and turned her over to Resistance medics. Following this, Finn witnessed the
 projection
 of Luke Skywalker arrive at the Resistance's base and head out to confront the First Order, and believed that they should help him. However, Poe convinced him that Skywalker was distracting the First Order so the Resistance could survive. Poe and Finn then realized that the
@@ -1236,21 +1037,12 @@ vulptices
 that had previously infested the base had disappeared. Finn, along with the rest of the Resistance, followed Poe through the caverns of the outpost until they reached an unmapped natural entrance that was blocked by boulders. However, Rey, on the other side of the wall, used the Force to move the boulders aside. Finn shared an embrace with his friend Rey and the Resistance survivors finally escaped aboard the
 Falcon
 .
-[
-9
-]
 Safe on the
 Falcon
 , Finn looked around for a blanket to place over Rose's body while Rey watched. During his search, Finn quickly glanced over the
 Sacred Jedi texts
 Rey had hidden in a drawer on the freighter.
-[
-9
-]
 At some point after she came to, Rose and Finn discussed what had happened and decided to just be friends.
-[
-10
-]
 Sharing stories on the
 Falcon
 [
@@ -1259,36 +1051,18 @@ Falcon
 Last thing I remember before that was being in a lightsaber fight with Kylo Ren.
 "
 ―Finn while asking Poe Dameron about what he missed.
-[
-24
-]
 Finn, Poe Dameron, and Rey catch up after the Battle of Crait
 During a rare moment of peace onboard the
 Millennium Falcon
 after departing Crait, Poe told an audience of Finn and Rey the story of what had happened to him since his and Finn's crash on Jakku.
-[
-17
-]
 Finn listened eagerly, but the trio was interrupted by General Organa, who was pleased that they were getting to know each other. Finn continually checked on Rose Tico during this time to make sure she was recovering well from her injuries.
-[
-25
-]
 During a conversation with Poe about saving her, Finn explained the First Order's cruel philosophy on leaving behind those who were injured. Poe then explained to Finn what had happened while he was unconscious during the evacuation of D'Qar, and what happened to
 Black Squadron
 following it. Finn reassured Poe on his faith and positive attitude, and the two were subsequently interrupted by C-3PO with news on the status of Black Squadron in a data transmission
-[
-24
-]
 that led to Poe and Black Squadron's involvement in the
 Battle of
 Grail City
 .
-[
-26
-]
-[
-27
-]
 Regroup on Ryloth
 [
 ]
@@ -1302,9 +1076,6 @@ What? That doesn't sound like fun to you?
 Hell, yes, that sounds like fun. I'll do it!
 "
 ―Finn and Poe discussing the Mission to Corellia
-[
-10
-]
 General Leia Organa dispatched two Resistance teams from the Ryloth Defense Authority Base.
 Soon after, a damaged and decimated Resistance aboard the
 Millennium Falcon
@@ -1325,9 +1096,6 @@ Ransolm Casterfo
 , Organa decided to send Poe and a team to
 Corellia
 in search of the man, because Casterfo was believed to be imprisoned on the shipbuilding world.
-[
-10
-]
 Later, Finn and Rey had a deep discussion onboard the
 Falcon
 that Poe interrupted, and asked about Finn's relationship status with both Rey and Rose, receiving a negative on both. Then, Poe asked Finn to accompany him undercover to a secret auction at the birthday party of
@@ -1335,9 +1103,6 @@ Nifera Shu
 , the wife of a wealthy Corellian businessman, using an invite given to him by Maz Kanata. Finn joyfully accepted, and Poe reminded him of his home and value in the Resistance, and the two went to continue preparing for the
 mission
 .
-[
-10
-]
 Corellian caper
 [
 ]
@@ -1351,9 +1116,6 @@ I don't think that's it.
 You're overthinking it.
 "
 ―Two stormtroopers suspiciously examine Poe and Finn's disguises at the party in Coronet City
-[
-10
-]
 Finn and a team of Resistance members journeyed to Corellia to find a First Order wanted list and rescue Ransolm Casterfo.
 Arriving in Coronet City, Finn and Poe pretended to be rich Canto Bight businessmen at Shu's birthday and auction, while
 the second team
@@ -1364,40 +1126,32 @@ Suralinda Javos
 , who also accompanied the team to the party with
 Charth Brethen
 .
-[
-10
-]
 At the party, Finn pointed out to Poe that a large chunk of the guests were First Order. This made sense to Dameron considering the city's First Order occupation, but still surprised him. The two flirtatiously introduced themselves to Nifera and
 Hasadar Shu
 , and Poe gave Nifera the gift, a miniature
 Lylek
 from Ryloth. She had been an entomologist in her youth, so the gift meant a lot to her, earning the two digital passage into the secret holographic auction. Poe began spending the Resistance's credits in the auction, and dispatched Finn to find other bidders, to no avail. Soon, the Resistance was outbid, but screaming started as the First Order suddenly raided the party.
-[
-10
-]
-The celebration quickly turned to chaos, as Finn and Poe scrambled to find Suralinda and Charth amidst the First Order's raid. After find the two, the room's lights were shut off, and Nifera, having lost her husband to a Stormtrooper's blaster fire, ran away. Poe decided to follow her to get the list, sending Finn to escape with the other two. Dameron was able to retrieve the list, as he and Nefira dove over the balcony and into the water below. Finn helped the two climb out of the pool, and they made plans to escape Corellia, and Shu revealed her loyalty to the
+The celebration quickly turned to chaos, as Finn and Poe scrambled to find Suralinda and Charth amidst the First Order's raid.
+After find the two, the room's lights were shut off, and Nifera, having lost her husband to a Stormtrooper's blaster fire, ran away.
+Poe decided to follow her to get the list, sending Finn to escape with the other two.
+Dameron was able to retrieve the list, as he and Nefira dove over the balcony and into the water below.
+Finn helped the two climb out of the pool, and they made plans to escape Corellia, and Shu revealed her loyalty to the
 Collective
 , a techno-activist underground movement.
-[
-10
-]
 Finn and the Resistance fought the First Order in the occupied shipbuilding capital of Coronet City
 Poe's team was eventually able to meet up with the second group, who had successfully broken Casterfo and several others out of prison. The two groups caught up, and immediately formulated a new plan to gain access to the hangar.
 Wedge Antilles
 and
 Norra Wexley
-decided to create a distraction, which allowed Finn and the others into the hangar and to the ships, but their distraction generated too much attention from the stormtroopers. Antilles was shot by blaster fire and was unable to continue fighting, but Norra insisted on staying with him. When they both thought it was the end for them, at the last minute, Poe, in a stolen starfighter, gunned down the remaining stormtroopers. With everyone safe, they all made their way back to the Resistance onboard a
+decided to create a distraction, which allowed Finn and the others into the hangar and to the ships, but their distraction generated too much attention from the stormtroopers.
+Antilles was shot by blaster fire and was unable to continue fighting, but Norra insisted on staying with him.
+When they both thought it was the end for them, at the last minute, Poe, in a stolen starfighter, gunned down the remaining stormtroopers.
+With everyone safe, they all made their way back to the Resistance onboard a
 CR90 corvette
 .
-[
-10
-]
 After the mission, Finn, Poe, and the others gathered with the escaped prisoners in a Collective safehouse on
 Helmaxa
 , where Poe gave a rousing speech to the Resistance. Finn congratulated him on the speech, and together with Rey, the three set off, hopeful, to save the galaxy together.
-[
-10
-]
 The Horizon Base attempt
 [
 ]
@@ -1406,9 +1160,6 @@ Wait-- Hold up. Is that what you think? That we're out here risking our lives so
 heroes?
 "
 ―Finn exclaims at Mezlo's judgement of the Resistance
-[
-28
-]
 Finn and Ducain escape stormtroopers
 Soon after at
 Horizon Base
@@ -1419,9 +1170,6 @@ mission
 . Finn and Ducain argued about Ducain stealing the
 Millennium Falcon
 , as a First Order stormtrooper stopped them and ordered them to show their identification. In response, Finn shot down several barrels held over the stormtroopers, knocking them down and allowing the two to escape.
-[
-28
-]
 Inside the base, Ducain apologized to Finn, and told him that he joined the Resistance to make himself a better person, considering his past mistakes. But Finn was more worried about fighting the First Order, not able to gather necessary allies. While they talked, Finn and Ducain heard a loud noise approaching them, and were suddenly surprised by a
 candori
 . The beast picked them up and tried to eat them, while a
@@ -1431,15 +1179,15 @@ Oruans
 from the First Order, which he believed Finn and Ducain to be. Finn tried to tell him that they were Resistance, but the man had heard that the Resistance was destroyed. Finn told the man and his group that he knew what the First Order had done to
 their planet
 and that now they're alone, just like the Resistance. Hearing this, the man ordered the candori to release the two.
-[
-28
-]
 Finn let the group know about the First Order threat on the base, but they were already aware. Mezlo, their leader, knew the First Order well, as he was almost able to
 run
-them off his planet with a small force, but failed. He assumed that Finn was their to recruit him, but refused to join because he wanted to fight for honor, and saw the Resistance as just attempting to be heroes. This upset Finn, who told Mezlo about his past as a First Order stormtrooper, and how he's with the Resistance because they honorably do what's right. Ducain explained why he fights for the Resistance too, and Mezlo attempted to apologize for judging the Resistance– but was interrupted by a group of stormtroopers. The stormtroopers ordered them not to move. Ducain thought that they were done for, but Mezlo's plan kicked in when another candori came out from the ceiling and grabbed the stormtroopers. Finn then Contacted Poe to pick them up as they all opened fire on the now distracted stormtroopers.
-[
-28
-]
+them off his planet with a small force, but failed.
+He assumed that Finn was their to recruit him, but refused to join because he wanted to fight for honor, and saw the Resistance as just attempting to be heroes.
+This upset Finn, who told Mezlo about his past as a First Order stormtrooper, and how he's with the Resistance because they honorably do what's right.
+Ducain explained why he fights for the Resistance too, and Mezlo attempted to apologize for judging the Resistance– but was interrupted by a group of stormtroopers.
+The stormtroopers ordered them not to move.
+Ducain thought that they were done for, but Mezlo's plan kicked in when another candori came out from the ceiling and grabbed the stormtroopers.
+Finn then Contacted Poe to pick them up as they all opened fire on the now distracted stormtroopers.
 Finn listens to Mezlo explain his people's history with the First Order
 After escaping the base, Finn again asked Mezlo to join the Resistance, but he once again refused telling him that he and his people will
 fight
@@ -1450,9 +1198,6 @@ army
 , they did not have honor. Finn believed that the Oruans would fight with them one
 day
 , and they would not be alone.
-[
-28
-]
 Wayward Comet conflict
 [
 ]
@@ -1460,9 +1205,6 @@ Wayward Comet conflict
 That... that could give the Resistance a fighting chance against the First Order!
 "
 ―Finn talks to Poe in the Wayward Comet
-[
-29
-]
 Finn got himself into a fight with a Dashade at the Wayward Comet.
 At the
 Wayward Comet
@@ -1483,9 +1225,6 @@ Oron
 to meet Poe at their
 shuttle
 in the hangar.
-[
-29
-]
 As Finn is leaving, he unknowingly bumps into the
 changeling
 Clawdite
@@ -1497,9 +1236,6 @@ Kendoh Voss
 , who tells Io to follow Finn back to his ship and place a tracker on it. Voss then contacts a First Order Lieutenant, requesting to claim the bounty on Finn's head. After conferring with General Hux on the
 Finalizer
 , who is pushed into chasing the sighting by the newly Supreme Leader Kylo Ren, the lieutenant is ordered to authorize a down payment on the bounty.
-[
-29
-]
 Mission to the Moon of Avedot
 [
 ]
@@ -1510,9 +1246,6 @@ This is shaping up to be the easiest mission we've ever had.
 Why... why would you say something like that? Don't you realize that's just asking for trouble?
 "
 ―Finn and Poe inside Base 354-23X
-[
-30
-]
 Base 354-23X on the Moon of Avedot
 With the Kendoh Gang unknowingly in their pursuit, Finn and his team entered Base 354-23X to find all of the security systems to be dormant. Finn exclaims that this is shaping up to be his easiest mission ever, to which Poe chides him. The group doesn't find much, and grows doubtful of their info, but Finn does find a very run-down
 T-47 airspeeder
@@ -1521,28 +1254,27 @@ Tonkins
 to stay back and guard the entrance, but the man is quickly dealt with by the large
 Aqualish
 Wooro.
-[
-30
-]
-As the team further explores the impound, Tonkins approaches them, to Finn's confusion. Tonkins the begins to fire, and reveals himself to be Remex Io in disguise. The Gang and the Resistance begin to exchange fire, with the Resistance losing two agents, and Finn narrowly escaping, making his way to Poe, who's finally found the weapons cache with BB-8. Finn then shoots a control panel, closing the door to the room he and Poe are in, but sealing off their only exit. But to Finn's advantage, the bounty hunters don't know Dameron is on the mission as well.
-[
-30
-]
+As the team further explores the impound, Tonkins approaches them, to Finn's confusion.
+Tonkins the begins to fire, and reveals himself to be Remex Io in disguise.
+The Gang and the Resistance begin to exchange fire, with the Resistance losing two agents, and Finn narrowly escaping, making his way to Poe, who's finally found the weapons cache with BB-8.
+Finn then shoots a control panel, closing the door to the room he and Poe are in, but sealing off their only exit.
+But to Finn's advantage, the bounty hunters don't know Dameron is on the mission as well.
 Wooro then used a heavy blaster to try to cut through the door, as Finn explained his plan to Poe.
-[
-31
-]
 The Kendoh Gang sought after Finn's bounty on the Moon of Avedot
-The Kendoh Gang finished cutting through the door, and entered the room, finding nobody as Dameron hid behind a large crate. But during his sneaking, Finn fell out of a ceiling air duct onto Io. The two began to fight, with the changeling shifting between various strong species' to land harder hits on Finn. Wooro then attempted to stun Finn, but missed and stunned his own Clawdite companion, to Kendoh Voss's chagrin. This mistake allowed Finn to narrowly escape, while Poe loaded the newly obtained materials onto the Resistance's transport. Leading the bounty hunters around the base, Finn thought he lost them until he ran straight into Wooro. The large Aqualish punched him down once more, but Finn did not give up, continuing to run until he reached the T-47 from earlier. Utilizing its
+The Kendoh Gang finished cutting through the door, and entered the room, finding nobody as Dameron hid behind a large crate.
+But during his sneaking, Finn fell out of a ceiling air duct onto Io.
+The two began to fight, with the changeling shifting between various strong species' to land harder hits on Finn.
+Wooro then attempted to stun Finn, but missed and stunned his own Clawdite companion, to Kendoh Voss's chagrin.
+This mistake allowed Finn to narrowly escape, while Poe loaded the newly obtained materials onto the Resistance's transport.
+Leading the bounty hunters around the base, Finn thought he lost them until he ran straight into Wooro.
+The large Aqualish punched him down once more, but Finn did not give up, continuing to run until he reached the T-47 from earlier.
+Utilizing its
 harpoon gun
 to shoot his enemy through the shoulder, Finn was injured and knocked out by the recoil.
-[
-31
-]
-Waking up to Dameron's desperate transmission, Finn finds Wooro still alive but pinned to the wall, and Poe cornered by the bounty hunters' ship. Finn dove out of the way of the bounty hunters' blaster fire, as BB-8 used a crate of thermal detonators to allow Poe to escape in the Resistance's transport. Telling Finn to meet him outside, Poe flies away, leaving Finn with just the T-47. Finn hopped in the airspeeder, and used it to crash into the bounty hunters' ship, ejecting himself just in time to be caught by Dameron, the two managing to escape the Moon of Avedot with most of the weapons they came there for.
-[
-32
-]
+Waking up to Dameron's desperate transmission, Finn finds Wooro still alive but pinned to the wall, and Poe cornered by the bounty hunters' ship.
+Finn dove out of the way of the bounty hunters' blaster fire, as BB-8 used a crate of thermal detonators to allow Poe to escape in the Resistance's transport.
+Telling Finn to meet him outside, Poe flies away, leaving Finn with just the T-47.
+Finn hopped in the airspeeder, and used it to crash into the bounty hunters' ship, ejecting himself just in time to be caught by Dameron, the two managing to escape the Moon of Avedot with most of the weapons they came there for.
 Bacta delivery
 [
 ]
@@ -1553,9 +1285,6 @@ So, about Finn and Chewie. You think they’re back from delivering that bacta P
 I don’t know. I hope so.
 "
 ―Rose and Rey discussing Finn and Chewbacca's mission
-[
-33
-]
 Sometime after the Mission to the Moon of Avedot, Finn and Chewbacca departed from the rest of the Resistance to deliver bacta that he and Poe retrieved on their
 mission
 to the planet
@@ -1565,9 +1294,6 @@ mission
 to
 Minfar
 .
-[
-33
-]
 Repair stop on Choss
 [
 ]
@@ -1580,9 +1306,6 @@ rusty...
 "
 ―Finn to Rey on the
 Millennium Falcon
-[
-34
-]
 The
 Millennium Falcon
 descends to Choss for repairs while transporting Moebin Faltus
@@ -1597,9 +1320,6 @@ engine couplings
 , and they go off to find out. While attempting to fix the
 Falcon
 , Finn expressed his distaste for working with Faltus, while Rey argued that his contacts would be worth it– and that the ship would need to land nearby for repairs.
-[
-34
-]
 Rey and Chewbacca then landed the
 Falcon
 on the local planet
@@ -1611,18 +1331,9 @@ city
 with BB-8 and Moebin, while Finn and Chewie stayed back to work on fixing the ship. While Rey was in town, gallivanting her way away from the bounty hunter
 Kief Varris
 , hired by the First Order to capture Faltus,
-[
-34
-]
-[
-35
-]
 Finn and Chewbacca took the
 Falcon
 for a test flight after attempting some repairs, but found that it was still hopeless.
-[
-35
-]
 BB-8 reveals that he stole Kief Varris's static charge dissipator to repair the
 Millennium Falcon
 on Choss
@@ -1633,9 +1344,6 @@ Falcon
 . Then suddenly, BB-8 revealed that he took the necessary part from Varris's shuttle, and that's what caused it to crash. With the whole crew reunited, Moebin saved, and the ship repaired, the Resistance departed
 Choss
 , with Faltus agreeing to tell them about his operation.
-[
-35
-]
 Finn and Poe's Jedi training course
 [
 ]
@@ -1649,9 +1357,6 @@ why he's recharging in the
 Falcon
 "
 ―Finn and Rey on Noaxson, discussing the new Jedi training course
-[
-36
-]
 Poe Dameron and Finn survey the land of Noaxson before bringing Rey out of the
 Millennium Falcon
 Deep in the Outer Rim Territories, Finn, Poe, and R2-D2 constructed a
@@ -1659,9 +1364,6 @@ Jedi training course
 for their friend Rey on the rocky moon of
 Noaxson
 . Finn and Poe noted that this was the perfect location because of its irregular light cycle and shifting surface terrain, and were very excited to show Rey, blindfolding her before the reveal. The two men tell a surprised Rey that they want her to get trained faster so she can join them on more missions, and that they also just wanted to be helpful. Rey then excitedly began to run the obstacle course.
-[
-36
-]
 Finn, BB-8, Poe, and Rey take on the pirate gang on Noaxson from both sides
 After running the course a bit, Rey fell into a cave full of pirates led by the
 Quarren
@@ -1669,25 +1371,21 @@ Algron
 , and Finn began to get worried about Rey, and citing a feeling that she was in trouble while searching the horizon with
 macrobinoculars
 . Just before going to search for her, Finn and Poe are surrounded by more pirates and taken
-[
-36
-]
 to their ship and questioned. The pirates recognized Rey, and wanted to claim her and their bounties from the First Order. They're then approached by an older pirate named
 Corrin
 , who tells the pirate
 Lannix
 that he was supposed to be at their long-range comms. The two got into an argument, and Lannix declared that he was the new leader. During this argument, Finn and Poe are able to slip out of their ties, and tackle Corrin just as more pirates arrive and the situation escalates. Finn and Poe are able to run away from the pirates' blaster barrage, taking Corrin with them.
-[
-37
-]
 Pinned down, Finn makes a plan to run for the pirates' ship, hoping to disable their long range comms, but is interrupted by a
 Weequay
-pirate giving them the option to peacefully surrender. As he's speaking, Rey threw her staff at the yelling Weequay, charging in to take on the pirates. From the other side, Finn and Poe charged in blasters blazing, and they take down the pirates together. Rey then cracked a joke about whoever built the training course not knowing about the pirate presence, and Lannix let off one last threat of contacting the First Order. But with the knowledge that the long-range comms are shut off, Lannix laid his head down and admitted defeat. The Resistance then once again safely left in the
+pirate giving them the option to peacefully surrender.
+As he's speaking, Rey threw her staff at the yelling Weequay, charging in to take on the pirates.
+From the other side, Finn and Poe charged in blasters blazing, and they take down the pirates together.
+Rey then cracked a joke about whoever built the training course not knowing about the pirate presence, and Lannix let off one last threat of contacting the First Order.
+But with the knowledge that the long-range comms are shut off, Lannix laid his head down and admitted defeat.
+The Resistance then once again safely left in the
 Millennium Falcon
 , as Rey thanked Finn, Poe and Artoo for their effort, but stated that it was probably best that they leave the Jedi training up to Rey's master, Leia.
-[
-37
-]
 Securing livestock on Kamil
 [
 ]
@@ -1705,9 +1403,6 @@ Poe Dameron
 It is, just not a bovine bidding expert.
 "
 ―Poe and Finn on Kamil, while attempting to buy livestock on Kamil
-[
-38
-]
 Poe and Finn at the agriculture hub on Kamil
 Later, General Leia Organa deployed Finn and Dameron to the
 Wild Space
@@ -1722,20 +1417,21 @@ Octani
 , they got a lead on
 Dhar Wat
 , someone who was selling spare parts that might be useful for the Resistance.
-[
-38
-]
 Cornered, Finn and Poe fight First Order forces on the train to Garson Corners
 Following this new information, the two ditched the livestock plan and tracked down the
 train
-Wat was on. Boarding the train, Finn sat in an incredibly crowded car before he and Poe pretended to be food servers, which they used to look for War. Upon Poe finding him, he helped the Octani fight a First Order officer in his cabin. Wat then revealed that the First Order had taken his parts and moved them to another car. Dameron and Finn set out to locate the parts while making an agreement with Wat for him to be a continuous supplier, and quickly ran into First Order officers and Stormtroopers. A chase and fight then ensued throughout the train, with Finn crushing an officer's comlink so he couldn't call for help. It wasn't long before Finn and Poe were cornered by First Order forces in a storage car, where fight then broke out with Finn and Dameron able to knock out the First Order forces in close hand-to-hand combat. During the fight, Finn found a
+Wat was on.
+Boarding the train, Finn sat in an incredibly crowded car before he and Poe pretended to be food servers, which they used to look for War.
+Upon Poe finding him, he helped the Octani fight a First Order officer in his cabin.
+Wat then revealed that the First Order had taken his parts and moved them to another car.
+Dameron and Finn set out to locate the parts while making an agreement with Wat for him to be a continuous supplier, and quickly ran into First Order officers and Stormtroopers.
+A chase and fight then ensued throughout the train, with Finn crushing an officer's comlink so he couldn't call for help.
+It wasn't long before Finn and Poe were cornered by First Order forces in a storage car, where fight then broke out with Finn and Dameron able to knock out the First Order forces in close hand-to-hand combat.
+During the fight, Finn found a
 Wookiee doll
 , and even used it to hit an officer. Finn then located the spare parts and unlocked the car from the rest of the train. The two also found lots of livestock on their car, which they returned to the Resistance, and Finn gave the
 doll
 to Rey.
-[
-38
-]
 The Final Order
 [
 ]
@@ -1749,9 +1445,6 @@ Boolio, good to see you. You got something for us?
 From a new ally! A spy in the First Order!
 "
 ―Finn and Boolio before transferring the information into R2-D2
-[
-11
-]
 Finn during the mission to Sinta Glacier Colony
 After
 Darth Sidious
@@ -1768,9 +1461,6 @@ First Order spy
 into R2-D2 from the Ovissian mine overseer
 Boolio
 . Soon after the transfer began, the First Order arrived with many TIE fighters, closing in on the Resistance's location. As the transfer completed, Boolio snidely told Finn to "win the war" in return, and Finn rushed to confidently man one of the Falcon's turrets to shoot down TIE fighters as they escaped.
-[
-11
-]
 During their escape, Dameron
 hyperspace skipped
 the
@@ -1780,9 +1470,6 @@ Resistance's base
 on
 Ajan Kloss
 , Finn reuniting with Rey and joking about Poe's anger. Finn and the team were then able to share the spy's information to the Resistance: somehow, Palpatine had returned.
-[
-11
-]
 Search for the Wayfinder
 [
 ]
@@ -1799,9 +1486,6 @@ It's too dangerous, Finn.
 We go together.
 "
 ―Rey and Finn
-[
-11
-]
 Rey then decided to journey off and find a
 Sith wayfinder
 in order to locate Sidious. Rey and her friends then went to
@@ -1815,19 +1499,10 @@ vexis
 , which parted peacefully after Rey
 healed
 it.
-[
-11
-]
 Finn held her saber while she did so.
-[
-39
-]
 Chewbacca and the
 dagger
 were presumed lost during the mission when a First Order transport he was believed to be on was destroyed by Rey's Force powers during a confrontation with Kylo Ren.
-[
-11
-]
 Finn holds Rey's saber as she heals the vexis.
 C-3PO's programming forbade him from translating the Sith inscription on Ochi's dagger, which revealed the location of another Sith wayfinder device leading to Exegol, so the team traveled to
 Kijimi
@@ -1852,9 +1527,6 @@ Steadfast
 and launched a massive manhunt for the Resistance in the
 city
 . Rey sensed Chewbacca through the Force on the Star Destroyer, so the team decided to mount a rescue.
-[
-11
-]
 Using a captain's medallion provided by Bliss, Poe, Rey, and Finn infiltrated the
 Steadfast
 . Poe and Finn rescued Chewbacca until they were captured by stormtroopers and brought before General Armitage Hux to be executed, but Hux saved their lives, revealing himself to be the spy. Hux brought them to the
@@ -1862,9 +1534,6 @@ Millennium Falcon
 . Rey escaped aboard the
 Falcon
 with Poe, Finn, Chewbacca, and the droids.
-[
-11
-]
 In the waning hours leading up to the final battle, Rey, Finn, Poe Dameron, Chewbacca, and the droids C-3PO, BB-8, and D-O crash landed on
 Kef Bir
 , the
@@ -1885,9 +1554,6 @@ skiff
 and piloted to the Death Star ruins anyway. Finn and Jannah decided to find Rey when she fought Ren in a
 duel
 among the Death Star ruins; Finn and Jannah tried to intervene, but Rey pushed them away.
-[
-11
-]
 General of the Resistance
 [
 ]
@@ -1896,17 +1562,12 @@ General Finn and co on Ajan Kloss prior to the battle of Exegol
 They've have taken enough of us. Now we bring the war to them.
 "
 ―Finn, to the Resistance before the battle of Exegol
-[
-11
-]
-After Rey left on her own, Finn, Dameron, Chewbacca, the droids, Jannah, and her tribe returned to the Resistance base on Ajan Kloss, where they learned of Organa's passing away and that Poe was named acting general in her stead. After grappling with this promotion, Dameron named Finn general with him, and—through the information Finn found was contained within D-O while talking to the droid in Rey's workstation—the Resistance gathered enough intel on Exegol to develop a plan of attack while Calrissian and Chewbacca were sent to the
+After Rey left on her own, Finn, Dameron, Chewbacca, the droids, Jannah, and her tribe returned to the Resistance base on Ajan Kloss, where they learned of Organa's passing away and that Poe was named acting general in her stead.
+After grappling with this promotion, Dameron named Finn general with him, and—through the information Finn found was contained within D-O while talking to the droid in Rey's workstation—the Resistance gathered enough intel on Exegol to develop a plan of attack while Calrissian and Chewbacca were sent to the
 Core Worlds
 on the
 Falcon
 to call out for allies.
-[
-11
-]
 Finn took part in an impassioned speech to the members of the Resistance gathered below the
 Tantive IV
 before the battle, claiming that the Resistance had been on the run for long enough, and the time to take the fight to the First Order was now. He claimed to have an idea for the Resistance's ground attack on the Final Order's
@@ -1928,9 +1589,6 @@ Look at this. Look at this!
 Lando, you did it. You did it!
 "
 ―Lando, Poe, and Finn after the arrival of the Citizens' Fleet
-[
-11
-]
 During the
 Battle of Exegol
 , Finn opted to launch a ground assault over an air assault in order to disable the navigation tower while at the same time avoiding Sith Eternal tracking. Unbeknownst to the Resistance, General Pryde had had the source of the navigational signal switched to his ship to guide the Sith fleet out themselves while the Resistance was approaching the surface tower. Finn, through the force, realized that the communications signal was transferred to the
@@ -1979,25 +1637,13 @@ Falcon
 , Finn intensely sensed Rey's death through the Force, but found out she was alive when the latter used Luke's X-wing to fly out of the ruined
 Sith Citadel
 after being revived by a redeemed Ben Solo. He later informed Poe that people were rising against the First Order and that they finally did it.
-[
-11
-]
 Finn, Rey, and Poe share a hug on Ajan Kloss after their hard fought victory.
 Later he, along with the rest of the crew on the Falcon, returned to Ajan Kloss to celebrate their victory over the Sith Eternal and the death of Sidious. Walking around he was pleased to see everyone happy and reuniting with other people in their collective victory. He reunited with Poe Dameron and they hugged. When Rey arrived afterwards, she, Finn, and Dameron embraced each other, Finn becoming overwhelmed with emotion as they held onto one another.
-[
-11
-]
 Later, Finn and Dameron discussed the possibility of Sidious' return; they concluded, however, that even if he did return one day, it would not be for a long time.
-[
-40
-]
 The Last Order
 [
 ]
 After the battle of Exegol, Finn and Jannah set out to find one of the First Order officers that was responsible for the kidnapping of children.
-[
-41
-]
 Legacy
 [
 ]
@@ -2009,9 +1655,6 @@ galactic history
 , and his actions during the hunt for Luke Skywalker into a series of planetary maps. The
 Graf Archive
 published the maps—including the images of Finn and descriptions of his actions—long after the conflict against the First Order.
-[
-42
-]
 Personality and traits
 [
 ]
@@ -2022,80 +1665,38 @@ Why are you helping me?
 Because it's the right thing to do.
 "
 ―Poe Dameron, and Finn
-[
-5
-]
 Finn was a
 male
 human
 . While in service to the First Order, Finn was seen by his training cadre and his fellow soldiers as one of the best stormtroopers that the First Order had to offer. His instructors saw him as loyal to the First Order, as well as dutiful, brave, intelligent, and possessing the strength necessary to be a great stormtrooper and perhaps even eventually one of the group's
 officers
 .
-[
-21
-]
 Finn was trained to believe that the New Republic was depraved and that the First Order was necessary to bring law to a lawless
 galaxy
 , and everything he had seen of the galaxy was filtered through his training; the First Order showed him only what they wanted him to see, but he did not doubt its truth. Though as a cadet he was eager to be deployed and see the galaxy so he could serve the First Order and
 Supreme Leader
 Snoke
 , he was nevertheless plagued by doubt. His confidence in the First Order was severely shaken after his squad's execution of miners on Pressy's Tumble.
-[
-7
-]
 His doubt came to a head on Jakku, witnessing his friend FN-2003 killed by Poe Dameron and refusing to fire on unarmed villagers. This destroyed his faith in the First Order, inspiring him to desert and free Dameron, and eventually help Rey and BB-8 and side with the Resistance.
-[
-5
-]
 Awakened from his comatose state, the first question the protective Finn asks is "Where's Rey?"
 At his core, Finn was a righteous, caring, empathetic, fundamentally good person despite how he'd been raised. He was protective of others, such as nearly jeopardizing a training mission in order to save FN-2003.
-[
-7
-]
 This empathy extended to strangers; he ran to help Rey when he witnessed Unkar Plutt's thugs attack her, stopping when he saw her quickly handle them by herself. He was not afraid to stand up for himself, pointedly telling Maz Kanata that she had no right to judge who he was.
-[
-5
-]
 The most important friends in Finn's life were Poe and Rey. They were his first real friends, and as such, he developed an unbreakable bond with each of them. Finn helped Poe escape the First Order as his first act of defection and Poe was the one who gave him a new name. Finn formed a bond of deep trust and care with Poe, and they showed to be great partners working together. After their crash in Jakku, Finn was relieved to see that he had survived as the two of them ran to embrace each other.
-[
-5
-]
 While they were infiltrating the First Order's Star Destroyer to rescue Chewie, Finn immediately stopped firing at the group of stormtroopers at the corridors out of concern for Poe after he was shot in the crossfire, and went to check if he was fine, which led them to be surrounded and captured.
-[
-11
-]
 Likewise, Finn also developed a strong bond with Rey, and the two of them trusted each other implicitly. His plan to infiltrate Starkiller Base was driven by his desire to rescue Rey, and, as soon as he awoke from his comatose state, he shouted her name in concern, and inquired Poe about her wellbeing.
-[
-9
-]
 He remained concerned for her until they were reunited on Crait, hugging her tightly upon their reunion.
-[
-9
-]
 Finn was also able to feel her death and subsequent revival through the Force because of their bond. After the end of the war against the First Order, Finn was reunited with his two best friends and embraced them both tightly as they celebrated the Resistance's victory.
-[
-11
-]
 Finn was brave in combat, but fearful of the First Order.
-Due to a lifetime of abuse at their hands, Finn feared going back to the First Order in the days after his desertion. He was reluctant to join the Resistance; he believed that it was a lost cause, and it would soon be destroyed by the First Order. He initially planned to escape to the Outer Rim and disappear, which he almost achieved at Kanata's castle on Takodana. His conscience won out, however, after seeing the destruction of the Hosnian System, inspiring him to join the subsequent battle against the First Order.
-[
-5
-]
+Due to a lifetime of abuse at their hands, Finn feared going back to the First Order in the days after his desertion.
+He was reluctant to join the Resistance; he believed that it was a lost cause, and it would soon be destroyed by the First Order.
+He initially planned to escape to the Outer Rim and disappear, which he almost achieved at Kanata's castle on Takodana.
+His conscience won out, however, after seeing the destruction of the Hosnian System, inspiring him to join the subsequent battle against the First Order.
 Finn was courageous in battle. Even though he had witnessed Kylo Ren's power time and again, he would be more than willing to fight him if it meant saving Rey.
-[
-5
-]
 He immediately ran to confront Phasma when he and Rose were faced with her contingent of Stormtroopers on board the
 Supremacy
 '
 s hangar, using the first weapon he could find, a Z6 Riot Control Baton. Once he'd committed to the cause, he was ultimately willing to go into battle and die for the Resistance without regard to his own life; he would rather die than let the First Order win.
-[
-9
-]
 By the time of the Battle of Exegol, Finn had become a calm, confident, and collected fully-fledged member of the Resistance, dedicated to destroying the First Order once and for all. He showed himself to be quite level-headed, often having to mediate arguments between the more impulsive and stubborn Rey and Dameron. Finn remained the only one of his friends unshaken in the face of the Final Order. He believed fully in the Resistance and in General Leia Organa.
-[
-11
-]
 Powers and abilities
 [
 ]
@@ -2103,13 +1704,7 @@ Powers and abilities
 FN-2187, your targeting was exemplary. According to the simulation, you fired your weapon only thirty-six times, scoring kills with thirty-five of those. You deployed one explosive, which resulted in the achieving of the objective and another six enemies killed. All of you should take your example from FN-2187.
 "
 ―Captain Phasma to FN-2187 and his team
-[
-7
-]
 As a stormtrooper, Finn consistently scored top marks in his training and was seen as someone who could become an ideal First Order trooper. His First Order training made him an effective marksman with a high kill rate.
-[
-7
-]
 This skill with a blaster translated well into skills as a gunner. During the escape from the
 Finalizer
 aboard a stolen TIE, Finn managed to kill dozens of stormtroopers, destroy the contents of the
@@ -2120,76 +1715,28 @@ starfighters
 . In fact, it was only Finn's distraction by an argument with Poe Dameron that led to the stolen TIE being struck by an incoming missile and disabled. The next day, Finn would man the ventral quad-laser cannon turret aboard the
 Millennium Falcon
 during the escape from Jakku, destroying one TIE on his own and one with assistance from Rey.
-[
-5
-]
 His shooting proved to again be valuable in vehicular combat as he shot at pursuing First Order snowspeeders on Starkiller Base while Rey drove a stolen snowspeeder.
-[
-20
-]
 He further demonstrated his marksmanship against TIE fighters while escaping the Sinta Glacier Colony with Dameron and Chewbacca.
 Finn was able to pilot ships if he needed to, but doubted his abilities and tended to prefer operating as a gunner.
-[
-20
-]
-[
-22
-]
 Besides that, he was also able to pilot a ski speeder during the Battle of Crait.
-[
-9
-]
 Finn's stormtrooper training included melee combat, which he similarly excelled in.
-[
-7
-]
 This likely transferred into his skill with a lightsaber, despite a lack of training with this particular weapon. He was able to hold his own against a stormtrooper with a riot baton, and despite being defeated, managed to inflict a shoulder wound on the more experienced Kylo Ren.
-[
-5
-]
 Aboard the
 Supremacy
 , Finn tested all his skill against his former superior officer, Captain Phasma, but it wasn't enough in a stand-up fight and he was only able to knock her down with the element of surprise and the high ground.
-[
-9
-]
 Finn showed excellent leadership and teamworking skills throughout his time with the Resistance. On the
 Millennium Falcon
 , Rey expressed how good of a team Finn, her, Han, and Chewbacca were.
-[
-18
-]
 Later on, Finn helped to take charge during operations and rally Resistance troops with inspiring words on multiple occasions.
-[
-9
-]
-[
-11
-]
 When Dameron became General of the Resistance, he promoted Finn to General as well, noting that he could not lead without Finn.
-[
-11
-]
 Like most other First Order stormtroopers, Finn was trained in dealing with wounds incurred on the battlefield. He made use of this training to aid a wounded Chewbacca.
-[
-19
-]
 Prior to his defection from the First Order, Finn was considered officer material.
-[
-21
-]
 Though untrained, Finn was Force-sensitive, which was part of what fueled his defection from the First Order. By the time of the Battle of Exegol, Finn was able to sense people and objects with the Force; he sensed Kylo Ren's presence while on Pasaana, and later on knew where the Final Order's navigational signal was based on "a feeling." He also felt Rey's death and reached out to her with the Force to try to help her return.
-[
-11
-]
 Equipment
 [
 ]
 Finn, wearing his First Order armor, with helmet removed
 During his time as a stormtrooper of the First Order, Finn wore the standard-issue stormtrooper armor
-[
-5
-]
 and used the standard
 F-11D blaster rifle
 . Following his desertion, he discarded his armor, but continued to wear the armor's
@@ -2197,40 +1744,19 @@ body glove
 and
 boots
 , and took to wearing Poe Dameron's Resistance fighter jacket
-[
-43
-]
 as a way to remember him.
-[
-5
-]
 Later he was given a
 EL-16 blaster rifle
-[
-43
-]
 by Han Solo, but he lost it during the destruction of Maz Kanata's castle and got a new one of the same model at the Resistance base on D'Qar. Upon discovering that Dameron was alive, Finn offered him his jacket back, but the pilot insisted he keep it.
-[
-5
-]
 After reawakening aboard the
 Raddus
 , Finn took off the flexpoly bacta suit and again wore his new jacket, but instead of his old bodyglove he wore a white shirt with a wide neckline. While infiltrating the
 Supremacy
 , he and Tico disguised themselves with First Order officer uniforms.
-[
-9
-]
 Around the battle of Exegol, Finn wore a brown leather vest similar to his previous jacket and a brown shirt and blue pants
-[
-11
-]
 and used a
 Glie-44 blaster pistol
 .
-[
-3
-]
 Behind the scenes
 [
 ]
@@ -2254,80 +1780,41 @@ April 29
 ,
 2014
 ,
-[
-44
-]
 and his character was first revealed in the first teaser trailer for
 The Force Awakens
 on
 November 28
 , 2014.
-[
-45
-]
 His name was revealed by
 Entertainment Weekly
 in an exclusive digital trading card.
-[
-46
-]
 The Force Awakens
 and
 The Rise of Skywalker
 director
 J.J. Abrams
 stated prior to the sequel trilogy's start that it was "completely intentional" that no last name was provided for the character,
-[
-47
-]
 the film itself revealing that "Finn" was a name given to the character following his desertion from the stormtrooper ranks.
-[
-5
-]
 During pre-production, Abrams used the placeholder name "Harry" up until they decided on the name "Sam," which was finally changed to Finn.
-[
-48
-]
 The writers of Episode VII decided to make Finn as a deserting stormtrooper as
 Lawrence Kasdan
 felt it would be "incredible" to have their protagonist be from a group of previously "faceless, indistinguishable automatons."
-[
-49
-]
 Co-writer
 Michael Arndt
 remembered that an exasperated Kasdan blurted out his idea when they were struggling to decide on a unique background for their male lead.
-[
-50
-]
 Boyega, whom Abrams described as one of the biggest
 Star Wars
 fans in the cast, auditioned nine times for the role.
-[
-49
-]
 Boyega reflected in
 2025
 that auditioning so many times hurt his dignity, and, so, he tried to pretend he was busy when Abrams finally called him back. According to Boyega, he had only forty-five pounds in his bank account when he was cast as Finn and spent over thirty-three of those pounds to reach a dinner meeting with Abrams, where he was told he had the part.
-[
-51
-]
 Unlike his costar
 Daisy Ridley
 , Boyega performed with an American accent as Abrams felt his London one was not right for the role,
-[
-52
-]
 and it was only by switching his accent that Boyega was able to land more auditions.
-[
-53
-]
 Boyega said he considers Finn to be the audience's surrogate, explaining, "During the auditions I found that my niche for this character was definitely in the more humor and fear. So he just represents us in the film — just finally having a
 Star Wars
 character that goes, 'This is really dangerous.' Finn is a part of myself, just magnified a tad." Conversely, he also feels Rey is the lead who gets stressed out by her journey, while Finn is the one having fun.
-[
-54
-]
 The Rise of Skywalker
 [
 ]
@@ -2338,36 +1825,22 @@ quicksand
 , and afterwards declines to bring it up again. Co-writer
 Chris Terrio
 commented, "There are some people who read it as Finn having feelings for Rey; there are some who read it as Finn trying to make that Force-related confession [that he's Force-sensitive]."
-[
-55
-]
 Boyega himself appeared to have the latter interpretation of the moment, tweeting, "No… Finn wasn't going to say I love you before sinking!"
-[
-56
-]
 J.J. Abrams allegedly told a fan after an Academy screening of the film that Finn was indeed going to reveal his Force-sensitivity, but Abrams decided to keep it open-ended.
-[
-57
-]
 In
 2025
 , Boyega outright confirmed that Finn was talking about his Force-sensitivity and that it was outright said in several takes of the sandpit scene.
-[
-51
-]
-Terrio elaborated, "What's undeniable is that in the middle of the battle [on Exegol], when the source of the navigation signal is changed, Finn has a very strong sense of where it is, and that's knowledge he couldn't really have unless he was using the Force. So, the story is certainly pointing that way, and then, in the moment of Rey's death… I shouldn't use the word death because death is a complicated word there… But in the moment — it's not a death per se — when the life is going out of Rey, Finn can feel her and her last breaths. He stops and feels Rey. Chewie and Jannah don't understand it as they're in the frame behind him. When Rey is breathing what seemed to be her last breaths and almost all of the life is drained out of her, Finn can feel it." He also said the development was meant to reinforce
+Terrio elaborated, "What's undeniable is that in the middle of the battle [on Exegol], when the source of the navigation signal is changed, Finn has a very strong sense of where it is, and that's knowledge he couldn't really have unless he was using the Force.
+So, the story is certainly pointing that way, and then, in the moment of Rey's death… I shouldn't use the word death because death is a complicated word there… But in the moment — it's not a death per se — when the life is going out of Rey, Finn can feel her and her last breaths.
+He stops and feels Rey.
+Chewie and Jannah don't understand it as they're in the frame behind him.
+When Rey is breathing what seemed to be her last breaths and almost all of the life is drained out of her, Finn can feel it." He also said the development was meant to reinforce
 The Last Jedi
 '
 s theme that "you don't have to be a Skywalker or a Palpatine in order to be strong with the Force."
-[
-55
-]
 According to
 The Art of Star Wars: The Rise of Skywalker
 , among the storylines considered for Finn were having him reunite with a long-lost sibling during an intelligence gathering mission.
-[
-58
-]
 Boyega stated that he had a great deal of fun on
 The Rise of Skywalker
 and believes "some of the narrative about Finn" teased in
@@ -2377,9 +1850,6 @@ The Force Awakens
 . He's concluded that he disagrees with several narrative decisions in
 The Last Jedi
 but reflected those debates are part of what makes being a fan fun.
-[
-51
-]
 In December 2019, around the release of
 The Rise of Skywalker
 , Boyega said he would be open to returning to
@@ -2389,9 +1859,6 @@ Daisy Ridley
 and
 Oscar Isaac
 .
-[
-59
-]
 In retrospect
 [
 ]
@@ -2399,15 +1866,9 @@ In retrospect
 What I would say to Disney is do not bring out a black character, market them to be much more important in the franchise than they are and then have them pushed to the side. It's not good. I'll say it straight up.
 "
 ―John Boyega in 2020
-[
-60
-]
 Following the conclusion of the
 sequel trilogy
 , Boyega gave an interview in 2020 in which he was critical of the treatment of his character, believing Finn had been pushed in marketing for a role the character was not given. As a black actor, he felt insulted by the difference in how Finn was marketed and how the character was used in story.
-[
-60
-]
 In
 2023
 , Boyega gave another interview in which he touched on his
@@ -2423,9 +1884,6 @@ Star Wars: The Mandalorian
 and
 Star Wars: Obi-Wan Kenobi
 , as a fan.
-[
-61
-]
 In a later 2023 interview with
 TechRadar
 , Boyega reflected on his comments from 2020 as something he had said "a few years ago, so they were the subject of that particular project." In the new interview, he affirmed he was open to a
@@ -2433,17 +1891,11 @@ Star Wars
 return by saying he was "open to all opportunities" and characters.
 TechRadar
 took Boyega's comments as proof that he had "made peace with his experience."
-[
-62
-]
 In 2025, in an interview at Chicago Comic and Entertainment Expo, Boyega affirmed that he had found a peace with
 Star Wars
 by enjoying it as a fan, particularly expressing joy at the announcement of a
 Rey film
 staring Ridley.
-[
-51
-]
 In the 2025 documentary
 Number One on the Call Sheet: Black Leading Men in Hollywood
 , Boyega expressed frustrations with the
@@ -2453,13 +1905,7 @@ Star Wars
 fans. Based on the commentary of those groups, he expressed a belief that racist
 Star Wars
 fans were only okay with a black actor taking on "the best friend" role, with those fans then drawing the line at allowing a black actor a chance at a central character.
-[
-63
-]
 In his Chicago Comic and Entertainment Expo interview, Boyega stated he does not want to speculate about Finn's future. According to Boyega, such speculation can lead to one "over projecting" on a character and then being disappointed if that character's canon story goes in a different path. Instead, he said he believed Finn's story could go in any direction, although Boyega expressed particular interest in being a "scoundrel Jedi" who used a lightsaber-blaster hybrid.
-[
-51
-]
 Appearances
 [
 ]

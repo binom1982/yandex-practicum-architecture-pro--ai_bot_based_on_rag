@@ -11,9 +11,6 @@ Link
 (
 file info
 )
-[
-12
-]
 Luke Skywalker
 , a
 Force-sensitive
@@ -666,9 +663,6 @@ Pre-birth
 He is to teach one that will save the universe from a great imbalance.
 "
 ―Serenity, concerning Yoda's future training of Luke Skywalker
-[
-21
-]
 During Yoda's training, the Force Priestesses prophesied the coming of another Skywalker.
 During the
 Clone Wars
@@ -688,17 +682,11 @@ Force Priestess
 ,
 Serenity
 , who guided his journey told him that there was another Skywalker, and Yoda heard his voice from the future say so as well.
-[
-22
-]
 These events alluded to the birth and destiny of Luke Skywalker, as well as his
 twin
 sister
 Leia
 .
-[
-12
-]
 Early life
 [
 ]
@@ -718,9 +706,6 @@ Link
 (
 file info
 )
-[
-13
-]
 Obi-Wan Kenobi was the first person to hold the newborn Luke Skywalker.
 After his father, the former
 Jedi Knight
@@ -739,31 +724,19 @@ Polis Massa
 by Jedi Master
 Obi-Wan Kenobi
 to seek medical attention.
-[
-13
-]
 In the surgical suite of the
 medical facility
 on
 Polis Massa Base
 ,
-[
-23
-]
 Amidala was
 dying
 despite being otherwise healthy. Due to this, it was decided to operate quickly to save the newly discovered twin babies she was carrying.
-[
-13
-]
 Luke Skywalker was
 born
 on
 19 BBY
 ,
-[
-3
-]
 two
 days
 after the
@@ -771,13 +744,7 @@ proclamation
 of the
 Galactic Empire
 .
-[
-2
-]
 He
-[
-1
-]
 came out of the womb crying, and in her last dying breaths, Amidala gave him the name Luke. She stroked Skywalker's arm before giving birth seconds later to his sister, who Amidala named Leia. To protect the children from the Empire and their father, the now-
 Sith Lord
 Darth Vader, it was decided that the twins should be split up. Obi-Wan Kenobi volunteered to take the infant Luke to be raised by Anakin's stepbrother,
@@ -792,9 +759,6 @@ Bail Organa
 agreed to adopt Leia together with his wife, the
 queen of Alderaan
 .
-[
-13
-]
 Kenobi boarded the late General
 Grievous
 's starfighter, the
@@ -802,20 +766,11 @@ Soulless One
 , once more flew to the planet
 Nar Shaddaa
 and sold it there to transport Luke Skywalker to Tatooine.
-[
-24
-]
 There, Kenobi bought an
 eopie
-[
-25
-]
 and rode it the
 Lars homestead
 , giving the swaddled baby to Beru Lars. She brings the baby to her husband Owen, who fauns over the child before looking out to the twin sunset of Tatooine.
-[
-13
-]
 First years on the farm
 [
 ]
@@ -825,9 +780,6 @@ And what of the boy?"
 To Tatooine. To his family, send him.
 "
 ―Obi-Wan Kenobi and Yoda discuss Skywalker's future
-[
-13
-]
 Skywalker was sent away to live with his relatives on Tatooine.
 Luke Skywalker spent his youth on the
 Lars
@@ -837,9 +789,6 @@ on a
 spice
 freighter
 " during the Clone Wars.
-[
-1
-]
 His aunt, Beru, would read him storybooks. One day, when his uncle had business in
 Mos Eisley
 , she took Skywalker to
@@ -851,21 +800,19 @@ forests
 , rivers, and
 oceans
 .
-[
-6
-]
 By the age of three in
 16 BBY
 , Skywalker had found pleasure playing with a model spaceship built especially for him. He did not know that Kenobi had actually built it and that Kenobi had been leaving several of them at his grandmother,
 Shmi's
 sandblasted tombstone for his aunt to find. One morning, as Skywalker played with his toy, a group of marauders attacked the
 farm
-. Obi-Wan Kenobi, who had been watching him from afar, sprang into action, cutting down several Gamorreans before coming to the realization that he was badly outnumbered. Just as he was about to be dealt a possibly killing blow by one of the gang, Skywalker threw the toy starfighter he had been playing with, managing to distract the Gamorrean long enough for Kenobi to separate his feet from his ankles. The battle then raged further, slowly turning in the favor of the defenders which included Owen Lars, who managed to gun down several of the invaders with a blaster. Luke cried out after noticing that one of the marauders, a
+.
+Obi-Wan Kenobi, who had been watching him from afar, sprang into action, cutting down several Gamorreans before coming to the realization that he was badly outnumbered.
+Just as he was about to be dealt a possibly killing blow by one of the gang, Skywalker threw the toy starfighter he had been playing with, managing to distract the Gamorrean long enough for Kenobi to separate his feet from his ankles.
+The battle then raged further, slowly turning in the favor of the defenders which included Owen Lars, who managed to gun down several of the invaders with a blaster.
+Luke cried out after noticing that one of the marauders, a
 Devaronian
 , had snuck up behind Lars, ready to knock him out. Kenobi then threw his lightsaber cutting the last marauder in half. As Skywalker cheered, Lars threw a punch which knocked Kenobi to the ground. Lars then ushered Skywalker back before chastising Kenobi for his involvement, pointing out the fact that Skywalker's brief show of bravery had potential ramifications for the boy's future.
-[
-26
-]
 Vader's vision
 [
 ]
@@ -876,9 +823,6 @@ portal
 to the dark side created by
 Darth Momin
 in an attempt to revive Padmé Amidala. He eventually found an apparition of Amidala standing on a balcony, who rejected his pleas and threw itself off the ledge and was incinerated by lightning. Just after this, Vader saw a blue light in the distance, out of which emerged an apparition of an adult Luke Skywalker, who blasted him back to reality.
-[
-27
-]
 Brushes with Kenobi
 [
 ]
@@ -892,24 +836,15 @@ And I will. You know, you were right. He just needs to be a boy. The future will
 I will.
 "
 ―Owen Lars and Obi-Wan Kenobi on Luke's future
-[
-28
-]
 Luke Skywalker around ten years of age.
 As Skywalker got older, Owen and Beru started homeschooling him so he could stay close and learn the family trade. Despite this, he still kept up with Tatooine's
 podracing
 ,
 swoop racing
 , and sky racing culture through comms stations and local chatter. He dreamed of what it would be like to one day be the pilot of a ship.
-[
-25
-]
 In
 9 BBY
 ,
-[
-3
-]
 Kenobi looked in on Skywalker via
 macrobinoculars
 around the same time that the Empire's
@@ -918,15 +853,13 @@ came
 to Tatooine looking for the Jedi
 Nari
 . Skywalker was tasked with a chore by Lars but instead disappeared causing Lars and Beru to wonder where he went. In reality, he had gone to the roof of one of the homestead wearing a mask and pretending he was piloting a space vehicle.
-[
-28
-]
 The next evening, Kenobi visited the Lars homestead and left a
 toy model
-of a T-16 skyhopper for Skywalker. Lars found the toy and returned it to Kenobi the next day telling him to stay away from Skywalker and that they would not accept gifts from Kenobi. Kenobi tried to explain to Lars that there was more to life than just his farm and that there was a whole galaxy out there for Skywalker to explore. Despite being concerned for Skywalker, Lars accused Kenobi of only caring about his well-being only if he was showing signs of force-sensitivity. Lars refused once again to let Kenobi train Skywalker.
-[
-28
-]
+of a T-16 skyhopper for Skywalker.
+Lars found the toy and returned it to Kenobi the next day telling him to stay away from Skywalker and that they would not accept gifts from Kenobi.
+Kenobi tried to explain to Lars that there was more to life than just his farm and that there was a whole galaxy out there for Skywalker to explore.
+Despite being concerned for Skywalker, Lars accused Kenobi of only caring about his well-being only if he was showing signs of force-sensitivity.
+Lars refused once again to let Kenobi train Skywalker.
 While Kenobi was off-world, having been sent by Bail Organa to protect Leia, Kenobi received a transmission from Bail, who was worried that Kenobi had not communicated with him. Bail informed him that if Vader had learned of Skywalker and Leia's existence, or if he did not hear back from Kenobi, he would go to Tatooine to help Lars with Skywalker. After an Imperial
 attack
 on
@@ -936,23 +869,11 @@ holoprojector
 disk containing Bail's message was found by former Inquisitor
 Reva Sevander
 who learned from it that Vader's son was on Tatooine in the care of someone named Owen,
-[
-29
-]
 who she had met.
-[
-28
-]
 As she started to pursue Skywalker, Kenobi sensed something was wrong in the Force.
-[
-29
-]
 Luke did some work on Owen's speeder and accidentally broke it, so he was marched into a repair shop with Owen to have it fixed. However, the former Inquisitor
 Reva Sevander
 , blinded by rage and focusing that anger on the boy, traveled to Tatooine on the hope that killing Luke would bring her justice.
-[
-30
-]
 Luke Skywalker doing chores
 Warned of Sevander's coming
 attack
@@ -961,9 +882,6 @@ triumph
 over Vader on a
 barren moon
 before returning upon sensing that he was in danger, Luke was ushered back to the homestead by Owen and Beru. The following day, Kenobi stopped by to meet with Owen, who allowed Kenobi to finally meet the young Skywalker.
-[
-30
-]
 Taking on Jabba's thugs
 [
 ]
@@ -975,9 +893,6 @@ farmers
 , I was taking it back.
 "
 ―One of Jabba's thugs and Luke Skywalker
-[
-31
-]
 Unknown to Skywalker, he was protected by his father's former friend, Jedi Master Obi-Wan Kenobi.
 During the
 Great Drought
@@ -997,9 +912,6 @@ farmers
 . Kenobi, who sensed the danger his protégé was in, blew their vehicle's lights with
 the Force
 to hide his identity, and proceeded to disable all of Jabba's henchmen. One of them became startled and pushed Skywalker to the ground, causing him to hit his head and pass out. Once Kenobi handled the thugs, he carried Skywalker to the Lars' homestead where he was found asleep, unaware of his savior's identity, by his aunt in the morning.
-[
-31
-]
 Saving Uncle Owen
 [
 ]
@@ -1007,9 +919,6 @@ Saving Uncle Owen
 Hang on, Uncle Owen!
 "
 ―Luke Skywalker after rescuing his uncle
-[
-32
-]
 Safe from the bounty hunter, Lars is reunited with Skywalker.
 A
 year
@@ -1022,17 +931,21 @@ Beggar's Canyon
 . Despite some daring moves, Skywalker ended up crashing the vehicle, leading to his uncle Owen grounding him. Skywalker offered to pay for the damage by flying in a race at nearby Anchorhead, but Lars stood his ground. Unbeknownst to both of them, Obi-Wan Kenobi used
 Jawas
 to leave Skywalker some skyhopper parts. An angry Owen returned the parts to Kenobi and told him to leave the family alone.
-[
-33
-]
 Some
 time
 after grounding Skywalker from flying his skyhopper, Lars attempted to rebuild his relationship with his nephew by looking to help him fix it. However, before he could, he was captured by the Wookiee bounty hunter
 Krrsantan
-and tortured. Meanwhile, Skywalker was running away from home for not the first time. However, he sensed something was wrong and rushed to his homestead. When he arrived, he found many droids destroyed and his aunt Beru rattled, telling him of the attack. She ordered her nephew to lock himself in the homestead's maintenance bay, where he found his disabled skyhopper. He proceeded to fix it and make his way to Krrsantan and Owen. As he flew there, the Wookiee was engaged by Obi-Wan Kenobi. During this battle, Owen was thrown off a cliff. Before he could hit the bottom, Skywalker, in his skyhopper, managed to catch him and escape. Meanwhile, Kenobi defeated Krrsantan. Afterwards, Skywalker was allowed to fly his skyhopper once again.
-[
-32
-]
+and tortured.
+Meanwhile, Skywalker was running away from home for not the first time.
+However, he sensed something was wrong and rushed to his homestead.
+When he arrived, he found many droids destroyed and his aunt Beru rattled, telling him of the attack.
+She ordered her nephew to lock himself in the homestead's maintenance bay, where he found his disabled skyhopper.
+He proceeded to fix it and make his way to Krrsantan and Owen.
+As he flew there, the Wookiee was engaged by Obi-Wan Kenobi.
+During this battle, Owen was thrown off a cliff.
+Before he could hit the bottom, Skywalker, in his skyhopper, managed to catch him and escape.
+Meanwhile, Kenobi defeated Krrsantan.
+Afterwards, Skywalker was allowed to fly his skyhopper once again.
 Other adventures
 [
 ]
@@ -1043,29 +956,17 @@ Who…who are you?
 Ben Kenobi. You can call me Ben. I am an old friend of your father.
 "
 ―Luke Skywalker and Obi-Wan "Ben" Kenobi, after the latter saves the former
-[
-34
-]
 Eventually, Skywalker became an adventure-seeking youth who demonstrated his father's natural
 piloting
 skills, as well as a strong desire to leave Tatooine.
-[
-1
-]
 At one point in his boyhood, Skywalker was climbing in a canyon, but, when he grabbed the top, the rock broke off. Skywalker fell into a cave, where he was seen by a group of
 womp rats
 and a
 krayt dragon
 , although he managed to escape the creatures.
-[
-35
-]
 When Skywalker was 12 years old in
 7 BBY
 ,
-[
-36
-]
 he and his friend,
 Windy
 went off on their own through the Tatooine desert and wandered away from the
@@ -1075,19 +976,10 @@ dewback
 . The two encountered a
 sandstorm
 during their time outside and both lost consciousness. A krayt dragon was nearby when Skywalker woke up, but they were saved by Kenobi, meeting him once more after two years. Skywalker asked him who he was, and Kenobi revealed that his name was Ben Kenobi and an old friend of his father. Soon after, Skywalker exhausted and with Windy, he returned safely to their homes, carried on a dewback.
-[
-34
-]
 As the years passed, Kenobi continued to watch over his friend's son from afar.
 As more of Skywalker's friends left the planet to follow their dreams, he became increasingly frustrated that his uncle would not allow him to do the same, claiming that he still needed help with the farm. In truth, Owen was trying to prevent Skywalker from following in his father's footsteps.
-[
-1
-]
 In
 2 BBY
-[
-37
-]
 Skywalker was helping at his foster parent's moisture farm when Beru called him inside. As Skywalker ran back to the house, he was watched in the distance by Obi-Wan Kenobi, who was riding a dewback. Kenobi had just
 defeated and killed
 the former
@@ -1099,39 +991,18 @@ thirty years earlier
 . In his final moments, Maul asked Kenobi if he was guarding Skywalker. Kenobi affirmed that he believed Luke was the
 Chosen One
 before Maul passed away.
-[
-38
-]
 When not helping his uncle, Skywalker would occasionally go bulls-eye womp rats, or go racing through the dangerous Beggar's Canyon in his T-16 skyhopper by the age of thirteen.
-[
-6
-]
 He would also spend time at
 Tosche Station
 with his friends, such as Biggs Darklighter,
-[
-1
-]
 "Fixer,"
 Camie Marstrap
 ,
-[
-39
-]
 Windy, and
 Deak
 ;
-[
-6
-]
 some of them called him "Wormie."
-[
-40
-]
 However, Luke spent most of his time working and always had to be helpful.
-[
-1
-]
 Joining the Rebellion
 [
 ]
@@ -1148,23 +1019,14 @@ Link
 (
 file info
 )
-[
-1
-]
 In
 1 BBY
 ,
-[
-41
-]
 Skywalker was working on the family farm by repairing moisture vaporators with one of their
 WED Treadwell repair droid
 when he spotted a
 battle over Tatooine
 ;
-[
-42
-]
 unknown to the young man, it was the Rebel starship
 Tantive IV
 being chased by the
@@ -1172,32 +1034,14 @@ Imperial I
 -class Star Destroyer
 Devastator
 .
-[
-1
-]
 Heading to Tosche Station, Skywalker swapped stories with his friends, among them a visiting and recently-graduated Darklighter,
-[
-43
-]
 who was reluctant to believe Skywalker's claims about a battle upon looking up with Skywalker's macrobinoculars and merely seeing the two craft sitting still in space.
-[
-44
-]
 Nonetheless, Skywalker was then eager to tell his friend of his recent exploits aboard his skyhopper in Beggar's Canyon, which Darklighter was amused by. After warning his friend not to crash the ship,
-[
-45
-]
 he leaned close to Skywalker to tell his old friend a great secret: he intended to defect from the Empire to join the
 Rebel Alliance Starfighter Corps
 .
-[
-46
-]
 Skywalker "stumbles" upon the recording of Princess Leia Organa.
 Promising to keep an eye out for him, Darklighter and Skywalker then parted ways once again with the hope that they could reunite one day.
-[
-47
-]
 A short time later, the purchase of two
 droids
 —
@@ -1205,13 +1049,7 @@ R2-D2
 and
 C-3PO
 —by Skywalker's step-uncle changed the young farm boy's life forever. Obtaining the droids from a band of Jawas to help with various tasks around the homestead, neither of them were aware that the droids had narrowly escaped from the battle
-[
-1
-]
 Skywalker had glimpsed,
-[
-42
-]
 and that R2-D2 contained a set of
 plans
 for the Empire's dreaded
@@ -1220,9 +1058,6 @@ superweapon
 . While cleaning the two new droids back at the homestead, Skywalker learned that they had been involved with the Rebel Alliance, and witnessed part of a desperate message from
 Princess
 Leia Organa requesting help from someone named "Obi-Wan Kenobi," whom R2-D2 claimed that he once belonged to.
-[
-1
-]
 Chasing after R2-D2 when the droid ran off to find Kenobi, Skywalker soon found himself in the company of Kenobi after being attacked by a
 group
 of
@@ -1234,25 +1069,13 @@ Jedi's home
 , Kenobi soon revealed to Skywalker that he had once been a Jedi Knight who served in the Clone Wars with Skywalker's father. He went on to inform Skywalker that his father was not a spice freighter navigator like his uncle had always told him, but a Jedi Knight struck down by Darth Vader. Skywalker was also given his father's
 lightsaber
 by Kenobi,
-[
-1
-]
 allowing the blade to be ignited for the first time in years.
-[
-36
-]
 After he showed Princess Leia's message in its entirety to Kenobi, the old Jedi Master requested Skywalker's help to see the mission through, and offered to show him the ways of the Force. Skywalker initially refused to get involved, as he believed his duties at home were more important, but he offered to take Kenobi to Anchorhead.
-[
-1
-]
 On their way to Anchorhead, Skywalker and Kenobi came upon a group of slaughtered Jawas—the same ones who sold the droids to his uncle. Skywalker deduced from learning that Imperial
 stormtroopers
 were responsible that they might have looked into the sales records of the droids, and rushed home in the hopes of saving his step-aunt and step-uncle. Upon returning home, Skywalker discovered that he was too late: his step-aunt and step-uncle had been murdered by the Empire. With the people who raised him dead, he decided to accompany Kenobi to
 Alderaan
 to deliver the plans back to the Alliance and learn the ways of the Jedi.
-[
-1
-]
 Jedi training
 [
 ]
@@ -1260,18 +1083,12 @@ Jedi training
 Force is what gives a Jedi his power. It's an energy field created by all living things. It surrounds us and penetrates us. It binds the galaxy together
 "
 ―Obi-Wan Kenobi explains the force to Luke Skywalker
-[
-1
-]
 Skywalker learned through Kenobi that his father was once a Jedi Knight of the Galactic Republic and began his path to be a Jedi under Kenobi.
 On their way to Mos Eisley, Kenobi began
 training
 him and gave Skywalker his first lesson, during which he learned the basics of
 Jedi meditation
 .
-[
-48
-]
 They would later reach
 Chalmun's Spaceport Cantina
 , where Kenobi believed that they could find a pilot that could get them to Alderaan. Inside the cantina, Skywalker nearly had a fatal run-in with the criminals
@@ -1281,9 +1098,6 @@ Dr. Evazan
 , but trouble was avoided when Kenobi sliced off Baba's arm with his
 lightsaber
 in defense of Skywalker.
-[
-1
-]
 The two were eventually able to find a pilot that could take them to Alderaan in the form of
 Han Solo
 , a
@@ -1298,15 +1112,9 @@ speeder
 to
 Wioslea
 to pay for the two thousand up front.
-[
-1
-]
 As they left the cantina, they were also cornered by a
 stormtrooper
 , but Kenobi took out the trooper with the Force by throwing large pieces of metal. With it clear that stormtroopers were all around the city, the two moved to quickly depart Mos Eisley.
-[
-34
-]
 After escaping stormtroopers on Solo's ship, the
 Millennium Falcon
 , Kenobi began Skywalker's instruction in the ways of the Force, using a
@@ -1314,12 +1122,6 @@ training remote
 to instruct him in basic
 lightsaber combat
 , much to the derision of Solo, who dismissed it as a "hokey religion."
-[
-1
-]
-[
-48
-]
 Wearing a
 helmet
 that completely covered his
@@ -1327,9 +1129,6 @@ eyes
 for part of the lesson, Kenobi encouraged him to reach out with the Force to combat the remote. Despite his vision being totally impaired, Skywalker was able to successfully deflect a pair of
 blaster bolts
 from the remote, claiming that he could "almost see" the remote through the Force.
-[
-1
-]
 Death Star rescue
 [
 ]
@@ -1349,9 +1148,6 @@ Ben Kenobi?! Where is he?!
 Come on!
 "
 ―Luke Skywalker and Leia Organa
-[
-1
-]
 Skywalker rescued Princess Leia Organa, completely unaware that she was his twin sister.
 The lesson, however, was soon interrupted by their arrival in the
 Alderaan system
@@ -1366,9 +1162,6 @@ tractor beam
 , they were brought aboard the massive
 space station
 .
-[
-1
-]
 Once on board, Luke and Han knocked two stormtroopers out and stole their armor, whereas Kenobi set out to deactivate the tractor beam. However, when R2-D2 discovered that Leia Organa was being held captive on the station, Skywalker insisted on
 rescuing
 her. Though Solo was reluctant to go marching into the
@@ -1384,17 +1177,8 @@ Omi
 , the group escaped the compactor and headed back to the
 Millennium Falcon
 , but not before avoiding more troopers. Though Skywalker and Organa were separated from Solo and Chewbacca, they were able to reunite with their companions, and the droids, in the hangar bay.
-[
-1
-]
 Eventually, the group escaped the Death Star, but only after Kenobi sacrificed himself in a duel with Darth Vader.
-[
-1
-]
 Angry and confused, Organa offered some comfort for his grief.
-[
-6
-]
 Despite the fact that they had escaped from the Death Star, a pursing TIE fighter patrol was on the verge of catching up to them, so at Solo's request, Skywalker manned one of the
 Millennium Falcon
 '
@@ -1405,9 +1189,6 @@ rebel base
 on
 Yavin 4
 , unaware that the Death Star was tracking them.
-[
-1
-]
 Battle of Yavin
 [
 ]
@@ -1415,16 +1196,10 @@ Battle of Yavin
 It'll be like old times, Luke. They'll never stop us.
 "
 ―Biggs Darklighter, to Luke Skywalker, just before the Battle of Yavin
-[
-1
-]
 Skywalker fought for the Rebel Alliance as an X-wing starfighter pilot during the Battle of Yavin.
 Upon their arrival at the Yavin base, they met with
 Commander
 Willard
-[
-1
-]
 and Organa introduced him to Skywalker so that he could join the Rebel Alliance as a
 pilot
 . Skywalker then separated and met
@@ -1432,31 +1207,19 @@ Wedge Antilles
 , who oversaw his flight simulation test. Lasting no more than 30
 seconds
 , the more experienced pilot advised Skywalker to listen to his explanations, and encouraged him not to give up. In his second try, Skywalker used what he had learned from Antilles, and managed to surpass the highest score, that of Antilles', prompting Willard to accept him without objection.
-[
-6
-]
 He joined
 Red Group
 with the designation of
 Red Five
 ,
-[
-1
-]
 which had previously belonged to a
 cadet
 named
 Pedrin Gaul
 ,
-[
-49
-]
 who had perished during the
 Battle of Scarif
 several days earlier.
-[
-50
-]
 After the briefing for their plan of attack against the incoming Death Star, Skywalker prepared himself for the attack, when he saw Solo loading his payment onto the
 Falcon
 for rescuing Organa and prepared to leave the group. Skywalker attempted to persuade him to stay and help them against the Empire, but Solo refused, claiming that the attack on the Death Star was suicide rather than bravery, deeply disappointing him. After bidding farewell to Organa as well, Skywalker was about to board
@@ -1465,15 +1228,9 @@ T-65B X-wing starfighter
 , when he encountered his old friend, Biggs Darklighter, the two about to be flying as wingmen in the upcoming battle. In a brief conversation, Darklighter promised Luke that the two would catch up on each other's stories when they got back. Skywalker was also approached by
 Garven Dreis
 , the commander of Red Squadron, who asked him if he was sure he could handle the X-wing, to which Darklighter vouched for his friend, calling him the "best bush pilot in the Outer Rim Territories."
-[
-1
-]
 Skywalker was assigned command of
 fourth flight
 for the battle.
-[
-51
-]
 As the
 Battle of Yavin
 got underway and Skywalker and his fellow squadmates launched into space, Skywalker was guided by the spirit of Obi-Wan Kenobi. He participated in Red Squadron's initial assault on the Death Star's outer defenses, primarily focusing on disabling the station's numerous
@@ -1485,17 +1242,11 @@ meridian trench
 , as well as Commander Dreis when he made his attack run. Eventually, Darth Vader himself joined the fray in a
 TIE Advanced x1
 and succeeded in thwarting the first two attack runs. Just before he was shot down by the Sith Lord, Commander Dreis instructed Skywalker to lead a third and final run on the trench with Darklighter and Antilles.
-[
-1
-]
 Skywalker took charge of the last attempt on the
 thermal exhaust port
 as instructed, but Vader and his two escort fighters soon caught up to them. Antilles was forced to withdraw after his starfighter suffered damage, and Darklighter was eventually shot down as well. Unable to grieve for his fallen friend, Skywalker tried to focus on his target. He was once again contacted by the spirit to Kenobi, who urged him to let the Force guide him. This prompted Skywalker to disable his starfighter's
 targeting computer
 , much to the confusion of the Rebel leaders continuing to monitor the battle from the surface of Yavin 4.
-[
-1
-]
 Just as Skywalker reached the end of the trench, it appeared as though Vader would shoot him down like he had the other pilots, but before he could, Han Solo and Chewbacca showed up in the
 Millennium Falcon
 , destroying Vader's two escorts and causing Vader's TIE Advanced to spiral out of control away from the trench. At Solo's urging, Skywalker took a single shot and fired two
@@ -1503,9 +1254,6 @@ proton torpedos
 , using the Force to guide them to their target, which resulted in the destruction of the Death Star. For this action he, Chewbacca, and Han Solo were awarded the
 Medal of Bravery
 the next morning.
-[
-1
-]
 After destroying the Death Star, Skywalker became a fully committed soldier in the Rebellion.
 Just as the
 ceremony
@@ -1522,15 +1270,9 @@ hyperspace
 with course to
 Naboo
 , with R2-D2 accompanying the two women.
-[
-52
-]
 They would later reunite after she had successfully accomplished her
 mission
 .
-[
-53
-]
 Soon after, Skywalker became an
 officer
 in the Alliance and was given the
@@ -1538,9 +1280,6 @@ rank
 of
 Lieutenant
 and was regularly assigned numerous independent missions.
-[
-54
-]
 Hero of Yavin
 [
 ]
@@ -1556,19 +1295,18 @@ don't
 got me! I'm not part of the Rebellion!
 "
 ―Skywalker and Solo
-[
-55
-]
 Despite his assistance in the fight, Solo largely divested himself from the Alliance after the Battle of Yavin. When Skywalker heard that Solo had camped out on
 Balnab
 , he and some members of the Rebellion briefly went there to meet him. Skywalker approached Solo and Chewbacca on the
 Millennium Falcon
 , the latter roughing him up when he insulted the ship. Despite Solo's prodding and boasting of getting his reward money, Skywalker insisted that he was not running away from Rebel life and had just come to see him. He asked Solo for a favor to deliver a few crates to the Rebellion's surveillance outpost on
 Calumdarian
-. Solo insisted that he was not a part of the Rebellion and did not want to do it, saying he had already done a mission for Organa and saved Skywalker's life at Yavin. Skywalker insisted that it was serious and that lives were at stake as Rebel pilots started to bring the crates aboard the ship. Skywalker pointed out that Solo was the best smugger they had. While Solo tried to insist that they did not have him because he was not a part of the Rebellion, Skywalker thanked the pilots for bringing the crates on board as he left. Solo ended up successfully completing the mission.
-[
-55
-]
+.
+Solo insisted that he was not a part of the Rebellion and did not want to do it, saying he had already done a mission for Organa and saved Skywalker's life at Yavin.
+Skywalker insisted that it was serious and that lives were at stake as Rebel pilots started to bring the crates aboard the ship.
+Skywalker pointed out that Solo was the best smugger they had.
+While Solo tried to insist that they did not have him because he was not a part of the Rebellion, Skywalker thanked the pilots for bringing the crates on board as he left.
+Solo ended up successfully completing the mission.
 Rion
 [
 ]
@@ -1583,22 +1321,13 @@ why
 she's worried.
 "
 ―Han Solo and Luke Skywalker, while talking to Leia Organa
-[
-56
-]
 Soon after the Battle of Yavin, in 0 ABY,
-[
-57
-]
 Skywalker, Solo, and Chewbacca were sent on a
 mission
 by Princess Organa to negotiate supplies from the planet
 Rion
 . Organa put Skywalker in charge, which surprised and peeved Solo.
 Once arrived on the planet, Solo noticed that a big price could have been won by winning a swoop race. Skywalker, however, thought that it was better to fulfill the mission without being distracted and risking to loose money.
-[
-56
-]
 Solo takes part to the race
 Solo decided to participate anyway and, unbeknownst to his friend, took some money with which they should have bought supplies and bought a
 swoop
@@ -1607,10 +1336,10 @@ race
 and started bragging about his skills to other pilots. Two pilots, however, understood that Solo had a big bounty on his head and decided to sabotage the race and hand over the rebel soldier to the Empire.
 In the meanwhile, Skywalker ended the negotiations with
 Razian
-, an alien that should have provided the supplies to the Rebel Alliance, but noticed that half the credits were missing. He understood that Solo took part to the race, and went to the stadium in which Solo was racing. In the stands he heard two criminals talking about how they would knock Solo out: Skywalker and Chewbacca put the two criminals out of action, and Skywalker went to help Solo who was being targeted by his opponents who agreed to eliminate him. Solo, helped by his friend, was able to win the race, and they could eventually pay Razian for the supplies.
-[
-56
-]
+, an alien that should have provided the supplies to the Rebel Alliance, but noticed that half the credits were missing.
+He understood that Solo took part to the race, and went to the stadium in which Solo was racing.
+In the stands he heard two criminals talking about how they would knock Solo out: Skywalker and Chewbacca put the two criminals out of action, and Skywalker went to help Solo who was being targeted by his opponents who agreed to eliminate him.
+Solo, helped by his friend, was able to win the race, and they could eventually pay Razian for the supplies.
 The
 Desert Jewel
 [
@@ -1619,9 +1348,6 @@ Desert Jewel
 Ever since the Battle of Yavin, I feel sometimes that people expect me to top it and wonder why I haven't yet.
 "
 ―Luke Skywalker
-[
-54
-]
 Skywalker defending Drusil Bephorin on Denon.
 In an errand for Admiral
 Gial Ackbar
@@ -1653,9 +1379,6 @@ told Skywalker about the Jedi, including a story about Anakin during the Clone W
 her uncle's
 lightsaber
 .
-[
-54
-]
 Skywalker and Nakari on Fex.
 After killing a
 ghest
@@ -1684,9 +1407,6 @@ Harvester
 and were rewarded for it, Skywalker and Kelen traveled to Rodia to fix the
 Desert Jewel
 .
-[
-54
-]
 Following the ship's modifications, the two Rebels returned to the
 Promise
 to receive more intel on the Denon mission from Organa and Ackbar, only to depart for the planet as soon as possible, meet with their contact
@@ -1708,9 +1428,6 @@ and a confrontation ensued between the Rebels and their pursuers. Despite the fo
 Major
 Bren Derlin
 . Afterwards, Skywalker returned Kelen's body to her father, after reflecting on the fact that he had learned how to move objects with the Force thanks to her support.
-[
-54
-]
 Devaron
 [
 ]
@@ -1718,9 +1435,6 @@ Devaron
 Hyperspace scout. Historian. Farm boy. And yet here you are with a Jedi laser sword in your hand, like you mean to use it.
 "
 ―Sarco Plank
-[
-48
-]
 After numerous missions alongside Antilles and earning each other's complete trust, Skywalker assisted on a
 mission
 for Red Squadron above
@@ -1735,9 +1449,6 @@ for
 Chancellor
 Mon Mothma
 .
-[
-48
-]
 Luke Skywalker training at the site of the former Jedi Temple of Eedit on Devaron.
 After refueling the ship, the trio departed for
 Whiforla II
@@ -1756,9 +1467,6 @@ Farnay
 , using the alias "Korl Marcus," and went onto the depot where he was told the Temple was off-limits; after resting and a vision of the past, he left the depot and met with Farnay, to whom he revealed his true identity. Ultimately,
 Sarco Plank
 accepted to be his guide and brought Skywalker and the two droids close to Eedit, where Skywalker found a secret entrance to the Temple and entered alone with the droids.
-[
-48
-]
 During his stay on the Temple, Skywalker heard Kenobi's voice, from whom he received further instructions. He managed to enter a secret chamber where he and the droids found three training remotes. Using what Kenobi had taught him on the
 Falcon
 , Skywalker gradually managed to pass the exercises after a few days, only to find himself surrounded by Imperials with orders to apprehend him and his fugitive
@@ -1770,9 +1478,6 @@ electrostaff
 , and observed that Skywalker was merely a
 Padawan
 .
-[
-48
-]
 Skywalker and Sarco Plank engage Imperial forces in the Temple of Eedit.
 Planning to ransack the Temple to pay his debts, Plank then challenged him to a duel, during which he used a
 grenade
@@ -1781,15 +1486,9 @@ binders
 on her; however, it gave Skywalker time to stand up and slash Plank's control box, casting him and his electrostaff into a pit leading to the temple's underlevels. Skywalker then passed out and Farnay tended his wounds, to whom he swore he would become a Jedi and rebuild the
 Order
 , and return to Eedit one day. With the droids, they left the Temple as Imperial reinforcements arrived afterwards. Skywalker eventually kept his promise to Farnay and returned to Devaron accompanied by C-3PO and R2-D2. While there Luke also visited the Temple of Eedit once more.
-[
-48
-]
 Back in Tikaroo, Skywalker reclaimed his now-repaired starfighter from Kivas, and before departing Devaron, he dropped several bombs at the base of the spire to cut off the paths into the jungle, meaning to stop the
 pikhron
 hunt.
-[
-48
-]
 Hradeek
 [
 ]
@@ -1797,15 +1496,16 @@ Hradeek
 W-What's happening to me? So much… Anger. So much rage.
 "
 ―Luke Skywalker, after killing many stormtroopers
-[
-58
-]
 Luke kills several stormtroopers in anger
 Sometime after the Battle of Yavin, Skywalker, along with R2-D2, went on a mission on the planet
 Hradreek
 to collect a
 credit chip
-from an individual who had been collecting a percentage for the Rebellion from a place where people gambled there. However, Skywalker felt meeting the way they did with so many Imperial agents around was a huge risk, and he suggested he should leave quickly because he and a bad feeling. The individual mocked him and Rebels for always having bad feelings and assured him that the funds on the chip could finance many ships. He offered for Skywalker to bet the money to get more, but he declined, saying he could not face Organa if he lost it. After thanking them and leaving, Skywalker walked into an area where he felt a
+from an individual who had been collecting a percentage for the Rebellion from a place where people gambled there.
+However, Skywalker felt meeting the way they did with so many Imperial agents around was a huge risk, and he suggested he should leave quickly because he and a bad feeling.
+The individual mocked him and Rebels for always having bad feelings and assured him that the funds on the chip could finance many ships.
+He offered for Skywalker to bet the money to get more, but he declined, saying he could not face Organa if he lost it.
+After thanking them and leaving, Skywalker walked into an area where he felt a
 disturbance in the Force
 . Despite, R2's warnings, he entered in a room in which many dead corpses lay, noticing that in the middle of it there was a very old
 crossguard lightsaber
@@ -1814,17 +1514,16 @@ lightsaber
 , which unbeknownst to him was one of
 Darth Atrius
 's, and slaughtered all the Imperial troopers. After killing the last one, Skywalker was surprised by the unnatural anger that he had felt and told to R2-D2 that, during the battle, it was like he was watching without being able to stop himself, but that now he was fine.
-[
-58
-]
 Soon after the fight, while he was walking down a corridor, a sudden explosion knocked him away from his astromech droid. As he stood up he tried to contact R2, but another stormtrooper squad found him and started shooting at him, so Skywalker urged R2 to get to the X-wing. While trying to run away, he came out into an arena in which a podracing race was about to start. He warned R2 he was going to do something stupid, Skywalker stole a helmet from an
 Er'Kit
 pilot and then stole the Er'Kit's
 podracer
-by threatening them with the red lightsaber, though he apologized. Hoping piloting a podracer was as easy as a landspeeder, Skywalker took part in the race trying to escape from the troopers. When he found it harder than he thought, he asked R2 for a pickup. Without Skywalker's knowledge, Darth Vader watched a holoprojection of Skywalker in the race, a flight that the commentator said no one had "ever seen anything like it", Vader calling it "most impressive." Vader watched as one of the engines blew up and left Skywalker stuck traveling on foot. He ignited the red-bladed lightsaber he had found, but was able to control his anger and, to avoid it to overwhelm him again, destroyed it with his blue-bladed lightsaber. He was then rescued by an X-Wing piloted by R2-D2, where Vader had walked outside and watched the fighter leave.
-[
-58
-]
+by threatening them with the red lightsaber, though he apologized.
+Hoping piloting a podracer was as easy as a landspeeder, Skywalker took part in the race trying to escape from the troopers.
+When he found it harder than he thought, he asked R2 for a pickup.
+Without Skywalker's knowledge, Darth Vader watched a holoprojection of Skywalker in the race, a flight that the commentator said no one had "ever seen anything like it", Vader calling it "most impressive." Vader watched as one of the engines blew up and left Skywalker stuck traveling on foot.
+He ignited the red-bladed lightsaber he had found, but was able to control his anger and, to avoid it to overwhelm him again, destroyed it with his blue-bladed lightsaber.
+He was then rescued by an X-Wing piloted by R2-D2, where Vader had walked outside and watched the fighter leave.
 Searching for a base
 [
 ]
@@ -1835,9 +1534,6 @@ Bogano
 You fought well, rebel scum. But the Empire always wins.
 "
 ―A stormtrooper, moments before defeat
-[
-59
-]
 Skywalker on the grassy planet of Bogano.
 At some point, Luke was given a mission to analyze different worlds in search of which could host a rebel base. However, as he did so, Skywalker felt the Force drawing him to
 Bogano
@@ -1846,13 +1542,7 @@ Outer Rim Territories
 . As Skywalker meditated on the planet, he began to hear the voice of her friend and companion rebel Leia Organa. Luke thought the Force allowed the two to communicate across the galaxy, but Leia was behind him. Leia asked what Luke was doing there since Bogano was one of the worlds she had to check out, and Luke told the Force had taken him there. The two were taken to the
 Bogano Vault
 by a small animal. Skywalker sensed the Force was strong in the place, and while Leia thought the world might be a good base, Luke disagreed. Skywalker was apparently right, as the small animal led them to a group of stormtroopers who were dealing with animals of the same species, making it clear that the Empire knew the world.
-[
-60
-]
 Along with Leia, Luke defeated the stormtroopers, who intended to sell the animals on the black market, and then left the planet to continue his mission to verify the planets assigned to him.
-[
-59
-]
 Lotho Minor
 [
 ]
@@ -1860,9 +1550,6 @@ Lotho Minor
 I'm not sure there's much to give up on, Leia. Unless we want to make a base out of scrap metal.
 "
 ―Luke Skywalker to Han Solo
-[
-61
-]
 Akar Duel and his droids confront Skywalker and the rebels.
 At some point Luke, Leia, Han, Chewbacca, and C-3PO, were sent by the Alliance to investigate the planet
 Lotho Minor
@@ -1873,9 +1560,6 @@ Duros
 named
 Akar Duel
 .
-[
-61
-]
 After Duel announced his plans to take the
 Falcon
 for himself with the help of the droids
@@ -1885,9 +1569,6 @@ Doc
 and others, C-3PO ran from the ship calling Skywalker's name and informing him that his initial scans had been incorrect and that there was life on Lotho Minor. After seeing that thee protocol droid was acting without asking for permission or wearing a restraining bolt, the droids of the planet turned on duel, allowing Skywalker and his friends to escape on the
 Falcon
 , and leaving them believing that the planet was not a good location for a new rebel base.
-[
-61
-]
 Kudo
 [
 ]
@@ -1895,9 +1576,6 @@ Kudo
 That was good thinking, sending the droids out with a cover story.
 "
 ―Skywalker, to Solo
-[
-62
-]
 Around this the rebellion eventually temporarily settled on the planet
 Kudo
 . During the holiday
@@ -1907,9 +1585,6 @@ ISB agent
 into a dark room, Skywalker held a blaster to him and Chewbacca knocked him down. Afterward, Skywalker commended Solo for coming up with the plan to use the droids as a trap, but Solo gave the credit to Chewbacca. Skywalker then watched a light display created by a
 Life Day Orb
 and the Rebellion planned to leave the planet.
-[
-62
-]
 Cymoon 1
 [
 ]
@@ -1925,9 +1600,6 @@ You killed my father!
 I've killed very many fathers. You'll have to be more specific.
 "
 ―Darth Vader and Luke Skywalker during a brief duel in Cymoon 1
-[
-63
-]
 Alongside Organa, Solo, Chewbacca, R2-D2, and C-3PO, Skywalker took part of a
 mission
 to infiltrate
@@ -1935,9 +1607,6 @@ Cymoon 1
 . To do so, the rebel team hijacked the ship of an emissary sent by Jabba the Hutt to negotiate a weapons deal at
 Weapons Factory Alpha
 , with Solo as its replacement and Organa and Skywalker disguised as his bodyguards.
-[
-14
-]
 Luke Skywalker frees a group of captive Imperial slaves held on the grounds of Weapons Factory Alpha on Cymoon 1.
 Once inside the facility, they revealed themselves as rebels to
 Overseer
@@ -1945,36 +1614,21 @@ Aggadeen
 , took their escorts down and made their way to the central power station. While Organa, Solo, and R2-D2 rigged the place to destroy it, Skywalker watched for additional Imperial troops, using what little he knew of the Force to reach out and sense any nearby presence. However, he was drawn to caged
 slaves
 , whom he proceeded to free, and guided them to a rendezvous with Solo and Organa, when they were alerted of Vader's arrival by Chewbacca.
-[
-14
-]
 Determined to fight Vader for killing his father and Kenobi, he heard his mentor's voice speak to him from beyond, telling him to run, just as he faced the
 Dark Lord
 .
-[
-14
-]
 However, he was no match for Vader, who quickly seized Skywalker's lightsaber and was about to kill him, until he realized that Skywalker's lightsaber had been once his own. Solo then intervened with an
 AT-AT
 , crashing the
 walker
 through the factory's walls, giving Skywalker and the slaves an opening to escape from the facility.
-[
-63
-]
 Luke Skywalker is dispatched by Darth Vader following a brief confrontation on Cymoon 1.
 Seeing so many of the freed slaves die by Imperial fire, Skywalker regretted his decision, but continued fighting after stealing a
 speeder bike
 . After the Rebels' walker opened fire against Vader,
-[
-63
-]
 Skywalker picked his lightsaber up from the rubble, rushed to assist his team—whose walker had fallen down due to Vader—, and provided some cover fire. Determined to destroy the factory, Skywalker disobeyed Organa's orders and used his stolen speeder bike to destroy the power core despite Vader's threat. Afterwards, he managed to board the
 Millennium Falcon
 , reunite with his team and escape Cymoon 1, yet with his morale at rock bottom.
-[
-64
-]
 Return to Tatooine
 [
 ]
@@ -1984,44 +1638,29 @@ wrong
 .
 "
 ―Luke Skywalker
-[
-40
-]
 Once they returned to the
 Alliance Fleet
-, Skywalker continued working on his lightsaber techniques until Organa came to see him. Skywalker told her that he lacked interest in undertaking any more missions, as he did not consider himself a Jedi but a danger, and that until he could figure out who he was, he could not be around the Alliance; he asked Organa to let him go. Much to her and Solo's dismay, Skywalker (along with R2-D2) took off in an X-wing and set off on a course for Tatooine. Hoping to find some guidance in Kenobi's hut, Skywalker and R2 made their way across the
+, Skywalker continued working on his lightsaber techniques until Organa came to see him.
+Skywalker told her that he lacked interest in undertaking any more missions, as he did not consider himself a Jedi but a danger, and that until he could figure out who he was, he could not be around the Alliance; he asked Organa to let him go.
+Much to her and Solo's dismay, Skywalker (along with R2-D2) took off in an X-wing and set off on a course for Tatooine.
+Hoping to find some guidance in Kenobi's hut, Skywalker and R2 made their way across the
 desert
 to the abandoned residence, where they found it being pillaged by Tusken raiders, who fled in fear upon seeing his activated lightsaber.
-[
-65
-]
 Skywalker duels Boba Fett after being ambushed in Obi-Wan Kenobi's former home on Tatooine.
 Inside the hut, Skywalker had R2 scan the ransacked place for anything of value, and the small android came across a box addressed to Skywalker. However, before they could find out its contents, one of
 Boba Fett
 's
 flash grenades
 incapacitated R2-D2 and blinded Skywalker.
-[
-40
-]
 Fett proceeded to aim a
 rifle
 to his head, but Skywalker
 fought back
 with his lightsaber despite his temporary blindness. Despite his disadvantage and multiple wounds done by Fett, Skywalker managed to deflect the bounty hunter's shot at point-blank and Fett tackled him in anger.
-[
-66
-]
 Close to death by his own lightsaber as he struggled against Fett, R2-D2 saved him by hurling Kenobi's box and knocking the hunter out. Still blinded and carrying the box, Skywalker had R2-D2 lead him to his X-Wing.
-[
-66
-]
 On his way to an unknown location, he read some of Kenobi's passages on his
 journals
 , including one set during the Great Drought involving him.
-[
-31
-]
 Showdown on Nar Shaddaa
 [
 ]
@@ -2029,9 +1668,6 @@ Showdown on Nar Shaddaa
 You want to finally be a Jedi Knight, kid? Here's your chance. Go die like one.
 "
 ―Kreel to Luke Skywalker
-[
-67
-]
 Though Kenobi's journals contained a number of stories, Skywalker became frustrated as he continued to read them as he did not understand what lessons were to be learned about using a lightsaber or wielding the Force. Though Artoo suggested returning to the fleet, Skywalker had no intention of returning until he found the answers he was seeking. Artoo's suggestion did, however, give the young Jedi an idea: to venture into the
 Jedi Temple
 on
@@ -2040,17 +1676,16 @@ Coruscant
 Nar Shaddaa
 , a world of pirates and outlaws known as the "Smuggler's Moon." Upon landing, Skywalker set off looking for someone who could help him get to the
 Jedi Temple
-. He entered a cantina, where he was immediately attacked by criminals looking to rob and kill him. Skywalker brandished his lightsaber and demanded that they cease their attack, while the bartender asked where he acquired a Jedi's lightsaber. He did not answer, instead saying that he was simply on Nar Shaddaa to conduct business and had already stated his purpose for entering the establishment. The bartender guessed that Skywalker was seeking entry into the Jedi Temple, meaning he would need to hire someone who could sneak him onto the capital world of the Empire. The bartender told him that he could do that for the boy, but the price would be the lightsaber—a price that Skywalker rejected, so the bartender resorted to his previous plan of killing and robbing the boy.
-[
-68
-]
+.
+He entered a cantina, where he was immediately attacked by criminals looking to rob and kill him.
+Skywalker brandished his lightsaber and demanded that they cease their attack, while the bartender asked where he acquired a Jedi's lightsaber.
+He did not answer, instead saying that he was simply on Nar Shaddaa to conduct business and had already stated his purpose for entering the establishment.
+The bartender guessed that Skywalker was seeking entry into the Jedi Temple, meaning he would need to hire someone who could sneak him onto the capital world of the Empire.
+The bartender told him that he could do that for the boy, but the price would be the lightsaber—a price that Skywalker rejected, so the bartender resorted to his previous plan of killing and robbing the boy.
 Skywalker and the thief fall towards the streets of Hutta Town, as the young Jedi reaches for his weapon.
 Before the others could kill him, however, a
 thief
 stole the lightsaber and fled the bar. Skywalker gave chase,
-[
-68
-]
 pursuing the
 thief
 through the streets and over rooftops. The thief jumped onto a ship that was passing by and hung onto the bottom of it, and Skywalker used the Force to make the now-even longer jump towards them and grab the thief's leg. The thief lost his holding and both men fell towards the streets of
@@ -2060,62 +1695,70 @@ Grakkus
 the Hutt, a Nar Shaddaa crime lord who employed the thief that stole the lightsaber. Skywalker fought the Hutt's
 MagnaGuard
 , while at the same time overhearing the thief telling Grakkus that Skywalker said his father was a Jedi and that he was seeking access to the Jedi Temple. Having his own plans for the boy, Grakkus knocked Skywalker out with a punch to the face.
-[
-69
-]
 Skywalker later awoke to find himself in Grakkus'
 palace
 , which contained untold numbers of relics from the Jedi Order. Grakkus held out a Jedi
 holocron
 , though Skywalker did not know what it was. Grakkus, who explained that he was a collector of
 Jedi artifacts
-in addition to being a crime lord, told him that the item was a holocron and that only an individual who was strong with the Force could open it. Though Skywalker had no experience with holocrons, the Hutt gave him five seconds to open the holocron or be killed. Under threat of death, the boy reached out with the Force and was able to open the holocron, as well as the many others that were in the collection. They revealed themselves as containing historical records about the Jedi and the Sith, including the revelation that there was a
+in addition to being a crime lord, told him that the item was a holocron and that only an individual who was strong with the Force could open it.
+Though Skywalker had no experience with holocrons, the Hutt gave him five seconds to open the holocron or be killed.
+Under threat of death, the boy reached out with the Force and was able to open the holocron, as well as the many others that were in the collection.
+They revealed themselves as containing historical records about the Jedi and the Sith, including the revelation that there was a
 Jedi Temple
 on
 Vrogas Vas
-. With Skywalker having proved himself, Grakkus believed he would make a fine addition to his collection as the last living Jedi. Grakkus planned to put Skywalker into an arena fight that he would bill as the death of the last Jedi, so the Hutt ordered him taken to the arena's gamemaster to be prepared. Artoo, knowing that Skywalker had been captured, send a distress call to the Alliance Fleet, where it was intercepted by the High Command. Though Chancellor Mothma was unwilling to send a team of Rebels on a suicide mission despite Skywalker's importance to the Rebellion, Chewbacca and Threepio—who remained with the fleet while Solo and Organa were on their own mission—volunteered to rescue their captured friend.
-[
-69
-]
+.
+With Skywalker having proved himself, Grakkus believed he would make a fine addition to his collection as the last living Jedi.
+Grakkus planned to put Skywalker into an arena fight that he would bill as the death of the last Jedi, so the Hutt ordered him taken to the arena's gamemaster to be prepared.
+Artoo, knowing that Skywalker had been captured, send a distress call to the Alliance Fleet, where it was intercepted by the High Command.
+Though Chancellor Mothma was unwilling to send a team of Rebels on a suicide mission despite Skywalker's importance to the Rebellion, Chewbacca and Threepio—who remained with the fleet while Solo and Organa were on their own mission—volunteered to rescue their captured friend.
 Grakkus the Hutt's "Gamemaster" Kreel bests Skywalker in a training duel on Nar Shaddaa.
 The gamemaster—secretly an Imperial stormtrooper named
 Sergeant
 Kreel
-[
-70
-]
-—introduced himself to Skywalker once the Jedi was led to the arena, and he stated that it was his job to make sure Skywalker was prepared to put on a good show before ultimately dying in the arena. Though Skywalker initially refused to fight, Kreel knew he would ultimately do so because he wanted to learn to hone his skills as a Jedi. The Kreel also told him that the Jedi Temple no longer existed, as it had been converted into the Imperial Palace—so whatever Skywalker was hoping to find was gone, as were the other Jedi temples in the galaxy. He then threw the lightsaber to Skywalker and removed the binds that the boy's hands were in. While surrounded by MagnaGuards, the Kreel used a lightsaber of his own and engaged in a duel to begin preparing him for the arena match. Though the Kreel was not a Jedi, he was a more-skilled swordsman and quickly bested Skywalker. Skywalker then engaged multiple MagnaGuards in combat.
-[
-71
-]
-The big event soon arrived, and crime lords and other criminal types flocked to watch the death of the last Jedi. Skywalker spoke to Grakkus, who reminded him that no one wanted to watch him win and that everyone had paid to see him die, though the young Jedi believed he could succeed nonetheless. Grakkus also revealed that scavengers had found Skywalker's X-wing and the Journal of Ben Kenobi, which Grakkus intended to add to his collection. The event began once Grakkus left, and Skywalker entered into the arena and was introduced as the last of the Jedi. The announcer claimed that he was a veteran of battles across the galaxy and that he had fought Hutts and bounty hunters alike, hyping up the untrained Jedi hopeful. The announcer then introduced the Jedi's opponent:
+—introduced himself to Skywalker once the Jedi was led to the arena, and he stated that it was his job to make sure Skywalker was prepared to put on a good show before ultimately dying in the arena.
+Though Skywalker initially refused to fight, Kreel knew he would ultimately do so because he wanted to learn to hone his skills as a Jedi.
+The Kreel also told him that the Jedi Temple no longer existed, as it had been converted into the Imperial Palace—so whatever Skywalker was hoping to find was gone, as were the other Jedi temples in the galaxy.
+He then threw the lightsaber to Skywalker and removed the binds that the boy's hands were in.
+While surrounded by MagnaGuards, the Kreel used a lightsaber of his own and engaged in a duel to begin preparing him for the arena match.
+Though the Kreel was not a Jedi, he was a more-skilled swordsman and quickly bested Skywalker.
+Skywalker then engaged multiple MagnaGuards in combat.
+The big event soon arrived, and crime lords and other criminal types flocked to watch the death of the last Jedi.
+Skywalker spoke to Grakkus, who reminded him that no one wanted to watch him win and that everyone had paid to see him die, though the young Jedi believed he could succeed nonetheless.
+Grakkus also revealed that scavengers had found Skywalker's X-wing and the Journal of Ben Kenobi, which Grakkus intended to add to his collection.
+The event began once Grakkus left, and Skywalker entered into the arena and was introduced as the last of the Jedi.
+The announcer claimed that he was a veteran of battles across the galaxy and that he had fought Hutts and bounty hunters alike, hyping up the untrained Jedi hopeful.
+The announcer then introduced the Jedi's opponent:
 Kongo
 the Disemboweler, a large and fearsome creature from the
 dolovite
 mines
 of
 Mustafar
-. Skywalker ignited the green-bladed lightsaber that was given to him for the show and the fight began. The young Jedi slashed his blade at the creature, but the opponent's armor was resistant to a lightsaber blade and made it difficult for Skywalker to combat the creature. He remained confident, however, reminding himself that he blew up the Death Star, fought Boba Fett, and was trained by Obi-Wan Kenobi. He closed his eyes in an attempt to use the Force as his ally, but Kongo used the opportunity to throw Skywalker across the arena and knocking him onto the ground.
-[
-67
-]
+.
+Skywalker ignited the green-bladed lightsaber that was given to him for the show and the fight began.
+The young Jedi slashed his blade at the creature, but the opponent's armor was resistant to a lightsaber blade and made it difficult for Skywalker to combat the creature.
+He remained confident, however, reminding himself that he blew up the Death Star, fought Boba Fett, and was trained by Obi-Wan Kenobi.
+He closed his eyes in an attempt to use the Force as his ally, but Kongo used the opportunity to throw Skywalker across the arena and knocking him onto the ground.
 Skywalker battles Imperial soldiers in Grakkus' arena.
 The beast grabbed Skywalker as the audience cheered for Kongo to make the kill, and Skywalker tried calling out to Kenobi to ask for miracle. Just as he did so, the beast's
 shock collar
 was activated by Kreel, who revealed himself to Grakkus as an Imperial and announced he was taking Skywalker into custody. Stormtroopers
 poured
-into the arena and surrounded Skywalker, arresting both him and the Hutt. Grakkus had one trick up his sleeve, though, and triggered an electromagnetic pulse that disabled the Imperials' blasters. Grakkus, skilled at combat in his own right, began fighting the weaponless stormtroopers, while other troops grabbed Skywalker. Just then, the young Jedi saw that Artoo, who had infiltrated the palace, recovered his lightsaber and threw it into the arena, so Skywalker grabbed it and cut the soldiers down. Kongo chased the spectators out of the arena, and Skywalker while Kreel confronted Skywalker, knocking him to the ground and revealing his true identity as a stormtrooper of the
+into the arena and surrounded Skywalker, arresting both him and the Hutt.
+Grakkus had one trick up his sleeve, though, and triggered an electromagnetic pulse that disabled the Imperials' blasters.
+Grakkus, skilled at combat in his own right, began fighting the weaponless stormtroopers, while other troops grabbed Skywalker.
+Just then, the young Jedi saw that Artoo, who had infiltrated the palace, recovered his lightsaber and threw it into the arena, so Skywalker grabbed it and cut the soldiers down.
+Kongo chased the spectators out of the arena, and Skywalker while Kreel confronted Skywalker, knocking him to the ground and revealing his true identity as a stormtrooper of the
 501st Legion
 tasked with arresting him. Skywalker was saved by the timely arrival of Grakkus, who Kreel attacked as Skywalker got away.
-[
-70
-]
-Skywalker regrouped with Solo, Organa, Chewbacca, and the droids, all of whom ultimately traveled to Nar Shaddaa to rescue their captive friend. Solo, Organa, and Chewbacca each wielded lightsabers that Artoo stole from the palace so they were not defenseless in the wake of the EMP blast, leading Skywalker to quip that Solo looked good with a lightsaber. Artoo recovered Kenobi's journal and Skywalker wanted to go back to the palace to recover more artifacts, but the arena was flooded with blaster-wielding stormtroopers so Chewbacca grabbed the resistant Skywalker and brought him out of the arena. The Rebels returned to the
+Skywalker regrouped with Solo, Organa, Chewbacca, and the droids, all of whom ultimately traveled to Nar Shaddaa to rescue their captive friend.
+Solo, Organa, and Chewbacca each wielded lightsabers that Artoo stole from the palace so they were not defenseless in the wake of the EMP blast, leading Skywalker to quip that Solo looked good with a lightsaber.
+Artoo recovered Kenobi's journal and Skywalker wanted to go back to the palace to recover more artifacts, but the arena was flooded with blaster-wielding stormtroopers so Chewbacca grabbed the resistant Skywalker and brought him out of the arena.
+The Rebels returned to the
 Millennium Falcon
 and escaped from Nar Shaddaa.
-[
-70
-]
 Vrogas Vas
 [
 ]
@@ -2123,35 +1766,20 @@ Vrogas Vas
 …right now I'm just a Rebel pilot who needs to help his friends. Learning to be a Jedi will have to wait.
 "
 ―Skywalker, to R2-D2
-[
-72
-]
 Though he was unable to acquire the relics in Grakkus' palace, the holocrons he activated gave Skywalker one important piece of information: the existence of a Jedi Temple on Vrogas Vas. Skywalker returned to the Alliance but still sought answers, so he traveled to Vrogas Vas and was stationed in orbit with Red Squadron, along with
 Blue Squadron
 and
 Yellow Squadron
 . While in orbit and preparing for training exercises, Darth Vader
-[
-72
-]
 —who had learned of Skywalker's location from one of his associates, a rogue
 archaeologist
 named
 Aphra
-[
-73
-]
 —dropped out of hyperspace in his TIE Advanced x1 starfighter. Vader made quick work of Blue Squadron and Yellow Squadron, destroying them both as Red Squadron looked on. Skywalker sensed that Vader was the pilot of the enemy starfighter, made a run towards him, and crashed his X-wing fighter into the Sith Lord's TIE Advanced. The collision damaged both vessels and send them hurtling towards the surface of Vrogas Vas.
-[
-72
-]
 Skywalker senses the presences of Obi-Wan Kenobi and Anakin Skywalker in the temple ruins.
 Skywalker and Vader both survived the crashes of their starfighters, though they impacted on the surface in different places. The young Jedi crashed outside of the ruins of the Jedi Temple, from which he witnessed the destruction of
 Gray Squadron
 forces sent to attack Vader—part of a major Rebel operation to capture the lone Sith Lord. He put off his search for answers and began to make his way towards the Rebel forces, determined to help his friends.
-[
-72
-]
 As he passed through the ruins of the Jedi Temple, he could see
 yet another
 Rebel pilot being killed by the Dark Lord. Unknown to Skywalker was that, at the same time, he was being tracked by Vader's companions—Aphra and the
@@ -2159,28 +1787,29 @@ assassin droids
 BT-1
 and
 0-0-0
-. While the Sith Lord's followers prepared a plan to capture the boy, Skywalker found writings in the ruins that were written with a lightsaber, letting him deduce that the ruins were from the Jedi. A cold feeling passed over him and he could sense the presence of what he thought was Obi-Wan Kenobi and Anakin Skywalker. He tried to concentrate, but he was interrupted by what he thought was Threepio's arrival. In reality, it was Triple-Zero, painted in gold by Aphra, who placed his metal hand on Skywalker and sent an electrical charge through the boy's body, knocking him unconscious.
-[
-74
-]
-Aphra and Triple-Zero prepared to take Skywalker hostage when Artoo stepped in to help. Bee Tee then brought his arsenal to bear on the rebel's astromech and chased him off. Aphra and Triple-Zero then seized Skywalker but were stopped by the smuggler Han Solo, who had a sniper rifle aimed at them. Chewbacca then came in and attacked the protocol droid, ripping his arm off. Skywalker then regained consciousness, dispatched Bee Tee, and sliced off Triple-Zero's other arm with his lightsaber. Skywalker and his allies then retreated when Bee Tee fired his weapons blindly.
-[
-75
-]
+.
+While the Sith Lord's followers prepared a plan to capture the boy, Skywalker found writings in the ruins that were written with a lightsaber, letting him deduce that the ruins were from the Jedi.
+A cold feeling passed over him and he could sense the presence of what he thought was Obi-Wan Kenobi and Anakin Skywalker.
+He tried to concentrate, but he was interrupted by what he thought was Threepio's arrival.
+In reality, it was Triple-Zero, painted in gold by Aphra, who placed his metal hand on Skywalker and sent an electrical charge through the boy's body, knocking him unconscious.
+Aphra and Triple-Zero prepared to take Skywalker hostage when Artoo stepped in to help.
+Bee Tee then brought his arsenal to bear on the rebel's astromech and chased him off.
+Aphra and Triple-Zero then seized Skywalker but were stopped by the smuggler Han Solo, who had a sniper rifle aimed at them.
+Chewbacca then came in and attacked the protocol droid, ripping his arm off.
+Skywalker then regained consciousness, dispatched Bee Tee, and sliced off Triple-Zero's other arm with his lightsaber.
+Skywalker and his allies then retreated when Bee Tee fired his weapons blindly.
 Skywalker, Solo, Chewbacca, and Artoo made their way back to the Millennium Falcon. They then lifted off in order to aid princess Leia. They were forced to the ground when their ship was crashed into by the Wookiee bounty hunter Black Krrsantan. While Solo and Chewbacca dealt with the mercenary, Skywalker left to head back to the Jedi ruins.
-[
-76
-]
 Luke arrived back at the the Jedi temple looking for Leia. It was then that he heard the voice of Obi-Wan Kenobi, who told him that he should not have come to this place and that he was not ready for what is coming. Luke was then intercepted by a company of stormtroopers who opened fire on him. He retreated behind cover but was hit in the head and knocked unconscious.
-[
-77
-]
 Luke was taken prisoner by the forces of Commander
 Karbin
-. However Darth Vader, who had a rivalry with Karbin, used the force to crash the shuttle Skywalker was kept in. Now free, he then caught up with Solo, Chewbacca, C-3PO, and R2-D2. They made their way back to the Millennium Falcon, however Dr. Aphra had laid out a minefield to stop them. When she was distracted she was knocked out from behind by Princess Leia. Believing her to be of use, Organa decided to take the archaeologist with them. As they departed Vrogas Vas, Skywalker felt remorse that he would not be able to go back to the temple and see what was hidden there.
-[
-78
-]
+.
+However Darth Vader, who had a rivalry with Karbin, used the force to crash the shuttle Skywalker was kept in.
+Now free, he then caught up with Solo, Chewbacca, C-3PO, and R2-D2.
+They made their way back to the Millennium Falcon, however Dr.
+Aphra had laid out a minefield to stop them.
+When she was distracted she was knocked out from behind by Princess Leia.
+Believing her to be of use, Organa decided to take the archaeologist with them.
+As they departed Vrogas Vas, Skywalker felt remorse that he would not be able to go back to the temple and see what was hidden there.
 Learning the ways of the smuggler
 [
 ]
@@ -2191,9 +1820,6 @@ How else are we gonna replace the money we just lost?
 Heh, don't worry, kid. I know just the thing. It's a big galaxy. And believe me, there's always something somewhere in need of smuggling.
 "
 ―Skywalker and Solo
-[
-79
-]
 Skywalker and Solo deliver nerfs on Ibaar.
 Upon returning to the Rebel fleet with their new prisoner, Doctor Aphra, Skywalker and his friends went their separate ways; Organa, Artoo, and Threepio went to detain Aphra at an Alliance-controlled space station,
 Sunspot Prison
@@ -2204,27 +1830,15 @@ sabacc
 . However, he was caught cheating, and had to escape with Skywalker on the
 Millennium Falcon
 .
-[
-79
-]
 Skywalker and Solo traveled to Nar Shaddaa where Luke was tasked with finding a customer in need of a ship. He made a deal to haul
 nerfs
 to
 Ibaar
 for 5,000 credits, which was just enough to replace the credits lost by Solo. Skywalker and Solo were soon intercepted by TIE fighters who suspected the Falcon of smuggling illegal livestock.
-[
-80
-]
 Luke was able to shoot the fighters and he and Solo made it to Ibaar with the nerfs. While on Ibaar, Skywalker blackmailed Solo into allowing him to fly the Falcon for a few parsecs by threatening to tell Leia about losing the credits in a Sabacc game.
-[
-81
-]
 After buying the supplies, Skywalker and Solo received a distress call from Sana and arrived at Sunspot Prison. They were immediately knocked out and taken captive by the
 masked assailant
 who was attacking the prison. Neither came to until after the battle had already ended and the attacker had been captured.
-[
-82
-]
 Temporary outpost
 [
 ]
@@ -2232,17 +1846,11 @@ Temporary outpost
 I just go word that the cargo vessel just arrived. Looks like the mission was canceled. Hope you didn't go through too much trouble.
 "
 ―Luke Skywalker to R2-D2
-[
-83
-]
 Sometime after the assault on Sunspot Prison, the Alliance established a temporary
 outpost
 on the Outer Rim planet
 Reamma
 . Organa gave Luke a mission to find a missing Alliance cargo vessel. Skywalker and R2-D2 prepared to make the flight to look for them. Before they could do that, however, Organa informed Skywalker that the vessel reported in, cancelling the mission.
-[
-83
-]
 Hijacking the
 Harbinger
 [
@@ -2253,15 +1861,9 @@ Harbinger
 . So let's make it a memorable one.
 "
 ―Skywalker to Organa and Solo
-[
-84
-]
 Sometime later, Skywalker and Organa rendezvoused with rebel leadership. Admiral Ackbar, General Dodonna, and Mon Mothma presented them with the task of providing aid to the people of
 Tureen VII
 , a planet that had provided aid to the rebellion in the past. A heavily blockaded planet with Imperial bases on both of its moons and swarms of TIE fighters in orbit, the Alliance could not risk sending the fleet. Luke and Leia proposed stealing an Imperial Star Destroyer and using it to infiltrate the blockade. Despite some reluctance from Dodonna, Ackbar and Mothma realized that it was the only choice left.
-[
-85
-]
 Skorii-Lei Rescue
 [
 ]
@@ -2276,9 +1878,6 @@ Millennium Falcon
 with Skywalker, Solo, and Chewbacca. Aboard the
 Falcon
 , Davane provided Skywalker with Leia's data tape, which he noted was a sign of great trust between the two of them. With her place as a friend of the Alliance confirmed, Skywalker and his allies returned Davane to her home on Skorii-Lei.
-[
-86
-]
 Journey to Vagadarr system
 [
 ]
@@ -2286,9 +1885,6 @@ Journey to Vagadarr system
 You remind me of him. But more than that... you remind me of me. You... you're nothing but a frightened child, just like I was. Do you know the only thing I was good at... when I was a child? Walking away.
 "
 ―Garro to Skywalker
-[
-87
-]
 Skywalker worked with Garro to revive a giant of living stone.
 Despite the escape from the
 Harbinger
@@ -2307,19 +1903,15 @@ giants
 made of living stone that gave those in close proximity a power known as
 Stonepower
 . Skywalker hoped that going there would give him the knowledge he needed to save R2-D2 and C-3PO.
-[
-88
-]
 Like the Jedi Master before him, Skywalker was able to navigate through the
 planet
 's heavy debris field and land on the surface, where he encountered
 Garro
-, the last remaining native human, who initially wanted to use Skywalker's life force to kill the few remaining giant children. Determined to protect them, Skywalker inspired Garro to change his mind and sacrifice his own life force to revive a dead giant. Skywalker and the giant children then ventured into the giant's cave to find the heart of the mountain and finish what Garro started in reviving the giant, thus completing the mission of the Master from years past and taking another step in his journey to becoming a
+, the last remaining native human, who initially wanted to use Skywalker's life force to kill the few remaining giant children.
+Determined to protect them, Skywalker inspired Garro to change his mind and sacrifice his own life force to revive a dead giant.
+Skywalker and the giant children then ventured into the giant's cave to find the heart of the mountain and finish what Garro started in reviving the giant, thus completing the mission of the Master from years past and taking another step in his journey to becoming a
 Jedi
 .
-[
-87
-]
 Horox III
 [
 ]
@@ -2329,9 +1921,6 @@ So, come, shake hands, have dinner with the nice lady, and we walk away with an 
 "C'mon, are you out, farm boy? Or are you in, Jedi Knight?
 "
 ―Aphra and Luke Skywalker on the visit to Ktath'atn
-[
-89
-]
 The bar on Horox III
 Sometime later, as the Alliance was setting up a
 temporary outpost
@@ -2339,10 +1928,10 @@ on
 Horox III
 , Skywalker went to a local
 bar
-. Threatened by its denizens for being a human, he was forced to defend himself against them despite his warnings that he would be able to defeat them in a fight. The fight was compounded when Doctor Aphra, who had lied to Sana Starros in order to find Skywalker, arrived and sparked the anger of the entire bar after saying Skywalker was with her, forcing Skywalker, Aphra, and Black Krrsantan to fight the entire bar. After the fight, Skywalker told Aphra he did not want her following him because he did not want to have anything to do with someone who worked for Vader, but she caught his attention by saying she knew where to find a Jedi Master.
-[
-89
-]
+.
+Threatened by its denizens for being a human, he was forced to defend himself against them despite his warnings that he would be able to defeat them in a fight.
+The fight was compounded when Doctor Aphra, who had lied to Sana Starros in order to find Skywalker, arrived and sparked the anger of the entire bar after saying Skywalker was with her, forcing Skywalker, Aphra, and Black Krrsantan to fight the entire bar.
+After the fight, Skywalker told Aphra he did not want her following him because he did not want to have anything to do with someone who worked for Vader, but she caught his attention by saying she knew where to find a Jedi Master.
 Skywalker first refused to admit he was trying to be a Jedi, Aphra explaining that she had figured it out from Vader's vendetta and Skywalker's one-in-a-million shot to destroy the Death Star plus his general talent. She introduced him to the
 Rur crystal
 of the ancient Jedi splinter group known as the
@@ -2354,9 +1943,6 @@ Screaming Citadel
 with her, explaining that that introducing him to the
 Queen of Ktath'atn
 as a Jedi would convince the Queen to reactive the crystal for them. On the way there, Skywalker reaquainted himself with 0-0-0 and BT-1, remembering the former for electrocuting him and the latter from R2 kicking him. Skywalker lamented not telling Solo, Organa, or Starros about where he was going, but he and Aphra both agreed they would have tried to stop them and they had no time to waste.
-[
-89
-]
 The temporary Rebel Outpost on Horox III.
 Meanwhile, at the Rebel Outpost on Horox III, Solo then enlisted Starros' help in communicating with Skywalker's temporary
 R5
@@ -2365,9 +1951,6 @@ S4
 , who could only speak
 Binary
 and thus was not easily able to communicate with Organa. Organa asked the droid for Skywalker's whereabouts but the droid responded that he could not tell. Questioning the droid, Starros learned that Skywalker did not go by himself but that he went with Doctor Aphra. An unhappy Leia and Solo wondered why Skywalker would go with Aphra, Organa suggesting she kidnapped Skywalker while Solo and Starros suspect she could have reprogrammed the droid to keep a secret.
-[
-89
-]
 The Screaming Citadel
 [
 ]
@@ -2378,16 +1961,15 @@ The Queeen of Ktath'atn
 I know every sort of creature you can image, Doctor. And many I'm sure you cannot. They have all been paraded through the halls of this citadel. All by people desperate to gain my favor. But never once has anyone brought me a Jedi
 "
 ―The Queen of Ktath'atn to Skywalker and Aphra
-[
-90
-]
 Skywalker journeyed to the Screaming Citadel with the hope of learning more about the Jedi.
-After arriving on Ktath'atn, Skywalker and the others encountered a mob of villagers. Skywalker wants to help feed them and Aphra just calls him adorable and has Krrsantan scare them off. After making the trek to the the entire party, except for Krrsantan were allowed into the citadel. Skywalker was curious how Aphra met Krrsantan but she just said it was a long story and that she owed him a lot of money. Skywalker then asked how Aphra had found him. Noticing he was struggling, Aphra helped Skywalker put his
+After arriving on Ktath'atn, Skywalker and the others encountered a mob of villagers.
+Skywalker wants to help feed them and Aphra just calls him adorable and has Krrsantan scare them off.
+After making the trek to the the entire party, except for Krrsantan were allowed into the citadel.
+Skywalker was curious how Aphra met Krrsantan but she just said it was a long story and that she owed him a lot of money.
+Skywalker then asked how Aphra had found him.
+Noticing he was struggling, Aphra helped Skywalker put his
 Spavat
 on to meet the Queen, and after finished he insisted that he was more than just a farm boy. While walking toward the main hall, 0-0-0 teased Skywalker for stuttering when Aphra commented on her attractiveness but she told the droid only she was allowed to tease him.
-[
-89
-]
 In the ballroom, Skywalker was mesmerized by the crowd. Aphra told Skywalker to follow her lead and advised him to hide his lightsaber, but implies he is used to keeping his Jedi identity, which he hopes to solidify, a secret. When Skywalker asked about the Jedi in the crystal, Aphra said she only met him briefly but that he had strong opinions. After encountering an
 Ezaraan
 guest, Skywalker was initially excited by them wanting to take down the Empire, but after they explained they wanted to replace it with a
@@ -2396,20 +1978,21 @@ where they would consume the flesh of all "lesser species," Skywalker expressed 
 Queen of Ktath'atn
 , and after being welcomed by one of her servants,
 Varroa
-, Aphra presented Skywalker, describing him as a very interesting Tatooine farm boy, but was rejected. When the Ezaraan mocked Skywalker, Aphra defended him, but the Ezaraan grabbed her arm. Skywalker warned the Ezaraan to leave Aphra alone and used the Force to throw the Ezaraan to the ground, intriguing the Queen and earning a compliment from Aphra. Varroa ordered all the guests to leave but allowed Skywalker and his companion to stay so that the Queen could hear his request in the morning, Aphra telling him he did great. Later, the Queen told her servant
+, Aphra presented Skywalker, describing him as a very interesting Tatooine farm boy, but was rejected.
+When the Ezaraan mocked Skywalker, Aphra defended him, but the Ezaraan grabbed her arm.
+Skywalker warned the Ezaraan to leave Aphra alone and used the Force to throw the Ezaraan to the ground, intriguing the Queen and earning a compliment from Aphra.
+Varroa ordered all the guests to leave but allowed Skywalker and his companion to stay so that the Queen could hear his request in the morning, Aphra telling him he did great.
+Later, the Queen told her servant
 Vespinax
 that Skywalker's power and little experience made him perfect for her intentions to eat him. She then grew her power in anticipation of eating the Jedi.
-[
-89
-]
-The next morning, Skywalker and Aphra made their way to a dining hall to have breakfast with the Monarch. On the way, after Skywalker expressed how creepy he thought the place was, Aphra assured him that the Queen's obsession with Jedi would get her to do what they wanted, but Skwalker was worried by this because of his encounter with Grakkus the Hutt and Aphra's mention that the Queen "keeps" her oddities. Aphra told Skywalker to let her do the talking and then the two walked inside and sat at a table with the Queen, Aphra introducing the both of them. Excited to see a Jedi, but wanting more verification, the Queen commanded Skywalker to move a nearby dining tray with the Force, though he was unable to until the Queen's servant,
+The next morning, Skywalker and Aphra made their way to a dining hall to have breakfast with the Monarch.
+On the way, after Skywalker expressed how creepy he thought the place was, Aphra assured him that the Queen's obsession with Jedi would get her to do what they wanted, but Skwalker was worried by this because of his encounter with Grakkus the Hutt and Aphra's mention that the Queen "keeps" her oddities.
+Aphra told Skywalker to let her do the talking and then the two walked inside and sat at a table with the Queen, Aphra introducing the both of them.
+Excited to see a Jedi, but wanting more verification, the Queen commanded Skywalker to move a nearby dining tray with the Force, though he was unable to until the Queen's servant,
 Vespinax
 , threatened him with a knife to his throat. However, moving the tray revealed that under it were
 Abersyn symbiotes
 that the Queen planned on implanting them with, so after Aphra set off an explosion that knocked them both down they quickly made an attempt to escape while Aphra explained to Skywalker what the symbiotes were. Before they could escape, in the Citadel's hallway, they were nearly stopped by many of the Queen's thralls.
-[
-90
-]
 The Abersyn hive
 [
 ]
@@ -2419,29 +2002,39 @@ being
 . Letting go…feeling…and more than anything…the Jedi feel free.
 "
 ―Skywalker, to Eternal Rur
-[
-9
-]
 The Queen of Ktath'atn goes after Skywalker.
 After attempting to run, Skywalker prepared to use his lightsaber to defend them, but Solo, Organa, and Starros arrived at their location on Aphra's ship, the
 Ark Angel II
-, with her droids 0-0-0 and BT-1 in tow. Starros attempted to shoot Aphra, but Skywalker blocked the blast with his lightsaber, claiming that she was a good person and his friend, he willingly went with her, and he knew what he was doing, despite Organa's attempts to call his decision unwise and threats to court-martial him if he did not follow orders. Meanwhile, the Queen's servants and armed security guards pursued the group, so they escaped into an Abersyn symbiote laboratory, which Skywalker decided people needed to know about. There, Skywalker and Aphra got into an argument about the merits of the Empire in which Aphra revealed her mother was killed in the Clone Wars, claimed that regular people preferred the Empire's peace to war, and insisted that she was not like Solo as Skywalker thought. She attempted to mock him for his upbringing until Skywalker revealed everyone on his farm was killed by the Empire. Aphra led Skywalker to a nearby room and sold him out to the Queen of Ktath'atn, who promptly mesmerized him to capture him. Aphra warned the Queen not to do the same to her too or she would blow up charges she placed in Skywalker's pockets. Organa, Solo, and Starros then saw Skywalker get captured, the former calling out to him and later refusing to leave him behind.
-[
-91
-]
-The Queen connected Skywalker to a machine that would allow her to directly feed on him. As Aphra left with the activated Rur crystal, she asked what would happen to Skywalker, and the Queen revealed she would not infect him with a symbiote, but started to drink his life force to increase her power. Upon speaking to to the crystal outside, Rur revealed to Aphra that she felt guilt over leaving Skywalker behind and felt guilt over blaming her actions on her tragedy, when Skywalker's tragedy made him a good person. Solo attempted to rescue him, but was quickly enthralled and forced to lead the Queen's forces, as Organa and Starros' desperation to save Skywalker lead them to place a symbiote into Krrsantan despite Organa's misgivings. Skywalker eventually tore free of the machine and in the ensuing struggle managed to re-arm himself with his lightsaber. While the Queen attacked him with her powers, Aphra bombed the room and came inside, revealing that she had scaled the Citadel and was there to rescue Skywalker. She also revealed that she had realized the reason the Queen did not put a symbiote in Skywalker was because he was more powerful than her and the
+, with her droids 0-0-0 and BT-1 in tow.
+Starros attempted to shoot Aphra, but Skywalker blocked the blast with his lightsaber, claiming that she was a good person and his friend, he willingly went with her, and he knew what he was doing, despite Organa's attempts to call his decision unwise and threats to court-martial him if he did not follow orders.
+Meanwhile, the Queen's servants and armed security guards pursued the group, so they escaped into an Abersyn symbiote laboratory, which Skywalker decided people needed to know about.
+There, Skywalker and Aphra got into an argument about the merits of the Empire in which Aphra revealed her mother was killed in the Clone Wars, claimed that regular people preferred the Empire's peace to war, and insisted that she was not like Solo as Skywalker thought.
+She attempted to mock him for his upbringing until Skywalker revealed everyone on his farm was killed by the Empire.
+Aphra led Skywalker to a nearby room and sold him out to the Queen of Ktath'atn, who promptly mesmerized him to capture him.
+Aphra warned the Queen not to do the same to her too or she would blow up charges she placed in Skywalker's pockets.
+Organa, Solo, and Starros then saw Skywalker get captured, the former calling out to him and later refusing to leave him behind.
+The Queen connected Skywalker to a machine that would allow her to directly feed on him.
+As Aphra left with the activated Rur crystal, she asked what would happen to Skywalker, and the Queen revealed she would not infect him with a symbiote, but started to drink his life force to increase her power.
+Upon speaking to to the crystal outside, Rur revealed to Aphra that she felt guilt over leaving Skywalker behind and felt guilt over blaming her actions on her tragedy, when Skywalker's tragedy made him a good person.
+Solo attempted to rescue him, but was quickly enthralled and forced to lead the Queen's forces, as Organa and Starros' desperation to save Skywalker lead them to place a symbiote into Krrsantan despite Organa's misgivings.
+Skywalker eventually tore free of the machine and in the ensuing struggle managed to re-arm himself with his lightsaber.
+While the Queen attacked him with her powers, Aphra bombed the room and came inside, revealing that she had scaled the Citadel and was there to rescue Skywalker.
+She also revealed that she had realized the reason the Queen did not put a symbiote in Skywalker was because he was more powerful than her and the
 Abersyn hive
 would follow him instead. Skywalker then fell under the influence of an Abersyn symbiote, becoming more powerful than even the Queen, and proclaimed himself King of the hive.
-[
-92
-]
 Skywalker kills the Queen of Ktath'atn.
 Skywalker entered a psychic duel with the Queen to force her to submit. Aphra allowed
 Eternal Rur
-from the crystal to enter his mind to assist him. Rur advised Skywalker to use the symbiote to his advantage, claiming that tying the Force's abilities into the parasite's emotional drive would make him immensely powerful. Realizing Rur was not a true Jedi and only a person with the knowledge of one, Skywalker ignored him and instead let go and connected to the Force. He was able to free himself of the symbiote's influence and strike down the Queen, believing that being free was more important to be a Jedi than just Rur's knowledge. Solo and all those under the Queen's control were freed, Skywalker reunited with Organa, and the Citadel was destroyed by BT-1. Later, after telling Starros it was time to go, Skywalker told Aphra that he did not want the crystal because it was not a Jedi in any real way. But he said that he had learned from it that there would not be any shortcuts to be a Jedi, and that people who tried to take them to get what they wanted, like her, were deluded. Finally, Skywalker told her to stay away from them. On the way back, while complaining to herself about Skywalker 0-0-0 pointed out that Skywalker's virtuousness despite his trauma and her inability to gain his response must be a heavy reminder of the failures of her character. Skywalker spoke with Starros on the way back, learning that Aphra had ruined S4 and shocked that Starros and her could have ever been together.
-[
-9
-]
+from the crystal to enter his mind to assist him.
+Rur advised Skywalker to use the symbiote to his advantage, claiming that tying the Force's abilities into the parasite's emotional drive would make him immensely powerful.
+Realizing Rur was not a true Jedi and only a person with the knowledge of one, Skywalker ignored him and instead let go and connected to the Force.
+He was able to free himself of the symbiote's influence and strike down the Queen, believing that being free was more important to be a Jedi than just Rur's knowledge.
+Solo and all those under the Queen's control were freed, Skywalker reunited with Organa, and the Citadel was destroyed by BT-1.
+Later, after telling Starros it was time to go, Skywalker told Aphra that he did not want the crystal because it was not a Jedi in any real way.
+But he said that he had learned from it that there would not be any shortcuts to be a Jedi, and that people who tried to take them to get what they wanted, like her, were deluded.
+Finally, Skywalker told her to stay away from them.
+On the way back, while complaining to herself about Skywalker 0-0-0 pointed out that Skywalker's virtuousness despite his trauma and her inability to gain his response must be a heavy reminder of the failures of her character.
+Skywalker spoke with Starros on the way back, learning that Aphra had ruined S4 and shocked that Starros and her could have ever been together.
 Among the stars
 [
 ]
@@ -2451,9 +2044,6 @@ Our
 war. And despite everything we've already been through, everything we've won and lost...this war...has only begun. May the Force be with Us. May the Force be with us all.
 "
 ―Luke Skywalker to his team
-[
-93
-]
 Luke and Leia were stranded on an oceanic planet for three weeks.
 Skywalker later took part in a mission with Leia, piloting a
 Taylander shuttle
@@ -2474,21 +2064,12 @@ shoretroopers
 . Although close to being defeated, Leia used a flaming arrow to light explosive chemicals and disable the
 AT-AT
 . Afterwards, they were able to repair the shuttle and return to the Rebel Fleet.
-[
-94
-]
 Shortly afterward, Skywalker and his team intercepted a message from R2-D2, who had successfully
 rescued
 C-3PO from Imperial capture. They saved R2's X-wing from Darth Vader and escaped in hyperspace.
-[
-95
-]
 By then, Task Force 99 had
 destroyed
 the Horox III rebel outpost. The team arrived there, discovering the devastation. Fearing further danger, they left without burying the rebel troopers, but Skywalker insisted that they honor the dead. Together they built a cremation pile before leaving.
-[
-93
-]
 Ashes of Jedha
 [
 ]
@@ -2498,9 +2079,6 @@ me
 taking that shot.
 "
 ―Luke Skywalker contemplating the sacrifice of Rogue One
-[
-96
-]
 Having traveled throughout the galaxy with his friends, Luke and his fellow rebels journeyed to what remained of the moon
 Jedha
 , the site of one of the Death Star's tests. On the ashy moon, Luke and Leia defended what remained of
@@ -2520,9 +2098,6 @@ Disciples of the Whills
 , someone who could potentially guide him in learning about the Force. Gi led the rebels to the rest of the Partisans on Jedha and placed hoods over their heads, in keeping with Partisan tradition. Led by
 Benthic
 , Saw Gerrera's former second-in-command, the remaining extremists held guns at their fellow rebels' heads.
-[
-97
-]
 Luke journeyed to the ravaged moon of Jedha, where he gained insight into the Dark Side of the Force.
 Benthic questioned why the Alliance would attempt to mend their relations with the Partisans and return to Jedha, and Leia revealed that the Empire had resumed mining
 Kyber crystals
@@ -2539,9 +2114,6 @@ drill citadel
 , a mining device from the planet
 Shu-Torun
 that the Empire began using to mine Kyber crystals on Jedha.
-[
-98
-]
 Benthic and Luke scaled the drill citadel and the Tognath ruthlessly killed the station's guards, much to Skywalker's chagrin. Benthic held a technician at gunpoint and forced him to lower the citadel's shields before killing him as well. This allowed Han Solo, aboard the
 Millennium Falcon
 , to destroy the drill citadel after Benthic and Luke escaped. Later, a disillusioned Chulco asked Luke to accompany him to meet the
@@ -2549,18 +2121,17 @@ Central Isopter
 , a death-worshipping cult that Gi claimed was wise in the Force. Although Luke was hesitant to seek the guidance from someone other than a disciple of the Jedi, he nonetheless was willing to go along. Leia attempted to convince him that his duty to the Alliance was most important, but Luke believed that becoming a Jedi and avenging all those slain by Darth Vader was the most important duty to him. Entering a chasm alongside Gi, the duo were attacked by a
 sand slug
 , a giant, normally herbivorous animal negatively influenced by the Dark Side of the Force. Able to slay the beast, Skywalker and Gi were finally confronted by the Central Isopter, who claimed that they had come to join them "in the shadow of death."
-[
-99
-]
 The temple of the Central Isopter.
 At the edge of the planet's blast crater, Chulco and the Central Isopter presented Luke with the
 Temple of Central Isopter
-, a shrine surrounded by the Dark Side of the Force. The cult implored Skywalker and Gi to meditate and listen to the chasm's call. They both did, but Luke refused to let the Dark Side take hold of him. However, Chulco was possessed by the darkness and attacked Luke, forcing the Jedi trainee to strike him down. The cultists then announced that they had received a distress call from Chewbacca, who was being pursued by a TIE fighter over NaJedha. Luke borrowed a ship, was able to destroy the TIE fighter and bring an injured Chewie to the planet, where he provided the Alliance with the plans for the
+, a shrine surrounded by the Dark Side of the Force.
+The cult implored Skywalker and Gi to meditate and listen to the chasm's call.
+They both did, but Luke refused to let the Dark Side take hold of him.
+However, Chulco was possessed by the darkness and attacked Luke, forcing the Jedi trainee to strike him down.
+The cultists then announced that they had received a distress call from Chewbacca, who was being pursued by a TIE fighter over NaJedha.
+Luke borrowed a ship, was able to destroy the TIE fighter and bring an injured Chewie to the planet, where he provided the Alliance with the plans for the
 Leviathan
 , a mobile fortress able to strip mine Kyber crystals from Jedha.
-[
-100
-]
 Han, Leia, and Benthic formed a strategy to destroy the
 Leviathan
 using the plans Chewbacca obtained. After the meeting, Luke ruminated on the sacrifice Rogue One made to get the Death Star plans to the Alliance, ultimately leading to him making the shot that destroyed the battle station. A newly motivated Luke accompanied Leia, C-3PO, and R2-D2 aboard the crawler and readied themselves for taking control of it. Skywalker made his way to the bridge of the
@@ -2568,18 +2139,12 @@ Leviathan
 and held its commander,
 Kanchar
 , hostage but the Imperial's cybernetic arm was equipped with a blade able to defend against Luke's lightsaber.
-[
-96
-]
 Skywalker confronts Kanchar
 Kanchar pursued Luke throughout the ship with his cybernetic arm's blade and flamethrower. Eventually leading the officer to the crawler's hangar, Skywalker activated an ion torpedo, which shut down Kanchar's cybernetics and allowed Luke to knock him out. Having taken total control of the
 Leviathan
 with the help of the double-crossing Queen
 Trios
 , the rebels brought it to Jedha's chasm, destroyed it, and escaped with not much time to spare. Having saved what remained of Jedha and made allies in the form of the Partisans and Queen Trios, Luke and his friends left Jedha.
-[
-101
-]
 Crait
 [
 ]
@@ -2587,9 +2152,6 @@ Crait
 I'm just a farmboy from Tatooine. One of many sand-planet farmboys. But one thing was true there, just like it's true here. When someone comes for what's our, they don't try it twice. We work an honest day and long one. We're the good guys. But you wouldn't want to meet us in the dark. Where I come from—when someone pushes you, you push back harder!
 "
 ―Skywalker to Kreel while dueling him
-[
-102
-]
 Berinato leads a tour of Crait's salt flats
 After a mission with a plan made by Solo went awry, Skywalker, who had helped fight in his X-Wing, escaped to
 Baraan-Fa
@@ -2602,22 +2164,24 @@ Trusk Berinato
 , who led them all to the mines of the planet on
 V-4X-D ski speeders
 . After receiving new orders from Organa, Luke stated that he found the mission particularly irritating, as it reminded him of his life as a farm boy. Once they arrived, Solo encouraged him to enjoy the mission since they were not in danger. He told everyone to follow him.
-[
-102
-]
-Skywalker and his team, which included Antilles, began using the farming equipment to make trenches in Crait's surface, though he said he would rather do anything else. Green worms then appeared from the ground and Antilles and Solo tried to shoot them, but Skywalker realized they would leave you alone if you left them alone. Still being reminded of home, Skywalker reluctantly continued an environmental assessment, discovering and rationalizing an underground ecosystem where the worms came from and realizing it was drying up quickly. Following a hunch, Skywalker took Antilles with him on the ski speeders and they discovered bodies that appeared to have been flash dried. Realizing what happened, Skywalker rushed to tell the others. He reached Organa and told her he resented her for sending him on this mission, but she said he reminded him of her and complimented him before giving him a kiss on the cheek. He then finished what he was trying to say and explained that they need to leave because a deadly salt storm was coming in. After Skywalker realized Berinato forged environmental reports, Solo warned that Berinato called SCAR squadron on them.
-[
-102
-]
+Skywalker and his team, which included Antilles, began using the farming equipment to make trenches in Crait's surface, though he said he would rather do anything else.
+Green worms then appeared from the ground and Antilles and Solo tried to shoot them, but Skywalker realized they would leave you alone if you left them alone.
+Still being reminded of home, Skywalker reluctantly continued an environmental assessment, discovering and rationalizing an underground ecosystem where the worms came from and realizing it was drying up quickly.
+Following a hunch, Skywalker took Antilles with him on the ski speeders and they discovered bodies that appeared to have been flash dried.
+Realizing what happened, Skywalker rushed to tell the others.
+He reached Organa and told her he resented her for sending him on this mission, but she said he reminded him of her and complimented him before giving him a kiss on the cheek.
+He then finished what he was trying to say and explained that they need to leave because a deadly salt storm was coming in.
+After Skywalker realized Berinato forged environmental reports, Solo warned that Berinato called SCAR squadron on them.
 Skywalker duels Kreel on Crait
-Skywalker got in a ski speeder and attempted to shoot at the incoming troopers, but one shot a canon at his and destroyed it. Kreel then approached him and ignited his lightsaber, a determined Skywalker lighting his too. The two dueled, Skywalker turning Kreel's taunts against him by taking pride in being a farm boy as they were hard working good people who would push you back harder if you pushed them. The worms he saw earlier then tackled Kreel and Skywalker cut the stormtrooper's lightsaber in half. Skywalker made his way back to the
+Skywalker got in a ski speeder and attempted to shoot at the incoming troopers, but one shot a canon at his and destroyed it.
+Kreel then approached him and ignited his lightsaber, a determined Skywalker lighting his too.
+The two dueled, Skywalker turning Kreel's taunts against him by taking pride in being a farm boy as they were hard working good people who would push you back harder if you pushed them.
+The worms he saw earlier then tackled Kreel and Skywalker cut the stormtrooper's lightsaber in half.
+Skywalker made his way back to the
 Falcon
 and revealed that SCAR squadron lived, but that they needed to get out of the storm or they would die. Later, in orbit on the
 Falcon
 , Organa asked how Skywalker was and he said that he was the same, living a small life and trying to make a difference. She told him not to change.
-[
-102
-]
 Mon Cala and Mako-Ta
 [
 ]
@@ -2634,9 +2198,6 @@ I thought you'd forgotten me!
 No way! Red squadron forever!
 "
 ―Wedge Antiles and Skywalker reunite
-[
-103
-]
 Skywalker and his friends are attacked on Mon Cala.
 Skywalker joined Organa, Solo, Ackbar and others to meet with
 Grand Admiral
@@ -2647,31 +2208,34 @@ at an island preserve on
 Mon Cala
 with the hope of getting the fleet to join the Rebellion. Skywalker was surprised the Empire cared about nature preservation, but Organa clarified that they wanted to exploit it. After Han revealed he used to smuggle from there, which upset Skywalker, Ackbar and Organa began to negotiate as an Imperial
 LAAT/le patrol gunship
-approached. Skywalker immediately assumed they had been betrayed, but Solo thought otherwise and advised Skywalker not to use his lightsaber while he spoke with them. It fired on Urtya's ship, the explosion knocking Skywalker down. When Solo's plan resulted in stormtroopers pursuing them, Skywalker went with the others through the forest to a boat where Chewbacca was waiting. On the boat, Organa continued to try an convince Urtya, but he said that he did not want to sacrifice Mon Cala, but Skywalker shot back, insisting he could not talk to the Princess of Alderaan about sacrifice. They eventually made it back to the
+approached.
+Skywalker immediately assumed they had been betrayed, but Solo thought otherwise and advised Skywalker not to use his lightsaber while he spoke with them.
+It fired on Urtya's ship, the explosion knocking Skywalker down.
+When Solo's plan resulted in stormtroopers pursuing them, Skywalker went with the others through the forest to a boat where Chewbacca was waiting.
+On the boat, Organa continued to try an convince Urtya, but he said that he did not want to sacrifice Mon Cala, but Skywalker shot back, insisting he could not talk to the Princess of Alderaan about sacrifice.
+They eventually made it back to the
 Falcon
 and then to the
 Mako-Ta Space Docks
 that the Rebellion was using as a production center, where Skywalker rejected going drinking with Solo.
-[
-104
-]
 Skywalker and Wedge Antilles reunite.
-However, Skywalker did go with Solo to the bar, but insisted on only getting milk, to Solo's dismay. There, someone put their hand on Skywalker's shoulder so he pushed them away with the Force, but it turned out to be Wedge Antilles and the two had a cheerful reunion, Skywalker insisted that he had not forgot about Antilles and declared that Red Squadron was forever. Solo then tried to get Skywalker a drink to celebrate, but Skywalker just ordered the biggest milk they had. Antilles introduced Skywalker to
+However, Skywalker did go with Solo to the bar, but insisted on only getting milk, to Solo's dismay.
+There, someone put their hand on Skywalker's shoulder so he pushed them away with the Force, but it turned out to be Wedge Antilles and the two had a cheerful reunion, Skywalker insisted that he had not forgot about Antilles and declared that Red Squadron was forever.
+Solo then tried to get Skywalker a drink to celebrate, but Skywalker just ordered the biggest milk they had.
+Antilles introduced Skywalker to
 Hobbie
 and
 Zev Senesca
-, who he explained they had met during Alliance training exercises, which he clarified were to ensure enough people could operate cruisers. Senesca said he was honored to meet Skywalker, but Skywalker just told him not to use honorifics and told him he would have also taken the shot. Solo then lead a toast to Red Squadron, Skywalker reciting all its members that had died. Solo was surprised he remembered all the names, but Skywalker expressed that he wished to know the names of all the Rebels that had died. Organa then arrived and told them to finish up because they had a mission.
-[
-103
-]
+, who he explained they had met during Alliance training exercises, which he clarified were to ensure enough people could operate cruisers.
+Senesca said he was honored to meet Skywalker, but Skywalker just told him not to use honorifics and told him he would have also taken the shot.
+Solo then lead a toast to Red Squadron, Skywalker reciting all its members that had died.
+Solo was surprised he remembered all the names, but Skywalker expressed that he wished to know the names of all the Rebels that had died.
+Organa then arrived and told them to finish up because they had a mission.
 During the mission, Skywalker accompanied Organa and Solo to the
 Dex Acquisitions Depot
 on
 Meor Ain
 to retrieve a Clawdite. With C-3PO unable to slice the door to the room where he was, Skywalker used his lightsaber to cut around and remove the locking mechanism before Chewbacca kicked the door. After retrieving the shapeshifter, who briefly pretended to be Bail Organa, the group left.
-[
-103
-]
 The Moncaladrome
 After debriefing the Clawdite, whose name was
 Tunga Arpagion
@@ -2680,14 +2244,14 @@ Calamari sector
 Tan Hubi
 while they kidnapped him, Skywalker insisting the ordeal would make Arpagion more famous. At the
 Moncaladrome
-on Mon Cala, Skywalker impersonated a stormtrooper, Organa ordering him to wait until they drugged the Moff and then bring him back to their hideout. Solo and Chewbacca went into a refresher and anticipated kidnapping Hubi while Skywalker stood outside as a stormtrooper and told everyone around that the room was for the Moff's private use, though one Imperial officer did manage to Force themself through. After successfully kidnapping Hubi, Skywalker returned to Organa and warned her to be quick so that others would not notice the switch. After Arpagion copied Hubi's appearance, Skywalker told him "May the Force be with you" before departing with the others and a tied up Hubi in a Mon Cal ship to rescue Mon Cal King
+on Mon Cala, Skywalker impersonated a stormtrooper, Organa ordering him to wait until they drugged the Moff and then bring him back to their hideout.
+Solo and Chewbacca went into a refresher and anticipated kidnapping Hubi while Skywalker stood outside as a stormtrooper and told everyone around that the room was for the Moff's private use, though one Imperial officer did manage to Force themself through.
+After successfully kidnapping Hubi, Skywalker returned to Organa and warned her to be quick so that others would not notice the switch.
+After Arpagion copied Hubi's appearance, Skywalker told him "May the Force be with you" before departing with the others and a tied up Hubi in a Mon Cal ship to rescue Mon Cal King
 Lee-Char
 from
 Strokill Prime
 .
-[
-105
-]
 Mon Cal Mutiny
 [
 ]
@@ -2701,36 +2265,26 @@ But we've got his last words. If this doesn't inspire Mon Cala, nothing will.
 It has to be worth it. So many people are counting on us.
 "
 ―Skywalker and Organa to C-3PO on King Lee-Char
-[
-106
-]
 Skywalker swims on Strokill Prime.
 Once there, Skywalker commented that it made sense they would keep Lee-Char on a water world, though admitted the place looked bleak. After avoiding the planet's security using Hubi's biosignature, they took the ship to the planet and underwater, where they encountered a giant terrifying sea creature.
-[
-105
-]
-Organa realized that the creature was attracted to their ship because of the light. Solo was skeptical, but Skywalker told him not to question her and informed them he was going to carry out a plan with Chewbacca's help and to be ready. Donning a full body diving suit while Chewbacca set up an underwater sled, Skywalker shot out far away from the ship after Chewbacca gave Skywalker a hug and he thanked the Wookiee. Away from the ship in the expanse of the ocean, Skywalker ignited his lightsaber, leading the creature away with the light. Chewbacca then used a water sled and a breath mask to quickly go after Skywalker and bring him back to the ship as he turned off his lightsaber.
-[
-107
-]
+Organa realized that the creature was attracted to their ship because of the light.
+Solo was skeptical, but Skywalker told him not to question her and informed them he was going to carry out a plan with Chewbacca's help and to be ready.
+Donning a full body diving suit while Chewbacca set up an underwater sled, Skywalker shot out far away from the ship after Chewbacca gave Skywalker a hug and he thanked the Wookiee.
+Away from the ship in the expanse of the ocean, Skywalker ignited his lightsaber, leading the creature away with the light.
+Chewbacca then used a water sled and a breath mask to quickly go after Skywalker and bring him back to the ship as he turned off his lightsaber.
 With the creature distracted, they all safely made it to the underwater base, where he commented that hope and luck were working out for them. They then discovered that Lee-Char was hooked up to a machine that was the only thing keeping him alive, and Solo said Skywalker jinxed them.
-[
-107
-]
 Skywalker attempted to calm an angry Solo, and Lee-Char suggested that they could just carry his words to his people instead of having to lead them directly, prompting Skywalker to suggest they search for a recording droid there.
-[
-106
-]
 Lee-Char is found being kept alive by a machine.
 After bringing back a camera droid, Skywalker watched as the King recorded his message, before noticing stormtroopers and screaming out to everyone that they had been noticed. The stormtroopers shot into the room, killing Lee-Char, but the group escaped with the recording back to their ship, Skywalker defending them with a blaster and directing them to get onboard and get to hyperspace quickly. He then pointed out that the
 Falcon
 with its touchy hyperdrive would not have been able to pull that off, but Solo warned him to stop disparaging the ship.
-They met back up with C-3PO in a deserted cove on Mon Cala, Skywalker revealing to the droid that the king could not be moved but having hope that his message was worth it because people were counting on them. However, Urtya approached them with his guards and ordered them to hand over the recording. As he forcefully took it from Organa, Skywalker screamed that Lee-Char would be ashamed, though Solo told him to top talking and that they needed to get out of there. However, Urtya decided to show the footage too all of the fleet captains. Back on the
+They met back up with C-3PO in a deserted cove on Mon Cala, Skywalker revealing to the droid that the king could not be moved but having hope that his message was worth it because people were counting on them.
+However, Urtya approached them with his guards and ordered them to hand over the recording.
+As he forcefully took it from Organa, Skywalker screamed that Lee-Char would be ashamed, though Solo told him to top talking and that they needed to get out of there.
+However, Urtya decided to show the footage too all of the fleet captains.
+Back on the
 Falcon
 , Skywalker heard on an earpiece that the people on the Mon Calamari ships were rebelling because of footage of Lee-Char. Because of this, however, the Imperial fleet arrived.
-[
-106
-]
 The
 Falcon
 faces the Imperial fleet over Mon Cala.
@@ -2745,9 +2299,6 @@ Falcon
 escaped to hyperspace after a Mon Calamari ship full of coaxium crashed into the Star Destroyer and exploded it. Later, Skywalker accompanied Organa, Solo, and Chewbacca to see Arpagion off on the
 Cosmatanic Steppes
 .
-[
-108
-]
 Rogue Squadron
 [
 ]
@@ -2761,41 +2312,30 @@ time for sentiment.
 Rogue Squadron, form up.
 "
 ―Wedge Antilles and Skywalker, as the latter forms Rogue Squadron
-[
-109
-]
 The Empire begins their attack on Mako-Ta.
 Later, Skywalker participated in a celebration of the commencement of the Rebel fleet at the Rebel Base at Mako-Ta, using his X-Wing to create a
 display trail
-of blue light alongside other X-Wings creating trails of other colors. After landing back in the hangar bay, Skywalker expressed his enthusiasm that amount Rebels present could definitively defeat the Empire, though had to assure General Dodonna that he was not being overconfident and was just excited. However, due to a betrayal by Queen Trios of Shu-Torun, the commencement failed and the Imperial Navy arrived, which Skywalker saw from a window and suspected was led by Vader. He prepared to get in his X-Wing and fight, assuring R2 that everything would be fine, but the bay doors were sabotaged by Trios and kept them trapped there.
-[
-110
-]
+of blue light alongside other X-Wings creating trails of other colors.
+After landing back in the hangar bay, Skywalker expressed his enthusiasm that amount Rebels present could definitively defeat the Empire, though had to assure General Dodonna that he was not being overconfident and was just excited.
+However, due to a betrayal by Queen Trios of Shu-Torun, the commencement failed and the Imperial Navy arrived, which Skywalker saw from a window and suspected was led by Vader.
+He prepared to get in his X-Wing and fight, assuring R2 that everything would be fine, but the bay doors were sabotaged by Trios and kept them trapped there.
 He then watched with shock as one of the Alliance's cruisers was destroyed
-[
-110
-]
 and others started to be, but still assured Zev that they had survived the Death Star and would not die there. Skywalker and Antilles then spotted the
 Falcon
 taking on the fighters, both confused as to what Solo was doing there. Unbeknownst to them Solo was trying to get to them to let them know that the bay doors would open if they just flew toward them because of a fail-safe.
-[
-111
-]
 Rogue Squadron forms.
 Skywalker was disturbed by feeling powerless to help and only watch the ships get destroyed, but Solo sent C-3PO in an escape pod to the hangar bay, who informed him that they could leave by flying at the doors. Skywalker rallied all of the fighters to get ready to launch and readied R2. Dodonna commed Skywalker, who informed him of the situation, but Dodonna warned him that they needed to test the doors first, which Skywalker ignored.
-[
-109
-]
 As he proceeded and Dodonna continued to insist he stand down, Skywalker realized that his situation was making him feel how
 Jyn Erso
-must have felt when she took her rogue mission to steal the Death Star plans. Though R2 warned that the doors might not open, he continued, trusting in the Force, but saying he would blame his potential death on C-3PO. The doors opened and the rest of the fighters went to meet Skywalker, him telling Wedge that he was glad for their company. Wedge advised against sentiment and asked Skywalker what their call sign should be. He told Antilles that sentiment was timely because they were acting like Jyn Erso, and named the squadron
+must have felt when she took her rogue mission to steal the Death Star plans.
+Though R2 warned that the doors might not open, he continued, trusting in the Force, but saying he would blame his potential death on C-3PO.
+The doors opened and the rest of the fighters went to meet Skywalker, him telling Wedge that he was glad for their company.
+Wedge advised against sentiment and asked Skywalker what their call sign should be.
+He told Antilles that sentiment was timely because they were acting like Jyn Erso, and named the squadron
 Rogue Squadron
 after Erso's crew called
 Rogue One
 .
-[
-109
-]
 Rebel Commander
 [
 ]
@@ -2812,44 +2352,30 @@ promoted?"
 The Rebellion command has been decimated. Every candidate of quality needs to step forward.
 "
 ―Mon Mothma and Leia Organa, the former speaking to Organa, Skywalker, and Solo via hologram
-[
-112
-]
 Entering the
 battle
 , Skywalker called out to Rogue Eight to warn them that someone was on their tail, but their X-wing was destroyed. Solo advised the squadron to stay close to the destroyers, and as they did, Skywalker noticed the decrepit state of the
 Falcon
 and asked what happened to it, Solo merely replying that Darth Vader got to it and warning Skywalker that he was still there somewhere. After Solo's plan paid off, Skywalker made a joke to him by calling him an Admiral, which Solo told him never to do again. From the base, Organa hoped out loud that Skywalker would spread the word after learning that he was out there.
-[
-113
-]
-Knowing that they needed to spread the word to the other cruisers that they could launch their fighters but not wanting to split up to land on them, Skywalker told Rogue Squadron to form up on him as he made a run past Ackbar's ship with his display trail on, ignoring Antilles' warnings against it. As Ackbar watched, his attention grabbed by the display trail, Skywalker flew toward the bay doors on one of the cruisers, which opened. Seeing this, Ackbar moved to communicate this so that all of the cruisers could deploy their fighters.
-[
-113
-]
+Knowing that they needed to spread the word to the other cruisers that they could launch their fighters but not wanting to split up to land on them, Skywalker told Rogue Squadron to form up on him as he made a run past Ackbar's ship with his display trail on, ignoring Antilles' warnings against it.
+As Ackbar watched, his attention grabbed by the display trail, Skywalker flew toward the bay doors on one of the cruisers, which opened.
+Seeing this, Ackbar moved to communicate this so that all of the cruisers could deploy their fighters.
 Solo then announced to Skywalker that the
 Falcon
 was too damaged and so he was flying an X-wing.
-[
-114
-]
 Skywalker and Organa return to the Mako-Ta Space Docks to perform a rescue
 Skywalker pursued a rogue TIE fighter that had escaped, and that unbeknownst to him was piloted by Organa, who decided to take it while fleeing Vader and his Star Destroyer the
 Executor
-. Sensing something was off and noticing the pilot's skill, Skywalker had R2 try and scan and message it, to no avail. When Organ shot down another TIE, Skywalker realized the pilot was on their side. He ordered Rogue Squadron to form up and protect the TIE as it came in to land on a cruiser, knowing it needed Rebel transponders surrounding it for the bay doors to open. This was successful, but Skywalker's fighter was shot as he did this and crashed into the bay. Solo and Organa rushed to make sure he was all right, leaving Skywalker shocked Organa had been piloting the TIE, but all of them were happy things worked out well for them.
-[
-114
-]
+.
+Sensing something was off and noticing the pilot's skill, Skywalker had R2 try and scan and message it, to no avail.
+When Organ shot down another TIE, Skywalker realized the pilot was on their side.
+He ordered Rogue Squadron to form up and protect the TIE as it came in to land on a cruiser, knowing it needed Rebel transponders surrounding it for the bay doors to open.
+This was successful, but Skywalker's fighter was shot as he did this and crashed into the bay.
+Solo and Organa rushed to make sure he was all right, leaving Skywalker shocked Organa had been piloting the TIE, but all of them were happy things worked out well for them.
 Due to the counter-codes Organa had retrieved from the
 Executor
 , the cruiser escaped to hyperspace, though Skywalker wanted to go back and try and rescue more people, pointing out that his chance had worked out before. Dodonna criticized him for this and told him the decision was not his, merely telling Skywalker and Organa to prepare for war.
-[
-114
-]
 After it was decided to attempt a rescue, Solo returned to Mako-Ta with Rogue Squadron, Skywalker telling them he would fly with them again soon, causing Organa to make a comment implying he was neurotic. As Organa told Mon Mothma to get the ambassadors to board their ship, he spotted a TIE fighter coming to them, but it was shot down by Solo. Soon after, Skywalker tried to inform Solo that they were almost ready to leave, but could not get ahold of him.
-[
-112
-]
 The Alliance transport on Corosi 7
 Organa and Skywalker told Mothma to leave in the main transport with everyone while they tried to save Solo, which they did by attaching cables to his X-Wing and then jumping to hyperspace. Skywalker brought them to a moon called
 Corosi 7
@@ -2858,9 +2384,6 @@ Falcon
 , Skywalker wondered how they would find them. Solo decided to take them to Nar Shaddaa, where they met up with Sana Starros, who agreed to bring them all along in her ship the
 Volt Cobra
 .
-[
-112
-]
 Er'Kit
 [
 ]
@@ -2868,17 +2391,11 @@ Er'Kit
 Rebel intelligence heard some strange things about the Malachor Company, and as soon as I got here to investigate I felt an... echo in the Force. I don't quite know how to explain it, but there's more going on here on Er'Kit than meets the eye.
 "
 ―Luke Skywalker, during the operations on Er'Kit
-[
-115
-]
 Following the
 attack
 on the
 Mako-Ta Space Docks
 , Skywalker was promoted to the rank of commander.
-[
-116
-]
 After being promoted, Skywalker was sent to the desert world of Er'Kit, where the locals were being oppressed by a group of
 mercenaries
 known as the
@@ -2888,22 +2405,17 @@ agent
 who had a reputation for desert warfare and, together, the two defeated the mercenary outposts. The two also discovered from Imperial operatives in the
 sector
 that Imperial supplies were being ferried from Nar Shaddaa to Er'Kit, suggesting a large-scale operation was under way. Eventually, Skywalker and the agent arrested the mercenary leader and tracked down the last members of Malachor Company, who had holed up in an empty village.
-[
-115
-]
 Er'Kit
-Among the mercenaries' possessions, Skywalker and the agent discovered a document proving that Malachor Company was preparing to ship supplies somewhere, and its coordinates led Skywalker and the agent to an Imperial base on the planet. They subsequently attacked several Imperial bases until they found intelligence pertaining to the Empire's operation on the planet. Once they located the base from which the Imperials deployed most of their forces on the planet, Skywalker assaulted it with the assistance of Princess Organa. The Rebels razed the base, dealing an important blow to the Empire's operations on Er'Kit, but they still lacked vital information on what the Empire's true purpose was on the planet. Skywalker gradually discovered Imperial logs detailing how Malachor Company had been hired by the Imperial Security Bureau and were tasked with forcibly relocating natives to make room for
+Among the mercenaries' possessions, Skywalker and the agent discovered a document proving that Malachor Company was preparing to ship supplies somewhere, and its coordinates led Skywalker and the agent to an Imperial base on the planet.
+They subsequently attacked several Imperial bases until they found intelligence pertaining to the Empire's operation on the planet.
+Once they located the base from which the Imperials deployed most of their forces on the planet, Skywalker assaulted it with the assistance of Princess Organa.
+The Rebels razed the base, dealing an important blow to the Empire's operations on Er'Kit, but they still lacked vital information on what the Empire's true purpose was on the planet.
+Skywalker gradually discovered Imperial logs detailing how Malachor Company had been hired by the Imperial Security Bureau and were tasked with forcibly relocating natives to make room for
 Project Hidden Eye
 . This ISB operation was intended to create cybernetic
 sleeper agents
 who could be deployed throughout the galaxy and spy on galactic citizens on behalf of the ISB. Upon its discovery, Project Hidden Eye was nearly ready to deploy its first wave of spies.
-[
-115
-]
 To prevent the operation from being carried out, Skywalker and the agent led their troops to the base that housed Project Hidden Eye. They fought through its staging area and ultimately took out the installation, ending the Imperial project for good. Skywalker thanked the agent for their service and then remained on Er'Kit for a short time, helping the Rebel Alliance execute additional missions on the desert world.
-[
-115
-]
 Shu-Torun
 [
 ]
@@ -2914,15 +2426,13 @@ You asked the Partisans to join you. Do not be surprised when they act like the 
 I…just don't push it. We have all the advantages here. Only we can open doors. We make our way to each of the cores, blow them up and bring the Spike down.
 "
 ―Benthic and Skywalker
-[
-117
-]
 Eventually, Organa presented an idea to Skywalker, Solo, and Chewbacca to take down Shu-Torun and all of its facilities. Skywalker was on board immediately and thought it was time considering how much Queen Trios was responsible for. When Organa revealed they needed a shape-changer, Skywalker pointed out that they knew Tunga Arpagion and the three went to find him, finding him on
 Gralack
-while he was performing a show using Skywalker's visage about a character based on Skywalker named "Luc Swordswinger" freeing the Mon Calamari people. When stormtroopers tried to shut down the show for being treasonous material, Skywalker confronted them, but thinking he was just Arpagion in Skywalker's form, ignored him. Skywalker disarmed all of the Stormtroopers by destroying their blasters while yelling with rage as the others extracted Arpagion. Organa later revealed that they also needed people who were used to fighting on a hell world, which Skywalker realized meant they needed to go back to Jedha. While Organa recruited the remaining Partisans there, Skywalker went to the Temple of the Central Isopter with Solo in the hopes of receiving advice from them about the dangers of the Force and controlling his anger but was surprised to find it empty, especially knowing that the cult hunted disasters like Jedha was experiencing and wanted to be around them.
-[
-118
-]
+while he was performing a show using Skywalker's visage about a character based on Skywalker named "Luc Swordswinger" freeing the Mon Calamari people.
+When stormtroopers tried to shut down the show for being treasonous material, Skywalker confronted them, but thinking he was just Arpagion in Skywalker's form, ignored him.
+Skywalker disarmed all of the Stormtroopers by destroying their blasters while yelling with rage as the others extracted Arpagion.
+Organa later revealed that they also needed people who were used to fighting on a hell world, which Skywalker realized meant they needed to go back to Jedha.
+While Organa recruited the remaining Partisans there, Skywalker went to the Temple of the Central Isopter with Solo in the hopes of receiving advice from them about the dangers of the Force and controlling his anger but was surprised to find it empty, especially knowing that the cult hunted disasters like Jedha was experiencing and wanted to be around them.
 Skywalker flies the
 Millennium Falcon
 over Shu-Torun.
@@ -2937,26 +2447,22 @@ Spike
 , thus systematically causing the destruction of the rest of the planet's infrastructure. Skywalker then revealed that they were planning to get access to the master security controls and lock down everything on the planet like they did to them at Mako-Ta. While Organa worked to get an eye scan of Trios to achieve this, Skywalker, Chewbacca, and the Partisans waited on the
 Falcon
 .
-[
-119
-]
 Eventually, Organa contacted Skywalker and told him they were prepared to perform the slice of the shields around the Spike and told him to get ready to storm it and place bombs. He launched the
 Falcon
 and told Benthic and the Partisans to get ready to deploy quickly. Solo told Skywalker to take care of the ship, but Skywalker pointed out that the only danger it would be in would be if Solo and the others did not get the shields down in time. Once he got the word from Organa that he was able, Skywalker took the
 Falcon
 through the shields and he and the others stormed the base, noticing how weird it was that they had control and the element of surprise. Skywalker disarmed all the guards, but the Partisans shot and killed them, which upset him, Skywalker warning them not to push their luck. Skywalker revealed that they had control of all the doors now and instructed them to stick together so they could blow up the cores, but told Chewbacca to get back to the ship to stay in contact with Organa.
-[
-117
-]
-They eventually took down three of the cores, and Skywalker took down the guards at the fourth one with his blaster and lightsaber while the Partisans gave him cover, before instructing R2 to set it to explode. Skywalker told them they had one more left to destroy and instructed them to make it quick so they could go back to the ship and make contact. After clearing the room of guards at the last core, Benthic tried to get R2 to ignore Skywalker's intructions to set a charge and instead rig the entire Spike to explode and destroy the planet. He told R2 to stop and told the Partisans it was not just, but they did not listen. Skywalker then feigned surrender as R2 emitted a bunch of gas into the gas, allowing Skywalker and the droid to run off out of sight. Fearing the Partisans had gone crazy, Skywalker was determined to find a way to stop them.
-[
-120
-]
+They eventually took down three of the cores, and Skywalker took down the guards at the fourth one with his blaster and lightsaber while the Partisans gave him cover, before instructing R2 to set it to explode.
+Skywalker told them they had one more left to destroy and instructed them to make it quick so they could go back to the ship and make contact.
+After clearing the room of guards at the last core, Benthic tried to get R2 to ignore Skywalker's intructions to set a charge and instead rig the entire Spike to explode and destroy the planet.
+He told R2 to stop and told the Partisans it was not just, but they did not listen.
+Skywalker then feigned surrender as R2 emitted a bunch of gas into the gas, allowing Skywalker and the droid to run off out of sight.
+Fearing the Partisans had gone crazy, Skywalker was determined to find a way to stop them.
 Skywalker and Benthic come into conflict on the Spike.
-Skywalker ran through the Spike, using his lightsaber to deactivate a blast door's controls and close it. As the Partisans started to open it, Skywalker told R2 that they could not do anything without the droid, instructing him to hide while he led the Partisans away. He did so successfully, but was cornered by the Partisans, who then contacted R2 and told him that if he did not come to them they would kill Skywalker. R2 did what they said despite Skywalker insisting his life was not worth it and begging him to stop.
-[
-121
-]
+Skywalker ran through the Spike, using his lightsaber to deactivate a blast door's controls and close it.
+As the Partisans started to open it, Skywalker told R2 that they could not do anything without the droid, instructing him to hide while he led the Partisans away.
+He did so successfully, but was cornered by the Partisans, who then contacted R2 and told him that if he did not come to them they would kill Skywalker.
+R2 did what they said despite Skywalker insisting his life was not worth it and begging him to stop.
 As R2 set the Spike to destroy the planet, Skywalker told the droid that he did not understand him because saving his life was not worth killing millions. Skywalker secretly hoped stormtroopers would show up and take down the Partisans. He unsuccessfully tried to talk Benthic into stopping, but Organa and Solo arrived and the former successfully talked him down. As Skywalker and the others escaped in the
 Falcon
 , refusing to give in to Imperial forces that had arrived, C-3PO revealed that R2 kept telling Skywalker to "trust in the Force" when he was beeping. After making it to hyperspace, Skywalker asked what they would do about the Partisans, who he called traitorous, them all eventually deciding to drop them off on
@@ -2964,9 +2470,6 @@ Salobea
 . Back at the
 Home One
 , Skywalker asked Meorti if they had gotten an appetite for the field, but she said she had not and sped off. Organa then listed off a bunch of possible locations for a new rebel base provided to her by General Dodonna, one of which was Hoth, Skywalker declaring that one of the places would be their new home.
-[
-122
-]
 Sergia
 [
 ]
@@ -2978,9 +2481,6 @@ off
 a desert planet?
 "
 ―Luke Skywalker on the desert planet Sergia
-[
-123
-]
 Skywalker was assigned General Rieekan to Sergia
 Following their
 mission to Shu-Toran
@@ -2997,47 +2497,44 @@ probe droids
 that had recently been released en mass from a
 refueling station
 the Rebel Alliance had established on the planet. When Skywalker arrived, he found a massive Star Destroyer in orbit. After failing to lure it away, Skywalker landed on the planet and tried to look for the Rebels on foot, though was upset that he could not influence the Star Destroyer's pilot with the Force to do what he wanted like he believed Kenobi could have. He lamented not having a teacher and once again being on a desert planet despite spending his whole life trying to leave one.
-[
-123
-]
 After destroying a probe droid that was caught in a stampede of
 plain hundas
 with his his lightsaber, Skywalker found that the rebels were operating out in the open, and sent R2-D2 to deliver a message to the rebels to lie low until he could help them to escape. He spent hours attempting to find pods released by the Star Destroyer, eventually trying and failing to use the Force to find them, before finding a town and deciding to check it out. There, in a bar, Skywalker saved thief
 Warba Calip
-from an individual that was threatening her because he believed she was cheating at sabacc by beating them with a broom. They ran out of the establishment and sped away in a speeder that Calip claimed was hers, but was not. Skywalker was annoyed by the experience and asked her to drop him off as soon as possible, but she was elated and asked why he was not, before suggesting that the reason she had won so much at the bar was because she knew the Force, saying she recognized Skywalker as someone who sought it.
-[
-124
-]
-Eventually the speeder Skywalker and Calip were in was deactivated from afar by the owner and the two introduced themselves to each other. When he questioned his decision to rescue her, she claimed she had cheated earlier using a Jedi mind trick, though she was not a Jedi. She also saw his lightsaber and told him to tell her all about it after they moved the speeder and then hid. Once they did, and saw the owner coming for it, they hid out in a forest of dead trees, though Calip no longer was interested in hearing about his lightsaber or helping him with the Force because she said using the Force got people killed. He insisted he just needed a little help, before noticing that Calip had stolen his lightsaber and pulling it back to him to activate it. After contacting someone named Tinga about the lightsaber, Calip tried to suggest that Skywalker run away and settle down, but he insisted that he needed to learn about the Force to fight the Empire and tried to convince her to help him with his mission to destroy the shuttles that had arrived there, explaining that he was unable to locate them with the Force. She claimed that she could teach him to reach out with his mind and find them, but that it would take too long and they should just rob a bank instead, confusing Skywalker.
-[
-125
-]
+from an individual that was threatening her because he believed she was cheating at sabacc by beating them with a broom.
+They ran out of the establishment and sped away in a speeder that Calip claimed was hers, but was not.
+Skywalker was annoyed by the experience and asked her to drop him off as soon as possible, but she was elated and asked why he was not, before suggesting that the reason she had won so much at the bar was because she knew the Force, saying she recognized Skywalker as someone who sought it.
+Eventually the speeder Skywalker and Calip were in was deactivated from afar by the owner and the two introduced themselves to each other.
+When he questioned his decision to rescue her, she claimed she had cheated earlier using a Jedi mind trick, though she was not a Jedi.
+She also saw his lightsaber and told him to tell her all about it after they moved the speeder and then hid.
+Once they did, and saw the owner coming for it, they hid out in a forest of dead trees, though Calip no longer was interested in hearing about his lightsaber or helping him with the Force because she said using the Force got people killed.
+He insisted he just needed a little help, before noticing that Calip had stolen his lightsaber and pulling it back to him to activate it.
+After contacting someone named Tinga about the lightsaber, Calip tried to suggest that Skywalker run away and settle down, but he insisted that he needed to learn about the Force to fight the Empire and tried to convince her to help him with his mission to destroy the shuttles that had arrived there, explaining that he was unable to locate them with the Force.
+She claimed that she could teach him to reach out with his mind and find them, but that it would take too long and they should just rob a bank instead, confusing Skywalker.
 The Imperial payroll garrison
 Skywalker was unsure about Calip's plan, but he insisted that they needed to steal the money from the Imperial payroll garrison so they could buy the information about the shuttles from the secretary of the local sub-governor. Skywalker and Calip analyzed the defenses before she taught him the
 Guardian's Mantra
-, claiming he would become more powerful if he had the belief of the the priests who said that mantra. While saying the mantra, Skywalker took down Imperial droids with his lightsaber and barged into the garrison, though he lost his lightsaber in a flurry of blasterfire shot by turrets on the building, though Calip collected it. After an explosion rocked the building, Skywalker exited the building with a bag full of credits. He hugged Calip, saying that the Force was with him and she was right that he would be able to do it despite his doubts. She said she was always right, which Skywalker said he would remember.
-[
-126
-]
-After escaping in an Imperial speeder, Skywalker expressed his delight that they could now buy information from Calip's source, but Calip instead suggested that they take the money for themselves. As Calip continued to discard Skywalker's insistences that he needed to find the patrol to save thousands of lives and stared to suggest that he would be a great thief, Skywalker started to believe that Calip was testing him as part of his training and insisted they find her source. They then stumbled upon stormtroopers threatening a person named
+, claiming he would become more powerful if he had the belief of the the priests who said that mantra.
+While saying the mantra, Skywalker took down Imperial droids with his lightsaber and barged into the garrison, though he lost his lightsaber in a flurry of blasterfire shot by turrets on the building, though Calip collected it.
+After an explosion rocked the building, Skywalker exited the building with a bag full of credits.
+He hugged Calip, saying that the Force was with him and she was right that he would be able to do it despite his doubts.
+She said she was always right, which Skywalker said he would remember.
+After escaping in an Imperial speeder, Skywalker expressed his delight that they could now buy information from Calip's source, but Calip instead suggested that they take the money for themselves.
+As Calip continued to discard Skywalker's insistences that he needed to find the patrol to save thousands of lives and stared to suggest that he would be a great thief, Skywalker started to believe that Calip was testing him as part of his training and insisted they find her source.
+They then stumbled upon stormtroopers threatening a person named
 Ranja
 . Skywalker wanted to take them down with his lightsaber, but Calip insisted that he would make things worse, causing Calip to sit down in frustration when Skywalker once again thought she was testing him. She explained that she had grown up on Jedha near the
 Temple of the Kyber
 and had seen the
 Guardians of the Whills
 perform miracles, but had also seen the Empire's atrocities afterward. When he asked about the Force, she instructed Skywalker to close his eyes and try to reach out and feel for it after explaining what it was. However, she was really using the opportunity to steal his lightsaber and run off, which Skywalker quickly realized, screaming out for her.
-[
-127
-]
 Warba Calip
-As he ran after Calip, C-3PO reached out to Skywalker via comm and informed him that the planet he and Chewbacca were supposed to destroy had turned out to be inhabited and that Vader had arrived. Skywalker got no response from the droid after and ran after Calip to get his lightsaber, realizing he needed it more than ever, but his attempts to reason with her by warning her people would die failed and she sped off in the speeder. The Rebels on Sergia then contacted Skywalker via R2-D2 and informed them that an Imperial transport had found them. Skywalker told them to stay under cover before stealing a stormtroopers speeder bike and leading the transport away, instructing the Rebels to evacuate while he did so. He then crashed the speeder bike into the transport and brought it down, stormtroopers chasing him through the desert until he ran into Calip in her speeder, who reluctantly gave Skywalker his lightsaber.
-[
-128
-]
+As he ran after Calip, C-3PO reached out to Skywalker via comm and informed him that the planet he and Chewbacca were supposed to destroy had turned out to be inhabited and that Vader had arrived.
+Skywalker got no response from the droid after and ran after Calip to get his lightsaber, realizing he needed it more than ever, but his attempts to reason with her by warning her people would die failed and she sped off in the speeder.
+The Rebels on Sergia then contacted Skywalker via R2-D2 and informed them that an Imperial transport had found them.
+Skywalker told them to stay under cover before stealing a stormtroopers speeder bike and leading the transport away, instructing the Rebels to evacuate while he did so.
+He then crashed the speeder bike into the transport and brought it down, stormtroopers chasing him through the desert until he ran into Calip in her speeder, who reluctantly gave Skywalker his lightsaber.
 While deflecting the stormtroopers blasterfire with his lightsaber, Skywalker got in the speeder with Calip and they left, Skywalker joking that he used a Jedi mind trick on her and pointing out that in seemed like she was like his friend Solo and helping for more than just the money.
-[
-129
-]
 K43
 [
 ]
@@ -3051,51 +2548,41 @@ But your friends just said Vader's there! […] I'm not a teacher. I don't know 
 I still gotta go, Warba. But I don't care what you say. You're more than you seem…let's hope we all are.
 "
 ―Skywalker and Werba Calip
-[
-129
-]
 Stormtroopers chase after Skywalker and Calip on desert manglers.
 Meanwhile, Darth Vader had discovered that Chewbacca was on the planet
 K43
 in the
 Millennium Falcon
 .
-[
-125
-]
 He had realized it was a rebel trap for him and Imperial forces, but decided to use Chewbacca to trap Skywalker.
-[
-127
-]
 Skywalker commed Solo, telling the smuggler he had just been talking about him and was fleeing stormtroopers mounted on
 desert manglers
-, but Solo one-upped him and said he was trying to take down a star destroyer with a transport shuttle. After keeping the troopers away by swinging his lightsaber at them, Skywalker instructed Calip to have faith and bring the speeder to some rocks, where Skywalker used a grappling hook to bring down the rocks on top of the troopers. Skywalker then made it back to R2 and his X-wing, which Rebels had prepared and confirmed it was the right time for him to leave and avoid the Super Star Destroyer. Skywalker instructed them to take Calip and drop her on the next safe planet. When Skywalker revealed he was going to K43, Calip revealed that she did not actually know much about the Force and had not really taught Skywalker anything, warning he would die if he went to face Vader. Skywalker said he still needed to go, and boarded his X-wing and took off while telling Calip that she was more than she seemed, and that he hoped they all were.
-[
-129
-]
+, but Solo one-upped him and said he was trying to take down a star destroyer with a transport shuttle.
+After keeping the troopers away by swinging his lightsaber at them, Skywalker instructed Calip to have faith and bring the speeder to some rocks, where Skywalker used a grappling hook to bring down the rocks on top of the troopers.
+Skywalker then made it back to R2 and his X-wing, which Rebels had prepared and confirmed it was the right time for him to leave and avoid the Super Star Destroyer.
+Skywalker instructed them to take Calip and drop her on the next safe planet.
+When Skywalker revealed he was going to K43, Calip revealed that she did not actually know much about the Force and had not really taught Skywalker anything, warning he would die if he went to face Vader.
+Skywalker said he still needed to go, and boarded his X-wing and took off while telling Calip that she was more than she seemed, and that he hoped they all were.
 While landing his X-wing on K43, the starfighter was hit by an electromagnetic pulse generated by the planet's natives, the
 Kakrans
 , in an attempt to combat Vader. As a result, the X-wing crashed and R2 was deactivated, leaving Skywalker worried and rattled as he noticed Vader approaching him with his red lightsaber ignited. However, Vader was attacked with a rock by Chewbacca before the Sith Lord could reach Skywalker.
-[
-129
-]
-After Chewbacca knocked Vader down into a chasm, Skywalker ran to his friend. Finding his lightsaber unable to activate, he decided to use a rock to bring an avalanche down on top of Vader while saying the Guardian's mantra, but ultimately caught caught in the rock slide and had to be saved from the dark lord's clutches by Chewbacca. Skywalker tried to get Chewbacca to abandon him and save himself as Chewbacca carried him and ran away from Vader and blasterfire shot by stormtroopers at the top of the chasm.
-[
-130
-]
+After Chewbacca knocked Vader down into a chasm, Skywalker ran to his friend.
+Finding his lightsaber unable to activate, he decided to use a rock to bring an avalanche down on top of Vader while saying the Guardian's mantra, but ultimately caught caught in the rock slide and had to be saved from the dark lord's clutches by Chewbacca.
+Skywalker tried to get Chewbacca to abandon him and save himself as Chewbacca carried him and ran away from Vader and blasterfire shot by stormtroopers at the top of the chasm.
 Skywalker and his friends shoot at a weakened Darth Vader.
 As they ran, Solo crashed his shuttle down in front of them, Skywalker saying they needed to get Vader before Solo could even ask how he was doing. Organa then emerged from the ship shooting stormtroopers with another man, who Solo revealed was named
 Dar Champion
 when Skywalker asked. After learning that that Vader had been weakened by the electromagnetic pulse, Skywalker insisted they would never get a better chance to take him down so they all rushed at him while shooting at him until he threw them all down and back with the Force. After Vader ran off, Skywalker and the others started board the
 Falcon
 to evacuate the unstable planet, but remembering R2 was still on his X-wing, Skywalker ran to rescue the droid, telling the others he would meet them in the air. C-3PO and the Kakrans then agreed that Skywalker was very thoughtful.
-[
-130
-]
-Skywalker eventually reunited with R2-D2 at his X-wing, but Vader was there too, with his lightsaber ignited. Skywalker ignited his lightsaber too, but before they could duel, the ground beneath them collapsed, forcing Skywalker to jump in the X-wing as the planet was destroyed. As Skywalker flew his starfighter in the aftermath, he discovered that Vader had survived the event and watched with relief as the Star Destroyer the man was in jumped to lightspeed before Vader could hurt him. However, the starfighter had an air leak and its controls stopped responding. Skywalker was saved by the rebels from Sergia, including Calip who had refused to let the others go somewhere safe and insisted they rescue Skywalker. Skywalker told her that he had known she would come through. Later, on the Rebel fleet, which was now over the planet Hoth, Skywalker watched as Champion spoke to Rieekan and commented he was really good. Organa claimed the reason for this was that he had plans and did not just show up and hope for the best like Solo, but Skywalker decided that was all you needed when you had friends as he watched with a smile as Calip pickpocketed someone.
-[
-130
-]
+Skywalker eventually reunited with R2-D2 at his X-wing, but Vader was there too, with his lightsaber ignited.
+Skywalker ignited his lightsaber too, but before they could duel, the ground beneath them collapsed, forcing Skywalker to jump in the X-wing as the planet was destroyed.
+As Skywalker flew his starfighter in the aftermath, he discovered that Vader had survived the event and watched with relief as the Star Destroyer the man was in jumped to lightspeed before Vader could hurt him.
+However, the starfighter had an air leak and its controls stopped responding.
+Skywalker was saved by the rebels from Sergia, including Calip who had refused to let the others go somewhere safe and insisted they rescue Skywalker.
+Skywalker told her that he had known she would come through.
+Later, on the Rebel fleet, which was now over the planet Hoth, Skywalker watched as Champion spoke to Rieekan and commented he was really good.
+Organa claimed the reason for this was that he had plans and did not just show up and hope for the best like Solo, but Skywalker decided that was all you needed when you had friends as he watched with a smile as Calip pickpocketed someone.
 Valo system
 [
 ]
@@ -3106,9 +2593,6 @@ Oh I dread to think what would've happened if the Empire had captured you.
 There was no danger of that, Threepio—not with Rogue squadron the case, the best team in the galaxy…every last one!
 "
 ―C-3PO and Skywalker
-[
-131
-]
 The Taris shipyard is destroyed.
 Skywalker lead Rogue Squadron, including Antilles,
 Lyle Kullan
@@ -3120,10 +2604,14 @@ to accompany
 Blade Squadron
 to the
 Taris system
-to take out an Imperial shipyard. After having everyone report in, Skywalker attempted to dissuade Myrak of their excitement to hurt the Empire, insisting they have a level head, but Myrak continued being cocky, which angered Kullan. Skywalker reminded Kullan that he used to be the same way. Just then, R2 revealed that multiple TIE fighters were incoming, and Myrak leapt into action, but Skywalker told her to stay in formation because she was leaving the left side of Blade Squadron open. Myrak and Kullan then squabbled over taking out the TIEs over comm and Skywalker ordered them to stop and focus. Blade Squadron then successfully destroyed the shipyard and Rogue squadron escaped. Afterward, Skywalker warned Myrak that she was out of line. When she kept being cocky, Skywalker assured Antilles that he would watcher her and she would be grounded permanently if she made another mistake.
-[
-132
-]
+to take out an Imperial shipyard.
+After having everyone report in, Skywalker attempted to dissuade Myrak of their excitement to hurt the Empire, insisting they have a level head, but Myrak continued being cocky, which angered Kullan.
+Skywalker reminded Kullan that he used to be the same way.
+Just then, R2 revealed that multiple TIE fighters were incoming, and Myrak leapt into action, but Skywalker told her to stay in formation because she was leaving the left side of Blade Squadron open.
+Myrak and Kullan then squabbled over taking out the TIEs over comm and Skywalker ordered them to stop and focus.
+Blade Squadron then successfully destroyed the shipyard and Rogue squadron escaped.
+Afterward, Skywalker warned Myrak that she was out of line.
+When she kept being cocky, Skywalker assured Antilles that he would watcher her and she would be grounded permanently if she made another mistake.
 Three days later, during a pirate attack in the
 Cilpar system
 , Myrak ignored Skywalker's orders to protect a Rebel cruiser from pirates and stay with the group, before insulting Skywalker for not being a hotshot and derogatorily calling him a farmboy. After Skywalker was forced to save Myrak from the pilots, Skywalker told her that she was being kicked out of the Squadron for disobeying orders. On the
@@ -3135,18 +2623,21 @@ Valo
 , before it cut out. Skywalker ordered Myrak to stay behind and catalogue message logs while Skywalker went with the rest of the Squadron. Once in the
 Valo system
 , they found no sign of the Empire until Skywalker got an intense feeling in the Force and a Star Destroyer appeared.
-[
-132
-]
 Rogue Squadron faces a Star Destroyer over Valo.
-While Skywalker and Rogue Squadron fought the Empire and tried to figure out where Kulan was, Myrak ignored Skywalker's orders and took her X-wing to go after him. Ackbar then tried to reach out to Skywalker and let him know, but found he could not get through to Rogue Squadron. C-3PO then warned Ackbar that he suspected Skywalker's hands were full. Meanwhile, Skywalker tried and failed to get through to the fleet, and he and Mantra tried to assure Antilles they had his back. However, Skywalker was then caught in a tractor beam. Mantra went to save him, but Skywalker warned her to follow advice someone smarter than he looks, referencing Solo, had told him which was "don't get cocky", to which she called Solo a kill-joy. She assured Skywalker he would be able to tell Solo she said that, but before she could take out the tractor beam, she was fired at by a fellow X-wing, who turned out to be Kullan.
-[
-131
-]
-Kullan revealed that he had been working for the Empire and would have had Skywalker captured at Taris if it was not for Myrak. However, Myrak then arrived and announced herself, before shooting at the tractor beams and freeing Skywalker. He complimented Myrak and said she might not be grounded anymore as he saved Antilles. Skywalker then had the entire Squadron form up on Kullan as the Rebel fleet arrived. The Star Destroyer left into hyperspace and abandoned Kullan, who was then captured by the Rebels. Akbar and C-3PO then revealed to Skywalker that Myrak had uncovered Kullan's spy messages and plan to trap him on Valo. Skywalker assured C-3PO that there never had been any real danger, because Rogue Squadron was on the case and was the best team in the galaxy.
-[
-131
-]
+While Skywalker and Rogue Squadron fought the Empire and tried to figure out where Kulan was, Myrak ignored Skywalker's orders and took her X-wing to go after him.
+Ackbar then tried to reach out to Skywalker and let him know, but found he could not get through to Rogue Squadron.
+C-3PO then warned Ackbar that he suspected Skywalker's hands were full.
+Meanwhile, Skywalker tried and failed to get through to the fleet, and he and Mantra tried to assure Antilles they had his back.
+However, Skywalker was then caught in a tractor beam.
+Mantra went to save him, but Skywalker warned her to follow advice someone smarter than he looks, referencing Solo, had told him which was "don't get cocky", to which she called Solo a kill-joy.
+She assured Skywalker he would be able to tell Solo she said that, but before she could take out the tractor beam, she was fired at by a fellow X-wing, who turned out to be Kullan.
+Kullan revealed that he had been working for the Empire and would have had Skywalker captured at Taris if it was not for Myrak.
+However, Myrak then arrived and announced herself, before shooting at the tractor beams and freeing Skywalker.
+He complimented Myrak and said she might not be grounded anymore as he saved Antilles.
+Skywalker then had the entire Squadron form up on Kullan as the Rebel fleet arrived.
+The Star Destroyer left into hyperspace and abandoned Kullan, who was then captured by the Rebels.
+Akbar and C-3PO then revealed to Skywalker that Myrak had uncovered Kullan's spy messages and plan to trap him on Valo.
+Skywalker assured C-3PO that there never had been any real danger, because Rogue Squadron was on the case and was the best team in the galaxy.
 On Hoth
 [
 ]
@@ -3163,16 +2654,10 @@ could have caused the problem, too, I'll remind you. It's okay. I'll work on you
 Gods, I hope not.
 "
 ―Luke Skywalker and Reyé Hollis
-[
-133
-]
 Echo Base on Hoth
 In
 3 ABY
 ,
-[
-41
-]
 Skywalker and the Rogue Squadron were transferred to the
 Echo Base
 , a rebel base on the iced planet
@@ -3180,9 +2665,6 @@ Hoth
 , where he participated in regular patrols of the frozen perimeter under the callsign
 Echo Three
 .
-[
-11
-]
 Upon Skywalker's arrival at Echo Base, Rebel leadership expected him to use the Force to help excavate the tunnels by sensing where and when to dig, even though he was unsure of how to do that. His belongings, including his lightsaber, were placed in a
 decontamination unit
 in case of off-world pathogens. Sergeant
@@ -3190,19 +2672,23 @@ Reyé Hollis
 from
 Rebel Alliance Special Forces
 was assigned to familiarize him with the location. After they introduced themselves to each other and shook hands, Skywalker declared that he was there to help.
-[
-133
-]
-Skywalker hoped to get to know Hollis since they would be working together, and they both thought the other had attractive qualities, but the sergeant's anti-Jedi sentiments gave Skywalker the initial impression that the other man disliked him. He did not recognize that Hollis had a Naboo name, but he could sense that Naboo was beautiful through Hollis' mental images of home. Hollis made a derogatory remark about the Jedi and Skywalker defended them. He also promised not to let the Naboo man down, just before a giant
+Skywalker hoped to get to know Hollis since they would be working together, and they both thought the other had attractive qualities, but the sergeant's anti-Jedi sentiments gave Skywalker the initial impression that the other man disliked him.
+He did not recognize that Hollis had a Naboo name, but he could sense that Naboo was beautiful through Hollis' mental images of home.
+Hollis made a derogatory remark about the Jedi and Skywalker defended them.
+He also promised not to let the Naboo man down, just before a giant
 fork-nosed ice worm
 broke through the ground next to them and they were trapped by a cave-in.
-[
-133
-]
-Unused to total darkness, Skywalker experienced claustrophobia. He could hear but not locate Hollis until he tried to use the Force to stretch out his senses. He tried to remember that darkness had been a comfort back on Tatooine, but that did not work and he still felt suffocated by the darkness. He successfully detected that Hollis was nearby using the Force and told the other man to stay still. When Skywalker approached, they bickered briefly over what was responsible for the cave-in, Hollis urging him not to use the Force. Hollis, recognizing that the Jedi was panicking, grabbed Skywalker's hand and pressed it to a gap in the wall that had air flowing through it. Skywalker clutched Hollis' hand and asked for his trust. They sat down and kept holding each other's hands as Skywalker thought about the light and warmth of his home on Tatooine. Skywalker began to reflect on his fear of what the darkness would do to him psychologically, referring both to the literal situation they were in and the general darkness in the galaxy he faced. As their hands warmed, Skywalker could sense where they could dig through the ice to free themselves in the Force. They teased each other and laughed before they started digging, Skywalker recognizing that the Force had never steered him the wrong direction and suspecting it never would.
-[
-133
-]
+Unused to total darkness, Skywalker experienced claustrophobia.
+He could hear but not locate Hollis until he tried to use the Force to stretch out his senses.
+He tried to remember that darkness had been a comfort back on Tatooine, but that did not work and he still felt suffocated by the darkness.
+He successfully detected that Hollis was nearby using the Force and told the other man to stay still.
+When Skywalker approached, they bickered briefly over what was responsible for the cave-in, Hollis urging him not to use the Force.
+Hollis, recognizing that the Jedi was panicking, grabbed Skywalker's hand and pressed it to a gap in the wall that had air flowing through it.
+Skywalker clutched Hollis' hand and asked for his trust.
+They sat down and kept holding each other's hands as Skywalker thought about the light and warmth of his home on Tatooine.
+Skywalker began to reflect on his fear of what the darkness would do to him psychologically, referring both to the literal situation they were in and the general darkness in the galaxy he faced.
+As their hands warmed, Skywalker could sense where they could dig through the ice to free themselves in the Force.
+They teased each other and laughed before they started digging, Skywalker recognizing that the Force had never steered him the wrong direction and suspecting it never would.
 While the base was still being built, two rebel soldiers,
 Kes Dameron
 and his wife,
@@ -3214,9 +2700,6 @@ Poe Dameron
 to explain why they joined the Rebellion. Skywalker, however, rescued them, helped by Chewbacca by opening a hole in the ice using his lightsaber, him, Organa, and the others willing to risk the tech in the control room to save their lives. He allowed Bey to use him as a crutch so she could limp out. Dameron and Bey were eventually treated by a
 2-1B surgical droid
 .
-[
-134
-]
 At some point, Skywalker walked outside of Echo Base to speak with Captain
 Magna Tolvan
 ,
@@ -3225,10 +2708,10 @@ Vulaada Klam
 Korin Aphra
 , the latter of which had been very excited by the idea of the Force-sensitive pilot and the former recognizing him as the man who destroyed the Death Star, which Skywalker confirmed. After confirming that they were the friends of Doctor Chelli Aphra, Skywalker told them that a Rebellion spy had revealed that he had learned from a comms jockey on the
 Executor
-that someone had sabotaged the Empire's computers and made it hard for them to search for the Alliance. He explained that the Empire had put out a warrant for the culprit, and then revealed that their description matched that of Doctor Aphra and her droid companions. Skywalker revealed that sabotage had set the Empire back enough for them to set up their shields and finalize their evacuation plans. He told them that he had always known that there was good in Aphra before turning and leaving, the three then discussing and then deciding against telling him that Aphra had also saved the Emperor's life.
-[
-135
-]
+that someone had sabotaged the Empire's computers and made it hard for them to search for the Alliance.
+He explained that the Empire had put out a warrant for the culprit, and then revealed that their description matched that of Doctor Aphra and her droid companions.
+Skywalker revealed that sabotage had set the Empire back enough for them to set up their shields and finalize their evacuation plans.
+He told them that he had always known that there was good in Aphra before turning and leaving, the three then discussing and then deciding against telling him that Aphra had also saved the Emperor's life.
 The Battle of Hoth
 [
 ]
@@ -3236,21 +2719,12 @@ The Battle of Hoth
 Rogue Group, use your harpoons and tow cables. Go for the legs. It might be our only chance of stopping them.
 "
 ―Commander Luke Skywalker, during the Battle of Hoth
-[
-11
-]
 Skywalker riding a tauntaun mount on Hoth
 Some time later, while reconnoitering the surroundings of Echo Base on
-[
-11
-]
 the
 tauntaun
 Riba
 ,
-[
-136
-]
 after Solo had departed back to base, Skywalker was attacked by a
 wampa
 , only to regain consciousness in its
@@ -3258,9 +2732,6 @@ cave
 . He severed its arm with his lightsaber and escaped; after a long walk in the icy wind, he collapsed from exhaustion. Near death, he had a vision of Kenobi, who told him to seek the teachings of Yoda in the
 Dagobah system
 .
-[
-11
-]
 Rescued by Solo, Skywalker recovered from his wounds in a
 bacta tank
 operated by the medical droids
@@ -3272,29 +2743,17 @@ one
 of his
 probe droids
 and prepared an imminent attack on the recently-opened Alliance base,
-[
-11
-]
 thus prompting the Alliance to evacuate the base at once. After bidding farewell to his friends,
-[
-137
-]
 for the impending
 battle
 , Skywalker was to lead Rogue Squadron in an
 airspeeder
 .
-[
-11
-]
 Before he departed to the battlefront, he was spotted by rebel journalist
 Corwi Selgrothe
 , who wanted to quickly interview him for propaganda footage, but she was instead led to the escape transports by rebel trooper
 L'cayo Llem
 .
-[
-138
-]
 During the battle, Skywalker led his speeders against the walkers, ordering Rogue Squadron to pull the AT-ATs down with tow tables after realizing their armor could resist their blasters. Though he was shot down, and his
 gunner
 Dak Ralter
@@ -3305,9 +2764,6 @@ harpoon gun
 and then used his lightsaber to cut a hole and throw a
 thermal detonator
 . As Imperial forces breached the Rebels' defenses, the last Rebel transport departed, and Skywalker fled the planet aboard his X-wing with R2-D2.
-[
-11
-]
 Traveling to Dagobah
 [
 ]
@@ -3330,9 +2786,6 @@ Link
 (
 file info
 )
-[
-11
-]
 Traveling to Dagobah, Skywalker sought out Grand Master Yoda in order to complete his Jedi training.
 Skywalker then traveled to
 Dagobah
@@ -3341,21 +2794,12 @@ swamp
 planet, where he encountered Yoda, the former
 Grand Master
 of the fallen Jedi Order. In their initial meeting, Skywalker was frustrated and impatient and was rather short-tempered with the diminutive Yoda, who did not initially identify himself and purposefully tested Skywalker's patience, telling him a story about three brothers,
-[
-137
-]
 and taking him back to his
 hut
 to partake in a meal of
 rootleaf stew
 , which he did not find very appetizing.
-[
-11
-]
 However, Skywalker gained a new appreciation for the small creature upon learning his identity, and Yoda agreed to train Skywalker only at the insistence of Kenobi's spirit. Skywalker's training proved to be difficult, as his adventurous past had shaped his mind toward action and emotional instinct.
-[
-11
-]
 Renewed training
 [
 ]
@@ -3369,18 +2813,9 @@ What's in there?
 Only what you take with you.
 "
 ―Yoda and Luke Skywalker
-[
-11
-]
 Yoda trains Luke Skywalker on Dagobah.
 Skywalker's training on Dagobah lasted several weeks, with Kenobi needing to appear in Yoda's dreams more than once to convince the old master to keep up Luke's training and argue that the boy would not end up like this father. When Skywalker and Yoda argued, Kenobi also regularly appeared to stop their arguments.
-[
-139
-]
 One day during his training with Yoda, the Jedi Master had Skywalker climb a tree to use his senses to find a way through the tree, Skywalker lost his balance and fell from the tree. Yoda decided to have Skywalker carry him as he redid the task.
-[
-140
-]
 When Yoda asked him to enter a
 cave
 that was strong in the dark side in which he was supposed to find only what he took with him, he was
@@ -3388,15 +2823,9 @@ challenged
 by a vision of himself wearing the
 armor of Darth Vader
 , meant to symbolize his inner darkness.
-[
-11
-]
 Master and apprentice then had an encounter with a raging
 elephoth
 , which Skywalker managed to calm by leading her to her child.
-[
-137
-]
 Leaving prematurely
 [
 ]
@@ -3405,21 +2834,12 @@ Luke! You must complete the training.."
 " I can't keep the vision out of my head. They're my friends. I've gotta help them.
 "
 ―Yoda and Skywalker
-[
-11
-]
 Shortly after, he had a vision of Han Solo and Leia Organa suffering at
 Cloud City
 on
 Bespin
 . Unable to get the visions out of his head, and convinced that his friends would surely die if he did not help them, Skywalker decided to end his training prematurely to rescue them, despite Yoda and Kenobi's insistence that he was not ready to face the dark side on his own yet, but Skywalker was convinced that he would learned enough to hold his own, and he could not just stand by and leave his friends to the mercy of the Empire.
-[
-11
-]
 Seeing that Skywalker's mind was made up, Kenobi let him know that if he ended up facing Vader, he could not interfere on his behalf, and advised him not to give into hatred. Likewise, Yoda advised him to mind what he would learned. Skywalker promised to do so, and vowed to return to Dagobah one day to finish his training.
-[
-11
-]
 Vader's revelation
 [
 ]
@@ -3431,16 +2851,10 @@ You have learned much, young one."
 "You'll find I'm full of surprises!
 "
 ―Darth Vader and Luke Skywalker
-[
-11
-]
 Skywalker confronted Vader on Bespin while attempting to save his friends.
 Upon his arrival at Cloud City's
 East Platform
 , Skywalker felt Vader's presence,
-[
-137
-]
 and went into the nearest building, where he was shot at by Fett, who had come to claim a bounty put on Solo by Jabba the Hutt, and tried to pursue a group of stormtroopers and
 Imperial officers
 who held Organa, Chewbacca, and C-3PO captive. The princess attempted to warn Skywalker that he was walking into a trap, but his path was diverted to the
@@ -3453,27 +2867,18 @@ Emperor
 . Skywalker engaged the Dark Lord in a fierce
 lightsaber duel
 .
-[
-11
-]
 During the duel, Vader praised Skywalker's training in the Force thus far and attempted to goad him into giving into his anger and hatred, claiming that it was the only way to defeat him. Vader managed to knock Skywalker into the carbon-freezing chamber and appeared to have frozen him like he had Solo, but Skywalker
 leapt
 out of the chamber before the process was finished, which left Vader impressed.
-[
-11
-]
 The duel eventually carried into the control room of one of Cloud City's
 gas-processing vanes
 . Vader began using the Force to throw various objects in the chamber at the young Jedi hopeful. One such projectile, a large piece of metal piping, was misdirected and smashed through a nearby observation port. The chamber was quickly depressurized, sucking Skywalker out onto the nearby sensor relay catwalk overlooking the
 reactor shaft
 . Skywalker managed to grab on to the catwalk's railing and pull himself up.
-[
-11
-]
-Vader re-entered the fray and forced Skywalker back onto the catwalk. Sensing that Skywalker was weakened, the Sith Lord demanded that Skywalker surrender, lest he be destroyed as Obi-Wan Kenobi had been. Skywalker refused and desperately tried to keep fighting Vader, to which Vader responded with several ferocious strikes, ultimately forcing Skywalker to the very edge of the catwalk and slicing off his right hand. Both Skywalker's hand and his lightsaber fell into the depths of the reactor shaft.
-[
-11
-]
+Vader re-entered the fray and forced Skywalker back onto the catwalk.
+Sensing that Skywalker was weakened, the Sith Lord demanded that Skywalker surrender, lest he be destroyed as Obi-Wan Kenobi had been.
+Skywalker refused and desperately tried to keep fighting Vader, to which Vader responded with several ferocious strikes, ultimately forcing Skywalker to the very edge of the catwalk and slicing off his right hand.
+Both Skywalker's hand and his lightsaber fell into the depths of the reactor shaft.
 A dark revelation
 [
 ]
@@ -3502,29 +2907,14 @@ Link
 (
 file info
 )
-[
-11
-]
 The revelation that Vader was Skywalker's father shook the Jedi hopeful to his core.
 Seeing that Skywalker was vulnerable in his weakened state, Vader offered to show Skywalker the power of the dark side and complete his training, but Skywalker adamantly refused to ever join Vader, the man who had killed his father. In that moment, Vader revealed the truth: that
 he
 was his father.
-[
-11
-]
 Horrified by Vader's shocking revelation, Skywalker initially denounced the Sith Lord's claim as untrue and impossible, but Vader insisted that they both knew that it was the truth. Vader further claimed that Skywalker was powerful enough to destroy the Emperor, and when he did, they could rule the galaxy together as father and son.
-[
-11
-]
-[
-141
-]
 Unwilling to join Vader but too weak to fight back, Skywalker took the only option he had left, and allowed himself to fall down the reactor shaft, being sucked through several vents and eventually being deposited to the outside of the floating city. Though he managed to grab onto a
 weather vane
 to avoid falling to his death, he knew he was unable to stay there forever, especially in his weakened state. Calling out to Kenobi at first but getting no response, in desperation, he called out to Leia Organa through the Force, who was able to hear the call.
-[
-11
-]
 Soon, the
 Millennium Falcon
 , with
@@ -3534,19 +2924,10 @@ escaped
 from Bespin, and the
 Falcon
 was faced with the Imperial fleet, Vader reached out to Skywalker through the Force, calling him "son."
-[
-11
-]
 Skywalker fought tears back, after hearing the word he had always longed to hear while lamenting that Kenobi had not told him the truth,
-[
-137
-]
 just as the
 Falcon
 made the jump into hyperspace thanks to R2-D2.
-[
-11
-]
 Haunted by the truth
 [
 ]
@@ -3554,17 +2935,11 @@ Haunted by the truth
 Ben... Ben. Why didn't you tell me?
 "
 ―Luke Skywalker
-[
-11
-]
 Haunted by the truth of his parentage, Skywalker found his connection to the Force considerably weakened, with his control over it remaining sporadic. Aboard the
 Falcon
 , after introducing Skywalker to Calrissian, Organa informed Skywalker of what had happened to Solo. Skywalker wanted to begin searching for his friend immediately, but Organa told him that there was more at stake than just Solo's life and it would be best to reconvene with the Rebel fleet first. He revealed that he had received no response from reaching out Kenobi, but she assured him that he was strong and would find his way. With Skywalker agreeing to her plan, the
 Falcon
 jumped to hyperspace.
-[
-142
-]
 The
 Millennium Falcon
 fights at Rendezvous Point Delta-Three.
@@ -3578,14 +2953,15 @@ Tarkin's Will
 Ellian Zahra
 . As the
 Falcon
-entered the battle, Skywalker volunteered to commandeer the ship's belly gun, despite his injuries. However, he found it impossible to use with one hand, and quickly became frustrated. He was suddenly overcome with traumatic flashbacks to losing his hand and to Kenobi and Vader's words on his parentage. His anger resulted in him unknowingly using the Force to make several of the attacking TIE Fighters crash into one another. With Luke stunned by his sudden show of strength, the fleet jumped to hyperspace.
-[
-142
-]
-With the fleet regrouped, Skywalker found a deserted part of the flagship and attempted to contact Yoda through the Force to receive his guidance. Angry at the Jedi Master's refusal to answer, he almost shattered one of the ship's windows in another frustration-fueled loss of control over his Force abilities. Speaking to R2-D2, he revealed that he was incredibly afraid and angry and considered that those feelings and his parentage meant he should not be a Jedi. He wondered whether the lack of answers from his mentors, who he was now frustrated with for lying to him, signified a premature end to his Jedi training, and who he was meant to be if not a Jedi.
-[
-142
-]
+entered the battle, Skywalker volunteered to commandeer the ship's belly gun, despite his injuries.
+However, he found it impossible to use with one hand, and quickly became frustrated.
+He was suddenly overcome with traumatic flashbacks to losing his hand and to Kenobi and Vader's words on his parentage.
+His anger resulted in him unknowingly using the Force to make several of the attacking TIE Fighters crash into one another.
+With Luke stunned by his sudden show of strength, the fleet jumped to hyperspace.
+With the fleet regrouped, Skywalker found a deserted part of the flagship and attempted to contact Yoda through the Force to receive his guidance.
+Angry at the Jedi Master's refusal to answer, he almost shattered one of the ship's windows in another frustration-fueled loss of control over his Force abilities.
+Speaking to R2-D2, he revealed that he was incredibly afraid and angry and considered that those feelings and his parentage meant he should not be a Jedi.
+He wondered whether the lack of answers from his mentors, who he was now frustrated with for lying to him, signified a premature end to his Jedi training, and who he was meant to be if not a Jedi.
 As Calrissian prepared to go to Tatooine to locate Solo, Skywalker, who was unsure if he could trust him, insisted that he inform him if he found Solo. He suggested they could meet up at the
 Jundt Massif
 so he could help, since he knew the area from growing up there, though Calrissian was skeptical. Skywalker insisted that he did not need both hands because he had the Force, but Calrissian still insisted a rescue mission from Jabba's palace would be impossible. Organa told Skywalker that he should have a
@@ -3595,17 +2971,8 @@ Nebulon-B frigate
 Redemption
 '
 s medbay. Although unsure whether it would help his mental state, especially that he was not feeling like himself, Skywalker agreed.
-[
-143
-]
 Skywalker specifically requested 2-1B, the medical droid who treated him on Hoth, for the procedure. Although he questioned whether he was deserving of having his hand replaced, Skywalker ultimately
-[
-144
-]
 received the hand as Calrissian and Chewbacca set out to find Solo.
-[
-11
-]
 An uncertain path
 [
 ]
@@ -3627,35 +2994,32 @@ go back there?
 Cause how I hear it, you lost more than your hand there. Your lightsaber too.
 "
 ―Lando Calrissian and Luke Skywalker
-[
-143
-]
 Upon their return, Calrissian found Skywalker training to fire a blaster with his prosthetic hand. Observing the would-be Jedi's struggles, Calrissian suggested that they return to Bespin so as to retrieve Skywalker's lightsaber. As they talked, Skywalker was suddenly confronted with a vision of a female
 hooded figure
 catching his lightsaber and telling him to follow his destiny.
-[
-143
-]
 Skywalker has a vision while reaching out to the Force in Cloud City.
 Skywalker, accompanied by Calrissian, Organa, and R2-D2, returned to Bespin, Calrissian assuring Skywalker he knew where his lightsaber ended up. However, they were fired upon the
 Bespin Wing Guard
-upon approach, though Calrissian urged Skywalker not to fire on them and instead take them in as close as possible. Skywalker was sure that they were gonna get killed, insisting destroying the Death Star was different when Calrissian suggested he could do it. Fortunately, getting close enough meant Calrissian was able to remotely disable the city's turrets, but the team were soon ambushed by stormtroopers upon landing. Needing to carry out their missions as quickly as possible to avoid capture, the rebels split up, with Skywalker and R2-D2 heading to the smelting chamber where Calrissian claimed his lightsaber should be located, walking past the spot where Vader cut off his hand. When they got there, Calrissian commed him asking for backup against stormtroopers, Skywalker agreeing to help once he found his lightsaber.
-[
-145
-]
+upon approach, though Calrissian urged Skywalker not to fire on them and instead take them in as close as possible.
+Skywalker was sure that they were gonna get killed, insisting destroying the Death Star was different when Calrissian suggested he could do it.
+Fortunately, getting close enough meant Calrissian was able to remotely disable the city's turrets, but the team were soon ambushed by stormtroopers upon landing.
+Needing to carry out their missions as quickly as possible to avoid capture, the rebels split up, with Skywalker and R2-D2 heading to the smelting chamber where Calrissian claimed his lightsaber should be located, walking past the spot where Vader cut off his hand.
+When they got there, Calrissian commed him asking for backup against stormtroopers, Skywalker agreeing to help once he found his lightsaber.
 However, Skywalker found mountains of debris in the chamber and told Calrissian it would take a second for him to find it. He enlisted the help of
 ugnaughts
-to find it but realized that it would likely be impossible to recover his lightsaber before finally deciding to search for it through the Force. However, he instead a vivid vision of the cloaked woman and a location she was at, as well as flashes of Vader, Kenobi, Yoda, and the Emperor. Sensing that Organa was in trouble, he abandoned the search and found Calrissian surrounded by stormtroopers. Skywalker used the Force to push the Imperial soldiers through a window, slightly surprised that he was able to and revealing to Calrissian he had gotten over his block. Lando introduced his friend
+to find it but realized that it would likely be impossible to recover his lightsaber before finally deciding to search for it through the Force.
+However, he instead a vivid vision of the cloaked woman and a location she was at, as well as flashes of Vader, Kenobi, Yoda, and the Emperor.
+Sensing that Organa was in trouble, he abandoned the search and found Calrissian surrounded by stormtroopers.
+Skywalker used the Force to push the Imperial soldiers through a window, slightly surprised that he was able to and revealing to Calrissian he had gotten over his block.
+Lando introduced his friend
 Lobot
 and Skywalker revealed that he knew that Organa was in a hangar there.
-[
-146
-]
 Skywalker flees Cloud City in his X-wing.
-When Calrissian noticed he had not retrieved the lightsaber, Skywalker explained that he had learned that he did not need the lightsaber to be a Jedi and that being a Jedi was about using the Force to bring light. He was once again determined to be a Jedi, even if he never saw his father's lightsaber, which he had mixed feelings about, again. Despite Calrissian's misgivings about his plan, Skywalker was able to use the Force to deactivate all of the carbonite blocks at once and free everyone, including Organa, before fighting off stormtroopers to get to his X-wing and take off from Bespin with it. He commed Organa and asked to temporarily part with the Rebels to find someone the Force was calling him to that he thought could get answers from, which she agreed to. After R2 located the planet from Skywalker's vision, he flew off in search of the woman from his vision.
-[
-146
-]
+When Calrissian noticed he had not retrieved the lightsaber, Skywalker explained that he had learned that he did not need the lightsaber to be a Jedi and that being a Jedi was about using the Force to bring light.
+He was once again determined to be a Jedi, even if he never saw his father's lightsaber, which he had mixed feelings about, again.
+Despite Calrissian's misgivings about his plan, Skywalker was able to use the Force to deactivate all of the carbonite blocks at once and free everyone, including Organa, before fighting off stormtroopers to get to his X-wing and take off from Bespin with it.
+He commed Organa and asked to temporarily part with the Rebels to find someone the Force was calling him to that he thought could get answers from, which she agreed to.
+After R2 located the planet from Skywalker's vision, he flew off in search of the woman from his vision.
 Verla
 [
 ]
@@ -3665,37 +3029,24 @@ huh?
 Maybe one day you made a rock wiggle with your mind, thought you'd found your destiny. You're a sucker.
 "
 ―Verla, to Luke Skywalker
-[
-147
-]
 Skywalker flies his X-wing to Serelia.
 While Skywalker traveled to find the woman from his visions, Vader followed a false lead from an Imperial officer to Skywalker, only finding a con man pretending to be him to get pilot jobs and claiming that a droid named 'Ardee' helped him destroy the Death Star. Vader killed him and declared that anyone who claimed Skywalker's name would die. He told the Imperial officer to verify his findings next time and said Skywalker could still be anywhere.
-[
-147
-]
 Having used the planet he saw in his vision as the basis for his search, Skywalker arrived at the planet
 Serelia
-, where he encountered the woman from the vision at a dock on the coastline. However, when he asked whether she was a Jedi, the woman responded by dropping a large amount of fish on top of him and escaping in a boat. Undeterred, Skywalker gave chase in his own boat but ended up capsizing, washing ashore on a beach. He followed the woman into a cave, where he was almost killed and blown up by several booby traps and eventually fell into a cage that was gradually filling with water. As the woman watched, Skywalker attempted hold back the rising water with the Force, but was unable. The hooded woman asked him who he was and revealed herself to be Verla.
-[
-147
-]
+, where he encountered the woman from the vision at a dock on the coastline.
+However, when he asked whether she was a Jedi, the woman responded by dropping a large amount of fish on top of him and escaping in a boat.
+Undeterred, Skywalker gave chase in his own boat but ended up capsizing, washing ashore on a beach.
+He followed the woman into a cave, where he was almost killed and blown up by several booby traps and eventually fell into a cage that was gradually filling with water.
+As the woman watched, Skywalker attempted hold back the rising water with the Force, but was unable.
+The hooded woman asked him who he was and revealed herself to be Verla.
 Verla reveals herself
 Verla informed Skywalker that it would be safer if he was to give up his dream of becoming a Jedi, cynically telling him about
 Order 66
 , the Inquisitorius and Darth Vader himself. Sensing Skywalker's suspicious reaction to the mention of his father, Verla probed deeper into his mind and realized that he was the son of Vader. Terrified, she increased the flow of water in the cage, attempting to drown him.
-[
-147
-]
 Fortunately, Skywalker's life was saved by R2-D2, who incapacitated Verla and resuscitated him. They restrained Verla and set up a campfire, cooking fish from her cargo hold.
-[
-148
-]
 When she regained consciousness, Skywalker freed her as a show of good faith and asked her about his vision. Verla told him that she did not possess a lightsaber, as she had given up on the Force and refused to take part in the conflict between the light and dark sides. She also revealed that Vader's name was Anakin Skywalker, and that she had learned from her master
 Ferren Barr
 that Anakin had once been a hero of the Clone Wars but that something happened to him. She revealed that she had spent her entire life on the run from the Inquisitors and Vader and had finally given up on Barr's wishes and had decided to live a normal life. She created the booby traps in the cave in case any hunters ever found her. She refuted Skywalker's belief that the Force had led her to him and insisted that Force only used people.
-[
-148
-]
 Tempes
 [
 ]
@@ -3706,9 +3057,6 @@ Once, I served the Jedi, wielded a saber like the one you hold. Then I hunted Je
 You're wrong. You will never kill a Jedi again.
 "
 ―The Grand Inquisitor and Skywalker
-[
-148
-]
 The Jedi outpost on Tempes
 Skywalker still maintained that it was his purpose to help a suffering galaxy and believed she could lead him to a lightsaber. Although she strongly recommended that Skywalker should leave the Force behind, and insisted that he did not have to follow its will if he did not want to, she informed him of a
 Jedi outpost
@@ -3717,9 +3065,6 @@ High Republic Era
 on the Outer Rim astronomical object of
 Tempes
 where she had once sought artifacts of the Jedi. Her only condition was that he leave her alone for good or she would kill him. After Skywalker thanked her, she warned him, that she had sensed that Tempes was guarded by a dark presence when she visited it and that it would be smarter for him to run.
-[
-148
-]
 Skywalker
 flew
 to Tempes and was almost struck down by the planet's powerful lightning storm. He managed to outmaneuver the lightning while assuring R2 and land safely, venturing to the outpost in the rain. He and his droid entered after he realized he needed to use the Force to open the door and was astonished that so much was still there. He found a new
@@ -3727,24 +3072,12 @@ yellow-bladed lightsaber
 but when he picked it up was attacked by the spirit of the Grand Inquisitor, who had been forced to guard the outpost for eternity by Vader, who had turned the outpost into a trap for Jedi and Force-sensitives. After the Inquisitor introduced himself and ignited his
 red double-bladed spinning lightsaber
 lightsaber, Skywalker resolved to not let him kill a Jedi again and used the yellow lightsaber to enter a duel with the flaming spirit.
-[
-148
-]
 Skywalker is confronted by a spectre of the Grand Inquisitor.
 The Inquisitor taunted the young Jedi's skill with a lightsaber, but Skywalker acknowledged his training was incomplete but also that he was already skilled and would be a Jedi. The Inquisitor ignited both blades of the
 lightsaber
 and started destroying the artifacts there, insisting the Jedi Order was a lie that was over. As they fought, he told the Inquisitor that that place was inspiring him to want to be a part of the Jedi Order and fight what they fought for, and that he was beginning to understand loss and sacrifice for what was worth fighting for as they understood it. He cut off the Inquisitor's hand and disarmed him of his saber, before successfully slicing through him and escaping before Vader arrived.
-[
-148
-]
 Skywalker returned to the Rebel fleet and reunited with Organa. Organa implored him to show the assorted rebels what he had found, and so Skywalker activated his new lightsaber, its yellow blade representing renewed hope for the future of the Rebellion.
-[
-148
-]
 Around this time, after a long crusade, Vader discovered that the location where his late wife Padmé Amidala had given birth to Skywalker was Polis Massa and was enraged that his existence had been hidden from him.
-[
-149
-]
 Battle at Elessia
 [
 ]
@@ -3752,17 +3085,11 @@ Battle at Elessia
 This is Red Leader--All fighters, on me--We need to make an attack run on the Seventh Division's cruiser, push those TIEs back.
 "
 ―Luke Skywalker
-[
-150
-]
 Skywalker's fighters protect
 Home One
 Somewhere in the Inner Rim, Skywalker and Organa met with Commander
 Grek
 and instructed him to move forward with their rendezvous with the Seventh Division as part of a plan to strike back against the Empire. C-3PO was concerned that this would alert the Empire to their location, but Skywalker told him that it was about more than just protecting their own lives.
-[
-151
-]
 The Empire's Commander Ellian Zahra intercepted a transmission that revealed the Alliances
 Fourth
 and Seventh Divisions were planning to rendezvous somewhere in the Inner Rim, so Zahra initiated an
@@ -3771,9 +3098,6 @@ that saw her split her forces to strike simultaneously. Zahra's primary strike f
 Home One
 '
 s hangar bay, that prevented Alliance starfighters from launching, including Red Squadron.
-[
-150
-]
 All available starfighters launch during a battle at Elessia.
 Shortly into the battle, the Fourth Division's ships emerged from hyperspace and immediately deployed their starfighters, led by Commander Luke Skywalker, who assumed the callsign Red Leader. Skywalker was accompanied by other starfighters, that included Green Squadron's Shara Bey (
 Green Three
@@ -3785,13 +3109,10 @@ Home One
 s blockade, to push the TIEs back, while those starfighters who were trapped in the hangar bays prepared to launch, including Wedge Antilles (Red Two). As soon as Skywalker cleared the TIEs, all the Alliance starfighters aboard
 Home One
 , including Antilles, launched to repay the favor.
-[
-150
-]
-Skywalker eventually left the space battle to board the frigate where Leia Organa was under attack from an Imperial boarding party, led personally by Zahra. As Zahra threw a sword at Skywalker, which he easily dodged, and then kicked him to the ground, she claimed that she could kill him if she wanted to but was not allowed to because of Vader's plans for him. After Zahra jumped out a window with a jetpack to escape, Skywalker and Organa went to celebratory meeting for successfully regrouping and fending off the Empire. There, Skywalker noticed something was off with Organa, who revealed that she was perturbed by the amount of hate Zahra seemed to have for her.
-[
-150
-]
+Skywalker eventually left the space battle to board the frigate where Leia Organa was under attack from an Imperial boarding party, led personally by Zahra.
+As Zahra threw a sword at Skywalker, which he easily dodged, and then kicked him to the ground, she claimed that she could kill him if she wanted to but was not allowed to because of Vader's plans for him.
+After Zahra jumped out a window with a jetpack to escape, Skywalker and Organa went to celebratory meeting for successfully regrouping and fending off the Empire.
+There, Skywalker noticed something was off with Organa, who revealed that she was perturbed by the amount of hate Zahra seemed to have for her.
 Searching for Solo
 [
 ]
@@ -3802,36 +3123,25 @@ Apparently there has been a sighting…of the notorious bounty hunter Boba Fett.
 I get it, Threepio. Of course I'll go.
 "
 ―C-3PO and Skywalker
-[
-152
-]
 Luke, C-3PO, and Chewbacca on Nar Shaddaa.
 Around this time, Vader had his armor damaged during a
 mission
 . Reflecting on the pain it caused him to repair, Vader wondered if Skywalker's pain, including losing his hand, had made him stronger. Vader suspected it had not and considered Skywalker weak, believing the fledgling Jedi had not accomplished anything without the help of his friends, who Vader believed he allowed to survive. No longer wishing to turn Skywalker he resolved to kill him, and began his path to do so by searching for Han Solo.
-[
-153
-]
 In killing Skywalker Vader believed he would kill Obi-Wan Kenobi's last hope and prove those who thought Skywalker would be his end wrong.
-[
-154
-]
 While tracking Solo, Vader's partner, a
 Sith assassin
 named
 Ochi
 , figured out that Vader planned to lure Skywalker to him with Solo.
-[
-155
-]
-While practicing his lightsaber and Force skills by fighting training remotes, during which he recalled Yoda's training, Skywalker was interrupted by C-3PO, insisting he did not mind the distraction. C-3PO said that R2-D2 wanted to speak with him about something related to Tempes, where he found his new lightsaber. Before R2-D2 could say anything, Chewbacca arrived and revealed, via C-3PO translating, that Boba Fett had been spotted on Nar Shaddaa and urged Skywalker to come with him to rescue Solo from him. Chewbacca shot down Skywalker's suggestion that they bring Calrissian, saying he was not to be trusted and that Solo would not want to see him, but Skywalker agreed. Skywalker, C-3PO, R2-D2, and Chewbacca then took the
+While practicing his lightsaber and Force skills by fighting training remotes, during which he recalled Yoda's training, Skywalker was interrupted by C-3PO, insisting he did not mind the distraction.
+C-3PO said that R2-D2 wanted to speak with him about something related to Tempes, where he found his new lightsaber.
+Before R2-D2 could say anything, Chewbacca arrived and revealed, via C-3PO translating, that Boba Fett had been spotted on Nar Shaddaa and urged Skywalker to come with him to rescue Solo from him.
+Chewbacca shot down Skywalker's suggestion that they bring Calrissian, saying he was not to be trusted and that Solo would not want to see him, but Skywalker agreed.
+Skywalker, C-3PO, R2-D2, and Chewbacca then took the
 Falcon
 to Nar Shaddaa, though R2 complained to C-3PO on the way that he had not been able to speak to Skywalker. Skywalker was annoyed that Organa had to stay behind to coordinate
 Operation Starlight
 and urged Chewbacca to ensure the mission would be quick, recalling how awful he found the planet and what had happened with Grakkus the Hutt.
-[
-152
-]
 On the planet, Skywalker watched as Chewbacca met with his contact
 Sagwa
 , C-3PO explaining that he and Chewbacca used to be old friends and translating that Sagwa believed a new victor in the
@@ -3847,13 +3157,9 @@ Falcon
 . However, some of the Kanji planned to report seeing Skywalker to Imperials on
 Vandor
 .
-[
-152
-]
-Afterward, R2 finally gave his message to Skywalker via C-3PO, revealing that he had found a list of former Jedi outposts across the galaxy in his databanks that he seemingly acquired on the Death Star. This greatly excited Skywalker, who eagerly wanted to learn more, feeling like the Force was providing for him and making R2 list the locations for him immediately. Sagwa then entered with a message, C-3PO translating, in which he revealed that Organa had received a message from an unknown party claiming to be in possession of Solo.
-[
-152
-]
+Afterward, R2 finally gave his message to Skywalker via C-3PO, revealing that he had found a list of former Jedi outposts across the galaxy in his databanks that he seemingly acquired on the Death Star.
+This greatly excited Skywalker, who eagerly wanted to learn more, feeling like the Force was providing for him and making R2 list the locations for him immediately.
+Sagwa then entered with a message, C-3PO translating, in which he revealed that Organa had received a message from an unknown party claiming to be in possession of Solo.
 Though Organa was starting to lose hope,
 Ab Dalis
 [
@@ -3864,30 +3170,18 @@ vent
 of some kind, maybe. I see them, Artoo. TIEs on our six. Trying to hit a target the size of a bantha's eye…feels like old times.
 "
 ―Skywalker, to Starlight Squadron and R2-D2
-[
-156
-]
 Skywalker and Starlight Squadron approach Ab Dalis.
 Skywalker and the others met up with Organa, who told them that Fett did not have Solo anymore and that he was going to be sold in a
 auction
 in the attendance of most of the galaxy's crime syndicates on
 Jekara
 .
-[
-157
-]
 Though Organa was starting to lose hope, Skywalker assured her that they would find him.
-[
-158
-]
 After Organa revealed Solo was in the possession of
 Crimson Dawn
 , who Chewbacca remembered was an extremely powerful criminal organization he had dealt with before, Skywalker expressed his concerns to Organa about her taking on this mission, claiming that she had not been herself recently and had not been acting from the heart. Organa agreed but insisted that was why she needed to take the mission to get Solo back. Later Skywalker joined Antilles and
 Starlight Squadron
 in his X-wing, having promised he would join them for a patrol, but assured Organa he would join her on Jekara soon.
-[
-157
-]
 Eager to get the fleet back together, and knowing recon missions were dicey, Skywalker told Antilles that he was happy to join the mission to find and recover a fleet division. Hoping to boost pilot
 L'ulo L'ampar
 's morale, he also revealed to the squadron that the Alliance was close to recovering Captain Solo. After traveling through hyperspace to
@@ -3903,16 +3197,13 @@ Eleventh Division
 of the
 Rendezvous Point Lambda-Four
 at Ab Dalis who were being attacked by Imperial forces. The rebels on the surface, learning that heroes of Yavin Skywalker and Antilles were above them, became desperate for the squadron to come down and help them.
-[
-156
-]
 Skywalker and Starlight Squadron destroy a Star Destroyer above Ab Dalis.
-Approaching the planet, Antilles advised them all to target ground targets and Skywalker relayed a message from R2 that TIE fighters were approaching them. Hearing that Skywalker, who had made the trench run on the Death Star was among the fighters, one Rebel who had conducted a geological survey of the planet sent coordinates to the squadron for a ground target beneath the Star Destroyer. They were unsure about what the target was, but after scanning and determining it was a tunnel that could have been hiding someone important, Antilles sent Skywalker to hit it, comparing it to making the Death Star run. Skywalker started to make the run while the others kept TIEs off of him, feeling like he was making the Death Star run again, but he started to have a flashback to the battle of Yavin that instead ended with Vader taking down the
+Approaching the planet, Antilles advised them all to target ground targets and Skywalker relayed a message from R2 that TIE fighters were approaching them.
+Hearing that Skywalker, who had made the trench run on the Death Star was among the fighters, one Rebel who had conducted a geological survey of the planet sent coordinates to the squadron for a ground target beneath the Star Destroyer.
+They were unsure about what the target was, but after scanning and determining it was a tunnel that could have been hiding someone important, Antilles sent Skywalker to hit it, comparing it to making the Death Star run.
+Skywalker started to make the run while the others kept TIEs off of him, feeling like he was making the Death Star run again, but he started to have a flashback to the battle of Yavin that instead ended with Vader taking down the
 Falcon
 and saying he would claim Solo for himself, disturbing Skywalker and causing him to miss the target. However, the rest of Starlight Squadron were on the same vector and were able to hit it, triggering a volcanic explosion that destroyed the Star Destroyer that attacked the Eleventh Division. Afterward, Skywalker apologized for missing the shot, before the others realized they had rescued Mon Mothma. Skywalker then told Antilles that he was going to Jekara to help Organa.
-[
-156
-]
 Auction of Han Solo
 [
 ]
@@ -3923,36 +3214,18 @@ Haunted
 Leia, I don't know if you're receiving this, but I had…a vision, I guess. I think the Force was trying to tell me something. I think…I think Vader's coming after Han.
 "
 ―Skywalker, in a message to Organa
-[
-156
-]
 Skywalker imagines fighting Darth Vader on Cloud City with his yellow lightsaber.
 Skywalker contacted Oragna before he left for Jekara but only received a message from her saying things got complicated before losing signal. Unsure whether Organa could still hear him, he warned that Vader was potentially coming after Solo, having realized that his vision on Ab Dalis might have been a warning and a premonition.
-[
-156
-]
 This premonition also made him panic as he did not believe he could beat him. In hyperspace on the way to Jekara, Skywalker recalled fighting Vader on Cloud City and the Sith Lord's utter brutality, strength, and ineffable power, likening it to a
 gravel storm
 . Imagining himself as he was at that moment fighting Vader on Cloud City with his yellow lightsaber, Skywalker began to believe he could be a storm too, but then just thought he was kidding himself and that Yoda and Vader had been right about him. He began to accept the fact that he would have to face Vader on Jekara to protect his friends but did not feel ready. Desperate for guidance, he tried to reach out to the Force to speak to Kenobi, but his fear made it difficult to access.
-[
-159
-]
 Just as he was about to exit hyperspace, Organa asked Skywalker for help in distracting Vader because the Sith Lord arrived at the auction, but he was quickly occupied dealing with Vader's Super Star Destroyer the
 Executor
 that was over Jekara. Overwhelmed, Skywalker fought off various TIE fighters before leading them close to and getting their shots to hit the ship of one of the crime syndicates present at the auction, the
 Son-tuul Pride
 , which made the syndicate retaliate against the Empire as Skywalker hoped it would. Finally given a window to approach the planet, he told Organa he was approaching as she told him to hurry. However, the Imperials established a secure channel between him and Vader, who had sensed that he was there in the Force. Vader threatened to kill the frozen Han if he did not arrive to face him,
-[
-159
-]
 while imagining fighting Skywalker and thinking that he would not be a father to him or let him hide behind his friends.
-[
-160
-]
 After hearing the message, Skywalker, haunted by the image of his current self being killed by Vader on Cloud City, decided he was not ready to face him and turned his X-wing around.
-[
-159
-]
 The chase
 [
 ]
@@ -3968,68 +3241,36 @@ is
 trying to kill us!
 "
 ―Skywalker, to R2-D2
-[
-160
-]
 As he left, Skywalker explained to Organa his belief that Vader wanted to turn him, and that if he fought Vader, he would kill them too.
-[
-160
-]
 He told her he would help from his ship and then taunted Vader, urging the Sith Lord to pursue him. Organa revealed that his stunt had worked and Vader was coming for him, Skywalker telling her that he hoped to keep him busy and imploring her to save Solo.
-[
-161
-]
 As he assured Organa he would be fine, the
 starship
 of a
 criminal group
 harpooned
 his fighter and started to pull him in. He was freed by laser blast's from Vader's TIE fighter.
-[
-160
-]
 As the two engaged in a dogfight, Organa contacted Skywalker again, who simply repeated his earlier sentiments and said he needed to focus.
-[
-161
-]
 He then tried to lure Vader into open space, believing the Sith Lord did not want to kill him, but Vader shot his X-wing anyway, Skywalker realizing that Vader did want to kill him as he crash-landed on Jekara.
-[
-160
-]
 After urging R2-D2 to repair the ship quickly, he used a blaster to shoot at Vader's TIE fighter as it approached. However, Imperial
 Administrator
 Sly Moore
 , who had been tasked with killing Vader dropped a droid gang she hired called the
 Droid Crush Pirates of Bestoon
 onto Vader's TIE and near Skywalker. Skywalker initally ignited his lightsaber and acted defensively, but the droids instead fixed his fighter, leaving Skywalker confused. Skywalker, accepting of the help, flew away with Droid Crush members riding his wing and shooting at Vader.
-[
-160
-]
 Skywalker is chased by Darth Vader during the auction for Han Solo.
 Opting to fly away to the planet's
 Polar Sea
-to get Vader to follow him, Skywalker briefly thought he had lost Vader until Vader's TIE fighter emerged from the water beneath him. Vader taunted him, saying his increased strength in the Force would not save him and that he had Solo, so he would not be saving Skywalker either. Noticing how quickly the sea's water was freezing, Skywalker trapped Vader in the ice by making a giant wave of water with his X-wing and leading Vader into it when it quickly froze. Despite having the perfect opportunity to shoot at and kill Vader, Skywalker could not do it after what he had revealed at Cloud City, but knew he would eventually need to face him. Skywalker reached out to Organa on the
+to get Vader to follow him, Skywalker briefly thought he had lost Vader until Vader's TIE fighter emerged from the water beneath him.
+Vader taunted him, saying his increased strength in the Force would not save him and that he had Solo, so he would not be saving Skywalker either.
+Noticing how quickly the sea's water was freezing, Skywalker trapped Vader in the ice by making a giant wave of water with his X-wing and leading Vader into it when it quickly froze.
+Despite having the perfect opportunity to shoot at and kill Vader, Skywalker could not do it after what he had revealed at Cloud City, but knew he would eventually need to face him.
+Skywalker reached out to Organa on the
 Falcon
 who explained that they and the Imperial shuttle had been hit by a blast that had immobilized them, meaning they could not reach Solo but Solo could not be taken to the flagship. Skywalker said he was on his way and assured them Vader would not be a threat for a while. With Hutt fighters now chasing the shuttle with Solo on it, Organa tried to get Skywalker to help, but Vader emerged from the ice in his TIE fighter and dragged Skywalker back into a fight, so Skywalker told her he could not help.
-[
-162
-]
 Vader soon chased Skywalker back into space. With Vader reveling in making Skywalker feel fear due to his friends lives being put in danger, Skywalker cried out as the shuttle containing Solo was fired at by Hutt and Imperial fighters.
-[
-160
-]
 Thankfully, Vader was soon ordered by the Emperor to assist with a Hutt attack that was happening against the Empire, which forced the Sith Lord to leave his son behind, not before reminding Skywalker that he was no Jedi. Skywalker insisted that when they met again he would be a Jedi.
-[
-163
-]
 Vader resented having to leave but was proud of terrifying Skywalker, recognizing that the Emperor wanted Skywalker to live and was orchestrating things so that it could be the case.
-[
-164
-]
 During his confrontation with Vader, Organa and the rest failed to rescue Han Solo, who was captured by Boba Fett once again after the auction.
-[
-163
-]
 In search of Jedi secrets
 [
 ]
@@ -4037,20 +3278,16 @@ In search of Jedi secrets
 I know I'm needed here, Leia. But I can't help but think I should be following that path, trying to grow as a Jedi. I'll have to face Vader eventually. […] I need to find a way to finish my training…and soon.
 "
 ―Luke Skywalker to Leia Organa
-[
-165
-]
 After the breakout of the
 Syndicate War
-, the Rebel Alliance had a meeting with many of its leaders that Luke Skywalker was present for. As Admiral Ackbar discussed the Alliance's next moves in its rebuilding effort, Leia Organa noticed that Skywalker was distant. He explained that R2-D2 had given him a list of possible Jedi sites across the galaxy from an Imperial archive. He expressed that he knew he was needed by the Alliance, but that he felt like he should be trying to continue growing as a Jedi. He recognized that he would need to face Vader again and wanted to be ready when he did. Organa told him that it was okay and that he should trust what the Force was telling him, offering to smooth things over with Mon Mothma and telling him that they could fight the battles without him for now.
-[
-165
-]
+, the Rebel Alliance had a meeting with many of its leaders that Luke Skywalker was present for.
+As Admiral Ackbar discussed the Alliance's next moves in its rebuilding effort, Leia Organa noticed that Skywalker was distant.
+He explained that R2-D2 had given him a list of possible Jedi sites across the galaxy from an Imperial archive.
+He expressed that he knew he was needed by the Alliance, but that he felt like he should be trying to continue growing as a Jedi.
+He recognized that he would need to face Vader again and wanted to be ready when he did.
+Organa told him that it was okay and that he should trust what the Force was telling him, offering to smooth things over with Mon Mothma and telling him that they could fight the battles without him for now.
 Luke Skywalker consults a list of Jedi sites.
 Skywalker consulted R2-D2 for the list of Jedi sites and worried that since it was an imperial list all of the places would have been destroyed or looted. But he recognized that he needed to keep going if he was going to face Vader, though he wished Master Yoda would talk to him. Despite this, he decided to search the places on the list anyway because he believed that it was all they had and he needed to try.
-[
-165
-]
 He visited the planet
 Ilum
 first and discovered the mass imperial blockade and presence there and the Empire's exploitation of the planet. He felt in the Force that the planet was important, but also felt that now only held pain as the Empire was killing it more and more every day. He believed there was nothing for him there and he and R2-D2 used the weather of the planet to leave and slip past the blockade. He visited
@@ -4060,9 +3297,6 @@ Lothal
 , and traveled to the former location of the
 Lothal Jedi Temple
 . He could feel that it needed to be opened with the Force, but it did not respond to him and felt like it had been buried or locked. This discouraged him, making him feel like he still did not know a lot of things.
-[
-165
-]
 A legacy on Al'doleem
 [
 ]
@@ -4070,9 +3304,6 @@ A legacy on Al'doleem
 A Jedi saved my life once. Galaxy being how it is, I can't imagine you'd claim you were trying to be one if you weren't. I've wanted to repay that debt my whole life. You're probably as close as I'll ever get.
 "
 ―Colli to Luke Skywalker
-[
-165
-]
 He finally traveled to the river moon of
 Al'doleem
 and decided to visit it because it did not have an Imperial blockade and was not being destroyed. He flew
@@ -4082,9 +3313,6 @@ Am'balaar City
 , after seeing that it had been rebuilt some after a
 Dam collapse
 . He told R2-D2 that they would head into town, but he did not want to draw attention as one of the Empire's biggest targets. He walked up to two stormtroopers and tried to perform a Jedi mind trick on them that Yoda had taught him and he had seen Obi-Wan Kenobi do, asking the troopers to tell him what the Empire was doing at the top of the mountain, but the mind trick failed and the troopers merely told him to move along.
-[
-165
-]
 Skywalker and R2-D2 aimlessly wandered the city until R2 noticed a hull panel from a
 Delta-7 Aethersprite-class light interceptor
 and stopped him. Skywalker did not understand until a man named
@@ -4095,15 +3323,18 @@ belt
 Kirak Infil'a
 who had worked in the
 monastery
-on top of Mount Pasvaal and had allowed him and his sister to escape in his Aetherspire when the city was attacked and destroyed. He explained that both Infil'a and his parents had died. Colli asked Skywalker about his story, but R2-D2 tried to stop him from saying anything. Colli insisted that he was not going to turn them into the Imperials and that helping Skywalker would probably be the closest he could get to repaying his debt to the Jedi that saved him. Skywalker said that he needed to learn as much about the Jedi as he could from what of their legacy remained and that he believed the mountain that Infil'a had come from was connected to the Order and that he wanted to figure out what the Empire was looking for there.
-[
-165
-]
+on top of Mount Pasvaal and had allowed him and his sister to escape in his Aetherspire when the city was attacked and destroyed.
+He explained that both Infil'a and his parents had died.
+Colli asked Skywalker about his story, but R2-D2 tried to stop him from saying anything.
+Colli insisted that he was not going to turn them into the Imperials and that helping Skywalker would probably be the closest he could get to repaying his debt to the Jedi that saved him.
+Skywalker said that he needed to learn as much about the Jedi as he could from what of their legacy remained and that he believed the mountain that Infil'a had come from was connected to the Order and that he wanted to figure out what the Empire was looking for there.
 Luke Skywalker finds a recording of Yoda in a holocron.
-Colli took Skywalker to the Monastery at the top of the mountain, but explained that there were also tunnels and chambers in the mountain that the Jedi had used and that the Empire was bringing artifacts out of it all the time. Skywalker considered using his lightsaber and the Force to let go and cut right through the Imperial forces in his way but could not bring himself to do it and instead gave his lightsaber to R2 for safekeeping. He went and meditated with the Force on the side of the mountain before returning to the warehouse where Colli had told him the Empire stored the artifacts they found in the mountain. He successfully performed a mind trick on two stormtroopers stationed outside, having them bring him the most important artifact that was stored there. They brought him a holocron, which Luke recognized from his experience with Grakkus the Hutt. He reached out with the Force to unlock it as he had learned how to do and found a recording of Master Yoda teaching lessons.
-[
-165
-]
+Colli took Skywalker to the Monastery at the top of the mountain, but explained that there were also tunnels and chambers in the mountain that the Jedi had used and that the Empire was bringing artifacts out of it all the time.
+Skywalker considered using his lightsaber and the Force to let go and cut right through the Imperial forces in his way but could not bring himself to do it and instead gave his lightsaber to R2 for safekeeping.
+He went and meditated with the Force on the side of the mountain before returning to the warehouse where Colli had told him the Empire stored the artifacts they found in the mountain.
+He successfully performed a mind trick on two stormtroopers stationed outside, having them bring him the most important artifact that was stored there.
+They brought him a holocron, which Luke recognized from his experience with Grakkus the Hutt.
+He reached out with the Force to unlock it as he had learned how to do and found a recording of Master Yoda teaching lessons.
 Skywalker was disappointed, however, that the lesson Yoda taught in the holocron was one that he had already taught him back on Dagobah. Burdened by the series of setbacks he had faced recently, Skywalker considered dropping the holocron off of a cliff, but was stopped by R2. Skywalker opened the holocron again, and this time Yoda discussed
 Vergences
 in the Force, listing the Jedi Temple on Coruscant, Jedha, and the
@@ -4111,9 +3342,6 @@ Living Sea
 of
 Gazian
 as examples. Luke had never heard of the Living Sea of Gazian and decided to go to the planet to check it out.
-[
-166
-]
 The Living Sea of Gazian
 [
 ]
@@ -4121,39 +3349,48 @@ The Living Sea of Gazian
 I'm going to tell you what the other Jedi you've met haven't. Even Yoda. You don't have to be a Jedi, friend. […] There are many other paths. The important thing is to make choices that feel right, that are true to you and the person you want to be. But if you want it, we're here for you.
 "
 ―Elzar Mann to Luke Skywalker
-[
-166
-]
 Elzar Mann appeared to Luke Skywalker in the Living Sea of Gazian.
 Arriving in the
 Gazian system
-, Luke was excited by the possibility of finding a Jedi-related site that the Empire did not know about. He landed on a platform he found on the planet, but was disappointed to only find a sea of mushrooms. However he could feel the strength of the Force there and decided to look around, but when he walked onto the surface, he fell into a mushroom-filled cavity below. His breath mask was pulled off of him and he went unconscious, starting to have a vision where he was wearing the clothes he wore during the Duel on Cloud City and was in possession of the Skywalker lightsaber. He then saw a man in High Republic Era
+, Luke was excited by the possibility of finding a Jedi-related site that the Empire did not know about.
+He landed on a platform he found on the planet, but was disappointed to only find a sea of mushrooms.
+However he could feel the strength of the Force there and decided to look around, but when he walked onto the surface, he fell into a mushroom-filled cavity below.
+His breath mask was pulled off of him and he went unconscious, starting to have a vision where he was wearing the clothes he wore during the Duel on Cloud City and was in possession of the Skywalker lightsaber.
+He then saw a man in High Republic Era
 Jedi robes
 sitting next to him, who then took the Skywalker lightsaber with Force and admired it, comparing it to his own. Skywalker held up a blaster and told the man to give it back. He acquiesced but commented that he was not scared of the blaster. The man introduced himself as Jedi Master
 Elzar Mann
 . He asked Skywalker if he was a Jedi, to which Skywalker said that he was trying to be but was still learning about the Force and trying to understand it. Mann told him that that never really stops, as the Jedi Order goes back a long way and there was a lot to learn.
-[
-166
-]
 Just then, their surroundings shifted to
 Ahch-To
-, the birthplace of the Jedi. Skywalker asked Mann what exactly was going on. Mann explained that Gazian was a gigantic living organism that takes an imprint of the minds that visit it and reproduces them exactly as they were at the moment they were there. Mann added that he had come to the planet to get answers after having a vision, and that was why his imprint was there. Skywalker explained that the Republic had fallen and an Empire had taken over. He said that he had never met a Jedi like Mann, and had only ever met Obi-Wan Kenobi and Yoda, the latter of whom Mann remembered and commented was very old and very wise. Skywalker had also said that he had met a Jedi named Anakin Skywalker, but that he had fallen to the Dark side, something that Mann knew happened occasionally.
-[
-166
-]
+, the birthplace of the Jedi.
+Skywalker asked Mann what exactly was going on.
+Mann explained that Gazian was a gigantic living organism that takes an imprint of the minds that visit it and reproduces them exactly as they were at the moment they were there.
+Mann added that he had come to the planet to get answers after having a vision, and that was why his imprint was there.
+Skywalker explained that the Republic had fallen and an Empire had taken over.
+He said that he had never met a Jedi like Mann, and had only ever met Obi-Wan Kenobi and Yoda, the latter of whom Mann remembered and commented was very old and very wise.
+Skywalker had also said that he had met a Jedi named Anakin Skywalker, but that he had fallen to the Dark side, something that Mann knew happened occasionally.
 Elzar Mann and Luke Skywalker speak in an imprint of Ahch-To.
 Mann then showed Skywalker an imprint of what the High Republic looked like, telling him that it was a Golden Age where they were all connected eight centuries after the defeat of
 Darth Bane
-. The mention of Darth Bane made Skywalker confused and comment that it was all too much. Skywalker elaborated that when he started his journey it was exciting and he had been a hero, then he was supposed to save the galaxy by learning from Yoda, but then it all fell apart and now he felt that if he did it wrong he would become a monster. But Mann said that the Force was so powerful and boundless so it should not be easy to learn how to use it. Mann recalled when he had trained to be a Jedi and how even with help and support how impossible everything felt. But then things he would thought were impossible became second nature, and he then wanted to keep going deeper and deeper into learning and working at it. But Skywalker was alone, and felt that it was too much. Mann said that the Jedi tend to be what they need to be, whether that be warriors fighting evil, teachers teaching the galaxy, and sometimes they were almost nothing, left with the responsibility of being the only light in the dark of the galaxy. Suddenly they were underwater, floating in an expansive ocean. Mann then told Skywalker that he knew the kind of pressure that the Force choosing you could bring, and decided to tell him a piece of advice that he did not think many other Jedi would tell him: He did not have to be a Jedi. Mann told him that there were other ways to use the Force safely and protect life and light, and that there are many paths and choices that could be true to the person he wanted to be. But he also told Skywalker that if he wanted it, the Jedi were there for him. Other past Jedi then appeared in the water and floated around them until they found themselves back in the void-like vision of the Living Sea. He asked Skywalker if he wanted to stay there and speak to him and the many minds in the Living Sea, but Skywalker told him that he thought he should leave. Mann was disappointed, but reminded Skywalker that a part of him would remain there to talk to them as Skywalker saw an imprint of himself appear in front of him.
-[
-166
-]
+.
+The mention of Darth Bane made Skywalker confused and comment that it was all too much.
+Skywalker elaborated that when he started his journey it was exciting and he had been a hero, then he was supposed to save the galaxy by learning from Yoda, but then it all fell apart and now he felt that if he did it wrong he would become a monster.
+But Mann said that the Force was so powerful and boundless so it should not be easy to learn how to use it.
+Mann recalled when he had trained to be a Jedi and how even with help and support how impossible everything felt.
+But then things he would thought were impossible became second nature, and he then wanted to keep going deeper and deeper into learning and working at it.
+But Skywalker was alone, and felt that it was too much.
+Mann said that the Jedi tend to be what they need to be, whether that be warriors fighting evil, teachers teaching the galaxy, and sometimes they were almost nothing, left with the responsibility of being the only light in the dark of the galaxy.
+Suddenly they were underwater, floating in an expansive ocean.
+Mann then told Skywalker that he knew the kind of pressure that the Force choosing you could bring, and decided to tell him a piece of advice that he did not think many other Jedi would tell him: He did not have to be a Jedi.
+Mann told him that there were other ways to use the Force safely and protect life and light, and that there are many paths and choices that could be true to the person he wanted to be.
+But he also told Skywalker that if he wanted it, the Jedi were there for him.
+Other past Jedi then appeared in the water and floated around them until they found themselves back in the void-like vision of the Living Sea.
+He asked Skywalker if he wanted to stay there and speak to him and the many minds in the Living Sea, but Skywalker told him that he thought he should leave.
+Mann was disappointed, but reminded Skywalker that a part of him would remain there to talk to them as Skywalker saw an imprint of himself appear in front of him.
 Skywalker came to, ignited his lightsaber, and put his breath mask back on. He then saw many bodies of Jedi that had stayed in the Living Sea. He found one Jedi skeleton holding a
 sacred Jedi text
 , which he brought to the surface and recognized was an invitation.
-[
-166
-]
 Jedi of the Rebellion
 [
 ]
@@ -4165,28 +3402,26 @@ This is amazing."
 "We've earned it. It's been a long time since we had a solid win. Not a single casualty. You planned one heck of mission, Leia.
 "
 ―Organa and Skywalker during the celebration after the Unity Day attack
-[
-167
-]
 The Unity Day parade
 While Skywalker was away, Zahra referenced her meeting with him to Bey, as she believed Bey to the most arrogant rebel she had ever met next to Skywalker.
-[
-168
-]
 After he returned to the Alliance, Skywalker took part in an
 attack
 on the
 Imperial Unity Day Parade
 on
 Bar'leth
-, one of the Rebels' first large scale operations since the Battle of Hoth. Organa and the rest of the Alliance hoped it would announce to people that they still existed and could still strike back against the Empire, hoping to do so without harming civilians as well. Skywalker flew in his X-Wing as part of Red Squadron during the attack. After destroying the Empire's vast artillery on display in the parade, Skywalker told the others over comm that R2-D2 had detected a wave of TIE fighters launching from a nearby Imperial airbase outside of the city and suggested they leave. Wedge Antilles, flying as Red Leader, acknowledged Skywalker and told everyone to follow him, leading all of the Alliance fighters to a successful escape.
-[
-167
-]
-Afterward, Skywalker participated in a toast to the Rebel Alliance lead by Antilles before having a drink and sitting down. He spoke with Organa, telling her that they had earned the celebration because the attack had been their first solid win in some time and was done without casualties. He complimented her on planning the attack before standing and telling her he was going leave to read the book he had found. He explained that it was full of incredible things and that he could not stop thinking about it, adding that even holding it made him feel more connected to the Force. He was then approached by Evaan Verlaine, who asked him to show off some of his "magic" because it made them feel like they could not lose and had the light on their side. He was reluctant to do so because it made him feel like a show-off, but he agreed, igniting his yellow lightsaber. Verlaine called it magic while many looked on in awe.
-[
-167
-]
+, one of the Rebels' first large scale operations since the Battle of Hoth.
+Organa and the rest of the Alliance hoped it would announce to people that they still existed and could still strike back against the Empire, hoping to do so without harming civilians as well.
+Skywalker flew in his X-Wing as part of Red Squadron during the attack.
+After destroying the Empire's vast artillery on display in the parade, Skywalker told the others over comm that R2-D2 had detected a wave of TIE fighters launching from a nearby Imperial airbase outside of the city and suggested they leave.
+Wedge Antilles, flying as Red Leader, acknowledged Skywalker and told everyone to follow him, leading all of the Alliance fighters to a successful escape.
+Afterward, Skywalker participated in a toast to the Rebel Alliance lead by Antilles before having a drink and sitting down.
+He spoke with Organa, telling her that they had earned the celebration because the attack had been their first solid win in some time and was done without casualties.
+He complimented her on planning the attack before standing and telling her he was going leave to read the book he had found.
+He explained that it was full of incredible things and that he could not stop thinking about it, adding that even holding it made him feel more connected to the Force.
+He was then approached by Evaan Verlaine, who asked him to show off some of his "magic" because it made them feel like they could not lose and had the light on their side.
+He was reluctant to do so because it made him feel like a show-off, but he agreed, igniting his yellow lightsaber.
+Verlaine called it magic while many looked on in awe.
 The second Death Star revealed
 [
 ]
@@ -4200,9 +3435,6 @@ The Empire's building another Death Star.
 If we could do it once…we can do it again. Let's get to work.
 "
 ―Mon Mothma and Luke Skywalker
-[
-169
-]
 Luke Skywalker asked Hera Syndulla about their fifth intelligence hit, feeling like it could work out well.
 Meanwhile, Crimson Dawn agents
 Bevelyn
@@ -4213,59 +3445,56 @@ Qi'ra
 instructing them to cause chaos for the Empire. Because they were deep undercover at the Empire's secret
 Death Star II
 , they decided that they should expose the facility to the Rebel Alliance.
-[
-167
-]
 They managed to escape with their children and get a message to the Rebels telling them that they had top secret Imperial weapons information they would give in exchange for protection, but they were not taken seriously until it was presented by General
 Hera Syndulla
 at an intelligence briefing that Skywalker was present at among many other intelligence hits. Skywalker asked about it and Syndulla explained to him what it was, though she wondered if something about it stood out to him. While Skywalker was unsure, he said had good feeling about it.
-[
-170
-]
 Later, in a separate room, Syndulla asked Skywalker if he truly believed there was something significant about the defectors and wondered if he was sensing something due to his connection with the Force. Luke said that he has learned everything is connected to the Force, Syndulla responding that he sounded like
 Kanan Jarrus
 , her late Jedi lover. Skywalker asked if that was a good thing, and she said it usually was. Commodore
 Grek
-decided that anything that Skywalker thought was worth looking into was worth looking into and had someone look up information about the case to walk Skywalker through it. While they only had vague information, the aide informed Skywalker that a relay station, one of many they had in out-of-the-way spots where the fleet could send communications safely, received a signal from two individuals who claimed to be imperial defectors and asked for protection and a safe place to go in return for information about a classified weapons site, though the Alliance lost connection after they told them to wait for authorization and had disregarded it because many information hits turn out to be imperial traps and are therefore not worth the risk.
-[
-169
-]
+decided that anything that Skywalker thought was worth looking into was worth looking into and had someone look up information about the case to walk Skywalker through it.
+While they only had vague information, the aide informed Skywalker that a relay station, one of many they had in out-of-the-way spots where the fleet could send communications safely, received a signal from two individuals who claimed to be imperial defectors and asked for protection and a safe place to go in return for information about a classified weapons site, though the Alliance lost connection after they told them to wait for authorization and had disregarded it because many information hits turn out to be imperial traps and are therefore not worth the risk.
 They had also taken the shuttle's signature and learned that the defectors had escaped in an Imperial shuttle called the
 Scopium
-and discovered right then while checking the databases that the Empire had put a system-wide alert on the shuttle, suggesting the defectors' legitimacy. Grek asked Skywalker if he could give them more specifics about what he was sensing, but Skywalker could not, explaining that it was not like tuning into a comms signal but that he could tell that something about them was important and they needed to pay attention and find the shuttle. They discovered that the last place the shuttle's signal had popped up was on Coruscant, and so Skywalker suggested he go there. Grek and Syndulla told him it was a bad idea, the former reminding him that the Emperor lives there and the latter suggesting that they send pathfinders to mount a rescue mission but not him because he was too valuable, there were bounties for him across the galaxy, and because he was the only Jedi they had.
-[
-169
-]
+and discovered right then while checking the databases that the Empire had put a system-wide alert on the shuttle, suggesting the defectors' legitimacy.
+Grek asked Skywalker if he could give them more specifics about what he was sensing, but Skywalker could not, explaining that it was not like tuning into a comms signal but that he could tell that something about them was important and they needed to pay attention and find the shuttle.
+They discovered that the last place the shuttle's signal had popped up was on Coruscant, and so Skywalker suggested he go there.
+Grek and Syndulla told him it was a bad idea, the former reminding him that the Emperor lives there and the latter suggesting that they send pathfinders to mount a rescue mission but not him because he was too valuable, there were bounties for him across the galaxy, and because he was the only Jedi they had.
 Skywalker disguises himself as an Imperial officer on Coruscant
-Skywalker understood but reminded them that their spies had confirmed that the Emperor and Vader were off-world, even confirming it with the aide who said they were on Vader's flagship in the Mid Rim and that he could do things that others could not, so what was risky for others was not risky for him, demonstrating his point by performing a mind trick on Grek and getting him to repeat what he said. Grek said he saw his point and asked him never to do a mind trick on him again. Syndulla emphasized that Coruscant was the most dangerous place for a Rebel to be in the galaxy and asked if he had a plan. Skywalker said he had the start of a plan which was to hide the fact that he was a rebel by dressing as an Imperial.
-[
-169
-]
+Skywalker understood but reminded them that their spies had confirmed that the Emperor and Vader were off-world, even confirming it with the aide who said they were on Vader's flagship in the Mid Rim and that he could do things that others could not, so what was risky for others was not risky for him, demonstrating his point by performing a mind trick on Grek and getting him to repeat what he said.
+Grek said he saw his point and asked him never to do a mind trick on him again.
+Syndulla emphasized that Coruscant was the most dangerous place for a Rebel to be in the galaxy and asked if he had a plan.
+Skywalker said he had the start of a plan which was to hide the fact that he was a rebel by dressing as an Imperial.
 Skywalker eventually arrived in
 the Works
-District of Coruscant, two Rebel agents seeing him off. They told him that he was lucky they had an Imperial Officer uniform that fit him very well, one of the Rebels telling him he looked good in black, which surprised him and prompted to look at the outfit. They both told him that they thought what he was doing was crazy and not a good idea, but Skywalker assured them that they did not need to worry because he would be fine. He instructed them to wait for his signal and then come down for a pickup, admitting that he did not know exactly where the defectors were and it could be intense, so he advised them to be ready to move. He then gave them his lightsaber to hold on to, which surprised them, clarifying that it was better to leave it with them because he would be tempted to use it if he had it and and if people saw it they would report the Jedi bounty and he would be swarmed with Imperials. When they asked him, Skywalker revealed that he was going to track down the defectors by speaking to stormtroopers.
-[
-169
-]
-Eventually Skywalker tracked the Meltons to a sewer, but they immediately started shooting at him until he told them he was there to help and was with was with the Alliance, forcing him to use the Force to jump around the sewer to dodge the blasts. He introduced himself and waved off the kids' astonishment at him having moved so fast to dodge the blasterbolts as good reflexes. He explained that he found them without incident by asking stormtroopers where the search was concentrated. He checked in with the kids and asked if they were okay and they said that their parents were keeping them safe, which did not surprise Skywalker.
+District of Coruscant, two Rebel agents seeing him off.
+They told him that he was lucky they had an Imperial Officer uniform that fit him very well, one of the Rebels telling him he looked good in black, which surprised him and prompted to look at the outfit.
+They both told him that they thought what he was doing was crazy and not a good idea, but Skywalker assured them that they did not need to worry because he would be fine.
+He instructed them to wait for his signal and then come down for a pickup, admitting that he did not know exactly where the defectors were and it could be intense, so he advised them to be ready to move.
+He then gave them his lightsaber to hold on to, which surprised them, clarifying that it was better to leave it with them because he would be tempted to use it if he had it and and if people saw it they would report the Jedi bounty and he would be swarmed with Imperials.
+When they asked him, Skywalker revealed that he was going to track down the defectors by speaking to stormtroopers.
+Eventually Skywalker tracked the Meltons to a sewer, but they immediately started shooting at him until he told them he was there to help and was with was with the Alliance, forcing him to use the Force to jump around the sewer to dodge the blasts.
+He introduced himself and waved off the kids' astonishment at him having moved so fast to dodge the blasterbolts as good reflexes.
+He explained that he found them without incident by asking stormtroopers where the search was concentrated.
+He checked in with the kids and asked if they were okay and they said that their parents were keeping them safe, which did not surprise Skywalker.
 Coruscant Police
-then arrived, and Skywalker told them to stand down and that he would take it from there, but they questioned this as they had not been told any officers would be down there and asked him for authorization. Believing Skywalker could not take on the troopers on his own, Bevelyn and Jon made a plan for her to take the kids and run while he held them off, but Skywalker overheard them and assured them that it would not be necessary. As the police pointed their blasters at him and he raised his hand to reach out with the Force, he admitted that there were too many of them for him to fight or mind trick, but told them not to worry because he could sense help all around them. He then used the Force to call down many
+then arrived, and Skywalker told them to stand down and that he would take it from there, but they questioned this as they had not been told any officers would be down there and asked him for authorization.
+Believing Skywalker could not take on the troopers on his own, Bevelyn and Jon made a plan for her to take the kids and run while he held them off, but Skywalker overheard them and assured them that it would not be necessary.
+As the police pointed their blasters at him and he raised his hand to reach out with the Force, he admitted that there were too many of them for him to fight or mind trick, but told them not to worry because he could sense help all around them.
+He then used the Force to call down many
 Corridor ghouls
 , beastly creatures that lived beneath Coruscant, down through the ceiling of the sewer and had them attack the Police, Skywalker saying "told you" to the Meltons as they took the opportunity to run away and escape.
-[
-169
-]
 Skywalker reveals that the Empire is building another Death Star to the Rebel Alliance leadership
-Skywalker got the Meltons back safely for them to debrief their intelligence people, but they talked to him on the way. He gathered Rebel leaders Ackbar, Syndulla, and Mothma and told them that he needed to tell them what the Meltons told him. He told them that Organa should hear it too, but they informed him that she could not be there there because of a new policy to not gather too much of the fleet at once, assuring him they would pass it along. Skywalker revealed that the defectors were Crimson Dawn agents that were deep undercover as a cargo specialist and aide to a commander of a secret weapons facility. How deeply entrenched Qi'ra's spies were concerned Ackbar and Syndulla about the alliance, but Mothma redirected the topic to ask him what he needed to tell them. Skywalker revealed that the Empire was building another Death Star. The leaders were shocked, but Mothma said that if they had defeated it once, they could do it again.
-[
-169
-]
+Skywalker got the Meltons back safely for them to debrief their intelligence people, but they talked to him on the way.
+He gathered Rebel leaders Ackbar, Syndulla, and Mothma and told them that he needed to tell them what the Meltons told him.
+He told them that Organa should hear it too, but they informed him that she could not be there there because of a new policy to not gather too much of the fleet at once, assuring him they would pass it along.
+Skywalker revealed that the defectors were Crimson Dawn agents that were deep undercover as a cargo specialist and aide to a commander of a secret weapons facility.
+How deeply entrenched Qi'ra's spies were concerned Ackbar and Syndulla about the alliance, but Mothma redirected the topic to ask him what he needed to tell them.
+Skywalker revealed that the Empire was building another Death Star.
+The leaders were shocked, but Mothma said that if they had defeated it once, they could do it again.
 At some point after this, Skywalker sensed the activation and attempted opening of the
 Fermata Cage
 , an ancient Sith device, by members of Crimson Dawn.
-[
-171
-]
 Search for the
 Kezarat
 convoy
@@ -4286,9 +3515,6 @@ Kezarat
 convoy disappeared the same day a kind of storm hit hyperspace.
 "
 ―Amilyn Holdo and Luke Skywalker
-[
-172
-]
 Later, Skywalker took a break with Organa, Calrissian, Lobot, Chewbacca, and
 Amilyn Holdo
 at the latter's
@@ -4298,10 +3524,10 @@ on the planet
 Spira
 . Sitting by the pool, Skywalker read the Jedi text he had recovered from Gazian. Calrissian, who was playing
 Sabacc
-with Lobot and Chewbacca tried to convince Skywalker to stop reading and join their game, but Skywalker refused, explaining that he did not often get the opportunity to study and wanted to use the time to focus since he was learning so much about the Force and the Jedi from the text. Eventually, Calrissian pushed Chewbacca into the pool, sending a wave toward Skywalker that he held back and redirected with the Force while still reading with a smile. Meanwhile, Holdo tried to convince Organa to relax especially since they were by handsome men. Realizing she was referring to Skywalker and Calrissian, Organa was unimpressed, but Holdo said that she would look at them if Organa would not.
-[
-172
-]
+with Lobot and Chewbacca tried to convince Skywalker to stop reading and join their game, but Skywalker refused, explaining that he did not often get the opportunity to study and wanted to use the time to focus since he was learning so much about the Force and the Jedi from the text.
+Eventually, Calrissian pushed Chewbacca into the pool, sending a wave toward Skywalker that he held back and redirected with the Force while still reading with a smile.
+Meanwhile, Holdo tried to convince Organa to relax especially since they were by handsome men.
+Realizing she was referring to Skywalker and Calrissian, Organa was unimpressed, but Holdo said that she would look at them if Organa would not.
 Skywalker, Holdo, and Organa attend an auction on Spira
 Later, Skywalker, Organa, and Holdo attended an
 auction on Spira
@@ -4313,25 +3539,18 @@ curator
 of the
 Imperial Museum
 , so she asked Skywalker if he could use the Force to get the man to stop bidding. Skywalker said that he could not perform a mind trick because he was feeling off, believing something was happening with the dark side of the Force that was distracting him,
-[
-172
-]
 which unbeknownst to Skywalker was a disturbance in the Force caused by the opening of the
 Fermata Cage
 .
-[
-173
-]
 Skywalker agreed to try the trick anyway, but Calrissian commed them and told him not to. Organa, holding Skywalker's arm to stop him from doing anything, listened as Calrissian explained that the mind trick would draw too much attention to them, and that the man might know about the Force and figure out what happened since he ran the Imperial Museum. Calrissian suggested they instead let the man win.
-[
-172
-]
-Later, in a hangar where the man who won the strikeship was keeping it, Skywalker ignited his lightsaber and drew a bunch of stormtroopers that were guarding the ship to him, deflecting their blaster shots back at them. While they were distracted by Skywalker, Calrissian and Holdo fired on them from above and Chewbacca stopped some of the troopers from locking off the ship. Once all the stormtroopers were taken down, Calrissian said that he knew his plan would work because all the stormtroopers would be so caught up in taking down the Jedi to get a reward that they would not notice anything else. Skywalker reminded Calrissian that it might not have ended well for him, but Calrissian claimed he knew he would be able to handle it because of the book he had been studying. Holdo asked Skywalker to cut open the side of the strikeship with his lightsaber and make a circular hole not too deep. After Skywalker did, they retrieved the
+Later, in a hangar where the man who won the strikeship was keeping it, Skywalker ignited his lightsaber and drew a bunch of stormtroopers that were guarding the ship to him, deflecting their blaster shots back at them.
+While they were distracted by Skywalker, Calrissian and Holdo fired on them from above and Chewbacca stopped some of the troopers from locking off the ship.
+Once all the stormtroopers were taken down, Calrissian said that he knew his plan would work because all the stormtroopers would be so caught up in taking down the Jedi to get a reward that they would not notice anything else.
+Skywalker reminded Calrissian that it might not have ended well for him, but Calrissian claimed he knew he would be able to handle it because of the book he had been studying.
+Holdo asked Skywalker to cut open the side of the strikeship with his lightsaber and make a circular hole not too deep.
+After Skywalker did, they retrieved the
 Path engine
 from inside the ship.
-[
-172
-]
 Skywalker and his companions arrive in No-Space
 Later, back at Holdo's friend's house, Holdo explained that she was planning to go after the
 Kezarat
@@ -4349,9 +3568,6 @@ No-Space
 , near the
 Great Hall of the Nihil
 .
-[
-172
-]
 The lost colony
 [
 ]
@@ -4359,45 +3575,50 @@ The lost colony
 Sometimes people find their way to No-Space, just like you all did. […] One of those was a Jedi. Alareen Xie. She joined us, helped us fight off the Nihil. We wouldn't have survived without her. She died in time, as most people do. But after she did, a sort of belief rose up. That someday a Jedi would return and take us out of this place. Would take us home.
 "
 ―Blythe, to Skywalker
-[
-174
-]
-Skywalker and his friends did not recognize No-Space and had no idea where they were, but Skywalker expressed that while he had not traveled as much as they had, he knew the galaxy had strange things in it. He added that the Force seemed off and distant, as if there was not much around that was alive. After Holdo tried and failed to take the ship to hyperspace again, Skywalker suggested that they needed to disconnect the Path engine to see if it would fix the problem, but Holdo revealed they would need to land somewhere first. After landing on the Great Hall, Lando lamented the dangers of falling off the edge there and said it was worse than Cloud City, but Skywalker insisted that Cloud City had been really bad. A child in a spacesuit then appeared and asked them if they had 'flavors', which Calrissian interpreted to mean the kid wanted to eat them. Skywalker said he was just a kid, but Calrissian asked him to remind him to tell Skywalker about the
+Skywalker and his friends did not recognize No-Space and had no idea where they were, but Skywalker expressed that while he had not traveled as much as they had, he knew the galaxy had strange things in it.
+He added that the Force seemed off and distant, as if there was not much around that was alive.
+After Holdo tried and failed to take the ship to hyperspace again, Skywalker suggested that they needed to disconnect the Path engine to see if it would fix the problem, but Holdo revealed they would need to land somewhere first.
+After landing on the Great Hall, Lando lamented the dangers of falling off the edge there and said it was worse than Cloud City, but Skywalker insisted that Cloud City had been really bad.
+A child in a spacesuit then appeared and asked them if they had 'flavors', which Calrissian interpreted to mean the kid wanted to eat them.
+Skywalker said he was just a kid, but Calrissian asked him to remind him to tell Skywalker about the
 White Worms
 gang's savage children. The kid eventually advised them to hide and ran off, and Skywalker sensed with the Force that the kid was terrified and did not know where he was going. The kid then jumped off the edge of the Hall, which shocked Skywalker, but he just activated a jetpack and flew away.
-[
-175
-]
 A killdroid in the Great Hall
 Lando suggested they get out of there, which Skywalker agreed with, suggesting they go back to their ship and try to find the other place there that the boy mentioned. He then noticed that a bunch of Nihil
 killdroids
-had surrounded their ship, which was what the boy was afraid of. Skywalker began to fight them with his lightsaber, but quickly realized that they were lightsaber resistant. A ship then pulled up next to the hall, and Holdo suggested that they board it to escape the droids, but was concerned by having to jump across open space to it. Skywalker insisted that it was not that bad of a jump and because the ramp had a magnetic shield they would not be in the vacuum very long, but Calrissian implied that easy for him to say because he was a Jedi. They all jumped over to the ship without issue, except for Calrissian, who tripped and fell, prompting Skywalker to use the Force to pull him back up while muttering "I can do this." Once Calrissian was safe he thanked Skywalker for saving his life and assured him he would not bother him about studying his book ever again. Skywalker revealed that he could have gotten him to safety faster but could not because there was still something going on with the Force that he described as ripples messing with his concentration. Once the ship they were on docked with a larger ship, a voice over a speaker ordered them to throw their weapons out into space or they would vent them out into space. Skywalker considered using his lightaber to just cut through the door into the bigger ship but realized they would just vent them anyway. He threw his lightsaber out into space, which he said hurt because they were hard to find, but the kid with the jetpack just flew over, picked it up, and ignited it before flying away, Skywalker warning him that he needed to be careful with it or he would hurt himself.
-[
-175
-]
+had surrounded their ship, which was what the boy was afraid of.
+Skywalker began to fight them with his lightsaber, but quickly realized that they were lightsaber resistant.
+A ship then pulled up next to the hall, and Holdo suggested that they board it to escape the droids, but was concerned by having to jump across open space to it.
+Skywalker insisted that it was not that bad of a jump and because the ramp had a magnetic shield they would not be in the vacuum very long, but Calrissian implied that easy for him to say because he was a Jedi.
+They all jumped over to the ship without issue, except for Calrissian, who tripped and fell, prompting Skywalker to use the Force to pull him back up while muttering "I can do this." Once Calrissian was safe he thanked Skywalker for saving his life and assured him he would not bother him about studying his book ever again.
+Skywalker revealed that he could have gotten him to safety faster but could not because there was still something going on with the Force that he described as ripples messing with his concentration.
+Once the ship they were on docked with a larger ship, a voice over a speaker ordered them to throw their weapons out into space or they would vent them out into space.
+Skywalker considered using his lightaber to just cut through the door into the bigger ship but realized they would just vent them anyway.
+He threw his lightsaber out into space, which he said hurt because they were hard to find, but the kid with the jetpack just flew over, picked it up, and ignited it before flying away, Skywalker warning him that he needed to be careful with it or he would hurt himself.
 The voice over the speaker welcomed them to the
 Colony of Kezarat
 . Holdo yelled that they just needed to go home, but an
 Abyssin
 left the cockpit and told them they were home.
-[
-175
-]
 After Organa said they would not attack and were listening, the individual introduced himself as Captain
 Blythe
 , and Holdo introduced herself, Skywalker, and the others to him. Blythe then began a tour of the colony, confirming that it was the old convoy and the fuel was still there. The kid, who Blythe revealed was named
 Forvan
-, then ran up excitedly, and Blythe explained that he had gotten excited from seeing a lightsaber. Skywalker asked if it was because they had Jedi there and asked for his saber back, but Blythe said they did not have Jedi there and he would get his lightsaber back in due time. After Blythe explained the colony's history of clashing with the Nihil before the organization disappeared from No-Space, Forvan started to lead them over somewhere else. Blythe told Skywalker to let Forvan down easy, and when he said he did not understand, Blythe said he would.
-[
-174
-]
+, then ran up excitedly, and Blythe explained that he had gotten excited from seeing a lightsaber.
+Skywalker asked if it was because they had Jedi there and asked for his saber back, but Blythe said they did not have Jedi there and he would get his lightsaber back in due time.
+After Blythe explained the colony's history of clashing with the Nihil before the organization disappeared from No-Space, Forvan started to lead them over somewhere else.
+Blythe told Skywalker to let Forvan down easy, and when he said he did not understand, Blythe said he would.
 The mural of Alareen Xie
 Forvan took them to mural depicting a Jedi. Skywalker was shocked that they had a Jedi with the convoy, but Blythe said she had not been there from the beginning and just found her way to No-Space. Blythe explained that her name was
 Alareen Xie
-, and that after she died a belief spread within the colony that a Jedi would someday lead them home. Blythe once again reiterated for Skywalker to let Forvan down easy, so he bent down to speak with Forvan and told him that while the Jedi could do incredible things, he could not assure them that he would get them out of No-Space, though he would at least do everything he could to try and get them out of there or to make their lives better. Forvan once again said that Jedi could do anything, so Skywalker just said he would try his best. After Blythe warned them that they would be there for a while and would not be able to get back to their ship, Skywalker and the others all went to sleeping quarters given to them. Skywalker paced around the room and Organa recognized something was wrong and asked him about it. Skywalker explained that he had to get out of there to get back to the ship to get the irreplaceable Jedi text that he had left on it. When she brought it up, Skywalker said he was not worried about his lightsaber as he could get another one, but that without the text he would not be able to move forward with his training. He feared that if he lost it and was no longer able to access its knowledge, techniques, and history of the Force and the Jedi Order or be able to use it to find places he could learn more, he would never truly become a Jedi.
-[
-174
-]
+, and that after she died a belief spread within the colony that a Jedi would someday lead them home.
+Blythe once again reiterated for Skywalker to let Forvan down easy, so he bent down to speak with Forvan and told him that while the Jedi could do incredible things, he could not assure them that he would get them out of No-Space, though he would at least do everything he could to try and get them out of there or to make their lives better.
+Forvan once again said that Jedi could do anything, so Skywalker just said he would try his best.
+After Blythe warned them that they would be there for a while and would not be able to get back to their ship, Skywalker and the others all went to sleeping quarters given to them.
+Skywalker paced around the room and Organa recognized something was wrong and asked him about it.
+Skywalker explained that he had to get out of there to get back to the ship to get the irreplaceable Jedi text that he had left on it.
+When she brought it up, Skywalker said he was not worried about his lightsaber as he could get another one, but that without the text he would not be able to move forward with his training.
+He feared that if he lost it and was no longer able to access its knowledge, techniques, and history of the Force and the Jedi Order or be able to use it to find places he could learn more, he would never truly become a Jedi.
 Escape from No-Space
 [
 ]
@@ -4413,36 +3634,52 @@ the
 book. And as far as my lightsaber, I wasn't properly focused before. Now I am. Now…the Force is with me.
 "
 ―Skywalker and Holdo
-[
-176
-]
 After Chewbacca realized that they could use the Path engine to escape No-Space, Blythe gathered Skywalker and the others, offering them an old
 Longbeam cruiser
-to retrieve it. Skywalker was skeptical that it could fly, but Blythe assured them that it used to and just needed to be fixed up. Once they got the cruiser to take off and leave the colony, Holdo and Lando took inventory of what they had, including that they had a Jedi. Skywalker reminded them that his connection to the Force was different and hard to use in No-Space and something strange felt like it was happening to it anyway, but he assured them he would try his best. Calrissian assured them they would be fine, but Skywalker was still skeptical and pointed out that the killdroids had found and taken the Path engine. Skywalker decided that he would distract the droids so the others could get the engine, but after needed to go back to the
+to retrieve it.
+Skywalker was skeptical that it could fly, but Blythe assured them that it used to and just needed to be fixed up.
+Once they got the cruiser to take off and leave the colony, Holdo and Lando took inventory of what they had, including that they had a Jedi.
+Skywalker reminded them that his connection to the Force was different and hard to use in No-Space and something strange felt like it was happening to it anyway, but he assured them he would try his best.
+Calrissian assured them they would be fine, but Skywalker was still skeptical and pointed out that the killdroids had found and taken the Path engine.
+Skywalker decided that he would distract the droids so the others could get the engine, but after needed to go back to the
 Skyfarer
-and get his Jedi text, refusing to leave without it. He added that he had talked to Forvan before they left and that the boy, wanting to help out a Jedi, gave him specialized gear, including a spacesuit, that he could use to get down to the Great Hall. Wearing the spacesuit, Skywalker jumped from the cruiser down to the Hall, ignited his lightsaber, and called out to the droids, encouraging them to go after him. As Skywalker, Holdo, and Calrissian distracted the droids, Skywalker deflecting their blastershots with his lightsaber, Chewbacca went after the engine. However, some droids noticed and went after Chewbacca anyway, so Skywalker sent them flying away off into no-Space with the Force. He warned Chewbacca that he probably would not be able to do it again, so he needed to run and get the engine back to the ship.
-[
-176
-]
+and get his Jedi text, refusing to leave without it.
+He added that he had talked to Forvan before they left and that the boy, wanting to help out a Jedi, gave him specialized gear, including a spacesuit, that he could use to get down to the Great Hall.
+Wearing the spacesuit, Skywalker jumped from the cruiser down to the Hall, ignited his lightsaber, and called out to the droids, encouraging them to go after him.
+As Skywalker, Holdo, and Calrissian distracted the droids, Skywalker deflecting their blastershots with his lightsaber, Chewbacca went after the engine.
+However, some droids noticed and went after Chewbacca anyway, so Skywalker sent them flying away off into no-Space with the Force.
+He warned Chewbacca that he probably would not be able to do it again, so he needed to run and get the engine back to the ship.
 The Kezarat Colony
-After shooting a droid behind Chewbacca with a blaster, Skywalker started to run off and told Holdo to keep Chewbacca safe while he ran after the Jedi text. She reminded him that his lightsaber could not get through their armor and that it was just a book, but Skywalker said that it was more than just a book and that he had not been focused when his lightsaber would not cut them the first time, but now was. Skywalker sliced through the droids with his lightsaber while saying "the Force is with me" and calling out for what they did with his book. He eventually found the book on a ledge at the edge of the Hall and decided that he would easily be able to grab it and fly back to the ship, but a killdroid shot his jetpack, sending him flying uncontrollably toward the book and leaving it without fuel. As killdroids approached him, their footsteps shaking the ground caused the book to go over the edge. Skywalker screamed in horror and reached out to it with his right hand, which was holding his lightsaber, but a droid grabbed his hand and lifted him up by it, crushing both his hand and his lightsaber.
-[
-176
-]
+After shooting a droid behind Chewbacca with a blaster, Skywalker started to run off and told Holdo to keep Chewbacca safe while he ran after the Jedi text.
+She reminded him that his lightsaber could not get through their armor and that it was just a book, but Skywalker said that it was more than just a book and that he had not been focused when his lightsaber would not cut them the first time, but now was.
+Skywalker sliced through the droids with his lightsaber while saying "the Force is with me" and calling out for what they did with his book.
+He eventually found the book on a ledge at the edge of the Hall and decided that he would easily be able to grab it and fly back to the ship, but a killdroid shot his jetpack, sending him flying uncontrollably toward the book and leaving it without fuel.
+As killdroids approached him, their footsteps shaking the ground caused the book to go over the edge.
+Skywalker screamed in horror and reached out to it with his right hand, which was holding his lightsaber, but a droid grabbed his hand and lifted him up by it, crushing both his hand and his lightsaber.
 The droid threw him onto the ground and into the remains of the
 Skyfarer
-, and Skywalker cried out in horror when he saw his hand and lightsaber. Calrissian and Holdo saw what happened and decided to try and get to Skywalker before the droids killed him. A delirious Skywalker told the approaching droids to stop, but when they did not, he threw all of the droids out of the Hall in a massive wave using the Force while telling himself "may the Force be with me." Calrissian, Holdo, and Chewbacca were shocked at how he was doing it, and Calrissian told Chewbacca to remind him never to get on his bad side. Skywalker then pulled the Jedi text to him with the Force and passed out immediately after.
-[
-177
-]
-Later, on the way back to the colony, Calrissian checked in on a now handless Skywalker, though the droid had only destroyed his already mechanical hand. Calrissian asked him how he would done what he did, but he said that he did not understand how it happened and that it felt like the Force suddenly came back to him stronger than ever, and that it was frightening. Calrissian told him to cheer up, but thinking about his broken lightsaber and his inevitable confrontation with Vader, told Calrissian that he was not sure he would be able to do something he needed to anymore. Back at the colony, Skywalker showed Organa, who had stayed behind, what happened to his hand. Blythe and Forvan offered to fix it up, the latter suggesting a claw or grappling hook, but Skywalker said he would just wait until they got home even though those things would be cool. Skywalker and Chewbacca then presented the Path engine to Blythe. After Blythe presented the group to the members of the colony, but Organa and Calrissian warned them about the dangers of the Empire and traveling with them, Blythe revealed to them that several of the colony decided to go back with them. However, he revealed that many were going to stay on the Great Hall since they got rid of all the killdroids. Chewbacca pointed out that Skywalker got rid of all the droids by himself, and Blythe commented that it seemed the things people said about Jedi were true. However, Skywalker, who was struggling to pull a piece of scrap to him with the Force, said they sometimes were true and sometimes were not. Later, after a rough hyperspace jump made with many ships secured together and assisted by Lobot, Skywalker and his friends as well as several members of the colony arrived back in the greater galaxy.
-[
-177
-]
-Back with the fleet, Skywalker had his mechanical hand repaired by a medical droid while R2-D2 did his best to repair his lightsaber. Organa reminded Skywalker that it could have been worse if the droid had crushed his other hand, and asked him about the powerful act of the Force he had pulled off on the Great Hall. He confirmed that he had not learned it from his book but that it was instead related to something being wrong with the Force, describing it as if something hit the Force while he was in No-Space and caused it to ripple. He added that it felt like waves on the beach in the way that it vacillated from him being the strongest he had ever been where he almost could not control it, to not being able to feel it at all. Organa then wondered if since he could feel it, and even she could slightly, that the Emperor and Vader were also feeling it immensely and were distracted, making it their chance to defeat them. Skywalker said her theory made sense, and she went to speak with Mon Mothma. Skywalker thanked R2 for attempting to fix his lightsaber, but admitted that he was going to need a new one for when he inevitably faced Vader again.
-[
-177
-]
+, and Skywalker cried out in horror when he saw his hand and lightsaber.
+Calrissian and Holdo saw what happened and decided to try and get to Skywalker before the droids killed him.
+A delirious Skywalker told the approaching droids to stop, but when they did not, he threw all of the droids out of the Hall in a massive wave using the Force while telling himself "may the Force be with me." Calrissian, Holdo, and Chewbacca were shocked at how he was doing it, and Calrissian told Chewbacca to remind him never to get on his bad side.
+Skywalker then pulled the Jedi text to him with the Force and passed out immediately after.
+Later, on the way back to the colony, Calrissian checked in on a now handless Skywalker, though the droid had only destroyed his already mechanical hand.
+Calrissian asked him how he would done what he did, but he said that he did not understand how it happened and that it felt like the Force suddenly came back to him stronger than ever, and that it was frightening.
+Calrissian told him to cheer up, but thinking about his broken lightsaber and his inevitable confrontation with Vader, told Calrissian that he was not sure he would be able to do something he needed to anymore.
+Back at the colony, Skywalker showed Organa, who had stayed behind, what happened to his hand.
+Blythe and Forvan offered to fix it up, the latter suggesting a claw or grappling hook, but Skywalker said he would just wait until they got home even though those things would be cool.
+Skywalker and Chewbacca then presented the Path engine to Blythe.
+After Blythe presented the group to the members of the colony, but Organa and Calrissian warned them about the dangers of the Empire and traveling with them, Blythe revealed to them that several of the colony decided to go back with them.
+However, he revealed that many were going to stay on the Great Hall since they got rid of all the killdroids.
+Chewbacca pointed out that Skywalker got rid of all the droids by himself, and Blythe commented that it seemed the things people said about Jedi were true.
+However, Skywalker, who was struggling to pull a piece of scrap to him with the Force, said they sometimes were true and sometimes were not.
+Later, after a rough hyperspace jump made with many ships secured together and assisted by Lobot, Skywalker and his friends as well as several members of the colony arrived back in the greater galaxy.
+Back with the fleet, Skywalker had his mechanical hand repaired by a medical droid while R2-D2 did his best to repair his lightsaber.
+Organa reminded Skywalker that it could have been worse if the droid had crushed his other hand, and asked him about the powerful act of the Force he had pulled off on the Great Hall.
+He confirmed that he had not learned it from his book but that it was instead related to something being wrong with the Force, describing it as if something hit the Force while he was in No-Space and caused it to ripple.
+He added that it felt like waves on the beach in the way that it vacillated from him being the strongest he had ever been where he almost could not control it, to not being able to feel it at all.
+Organa then wondered if since he could feel it, and even she could slightly, that the Emperor and Vader were also feeling it immensely and were distracted, making it their chance to defeat them.
+Skywalker said her theory made sense, and she went to speak with Mon Mothma.
+Skywalker thanked R2 for attempting to fix his lightsaber, but admitted that he was going to need a new one for when he inevitably faced Vader again.
 Duel with a droid
 [
 ]
@@ -4453,9 +3690,6 @@ A Jedi…I was afraid my dreams of killing one were dashed. […] I'd been infor
 Oh, don't worry…they still are.
 "
 ―Ajax Sigma and Skywalker
-[
-178
-]
 Ajax Sigma
 While still escorting more of the
 Kezarat
@@ -4463,28 +3697,30 @@ convoy to the Alliance fleet, Skywalker felt a disturbance in the Force while on
 Millennium Falcon
 . He explained to Organa that it was not like the one he had felt in No-Space but instead felt like the deaths of innocent people, and that it was nearby enough that he could bring them there. Organa agreed to go despite the fact they were supposed to be escorting the convoy. When they arrived, C-3PO revealed that the moon did not appear on any
 star-charts
-. Organa wondered if it was erased by the Empire, but Skywalker said it was not and pointed out an ancient lightsaber like none he would ever seen before. He and Chewbacca then noticed that there was a large amount of destroyed droids that were cut down with a lightsaber. They all realized that a battle had been fought there, and Skywalker put together that it had been between droids and people, and since there were no battle droids and no remains, it must have been hundreds of years earlier. Skywalker realized that the battle was not what he had sensed and instead lead them to a
+.
+Organa wondered if it was erased by the Empire, but Skywalker said it was not and pointed out an ancient lightsaber like none he would ever seen before.
+He and Chewbacca then noticed that there was a large amount of destroyed droids that were cut down with a lightsaber.
+They all realized that a battle had been fought there, and Skywalker put together that it had been between droids and people, and since there were no battle droids and no remains, it must have been hundreds of years earlier.
+Skywalker realized that the battle was not what he had sensed and instead lead them to a
 homesteader ship
 that they found to be full of bodies. C-3PO offered to secure the
 Falcon
 but Skywalker said it was not necessary. Skywalker asked R2 to plug into the ship and see if it had any information about the moon they were on. R2 revealed it was called
 Kligson's Moon
 . Skywalker suggested that the carnage there may have recently happened and the perpetrator could still be there, and suggested splitting up into pairs to search due to the size of the ship.
-[
-178
-]
 After discovering a droid, that unbeknownst to Skywalker was
 Ajax Sigma
-, an ancient droid revolutionary, he asked it why they killed all the people there. Sigma claimed that it was self defense and that they attacked him outside when he came there to retrieve something, but Skywalker did not believe him. The droid clarified that he had followed the people back to their ship and killed them all, which Skywalker said did not sound like self-defense. The droid activated electric blades on his arms and disparaged Skywalker for being organic and for suggesting that the droid would go with him and answer for his actions. Skywalker ignited his lightsaber and began to fight Sigma, who used the blades on his arms to defend himself. He was surprised to see a Jedi, believing them all to be dead, and Skywalker assured him they were. After Skywalker sliced open the droid's chest and knocked him down, he ordered him to stand down or face destruction. However, the droid just entered a pod that he ejected from the homesteader ship, successfully escaping.
-[
-178
-]
+, an ancient droid revolutionary, he asked it why they killed all the people there.
+Sigma claimed that it was self defense and that they attacked him outside when he came there to retrieve something, but Skywalker did not believe him.
+The droid clarified that he had followed the people back to their ship and killed them all, which Skywalker said did not sound like self-defense.
+The droid activated electric blades on his arms and disparaged Skywalker for being organic and for suggesting that the droid would go with him and answer for his actions.
+Skywalker ignited his lightsaber and began to fight Sigma, who used the blades on his arms to defend himself.
+He was surprised to see a Jedi, believing them all to be dead, and Skywalker assured him they were.
+After Skywalker sliced open the droid's chest and knocked him down, he ordered him to stand down or face destruction.
+However, the droid just entered a pod that he ejected from the homesteader ship, successfully escaping.
 Vader had a vision of Skywalker and Sigma's duel while speaking with the
 Eye of Webbish Bog
 , sometime before the events of No-Space and the activation of the Fermata Cage. In the vision, Vader also saw Skywalker holding two kyber crystals, one green and one red.
-[
-178
-]
 Adventure with Aphra
 [
 ]
@@ -4501,29 +3737,29 @@ How far to Sason?
 Now we're talking!
 "
 ―Chelli Aphra and Skywalker
-[
-179
-]
 Because he had lost control of his powers just as Skywalker had, Vader recruited Doctor Aphra to help him find a way to control them. While in a shuttle to a location she had in mind, Aphra walked into a room where Vader was meditating and entered a vision he was having that included Skywalker in his Tatooine farm boy clothes. Aphra did not understand why Skywalker was there and did not recognize the other individual in the vision,
 Sabé
 , who was telling Skywalker that there was still good in Vader, which were Skywalker's mother's last words.
-[
-180
-]
 Doctor Aphra kidnaps Skywalker on Numidian Prime.
 Though his lightsaber was still not fixed, Skywalker traveled to
 Numidian Prime
 with R2-D2 in search of a
 temple
-on the planet. He briefly left R2 in a temporary camp while he searched for it, but after finding no sign of it and it started to rain he returned to the camp, finding peace in the solitude. He apologized to R2 for leaving, saying they needed to wait for the rain to taper off, but then noticed the droid was deactivated and laying on the ground. He cried out and ran to the droid, but a node underneath the droid started shooting smoke out, confusing Skywalker and knocking him out after he inhaled it. The trap had been set by Doctor Chelli Aphra, who then stood over an unconscious Skywalker and greeted him, calling him a "farm boy", and asked how he felt about going on an adventure.
-[
-181
-]
+on the planet.
+He briefly left R2 in a temporary camp while he searched for it, but after finding no sign of it and it started to rain he returned to the camp, finding peace in the solitude.
+He apologized to R2 for leaving, saying they needed to wait for the rain to taper off, but then noticed the droid was deactivated and laying on the ground.
+He cried out and ran to the droid, but a node underneath the droid started shooting smoke out, confusing Skywalker and knocking him out after he inhaled it.
+The trap had been set by Doctor Chelli Aphra, who then stood over an unconscious Skywalker and greeted him, calling him a "farm boy", and asked how he felt about going on an adventure.
 Aphra eventually bound and gagged Skywalker and placed him in a crate on her ship the
 Ark Angel IV
 . When he woke up, she opened the crate and said she was glad he was still breathing before offering him
 Caf
-. She started to get him some as he realized who kidnapped him, telling her he did not want Caf and just wanted to know why she did it and what she had done with R2. She explained that she had put a restraining bolt on and turned off R2, and Skywalker realized that she needed him for something. Aphra then claimed that she was going to actually do him a huge favor. Skywalker had managed to slip out of the ropes she had tied him up in, which she noticed at that moment, surprised at how quickly he had done it and wondering if Solo had taught him as she presented a holorecording. Realizing it was a Jedi holo, Skywalker listened as Jedi Master
+.
+She started to get him some as he realized who kidnapped him, telling her he did not want Caf and just wanted to know why she did it and what she had done with R2.
+She explained that she had put a restraining bolt on and turned off R2, and Skywalker realized that she needed him for something.
+Aphra then claimed that she was going to actually do him a huge favor.
+Skywalker had managed to slip out of the ropes she had tied him up in, which she noticed at that moment, surprised at how quickly he had done it and wondering if Solo had taught him as she presented a holorecording.
+Realizing it was a Jedi holo, Skywalker listened as Jedi Master
 Shaak Ti
 explained to
 Aayla Secura
@@ -4534,9 +3770,6 @@ Sason Temple
 . Aphra told him that she knew how to get there an needed a Jedi to get in, but Skywalker was still suspicious. After insisting she was just being nice and trying to make up for the events at the Screaming Citadel, Aphra pointed out that the artifact could give Skywalker an edge over Vader. After contemplating it more, Skywalker asked her how far
 Sason
 was, exciting her.
-[
-179
-]
 Sason Temple
 [
 ]
@@ -4544,29 +3777,29 @@ Sason Temple
 Right before I found you, Vader found me. That 'Force pulse' you felt? He felt it too. But unlike you, it just made him stronger. Wild. Out of control. You don't stand a chance against him as you are. Say we leave Sason without Kythoo's Bell. Vader kills everyone you care about to get to you. Then he kills you. Once you're dead, who's going to protect me from him?
 "
 ―Chelli Aphra to Skywalker
-[
-182
-]
 The Sason Temple
 As they flew into Sason in the
 Ark Angel IV
 , Skywalker noticed that their navigation systems went offline, which Aphra attributed to the planet's
 magnetic storm
-. Telling Aphra she had a great copilot, Skywalker navigated the ship through the storm despite Aphra's protests, following an echo of a note he could hear in the Force and urging Aphra to trust him. They then flew toward a gap in the storm that held the temple, Skywalker exclaiming that it was beautiful. After being briefly confused by Aphra calling the temple their payday, which she insisted was figurative, Aphra explained that her research claimed that the temple would only open to someone who was pure of heart and strong in the Force. Skywalker tried to open it but failed, explaining to Aphra that he was unable to use the Force because something was happening to it making it unstable. Aphra then accused him of making things up to navigate them there, but he insisted he had used the Force. Realizing they did not have any other options, Aphra asked him if he had learned anything tricks at Jedi school, but Skywalker only said Jedi school did not exist anymore.
-[
-179
-]
+.
+Telling Aphra she had a great copilot, Skywalker navigated the ship through the storm despite Aphra's protests, following an echo of a note he could hear in the Force and urging Aphra to trust him.
+They then flew toward a gap in the storm that held the temple, Skywalker exclaiming that it was beautiful.
+After being briefly confused by Aphra calling the temple their payday, which she insisted was figurative, Aphra explained that her research claimed that the temple would only open to someone who was pure of heart and strong in the Force.
+Skywalker tried to open it but failed, explaining to Aphra that he was unable to use the Force because something was happening to it making it unstable.
+Aphra then accused him of making things up to navigate them there, but he insisted he had used the Force.
+Realizing they did not have any other options, Aphra asked him if he had learned anything tricks at Jedi school, but Skywalker only said Jedi school did not exist anymore.
 A massive guardian made out of crystal then formed, Skywalker telling R2 to get behind him and trying and failing to ignite his broken lightsaber. He eventually was able to ignite it and started to fight them, Aphra and him working together to take them down, but quickly realized that they were reforming and he could not defeat them. When his lightsaber deactivated, Skywalker reached out to the Force, destroying the guardians with a massive Force push while Aphra destroyed the
 Magnetic wave emitter
 that was causing them to reform. Skywalker felt like he was going to pass out, but just them the floor collapsed under them and dropped them into a pool. Skywalker called out for R2, who had not landed in the pool, but Aphra assured Skywalker the droid was fine. The two then noticed the figures of Jedi Masters Shaak Ti and Aayla Secura standing in front of them.
-[
-179
-]
 Kythoo's Bell
-Skywalker attempted to introduce himself to the Masters, but Aphra quickly realized that they were advanced holograms. This disappointed Skywalker, who had briefly believed he was not alone as a Jedi. As they traversed the temple, illusions started to make the two believe the other was saying things they were not, leading to Skywalker lashing out at Aphra for always treating things like a joke and questioning her on why she was not using her electro-tattoos, and Aphra believing Skywalker had referenced her and Sana Starros' breakup, though in reality, Skywalker had no idea that they had been in a relationship. As the argument reached its peak as Aphra asked him how he broke his lightsaber, a creature slammed onto the other side of the crystal wall, terrifying the two, but after Kythoo's bell rang it retreated. After hurriedly leaving to another section of the temple, Skywalker began to realize that the entire place was made up of illusions after almost falling into a pit of spikes. He suggested that things felt wrong and they should leave, but Aphra held a gun to his head to stop him and revealed that she was trying to make Skywalker more powerful because Vader had become more powerful, and she wanted Skywalker to protect her from the Sith Lord. Skywalker agreed and convinced her to put her blaster down, the two using Skywalker's ability to sense the bell with the Force and Aphra's ability to take down the traps, obstacles, and guardians in their way to eventually locate the bell.
-[
-182
-]
+Skywalker attempted to introduce himself to the Masters, but Aphra quickly realized that they were advanced holograms.
+This disappointed Skywalker, who had briefly believed he was not alone as a Jedi.
+As they traversed the temple, illusions started to make the two believe the other was saying things they were not, leading to Skywalker lashing out at Aphra for always treating things like a joke and questioning her on why she was not using her electro-tattoos, and Aphra believing Skywalker had referenced her and Sana Starros' breakup, though in reality, Skywalker had no idea that they had been in a relationship.
+As the argument reached its peak as Aphra asked him how he broke his lightsaber, a creature slammed onto the other side of the crystal wall, terrifying the two, but after Kythoo's bell rang it retreated.
+After hurriedly leaving to another section of the temple, Skywalker began to realize that the entire place was made up of illusions after almost falling into a pit of spikes.
+He suggested that things felt wrong and they should leave, but Aphra held a gun to his head to stop him and revealed that she was trying to make Skywalker more powerful because Vader had become more powerful, and she wanted Skywalker to protect her from the Sith Lord.
+Skywalker agreed and convinced her to put her blaster down, the two using Skywalker's ability to sense the bell with the Force and Aphra's ability to take down the traps, obstacles, and guardians in their way to eventually locate the bell.
 Starweird
 [
 ]
@@ -4583,30 +3816,27 @@ you
 die, I'm keeping it!
 "
 ―Aphra and Skywalker, while fighting the Starweird
-[
-183
-]
 Realizing the bell was to big to transport, and having no Force-ritual to use with it, Aphra removed a piece inside of the bell by standing on Skywalker's shoulders and grabbing it. However, this caused the entire bell to collapse and be destroyed, which Skywalker realized made the echo of the note he could hear stop resonating throughout the Temple. Just then, the creature they had seen earlier burst through the wall, and Aphra realized that Sason Temple was really a Jedi prison.
-[
-182
-]
 Aphra recognized the creature as a
 Starweird
-, a species that was supposed to be extinct. The Starweird threw them onto the wall telekinetically, but Skywalker recognized that it was not using the Force. When Aphra accidentally activated the piece of the bell they had retrieved and thus Forced the creature to be frozen, she realized it was an emitter releasing a frequency that affected the Starweird. However, the emitter deactivated and the Starweird flew toward Aphra, so Skywalker used the Force to impale it with a bunch of crystals before he and Aphra ran away. Skywalker admitted that he had not been trying to impale it, just hold it still as he led Aphra through the temple. After Skywalker, decided to hide in a room full of mirrors, Aphra called him brilliant.
-[
-183
-]
+, a species that was supposed to be extinct.
+The Starweird threw them onto the wall telekinetically, but Skywalker recognized that it was not using the Force.
+When Aphra accidentally activated the piece of the bell they had retrieved and thus Forced the creature to be frozen, she realized it was an emitter releasing a frequency that affected the Starweird.
+However, the emitter deactivated and the Starweird flew toward Aphra, so Skywalker used the Force to impale it with a bunch of crystals before he and Aphra ran away.
+Skywalker admitted that he had not been trying to impale it, just hold it still as he led Aphra through the temple.
+After Skywalker, decided to hide in a room full of mirrors, Aphra called him brilliant.
 Skywalker and Aphra face a Starweird.
-As Skywalker used the Force to manipulate the reflections of the crystals to lure the Starweird toward them, Aphra used her electro-tattoos to activate the holograms of Masters Ti and Secura. Skywalker, Aphra, and R2-D2 were able to flee the creature and its scream while it was distracted. However, the creature found them, knocking Skywalker to the edge of the temple and leaving him barely hanging on. While proclaiming her desperation to protect Skywalker, she fought the Starweird using his lightsaber. Skywalker eventually pulled himself up and shot at the creature, saying he would keep it if she died right before Aphra sliced the creature's hand off, which Skywalker commented did not feel good. Escaping into the
+As Skywalker used the Force to manipulate the reflections of the crystals to lure the Starweird toward them, Aphra used her electro-tattoos to activate the holograms of Masters Ti and Secura.
+Skywalker, Aphra, and R2-D2 were able to flee the creature and its scream while it was distracted.
+However, the creature found them, knocking Skywalker to the edge of the temple and leaving him barely hanging on.
+While proclaiming her desperation to protect Skywalker, she fought the Starweird using his lightsaber.
+Skywalker eventually pulled himself up and shot at the creature, saying he would keep it if she died right before Aphra sliced the creature's hand off, which Skywalker commented did not feel good.
+Escaping into the
 Ark Angel IV
 , but with the Starweird still on their tail, Skywalker directed Aphra to lead them into the magnetic storm and used the Force to activate the emitter, knocking the creature into the storm and eviscerating it, and leaving him surprised at his ability.
-[
-183
-]
-Later, back on Numidian Prime, Skywalker told Aphra she did not need to trick or bribe him into protecting her from Vader, insisting he would help because it was the the Jedi way. Aphra warned against his kindness, but Skywalker declared he preferred to take the chance than close himself off from people in need and leave himself all alone. Aphra told him to call her the next time he needed to get into a Jedi tomb, but Skywalker said he would not and took off in his X-wing, having taken the emitter with him before Aphra could realize.
-[
-183
-]
+Later, back on Numidian Prime, Skywalker told Aphra she did not need to trick or bribe him into protecting her from Vader, insisting he would help because it was the the Jedi way.
+Aphra warned against his kindness, but Skywalker declared he preferred to take the chance than close himself off from people in need and leave himself all alone.
+Aphra told him to call her the next time he needed to get into a Jedi tomb, but Skywalker said he would not and took off in his X-wing, having taken the emitter with him before Aphra could realize.
 Christophsis
 [
 ]
@@ -4614,39 +3844,52 @@ Christophsis
 Every time I think I have a handle on being a Jedi, something happens to kick me back. The ground under my feet just disappears… I'm going to have to face Vader again, and I am not ready. I don't even have a lightsaber I can rely on.
 "
 ―Skywalker to Organa
-[
-184
-]
 While studying his Jedi text and the yellow kyber crystal from his lightsaber on the
 Home One
 , Skywalker realized that he did not know a lot about kyber crystals except them being in every lightsaber as their power source. He explained to R2-D2 that the text only contained details about the philosophy and spirituality of kyber crystals and an old rite of passage for younglings to find a crystal to make their first lightsaber on the planet Ilum, referring to another manual by Professor
 Huyang
-for building instructions. He figured that Yoda and Kenobi had never taught him anything about them because he had already had one, but lamented that his had never had a connection with him like they were supposed to due to the almost living nature of the crystals. He ignited his lightsaber and said that now that the crystal was cracked it no longer was a useful tool and was unstable. Due to the saber's unsteadiness, R2 made a concerned beep and Skywalker shut it off and apologized. Realizing that he needed a new crystal, Skywalker decided that he and R2 should visit other worlds the text mentioned to find them since Ilum was locked down by the Empire. Just then, Organa walked in. After he told he was going somewhere, she expressed her concern for him especially due to the strangeness of the Force as well as her desire for him to stay and help the Alliance. Skywalker insisted he was fine, saying he was just troubled by not knowing why the Force was strange or how to fix his lightsaber and felt like he could never truly get a handle on being a Jedi. He also admitted that he needed a lightsaber for his confrontation with Vader, and that he felt like he needed to go on this mission in order to take control and take action.
-[
-184
-]
+for building instructions.
+He figured that Yoda and Kenobi had never taught him anything about them because he had already had one, but lamented that his had never had a connection with him like they were supposed to due to the almost living nature of the crystals.
+He ignited his lightsaber and said that now that the crystal was cracked it no longer was a useful tool and was unstable.
+Due to the saber's unsteadiness, R2 made a concerned beep and Skywalker shut it off and apologized.
+Realizing that he needed a new crystal, Skywalker decided that he and R2 should visit other worlds the text mentioned to find them since Ilum was locked down by the Empire.
+Just then, Organa walked in.
+After he told he was going somewhere, she expressed her concern for him especially due to the strangeness of the Force as well as her desire for him to stay and help the Alliance.
+Skywalker insisted he was fine, saying he was just troubled by not knowing why the Force was strange or how to fix his lightsaber and felt like he could never truly get a handle on being a Jedi.
+He also admitted that he needed a lightsaber for his confrontation with Vader, and that he felt like he needed to go on this mission in order to take control and take action.
 Christophsis
-Skywalker chose to go to Christophsis, due to the fact that there was not much of a permanent Imperial presence there despite it being an Imperial world and because the text said kyber crystals could regularly be found there. He flew his X-Wing there with R2 and landed outside of a small mining town where prospectors sell their finds so he would not get noticed, though did not want to have to walk the way there. R2 indicated to him that he wanted to know the plan, so Skywalker admitted that he did not have one. He explained that Calrissian had told him there was a black market for crystals on Christophsis because prospectors try to sell them since there was not enough for the Empire to set up a full-scale mining operation. He told R2 that he just planned to put the word out and pose as a buyer to see who would speak with him. He admitted that it was not much of a plan but gave R2 his lightsaber to hold onto while he looked around, not wanting to make it obvious he was a Jedi. He assured R2 he would be fine and told the droid that he could save him if he got into trouble. He then started in to a nearby cantina.
-[
-184
-]
+Skywalker chose to go to Christophsis, due to the fact that there was not much of a permanent Imperial presence there despite it being an Imperial world and because the text said kyber crystals could regularly be found there.
+He flew his X-Wing there with R2 and landed outside of a small mining town where prospectors sell their finds so he would not get noticed, though did not want to have to walk the way there.
+R2 indicated to him that he wanted to know the plan, so Skywalker admitted that he did not have one.
+He explained that Calrissian had told him there was a black market for crystals on Christophsis because prospectors try to sell them since there was not enough for the Empire to set up a full-scale mining operation.
+He told R2 that he just planned to put the word out and pose as a buyer to see who would speak with him.
+He admitted that it was not much of a plan but gave R2 his lightsaber to hold onto while he looked around, not wanting to make it obvious he was a Jedi.
+He assured R2 he would be fine and told the droid that he could save him if he got into trouble.
+He then started in to a nearby cantina.
 Gretta
 In the cantina, Skywalker got food and water and implied to an
 Iktotchi bartender
 that he was a wealthy buyer looking for kyber. Just as the Iktotchi was offering to point Skywalker to his quarry, a human with green hair shot and killed him and everyone else in the cantina except for Skywalker, leaving him shocked. She taunted him and called him by name, so Skywalker used the Force to pull his lightsaber to him from R2, who had just rolled in and ordered her to explain herself. She introduced herself as
 Gretta
-and claimed that she saved his life, pointing out a blaster behind the counter. She explained that the whole place was ploy to trap people looking for kyber and sell them to the Empire, and that she saved him from it because he was a Jedi. She claimed that she still believed and recognized him from the dark channels, having posted out there in case any Jedi came through. She told him that there was kyber near and told him that she had to kill the people there because she knew he would not. Skywalker was still upset that she killed everyone there, insisting they died for nothing and urging her to live a better life before leaving. Skywalker went off to look for crystals on the planet, sensing she had told the truth about there being some there, but she called after him and told him he was going the wrong direction. He saw she had a speeder with her and urged him to let her help him, explaining that she was from Jedha and that her people were the
+and claimed that she saved his life, pointing out a blaster behind the counter.
+She explained that the whole place was ploy to trap people looking for kyber and sell them to the Empire, and that she saved him from it because he was a Jedi.
+She claimed that she still believed and recognized him from the dark channels, having posted out there in case any Jedi came through.
+She told him that there was kyber near and told him that she had to kill the people there because she knew he would not.
+Skywalker was still upset that she killed everyone there, insisting they died for nothing and urging her to live a better life before leaving.
+Skywalker went off to look for crystals on the planet, sensing she had told the truth about there being some there, but she called after him and told him he was going the wrong direction.
+He saw she had a speeder with her and urged him to let her help him, explaining that she was from Jedha and that her people were the
 Fallanassi
 . She revealed that they were killed by the Death Star, and that when Skywalker had destroyed it he had avenged them, and thus she wanted to return the favor. Skywalker told R2 to go back to the ship and tell the others where he was if he did not come back in a day, assuring the droid he would be okay and that he needed to do this while getting in Gretta's speeder.
-[
-184
-]
 On the way, Skywalker asked Gretta about the Fallanassi. She explained that they did not use kyber crystals and had not been Force-sensitive for many years, only understanding it, not using it. When he asked, she also revealed that they were going to meet a man named
 Cuata
-who had hid there to escape the eye of the Empire and continue his studies, having been sought out by the Imperials to help design the weapon. Skywalker was confused about how she knew this information, and she explained that she has been working for him. Suddenly, a massive creature emerged from the gournd and knocked Skywalker and Gretta off of the speeder. Skywalker ignited his lightsaber and told Gretta to run, but she was delirious and urged him to fight the creature. Noticing the instability of his lightsaber, he decided just to run as the creature crushed their speeder with its mouth. The creature pursued them closely, so Skywalker just told Gretta to run, intending to use the Force to calm the creature. However, when he tried to he found himself unable to touch the Force. The creature nearly reached him until a massive explosion rocked him and Cuata emerged from the smoke and dust, instantly asking Skywalker if he could have his lightsaber.
-[
-184
-]
+who had hid there to escape the eye of the Empire and continue his studies, having been sought out by the Imperials to help design the weapon.
+Skywalker was confused about how she knew this information, and she explained that she has been working for him.
+Suddenly, a massive creature emerged from the gournd and knocked Skywalker and Gretta off of the speeder.
+Skywalker ignited his lightsaber and told Gretta to run, but she was delirious and urged him to fight the creature.
+Noticing the instability of his lightsaber, he decided just to run as the creature crushed their speeder with its mouth.
+The creature pursued them closely, so Skywalker just told Gretta to run, intending to use the Force to calm the creature.
+However, when he tried to he found himself unable to touch the Force.
+The creature nearly reached him until a massive explosion rocked him and Cuata emerged from the smoke and dust, instantly asking Skywalker if he could have his lightsaber.
 The kyber crystals
 [
 ]
@@ -4669,29 +3912,23 @@ together
 .
 "
 ―Gol, the Sith in the crystal, to Skywalker
-[
-185
-]
 Luke Skywalker shows his lightsaber to Cuata.
-Realizing he came on too strong, Cuata explained that the kyber crystals he wore around his neck told him that Skywalker needed help. Gretta introduced Skywalker to Cuata, and though he was initially concerned that the doctor thought the crystals were talking to him, apologized and asked for his help with his broken lightsaber after Gretta assured Skywalker he could trust Cuata. He immediately took the lightsaber and started tinkering with it, quickly discovering that the crystal was cracked and assured him he could fix it if Skywalker did something for him first. Cuata also revealed Skywalker's crystal told him that he was having trouble with the Force, and then started to lead him to his workshop.
-[
-185
-]
-At Cuata's workshop, Skywalker explained that he had found his lightsaber and that he and his R2 unit had worked on it. Cuata, concerned at Skywalker's lack of knowledge, explained the components and inner workings of a lightsaber and told Skywalker that a lightsaber's wielder should have a strong connection with its crystal, something Skywalker admitted he had never felt, not even with his father's lightsaber. While Cuata worked on fixing the lightsaber, he gave Skywalker a red kyber crystal and asked him to pull the dark side out of it. Gretta, whose people had a history with healing crystals, explained how crystals were turned red by
+Realizing he came on too strong, Cuata explained that the kyber crystals he wore around his neck told him that Skywalker needed help.
+Gretta introduced Skywalker to Cuata, and though he was initially concerned that the doctor thought the crystals were talking to him, apologized and asked for his help with his broken lightsaber after Gretta assured Skywalker he could trust Cuata.
+He immediately took the lightsaber and started tinkering with it, quickly discovering that the crystal was cracked and assured him he could fix it if Skywalker did something for him first.
+Cuata also revealed Skywalker's crystal told him that he was having trouble with the Force, and then started to lead him to his workshop.
+At Cuata's workshop, Skywalker explained that he had found his lightsaber and that he and his R2 unit had worked on it.
+Cuata, concerned at Skywalker's lack of knowledge, explained the components and inner workings of a lightsaber and told Skywalker that a lightsaber's wielder should have a strong connection with its crystal, something Skywalker admitted he had never felt, not even with his father's lightsaber.
+While Cuata worked on fixing the lightsaber, he gave Skywalker a red kyber crystal and asked him to pull the dark side out of it.
+Gretta, whose people had a history with healing crystals, explained how crystals were turned red by
 bleeding
 them with the Dark side, but could be healed afterward, though the process of doing so could change people and forced them to connect with whoever bled it.
-[
-185
-]
 Skywalker has a vision of a Sith lord in a Sith hall
 Skywalker agreed to try, and when he reached out to the crystal with the Force, suddenly found himself in a massive Sith hall in front of the Sith Lord
 Gol
 , sitting on a throne. The Sith greeted him and Skywalker explained his intentions of healing the crystal, but Gol said they did not want to be healed so attempting to do so would be violence toward them. Gol grabbed and twisted Skywalker's hand and said that together they could use the violence and the pain he had experienced. After a flash of light from his hand, the vision changed, putting Skywalker in a spirit-like version of his body facing his father's
 Fortress Vader
 on Mustafar. Vader then appeared on it and Skywalker ignited the red lightsaber in his hand, but a wave of red light washed over him and the vision ended.
-[
-185
-]
 Green
 [
 ]
@@ -4703,24 +3940,26 @@ yourself
 , this decision will be. Until you make it, a Jedi you cannot be.
 "
 ―Yoda to Skywalker
-[
-185
-]
 Yoda appears to Skywalker inside the raw kyber crystal.
-A terrified Skywalker stared at the still-red crystal and told Cuata that he had seen his father. Cuata then asked Skywalker to connect with a clear and raw kyber crystal, assuring him that he would pull him out if his crystals told him the Force was receding. After reaching out to the crystal, Skywalker found himself standing in front of Yoda. He believed it was not real, but still asked Yoda why he never answered when he reached out to him with the Force especially since he was hurt and trying to learn. Yoda insisted that all Jedi need to walk their own Path and that he would have returned to him otherwise. Yoda warned that Skywalker would need to make a decision about himself soon. Skywalker decided that he was not getting anything from speaking to Yoda and that he would be better off just learning from his Jedi text. He tried to leave the vision but could not, realizing that the Force had pulled back from him as it had been recently. Yoda told Skywalker that it was not really gone even when it was out of sight, waved his hand, and sent Skywalker out of the vision, wishing him goodbye. Yoda, who had been really speaking to Skywalker the whole time, asked the spirit of Kenobi what he thought. They both agreed that he was still not ready, but Yoda pointed out that he had learned much and would be ready when the time came.
-[
-185
-]
-When Skywalker exited the vision, he discovered that the clear kyber crystal had turned green. Cuata gave him his saber back, having temporarily fixed it, but Gretta revealed that the scientist had been willing to let Skywalker stay trapped in the crystal and even die, advising him not to tell Cuata anything. Skywalker thanked Cuata for fixing his lightsaber and told him that he would take the green crystal for when he needed to build his own saber, also taking the red one in case one day he could heal it. Back at his X-Wing, Skywalker thanked Gretta for helping him and said he had learned despite things not going the way he had thought. He said he would go back to the Alliance eventually as his biggest battles still lay ahead, but revealed that he was going to spend time thinking first while holding up both the red and green crystal with the Force.
-[
-185
-]
+A terrified Skywalker stared at the still-red crystal and told Cuata that he had seen his father.
+Cuata then asked Skywalker to connect with a clear and raw kyber crystal, assuring him that he would pull him out if his crystals told him the Force was receding.
+After reaching out to the crystal, Skywalker found himself standing in front of Yoda.
+He believed it was not real, but still asked Yoda why he never answered when he reached out to him with the Force especially since he was hurt and trying to learn.
+Yoda insisted that all Jedi need to walk their own Path and that he would have returned to him otherwise.
+Yoda warned that Skywalker would need to make a decision about himself soon.
+Skywalker decided that he was not getting anything from speaking to Yoda and that he would be better off just learning from his Jedi text.
+He tried to leave the vision but could not, realizing that the Force had pulled back from him as it had been recently.
+Yoda told Skywalker that it was not really gone even when it was out of sight, waved his hand, and sent Skywalker out of the vision, wishing him goodbye.
+Yoda, who had been really speaking to Skywalker the whole time, asked the spirit of Kenobi what he thought.
+They both agreed that he was still not ready, but Yoda pointed out that he had learned much and would be ready when the time came.
+When Skywalker exited the vision, he discovered that the clear kyber crystal had turned green.
+Cuata gave him his saber back, having temporarily fixed it, but Gretta revealed that the scientist had been willing to let Skywalker stay trapped in the crystal and even die, advising him not to tell Cuata anything.
+Skywalker thanked Cuata for fixing his lightsaber and told him that he would take the green crystal for when he needed to build his own saber, also taking the red one in case one day he could heal it.
+Back at his X-Wing, Skywalker thanked Gretta for helping him and said he had learned despite things not going the way he had thought.
+He said he would go back to the Alliance eventually as his biggest battles still lay ahead, but revealed that he was going to spend time thinking first while holding up both the red and green crystal with the Force.
 While he was away, Organa used the intel Skywalker gave her that the Emperor and Vader were distracted by a Force anomaly to launch an
 aerial assault on Coruscant
 , successfully destroying a statue of Palpatine in the hopes of inspiring rebellion across the galaxy.
-[
-186
-]
 Dark droids
 [
 ]
@@ -4732,24 +3971,20 @@ the new Force
 .
 "
 ―Skywalker and the Scourge, as the latter controlled the former's body
-[
-187
-]
 Skywalker studies his Jedi text with R2-D2.
 When studying Jedi text, Skywalker found a reference to a Jedi outpost in the
 Tammuz sector
 . After seeing nothing on a map R2-D2 pulled up for him, however, he decided that there was probably nothing there but that they could swing by if they got the chance. Later, as the
 Scourge of the droids
 began across the galaxy, Skywalker was in a meeting with Rebellion higher-ups concerning how to handle the new Death Star. Commodore Grek suggested they just threw Skywalker at it again, but Skywalker suspected it might take more than him in an X-wing to take down the new station.
-[
-188
-]
 Later, while Skywalker was meditating and practicing telekinesis, he was approached by C-3PO, who had been infected by the malevolent droid entity called the
 Scourge
-that was behind the scourge of the droids. The Scourge, as C-3PO questioned Skywalker on the nature of the Force and if droids could use it. Skywalker explained that he had never heard of that happening but thought it could potentially be possible. When the Scourge then asked if Skywalker's cybernetic arm felt connected to the Force, he explained that his whole being felt connected, but that he was not a true cyborg like Darth Vader. Skywalker expressed his concern that something was wrong with C-3PO, leading to the Scourge briefly considering killing him. Instead, the droid just apologised and agreed to get a diagnostic, before agreeing to Skywalker's request to send R2-D2 his way.
-[
-189
-]
+that was behind the scourge of the droids.
+The Scourge, as C-3PO questioned Skywalker on the nature of the Force and if droids could use it.
+Skywalker explained that he had never heard of that happening but thought it could potentially be possible.
+When the Scourge then asked if Skywalker's cybernetic arm felt connected to the Force, he explained that his whole being felt connected, but that he was not a true cyborg like Darth Vader.
+Skywalker expressed his concern that something was wrong with C-3PO, leading to the Scourge briefly considering killing him.
+Instead, the droid just apologised and agreed to get a diagnostic, before agreeing to Skywalker's request to send R2-D2 his way.
 As the scourge of the droids continued, Calrissian recruited Skywalker and Organa for a mission to the planet
 Epikonia
 to rescue Lobot, who had been infected by the Scourge. When they arrived in the
@@ -4760,28 +3995,16 @@ Falcon
 s navigation systems to prevent the infection from reaching the ship's
 droid core
 . Skywalker and Organa were concerned, but Calrissian managed to land them safely on a satelite dish. The Scourge soon learned that Skywalker was on the planet and became obsessed with the idea of infecting him so that it could use the Force.
-[
-190
-]
 Skywalker, Organa, Calrissian, and Chewbacca fight the Scourge on Epikonia.
 As the group traversed through the planet's main city where the Scourge was headquartered, Skywalker noticed that there were no people around. They were then
 attacked
 by a horde of violent Scourge-infected droids, Skywalker using his yellow lightsaber to begin taking them down alongside his friends.
-[
-190
-]
 Skywalker sliced through the ever-growing mob of droids while urging himself to stay calm, focused, and concentrated on the Force. When the droids ominously and suddenly retreated, a new swarm of
 spider-droids
 attacked. Skywalker tried to fight them off, but was quickly infected with the Scourge by one. As the Scourge was controlling Skywalker's body and declared itself the 'new Force' it was defeated by Ajax Sigma, freeing Skywalker from its control. Though unsure what happened, Skywalker went with the others to find Lobot. Once they did, Calrissian and Chewbacca started to take him back to the ship while Skywalker and Organa assisted people who had been experimented on by the Scourge.
-[
-187
-]
 Skywalker and Organa returned to the ship very quickly, as they found themselves unable to assist a great amount. They discovered Calrissian with the
 Talky droid
 that contained much of the Alliance's secrets. As Organa and Calrissian threatened each other, Skywalker urged them to focus on healing Lobot. Calrissian then explained the circumstances that had led him to sell the droid, and thus the Alliance's secrets, to Jabba the Hutt, leaving Skywalker and Organa shocked– Organa arresting Calrissian for these crimes.
-[
-187
-]
 The Sith and the Skywalker
 [
 ]
@@ -4789,53 +4012,50 @@ The Sith and the Skywalker
 Being healed doesn't mean you're weak. Here... I'll show you.
 "
 ―Skywalker, to Gol
-[
-101
-]
 In order to learn more about his enemy, the Sith, Skywalker tracked down Gretta in the Outer Rim with the help of R2-D2 and enlisted her help in once again attempting to purify the Sith Lord Gol's corrupted kyber crystal. The two were also assisted by
 Feez
 , Gretta's aunt. Feez told Skywalker that to heal the crystal, he would need to journey into the memories of its corrupter and understand their pain in order to succeed. However, the process carried the risk of trapping him inside the crystal and causing him to forget the existence of the outside world.
-[
-191
-]
-As Gretta and Feez began the ritual, Skywalker's mind entered the crystal. He found himself falling from the sky into Gol's castle hall. Like before, Gol stated that Skywalker was not welcome and would be removed. Skywalker refused and ignited his lightsaber. In response, the entire court ignited their Sith lightsabers. Skywalker knocked down a large number of Sith courtiers with the Force. However, with a single twitch of his finger, Gol Force-lifted Skywalker into the air and slammed him onto the ground, knocking him out cold.
-[
-96
-]
+As Gretta and Feez began the ritual, Skywalker's mind entered the crystal.
+He found himself falling from the sky into Gol's castle hall.
+Like before, Gol stated that Skywalker was not welcome and would be removed.
+Skywalker refused and ignited his lightsaber.
+In response, the entire court ignited their Sith lightsabers.
+Skywalker knocked down a large number of Sith courtiers with the Force.
+However, with a single twitch of his finger, Gol Force-lifted Skywalker into the air and slammed him onto the ground, knocking him out cold.
 Gol ordered his soldiers to bring Skywalker into the dungeon. As Skywalker awoke, Gol stated that while Skywalker was a Jedi, he was unusual: he was clean, not wearing rags, and had a lightsaber. He told Skywalker about the last Jedi he had in the court, the
 Jester Jedi
 , who eventually committed suicide to escape his torment, and stated that he intended to do the same to Skywalker. When Skywalker asked when was the vision taking place, Gol simply stated that it was now. When Skywalker offered to heal Gol's pain once again, Gol ordered his soldiers to beat him, stating that the Jedi was confused by "strange fantasies" and needed to see the reality: the Jedi could save no one in this time, not even themselves, and all they could do was suffer.
-[
-96
-]
 Gol, the Sith that Skywalker found inside the red crystal.
-After the beating was finished, Gol told Skywalker that no one could leave behind their pain, and that it was pain that defined him since his earliest days, looking to an infant crying in a crib in the cell next to Skywalker's. Skywalker once again offered to help, asking if Gol wanted the pain to stop. Gol replied that pain never stops as it is people's history, he pointed out that Skywalker's hand was severed and would always be severed, causing his cybernetic hand to spontaneously disappear. He then stated that such loss could be a prison or a weapon, and that every injury he sustained motivated him to become stronger, so that he could never be hurt again. At this point, he asked for Skywalker's name, when Skywalker replied, Gol made the same offer to Skywalker as when they first met: to combine Skywalker's pain with his, creating a better version of the vision. He stated that all Skywalker needed to see things his way was more pain.
-[
-101
-]
-After Gol left, Skywalker destroyed his prison door with the Force. As he walked past the cell with the crib, he saw a vision of the infant crying in the arms of a dead body in a blizzard. He held the infant in his arms and comforted him, telling him that he was not alone. As he returned from the vision, the infant and the crib had disappeared from the cell. Realizing that the infant was a past version of Gol, Skywalker closed his eyes and began walking through the dungeon. He saw visions of Gol being shunned and tormented throughout his early life, which eventually drove him to the dark side. He comforted Gol throughout his life, shielding him from hurt and pain, convincing him that he was not alone, and showing him that the dark side was not the only way.
-[
-101
-]
-Eventually, the adult Gol reappeared and attacked Skywalker with lightsaber drawn, demanding Skywalker to stop making him weak. Skywalker stated that being healed does not make him weak and ignited his lightsaber, but was surprised to see that its blade had turned from yellow to green. As the two duelled, Gol asked Skywalker who did he think he was. Skywalker stated that he was a Jedi, and Gol stated that he was a fool, like all who followed that path. Skywalker then disarmed Gol of his lightsaber and stated that all paths lead in both directions. Though Gol was defeated, he stated that this place was built from pain, and to heal it, Skywalker would need to face his own pain. He then transformed into Darth Vader, and the dungeon transformed into the reactor shaft on Cloud City.
-[
-101
-]
+After the beating was finished, Gol told Skywalker that no one could leave behind their pain, and that it was pain that defined him since his earliest days, looking to an infant crying in a crib in the cell next to Skywalker's.
+Skywalker once again offered to help, asking if Gol wanted the pain to stop.
+Gol replied that pain never stops as it is people's history, he pointed out that Skywalker's hand was severed and would always be severed, causing his cybernetic hand to spontaneously disappear.
+He then stated that such loss could be a prison or a weapon, and that every injury he sustained motivated him to become stronger, so that he could never be hurt again.
+At this point, he asked for Skywalker's name, when Skywalker replied, Gol made the same offer to Skywalker as when they first met: to combine Skywalker's pain with his, creating a better version of the vision.
+He stated that all Skywalker needed to see things his way was more pain.
+After Gol left, Skywalker destroyed his prison door with the Force.
+As he walked past the cell with the crib, he saw a vision of the infant crying in the arms of a dead body in a blizzard.
+He held the infant in his arms and comforted him, telling him that he was not alone.
+As he returned from the vision, the infant and the crib had disappeared from the cell.
+Realizing that the infant was a past version of Gol, Skywalker closed his eyes and began walking through the dungeon.
+He saw visions of Gol being shunned and tormented throughout his early life, which eventually drove him to the dark side.
+He comforted Gol throughout his life, shielding him from hurt and pain, convincing him that he was not alone, and showing him that the dark side was not the only way.
+Eventually, the adult Gol reappeared and attacked Skywalker with lightsaber drawn, demanding Skywalker to stop making him weak.
+Skywalker stated that being healed does not make him weak and ignited his lightsaber, but was surprised to see that its blade had turned from yellow to green.
+As the two duelled, Gol asked Skywalker who did he think he was.
+Skywalker stated that he was a Jedi, and Gol stated that he was a fool, like all who followed that path.
+Skywalker then disarmed Gol of his lightsaber and stated that all paths lead in both directions.
+Though Gol was defeated, he stated that this place was built from pain, and to heal it, Skywalker would need to face his own pain.
+He then transformed into Darth Vader, and the dungeon transformed into the reactor shaft on Cloud City.
 Instead of fighting Vader, Skywalker flipped over him and ran deeper into Cloud City. As he ran, the
 viewscreens
 on the wall displayed all the pain and loss he had suffered: the deaths of Owen and Beru Lars, the death of Obi-Wan Kenobi, the loss of friends like Biggs Darklighter and Han Solo, being attacked by a Wampa on Hoth, and the death of his birth mother, Padmé Amidala. At this point, Vader appeared before him, saying there was no escape.
-[
-101
-]
 Skywalker purifies the kyber crystal.
-Skywalker agreed that there was no escape, and that they were destined to face each other once again. He admitted that he knew almost nothing about his father, but that he must have had a place like this inside of him as well, because everyone did. He stated that his father did not begin as Darth Vader, and that he was once someone else, causing Vader to morph into a shining silhouette of Anakin Skywalker as a Jedi. Luke stated that no one is beyond help and touched Anakin's chest. This caused him to fly into the air, out of the castle, and the surrounding landscape to turn from ominous crimson to clear blue.
-[
-101
-]
+Skywalker agreed that there was no escape, and that they were destined to face each other once again.
+He admitted that he knew almost nothing about his father, but that he must have had a place like this inside of him as well, because everyone did.
+He stated that his father did not begin as Darth Vader, and that he was once someone else, causing Vader to morph into a shining silhouette of Anakin Skywalker as a Jedi.
+Luke stated that no one is beyond help and touched Anakin's chest.
+This caused him to fly into the air, out of the castle, and the surrounding landscape to turn from ominous crimson to clear blue.
 As Skywalker awoke from his vision, Gol's crystal was successfully healed, turning pure white. He then gave the crystal to Feez, saying he no longer needed it. When Gretta asked Skywalker what he learned about the Sith, Skywalker stated that the Sith he saw were from a long time ago and different from the ones today. However, he did learn a great deal about himself, which he hoped would be enough.
-[
-101
-]
 Trials and tribulations
 [
 ]
@@ -4847,18 +4067,12 @@ impossible
 .
 "
 ―Luke Skywalker, during the trial of Lando Calrissian
-[
-192
-]
 After being arrested for selling Rebel secrets, Lando Calrissian called in the help of
 lawyer
 Salli Georgio
 for his trial on
 Home One
 , and Luke Skywalker sat in the chamber during the trial, viewing witness questioning and testimonies. At one point during the trial, Georgio implied that Lando, in committing his crimes, may have been under the influence of a Jedi mind trick, as he was a known associate to Skywalker, a Jedi. Skywalker stood up and denied the possibility of this happening, citing his education on the Force and its inner workings.
-[
-192
-]
 Luke Skywalker was present for the trial of Lando Calrissian aboard
 Home One
 .
@@ -4867,32 +4081,21 @@ Scarabi
 mercenaries on
 Uveron
 , and the chamber witnessed this to their shock.
-[
-192
-]
 In response to this, Rebel command issued
 Tactical Plan Eighteen
 , dividing the fleet, while Skywalker continued to watch the trial, which then called Leia to the stand. Leia explained her knowledge of Calrissian's character, including his preparing the trap for Luke at Cloud City.
-[
-193
-]
 Soon after, Skywalker attended a meeting in
 Home One'
 s amphitheater where he, along with Organa, Ackbar, and
 Crix Madine
-viewed a ransom hologram of Mon Mothma. Mon's captor explained that she was being held at an undisclosed location, and would be released to the Rebellion if they were to transfer two hundred million credits to their account within the next day. If they didn't, the captor said that the Empire surely would. Ackbar said that this amount would cripple the Rebellion, and Skywalker added that, conversely, Mothma being turned over to the Empire would also destroy the Rebellion due to ISB interrogation revealing all she knew. But it turned out that Calrissian recognized the voice of Mothma's captor as
+viewed a ransom hologram of Mon Mothma.
+Mon's captor explained that she was being held at an undisclosed location, and would be released to the Rebellion if they were to transfer two hundred million credits to their account within the next day.
+If they didn't, the captor said that the Empire surely would.
+Ackbar said that this amount would cripple the Rebellion, and Skywalker added that, conversely, Mothma being turned over to the Empire would also destroy the Rebellion due to ISB interrogation revealing all she knew.
+But it turned out that Calrissian recognized the voice of Mothma's captor as
 Hachi
 , a mercenary he once knew,
-[
-193
-]
 leading to his participation in a rescue mission, and eventually the clearing of his name, all of which Luke Skywalker witnessed.
-[
-194
-]
-[
-195
-]
 Closing loose ends
 [
 ]
@@ -4903,24 +4106,21 @@ can't predict the future. It's always shifting, changing.
 "
 ―Luke Skywalker comforting his sister on
 Home One
-[
-196
-]
 Luke Skywalker comforts a crying Leia Organa as she was overwhelmed with her Rebel duties.
 Later, still on
 Home One
-, Skywalker was called to Organa's chamber at the princess's request, after she'd had a nightmare about Alderaan once again. Organa was on the verge of giving up on everything except for rescuing Solo. Skywalker reassured her about her dedication to the cause, and Organa then explained her dreams, and how they express the guilt she still holds over Alderaan's destruction at the hands of Tarkin. Skywalker reminded her that she was in an impossible position and was not responsible, but Organa shifted the conversation to the next Death Star, blaming her dreams on that looming threat. Organa then broke into tears over the stress and turmoil of balancing it all, and Skywalker comforted her, relating to the feeling. Leia told Luke that he was one of the few people she could be a real person around, and thanked him. But then, Skywalker and Organa looked to the Rebel leader's comm unit as the voice of Evaan Verlaine came through: she had news about Alderaan and needed Leia in the hangar.
-[
-196
-]
+, Skywalker was called to Organa's chamber at the princess's request, after she'd had a nightmare about Alderaan once again.
+Organa was on the verge of giving up on everything except for rescuing Solo.
+Skywalker reassured her about her dedication to the cause, and Organa then explained her dreams, and how they express the guilt she still holds over Alderaan's destruction at the hands of Tarkin.
+Skywalker reminded her that she was in an impossible position and was not responsible, but Organa shifted the conversation to the next Death Star, blaming her dreams on that looming threat.
+Organa then broke into tears over the stress and turmoil of balancing it all, and Skywalker comforted her, relating to the feeling.
+Leia told Luke that he was one of the few people she could be a real person around, and thanked him.
+But then, Skywalker and Organa looked to the Rebel leader's comm unit as the voice of Evaan Verlaine came through: she had news about Alderaan and needed Leia in the hangar.
 The two met the pilot in the ship's hangar, and Verlaine remarked that she hoped to fly with Skywalker again soon, with which he agreed. Evaan then told the two that the Alderaanian
 survivor fleet
 , a flotilla of refugees from Alderaan, had missed their last three check-ins. She was asking for permission to go investigate, which Organa approved– until Skywalker insisted that she herself go. Organa refused, but was eventually convinced that it was a military matter as the flotilla was technically considered Alliance reserves. Skywalker agreed to go as well, and the three set off, Organa and Skywalker in a
 Taylander shuttle
 and Verlaine in her X-wing.
-[
-196
-]
 Luke Skywalker fights off the raiders on the
 Thranta
 to defend Leia Organa.
@@ -4930,31 +4130,35 @@ Thranta
 Thranta
 was dark, only lit by emergency lights, which Skywalker surmised was because the ship ran out of fuel and was abandoned. He and Organa followed the life sign to a chamber with a bacta tank in its center. Organa immediately recognized the woman as
 Jora Astane
-, a preserver of Alderaanian culture who was part of the flotilla. Skywalker, however, sensed that Astane was dead, making the presence of a life sign extra confusing. Luke then discovered that the machinery Astane was hooked up to was keeping her blood pumping enough for her neural activity to register on life sign scans, something Leia realized made her bait. Just then, Organa's comms buzzed again with the voice of Verlaine announcing that raiders had dropped out of hyperspace and were firing on her and the
+, a preserver of Alderaanian culture who was part of the flotilla.
+Skywalker, however, sensed that Astane was dead, making the presence of a life sign extra confusing.
+Luke then discovered that the machinery Astane was hooked up to was keeping her blood pumping enough for her neural activity to register on life sign scans, something Leia realized made her bait.
+Just then, Organa's comms buzzed again with the voice of Verlaine announcing that raiders had dropped out of hyperspace and were firing on her and the
 Thranta
-. Skywalker and Organa ran to their shuttle, but the smaller, docked ship was fired upon by the raiders, destroying their only escape route. This blasted Organa into a wall, leading to Skywalker having to fight off the now boarding raiders with his lightsaber. Using both his blade and the Force , Luke fought off the raiders and blocked their entrance, using the bought time to carry Leia to an escape pod. He then placed her inside and launched the pod from a panel on the wall, saving Organa's life as the
+.
+Skywalker and Organa ran to their shuttle, but the smaller, docked ship was fired upon by the raiders, destroying their only escape route.
+This blasted Organa into a wall, leading to Skywalker having to fight off the now boarding raiders with his lightsaber.
+Using both his blade and the Force , Luke fought off the raiders and blocked their entrance, using the bought time to carry Leia to an escape pod.
+He then placed her inside and launched the pod from a panel on the wall, saving Organa's life as the
 Thranta
 completely detonated. Organa watched on in horror, as Skywalker escaped in another pod unbeknownst to Leia,
-[
-197
-]
 who'd been captured by the raiders– led by the long-thought-dead and now-cyborg Ellian Zahra.
-[
-196
-]
 Luke Skywalker duels Ellian Zahra.
 On her
 Raider-class corvette
-, Zahra commanded her crew to use a grappling claw to grab Skywalker's escape pod, bringing him just close enough to their ship's hangar to be visible, but not bringing him onboard. Zahra had planned to kill Skywalker in front of Organa, but the Jedi ignited his lightsaber inside the pod, slashing it from multiple angles, and exposing him to the vacuum of space. But using his Force-abilites, Skywalker pulled himself inside the hangar. There, he faced the masses of Zahra's crew, deflecting blaster bolts and causing chaos to buy time for reinforcements to arrive with Verlaine. Furious, Zahra wanted to kill Skywalker herself and drew her blade to do so before getting slammed in the back by Organa. Zahra stabbed Organa in the shoulder in response, and her droid informed her that the ship was too damaged to escape– causing her crew to run and abandon ship in their individual vessels, leaving Luke without an opponent. In a rage, Zahra lunged at Skywalker, but the Jedi easily dodged or blocked her strikes, eventually slicing her blade in half, just as
+, Zahra commanded her crew to use a grappling claw to grab Skywalker's escape pod, bringing him just close enough to their ship's hangar to be visible, but not bringing him onboard.
+Zahra had planned to kill Skywalker in front of Organa, but the Jedi ignited his lightsaber inside the pod, slashing it from multiple angles, and exposing him to the vacuum of space.
+But using his Force-abilites, Skywalker pulled himself inside the hangar.
+There, he faced the masses of Zahra's crew, deflecting blaster bolts and causing chaos to buy time for reinforcements to arrive with Verlaine.
+Furious, Zahra wanted to kill Skywalker herself and drew her blade to do so before getting slammed in the back by Organa.
+Zahra stabbed Organa in the shoulder in response, and her droid informed her that the ship was too damaged to escape– causing her crew to run and abandon ship in their individual vessels, leaving Luke without an opponent.
+In a rage, Zahra lunged at Skywalker, but the Jedi easily dodged or blocked her strikes, eventually slicing her blade in half, just as
 Home One
 and a squad of X-wings arrived outside. Zahra called Skywalker "scum", and ran to her
 Cumulus-class fighter
 to escape. Skywalker checked on Organa, and told her that he let Zahra go in case she learned from this.
 Home One
 contacted Organa asking if they had her authorization to fire on Zahra. Organa said not unless she fired at them, and Zahra subsequently turned around, aiming her vessel at Skywalker and Organa. The princess then gave the order to fire, killing Zahra, as Skywalker told her that Zahra chose her own fate.
-[
-197
-]
 Zastiga
 [
 ]
@@ -4962,13 +4166,7 @@ Zastiga
 Weapons and war don't make you a Jedi. I know that now.
 "
 ―Luke Skywalker
-[
-198
-]
 After the command of Red Squadron was transferred to Antilles following his promotion to squadron leader, which pleased Skywalker,
-[
-141
-]
 he declined to rejoin the squadron and chose to be stationed onboard the
 Redemption
 . When he went to
@@ -4984,9 +4182,6 @@ Sullustan
 a drink. He would later return to escort Organa to her quarters before going to his, and two days later, he saw her off, before catching his own shuttle back to the
 Redemption
 .
-[
-198
-]
 Soon afterwards, he would go to
 Kothlis
 , where he would learn of Solo's location—still frozen in carbonite and kept in Jabba the Hutt's palace—, and where he would keep himself up-to-date with the status of the Alliance Fleet's assembly. He had already devised a plan to rescue Solo when Organa contacted him following the successful
@@ -4994,9 +4189,6 @@ Operation Yellow Moon
 , and showed eagerness to join him on his attempts to
 rescue
 the Corellian smuggler.
-[
-198
-]
 Imperial Refining Platform M36
 [
 ]
@@ -5012,9 +4204,6 @@ lightsaber
 up close like that.
 "
 ―a Pau'an Rebel Major about Luke Skywalker
-[
-199
-]
 Luke Skywalker during the raid at Imperial Refining Platform M36.
 Sometime before the rescue of Solo, Skywalker took part in a
 raid
@@ -5025,17 +4214,11 @@ his new lightsaber
 , along with his Force abilities, to clear a path for Rebel forces to acquire copious Imperial fuel stores. His Rebel companions became awed at his use, although one of them, the
 major
 in charge of the operation, held reservations about its power as he had only previously seen such power being wielded by the Sith. Unknown to Skywalker, the Emperor had begun to probe his mental defenses from afar, which caused Skywalker to briefly open his saber in alarm.
-[
-199
-]
-As Skywalker and the strike team flew away from the platform, they were ambushed by an Imperial Star Destroyer, which launched several TIE Fighters in pursuit. As the battle began to rage, Skywalker's mind was penetrated by a vision from the Emperor. The vision saw Luke follow a possible series of events wherein he would begrudgingly leave the Rebel strike team to its fate and crash-land on an unknown planet, losing his X-wing in the process. As he journeyed from the wreckage together with R2-D2, Luke would leave his lightsaber and helmet on the ground, symbolizing his complete retreat from the concerns of the war.
-[
-199
-]
+As Skywalker and the strike team flew away from the platform, they were ambushed by an Imperial Star Destroyer, which launched several TIE Fighters in pursuit.
+As the battle began to rage, Skywalker's mind was penetrated by a vision from the Emperor.
+The vision saw Luke follow a possible series of events wherein he would begrudgingly leave the Rebel strike team to its fate and crash-land on an unknown planet, losing his X-wing in the process.
+As he journeyed from the wreckage together with R2-D2, Luke would leave his lightsaber and helmet on the ground, symbolizing his complete retreat from the concerns of the war.
 Having later broken free of the Emperor's vision, Skywalker proceeded to aid the Rebels in escaping the Imperial ambush, using his lightsaber to prevent the major's shuttle from leaving, giving him time to pilot the shuttle and draw the Imperials away from the rest of the Rebels.
-[
-199
-]
 The last of the Jedi
 [
 ]
@@ -5052,37 +4235,19 @@ Link
 (
 file info
 )
-[
-12
-]
 In
 4 ABY
 ,
-[
-41
-]
 Skywalker set in motion the plan to rescue Solo from Jabba the Hutt
-[
-12
-]
 due to their failure to do so during the
 Attack on the
 Executor
 .
-[
-163
-]
 Once again, Skywalker returned to Tatooine, and to Kenobi's hut, wherein he found the missing parts he needed for the construction of his own lightsaber, the pieces left to him by Kenobi. While his friends bustled about preparing for the rescue, Skywalker retreated into the solitude of a desert cave they had chosen as their rendezvous point. Using the Force to assemble the weapon, he brought the kyber crystal inside to life, making the weapon his own, almost an extension of himself.
-[
-141
-]
 Skywalker returned to Tatooine in order to rescue Solo from Jabba the Hutt, but ended up facing his rancor, Pateesa.
 Afterward, Skywalker waited to see if Organa's impersonation of
 Boushh
 and liberation of Solo was successful without his intervention, but she was only half-successful. She then sent a message to Skywalker and Calrissian that she had been captured as well, prompting Skywalker to act and go to Jabba's Palace.
-[
-141
-]
 Skillful use of the Force allowed Skywalker to get past Jabba's
 Gamorrean
 guards and use a Jedi mind trick to get his
@@ -5099,9 +4264,6 @@ Great Pit of Carkoon
 to be eaten by the
 sarlacc
 that resided there.
-[
-12
-]
 Jabba's dancers, including
 Rystáll Sant
 and
@@ -5114,9 +4276,6 @@ Oola
 , another dancer who had been fed to the creature, though dancer
 Greeata Jendowanian
 acknowledged that was not true.
-[
-200
-]
 Skywalker was taken on a
 skiff
 to the pit, where Jabba watched on from his
@@ -5130,30 +4289,15 @@ skiff
 . A skirmish ensued in which Skywalker protected his friends, including facing and fending off Boba Fett, jumping over and onto the
 Khetanna
 , ending the life of several of Jabba's thugs
-[
-12
-]
 —including
 Klaatu
-[
-141
-]
 and
 Nysad
 , who shot his cyborg hand during the skirmish— and helping Organa, who had killed the Hutt by strangling him, escape the
 Khetanna
 by swinging together on a rope back over to the skiff. After destroying the sail barge by pointing one of its guns at its deck and activating it before they left it, he and his friends left on the skiff once he made sure they brought C-3PO and R2-D2 back with them.
-[
-12
-]
 Skywalker and his entire team then escaped unscathed through a dangerous sandstorm,
-[
-141
-]
 after which he boarded his X-wing with R2-D2 and parted ways with the others.
-[
-12
-]
 Keeping the promise
 [
 ]
@@ -5161,59 +4305,20 @@ Keeping the promise
 Luke… when gone am I, the last of the Jedi, will you be. Luke… the Force runs strong in your family. Pass on what you have learned. Luke… There… is… another… Sk-… Sky… walker…
 "
 ―Yoda's last words, to Luke Skywalker
-[
-12
-]
 Keeping the promise, Skywalker returns to Dagobah, where he joins Yoda as he becomes one with the Force.
 Skywalker then returned to Dagobah to complete his training and keep the promise he had made to Yoda,
-[
-12
-]
 but the aged Jedi Master, whose long life was supported by the Force, had fallen ill and was finally starting to succumb to age. Yoda explained this to Skywalker and assured him that it was the way of the Force, with no way to prevent it. Yoda told Skywalker that he would already completed all the training he required, but in order to finally become a true Jedi, he needed to confront Darth Vader one more time.
-[
-141
-]
-[
-12
-]
 As his final moments creeped up on him, Yoda reflected on Skywalker being too old for what he was learning, too serious, too tall to fit in the hut, truly good, and that he was able to see Anakin's eyes in Luke's.
-[
-201
-]
 Skywalker inquired if Vader was truly his father.
-[
-12
-]
 Having grown less and less sure since the revelation, Skywalker feared that it was the truth.
-[
-141
-]
 Skywalker received such confirmation from Yoda,
-[
-12
-]
 which angered him that they had lied to him for so long but Yoda confessed that he knew that Skywalker had not been ready to shoulder the burden of being the child of the Dark Lord of the Sith.
-[
-141
-]
 When Yoda suggested that Skywalker should not have rushed to face Vader, Skywalker expressed his regret that he did not listen to him the first time. Yoda then reached out to Skywalker in the Force and felt his fear and awe.
-[
-201
-]
 The dying Jedi then warned him not to underestimate the Emperor's
 powers
 or allow the dark side to take hold of him, and that as "the last of the Jedi" he had to pass on what he had learned.
-[
-12
-]
 Wishing to give Skywalker a chance to find connection and family in someone other than Vader,
-[
-201
-]
 Yoda made one final revelation to Skywalker before he became one with the Force—that there was "another Skywalker."
-[
-12
-]
 Reunion with Kenobi
 [
 ]
@@ -5221,22 +4326,13 @@ Reunion with Kenobi
 Your father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I told you was true, from a certain point of view.
 "
 ―Obi-Wan Kenobi to Luke Skywalker
-[
-12
-]
 Skywalker received confirmation from Kenobi that Darth Vader was indeed his father.
 Sensing his turmoil,
-[
-141
-]
-the spirit of Kenobi appeared before Skywalker, who confronted him for lying about his father. Claiming that the good man that Anakin Skywalker had been had died upon his fall to the dark side, Kenobi stated that he did not directly lie to him about his father; he was simply telling him what happened "from a certain point of view." Skywalker voiced his belief that there was still good within his father, and that he could not bring himself to kill him, but Kenobi insisted that he needed to face him again in order to restore balance to the Force. Skywalker then asked about the "other Skywalker," who Kenobi told him was his long-lost twin sister, who had been separated from him at birth to protect them from the wrath of the Empire. Skywalker instantly came to the realization that this sister was Organa, which was confirmed by Kenobi.
-[
-12
-]
+the spirit of Kenobi appeared before Skywalker, who confronted him for lying about his father.
+Claiming that the good man that Anakin Skywalker had been had died upon his fall to the dark side, Kenobi stated that he did not directly lie to him about his father; he was simply telling him what happened "from a certain point of view." Skywalker voiced his belief that there was still good within his father, and that he could not bring himself to kill him, but Kenobi insisted that he needed to face him again in order to restore balance to the Force.
+Skywalker then asked about the "other Skywalker," who Kenobi told him was his long-lost twin sister, who had been separated from him at birth to protect them from the wrath of the Empire.
+Skywalker instantly came to the realization that this sister was Organa, which was confirmed by Kenobi.
 Skywalker almost immediately inquired about their mother's identity and fate, but Kenobi asked him to let that truth stay with him for a while longer, as he knew Skywalker carried too many burdens already.
-[
-141
-]
 Adventure on the moon
 [
 ]
@@ -5247,9 +4343,6 @@ General, count me in.
 I'm with you too!
 "
 ―Leia Organa and Luke Skywalker agreeing to join the team
-[
-12
-]
 Skywalker left his allies on Endor, believing he endangered the mission.
 Skywalker nevertheless accompanied his friends on the mission to the forested
 moon
@@ -5275,9 +4368,6 @@ Imperial scout troopers
 that were guarding the shield bunker, and Skywalker and Organa pursued them on
 speeder bikes
 . Though they successfully stopped the scouts, Organa became separated from Skywalker.
-[
-12
-]
 Upon learning of her disappearance, Solo, Skywalker, Chewbacca, and the droids went looking for her, only to be captured by a tribe of
 Ewoks
 . Using the Force to prove C-3PO's
@@ -5287,45 +4377,18 @@ magic
 ," Skywalker convinced the Ewoks to release them and, after C-3PO's tale of their adventures, the whole group was accepted as a part of the
 village
 .
-[
-12
-]
 However, Skywalker felt as Vader reached out to him through the Force and landed on the moon,
-[
-141
-]
 and knew that he had to confront Vader. He quietly slipped away from the celebration, but Organa noticed that he had left and followed him. He informed her of what he was planning to do and also told her that, in the event that he did not make it back, she would the last hope of the Alliance, going on to tell her that she was his sister, and she could use the Force too.
-[
-12
-]
 Organa was initially shocked that she and Skywalker were actually brother and sister, but admitted to him that, somehow, she would always known, and attempted to dissuade him from confronting their father, but Skywalker was adamant that he could redeem Vader, and set off.
-[
-12
-]
 Eventually encountering an Imperial patrol and willingly surrendering himself
-[
-12
-]
 to Commander
 Igar
 ,
-[
-202
-]
 Skywalker was brought to Vader and tried to convince his father to renounce the dark side by referring to him as "Anakin Skywalker," but Vader harshly denounced his former name.
-[
-12
-]
 Although he managed to make Vader question the dark truths that had long ruled him,
-[
-141
-]
 Skywalker ultimately became a prisoner of the Emperor as he was escorted to his
 throne room
 onboard the Death Star.
-[
-12
-]
 The final duel
 [
 ]
@@ -5335,51 +4398,33 @@ destroyed
 ! Young fool. Only now, at the end, do you understand. Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision! Now, young Skywalker…you will die.
 "
 ―Darth Sidious to Luke Skywalker
-[
-12
-]
 Palpatine retained a consistent belief that Skywalker would become his new apprentice and replace Vader, even making the claim to a spectre of Yoda that appeared before him.
-[
-201
-]
 As Skywalker was brought before the Emperor, the Dark Lord of the Sith repeatedly told the young Jedi that he would fall to the dark side just as easily as Vader had, and let him know that he had purposely allowed the Alliance to discover the second Death Star's location in order to lure them into a trap and finish them off once and for all.
-[
-12
-]
 Skywalker confronted Vader on the second Death Star, believing he could redeem his father in spite of the Emperor's control over him.
 In order to temper Skywalker's negative emotions, Sidious forced him to watch as the
 Imperial Fleet
 engaged
-the Rebels. He constantly encouraged Skywalker to give into his anger and hatred. Though Skywalker was resistant at first, his feelings of hopelessness and desperation only grew as the destruction of the Rebel fleet and the death of his friends appeared imminent. Attempting to strike down the Emperor, Skywalker found himself once again facing his father in a duel. Unlike their previous encounter on Bespin (where Vader was largely able to dominate the proceedings, throughout), this time the pair would fight as equals.
-[
-12
-]
+the Rebels.
+He constantly encouraged Skywalker to give into his anger and hatred.
+Though Skywalker was resistant at first, his feelings of hopelessness and desperation only grew as the destruction of the Rebel fleet and the death of his friends appeared imminent.
+Attempting to strike down the Emperor, Skywalker found himself once again facing his father in a duel.
+Unlike their previous encounter on Bespin (where Vader was largely able to dominate the proceedings, throughout), this time the pair would fight as equals.
 Skywalker attempted to reason with Vader in an attempt to redeem him to the light side of the Force.
 After successfully parrying a flurry of blows, Skywalker sent Vader tumbling down a stairwell before regaining his composure and appealing to the good in his father. Vader would have none of it and attacked once again, though eventually Skywalker withdrew from combat altogether and refused to fight Vader any further, retreating into the shadows of the throne room.
-[
-12
-]
 In order to goad his son back into fighting him, Vader used
 telepathy
-to probe his thoughts, learning of the existence of his daughter and Skywalker's twin sister, stating that perhaps she could be seduced to the dark side if Skywalker could not. This statement pushed Skywalker over the edge and caused him to finally give into his rage. Attacking his father much more aggressively this time, he unleashed his full might upon the Sith Lord. Eventually pushing Vader into a corner, right next to the Death Star's reactor shaft, Skywalker repeatedly struck him with multiple heavy blows, and with one final, devastating strike of his lightsaber, sliced Vader's hand off at the wrist, sending it—and the weapon it still gripped—cascading down into the depths below.
-[
-12
-]
+to probe his thoughts, learning of the existence of his daughter and Skywalker's twin sister, stating that perhaps she could be seduced to the dark side if Skywalker could not.
+This statement pushed Skywalker over the edge and caused him to finally give into his rage.
+Attacking his father much more aggressively this time, he unleashed his full might upon the Sith Lord.
+Eventually pushing Vader into a corner, right next to the Death Star's reactor shaft, Skywalker repeatedly struck him with multiple heavy blows, and with one final, devastating strike of his lightsaber, sliced Vader's hand off at the wrist, sending it—and the weapon it still gripped—cascading down into the depths below.
 Skywalker was tortured by Darth Sidious for his defiant nature and his refusal to turn to the dark side of the Force
-A cackling Sidious, delighted that Skywalker had not only given into his hatred, but made use of it to such an extent, encouraged him to deliver the killing blow to his father and take his place as his apprentice. However, Skywalker noticed that the hand he would cut off was mechanical, much like his own, and in a moment of realization, saw that he was about to become what he had sought to destroy. Skywalker tossed his lightsaber aside and defiantly declared to the Emperor that he had failed, and that he was a Jedi like his father before him.
-[
-12
-]
+A cackling Sidious, delighted that Skywalker had not only given into his hatred, but made use of it to such an extent, encouraged him to deliver the killing blow to his father and take his place as his apprentice.
+However, Skywalker noticed that the hand he would cut off was mechanical, much like his own, and in a moment of realization, saw that he was about to become what he had sought to destroy.
+Skywalker tossed his lightsaber aside and defiantly declared to the Emperor that he had failed, and that he was a Jedi like his father before him.
 Infuriated that his plan to corrupt Luke had gone up in smoke, Sidious declared that, if Skywalker would not be turned, he would be destroyed, and unleashed a barrage of
 Force lightning
 against him. Unprepared for the lightning, Skywalker desperately tried to protect himself, to no avail. During the Sith master assault on the Jedi Knight, Vader had gotten back to his feet and returned to his master's side, and Luke begged his father to save him.
-[
-12
-]
 Eventually, seeing his son in such terrible pain became too great for Vader to bear any longer, and in that moment, the Sith Lord Darth Vader was gone, and the Jedi Knight Anakin Skywalker was reborn. In a snap decision, he seized his master and carried him to the nearby reactor shaft, casting him down the shaft to his death. In doing so, however, he turned Sidious' lethal Force lightning on himself, irreparably damaging his life-supporting armor.
-[
-12
-]
 Anakin's redemption
 [
 ]
@@ -5399,55 +4444,32 @@ Link
 (
 file info
 )
-[
-12
-]
 Vader found redemption through his son and fulfilled the prophecy of the Chosen One before ultimately dying as Anakin Skywalker.
 Luke carried Anakin to Imperial shuttle
 ST 321
 ,
-[
-141
-]
-where his father asked him to remove his breathing mask. Though Luke was hesitant to do so, convinced that his father would die without it, Anakin told him that nothing could prevent his death now, but before he died, he wanted to look upon his son with his own eyes. Luke relented and removed the mask, gazing upon his father's real face for the first and only time. Anakin then encouraged Luke to leave him and save himself. Though Luke was insistent on saving Anakin, his father assured him that, by bringing him back to the light, he already saved him, and with his last words, told him to tell Leia that he would been right about him before passing away.
-[
-12
-]
+where his father asked him to remove his breathing mask.
+Though Luke was hesitant to do so, convinced that his father would die without it, Anakin told him that nothing could prevent his death now, but before he died, he wanted to look upon his son with his own eyes.
+Luke relented and removed the mask, gazing upon his father's real face for the first and only time.
+Anakin then encouraged Luke to leave him and save himself.
+Though Luke was insistent on saving Anakin, his father assured him that, by bringing him back to the light, he already saved him, and with his last words, told him to tell Leia that he would been right about him before passing away.
 At the cost of his own life and with the help of his son, Anakin Skywalker had finally fulfilled his destiny as the Chosen One and had brought balance to the Force.
-[
-203
-]
 Similarly, by helping his father to return to the light side of the Force by offering him unconditional love and refusing to fight, destroy, or let his anger eclipse the goodness in his
 heart
 , Luke Skywalker had achieved what Anakin and the whole Jedi Order failed to achieve upon being twisted by the Clone Wars: to forgive a monster and reveal a man.
-[
-204
-]
 Skywalker celebrated the Rebel Alliance's victory over the Galactic Empire with his family and friends.
 Skywalker took his father's body on board the shuttle and escaped just before the Death Star's destruction,
-[
-12
-]
 when he was almost intercepted by
 Green Squadron
 '
 s Shara Bey, who proceeded to cover him from
 TIE interceptors
 after he identified himself.
-[
-205
-]
 Back on Endor, Skywalker
 cremated his father's armor
 (his body had vanished) in the manner of a
 Jedi's funeral
 , and then joined his friends and sister in the celebration. It was during this moment of celebration that Skywalker saw the onlooking Force spirits of Kenobi, Yoda, and his father, looking at him in approval and with a sense of peace.
-[
-141
-]
-[
-12
-]
 Aftermath of Endor
 [
 ]
@@ -5459,14 +4481,8 @@ When I saw Leia for the first time, she spoke of hope
 And that is what she has always embodied for me.
 "
 ―Luke Skywalker officiating Leia and Han's wedding.
-[
-206
-]
 Luke and the Rebels on Endor after the battle.
 Following the Battle of Endor, In the battle's aftermath, Skywalker reported to the Rebel Alliance that the Emperor and Darth Vader were dead. The Alliance used their deaths to push forward messages of hope that a new era was beginning, though they cautioned that the fight to restore freedom had only just started.
-[
-207
-]
 Skywalker and Organa also helped the Ewoks
 Kneesaa
 and
@@ -5474,9 +4490,6 @@ Wicket W. Warrick
 reset their traps to stop a
 Gorax
 . Sensing that Ewoks and Organa needed time to complete the task, Skywalker used his lightsaber to slice through a log that the Gorax had thrown at him before he threw his lightsaber to Organa to use to cut a log.
-[
-208
-]
 At some point, catching up with Leia as she walked, Skywalker expressed the desire to train her after sensing her feelings while she visited Anakin's funeral pyre. He told her that her anger shouldn't guide her, and wanted to teach her the ways of the Force, but she wasn't willing to do so. Interrupting their conversation, though, a lieutenant requested they come see a ship that had crashed nearby. The pilot,
 Rynn Zenat
 , was demanding to see them with news of the situation in the
@@ -5487,38 +4500,23 @@ Ubrik Adelhard
 's crackdown and
 isolation of the sector
 .
-[
-16
-]
 Skywalker officiated the wedding between Leia Organa and Han Solo on Endor.
 Around the same time, Skywalker officiated the
 wedding
 between his sister and Solo, speaking about their history together and those they've lost on the way to that moment.
-[
-206
-]
 In the days ahead, the Rebel Alliance began the formation of the
 New Republic
 , a successor state to the Galactic Republic. The Empire, meanwhile, reeled from its defeat and its leadership was in chaos, and the Imperial government claimed that the reports of the Emperor's demise were treasonous propaganda.
-[
-209
-]
 During this time,
 Operation: Cinder
 and the Emperor's
 Contingency
 began, causing chaos across the galaxy.
-[
-210
-]
 On Endor, Rynn Zenat was preparing for the
 mission to the Anoat sector
 , and wished Skywalker could help– but he declined as he was feeling something was calling him on
 Pillio
 . In a long goodbye to Zenat, Skywalker gave her hope and encouraged her to not resign herself to darkness. To keep fighting, for all that they've done so far. Zenat thanked Skywalker and remarked that he was a good teacher, and he reminisced about when the cause was simpler for him. Zenat told him to follow what was calling him, and this echoed in Luke's mind, bringing a pang of sadness, but also a haunting answer.
-[
-210
-]
 Call to Pillio
 [
 ]
@@ -5526,15 +4524,15 @@ Call to Pillio
 If the Empire is here, then what I sensed is true. There must be something special about this place.
 "
 ―Luke Skywalker to R2-D2
-[
-211
-]
 Skywalker and R2-D2 searched out Jedi lore together.
 Skywalker then followed his calling to Pillio in the
 Jinata system
 , and, along with R2, took his X-wing and set course for the remote aquatic planet. When they
 arrived
-, the two came across an Imperial Shuttle making its descent, confirming Skywalker's suspicions that the planet held something of importance. He left his faithful Astromech Droid with his ship, and it was not long before the young Jedi encountered Stormtroopers on guard, who attacked him on sight. Skywalker made his way through several dozens of troopers and officers, remarking that the Empire must have been searching the planet. Sensing something unnatural from within a nearby cave, the Jedi found that native wildlife,
+, the two came across an Imperial Shuttle making its descent, confirming Skywalker's suspicions that the planet held something of importance.
+He left his faithful Astromech Droid with his ship, and it was not long before the young Jedi encountered Stormtroopers on guard, who attacked him on sight.
+Skywalker made his way through several dozens of troopers and officers, remarking that the Empire must have been searching the planet.
+Sensing something unnatural from within a nearby cave, the Jedi found that native wildlife,
 Scritters
 , were attacking the invading imperials. Hearing cries for help, Skywalker made his way further into the depths of the planet to find
 Del Meeko
@@ -5543,33 +4541,25 @@ Imperial Special Forces
 Unit
 Inferno Squad
 , with his arm stuck in the amber of the Scritters. Despite their different allegiances, Skywalker used his lightsaber to cut through the amber and free the soldier. When Meeko asked why the Jedi helped him, Skywalker simply responded, 'Because you asked'.
-[
-211
-]
 Skywalker encountered Del Meeko during his search for the Emperor's Observatory on Pillio.
-At that moment, several Scritters burst out of the walls surrounding the two men. Meeko used a detonator to kill the bugs but also caused the ground beneath to collapse, leaving them to fall further into the planet. They landed in a small shallow stream of water, and Skywalker used the Force to protect Meeko from falling rocks. After being helped to his feet, Meeko remarked that stories of the Jedi always scared him as a young boy. Skywalker responded that if they want to get out, they'll need to work together. Making their way through the caves, Luke shared that the Force has brought them to together and apologizes for killing the rest of his men; he was reluctant to do so, but they left him no choice, while Meeko did. As the two made their way out of the cave, Del revealed that the Emperor had an observatory on the planet and that Meeko was tasked with destroying it. Skywalker and Meeko eventually escaped the cave and gained access to the observatory by destroying its defense system.
-[
-211
-]
+At that moment, several Scritters burst out of the walls surrounding the two men.
+Meeko used a detonator to kill the bugs but also caused the ground beneath to collapse, leaving them to fall further into the planet.
+They landed in a small shallow stream of water, and Skywalker used the Force to protect Meeko from falling rocks.
+After being helped to his feet, Meeko remarked that stories of the Jedi always scared him as a young boy.
+Skywalker responded that if they want to get out, they'll need to work together.
+Making their way through the caves, Luke shared that the Force has brought them to together and apologizes for killing the rest of his men; he was reluctant to do so, but they left him no choice, while Meeko did.
+As the two made their way out of the cave, Del revealed that the Emperor had an observatory on the planet and that Meeko was tasked with destroying it.
+Skywalker and Meeko eventually escaped the cave and gained access to the observatory by destroying its defense system.
 Skywalker discovered that the key to opening the vault door is to use the Force, prompting Meeko to wonder why the observatory could only be opened by the Force and if the man who hunted down the Jedi was secretly one of them. Luke suggested that Del had learned to fear the wrong thing. The two investigated the vault, apparently full of junk, and Skywalker took a
 compass
 . When Meeko asked why he should be allowed to keep it, Skywalker responded, 'Because I asked'. As the two left, Skywalker remarked that the Empire had done enough damage to innocent worlds and that Meeko could choose not between the Empire or the Rebellion, but to be a better person. He wished the Force with Meeko before leaving.
-[
-211
-]
 Skywalker encountered the Acolytes of the Beyond during his time on Pillio.
 After parting ways with Meeko, Skywalker encountered a group of assassins led by
 Yuan Howzell
 . Howzell told him that she represented the
 Acolytes of the Beyond
 , a cult which worshipped the Sith. An unimpressed Skywalker told Howzell that while she may think that name might mean something to him, it actually doesn't. Seeking to claim the compass, the assassins attacked Skywalker. Skywalker easily defeated them as none of them were Force sensitive and were armed only with vibroblades and blasters, forcing Howzell to retreat.
-[
-210
-]
 At some point Skywalker was promoted to General.
-[
-212
-]
 Brotherly love
 [
 ]
@@ -5579,20 +4569,11 @@ Leia
 . We can't los hope.
 "
 ―Luke Skywalker comforting his sister
-[
-213
-]
 Skywalker briefly visited his sister on Chandrila at the very beginning of the New Republic.
 After the mission to Pillio, Skywalker went to
 Chandrila
 , the provisional home of the nascent New Republic. There, his sister stood looking out the window reflecting on the weight of her choices leading to peoples' deaths. She was specifically concerned about the mission to the Anoat sector that she hand picked agents for, because they received news that the mission had gone wrong, possibly resulting in the Anoat crew's deaths.
-[
-213
-]
 Skywalker reassured her that their jobs were never going to be easy, but Organa confessed that she'd felt like Endor was the end, while now it feels like they've had to start over to fight Adelhard and the rest of the shattered Empire. Organa called this "a new darkness", but her brother pushed back– Skywalker said that even in the darkest of times, if you look close enough, you can find the light. After this reassurance, Luke departed for the Anoat sector to do something about this himself.
-[
-213
-]
 Anoat sector rescue
 [
 ]
@@ -5607,9 +4588,6 @@ yourself
 .
 "
 ―Luke Skywalker and Reyna Oskure after the Jedi subdued the Anzati.
-[
-214
-]
 Luke Skywalker arrives onboard the
 Scepter
 .
@@ -5618,9 +4596,6 @@ alliance
 between Moff Adelhard's forces and the
 Spice Runners of Kijimi
 .
-[
-210
-]
 The New Republic agents'
 freighter
 Oggrud
@@ -5639,37 +4614,33 @@ lightsaber
 -wielding figure. That was, until Luke Skywalker boarded the
 Scepter
 and fought countless stormtroopers
-[
-213
-]
 to stand down Bragh and the figure.
-[
-214
-]
 A duel began between Skywalker and the cloaked figure, who taunted him about his Jedi heritage. But as sabers clashed, Skywalker's abilities in the Force and lightsaber technique proved to be too much for his opponent, knocking the lightsaber out of her hand and onto the ground. Luke stood in front of the kneeling being, but Commander Bragh charged at him, only to be shot in the back by
 Preeti
 , Rynn Zenat's girlfriend and former squadron-mate who was also captured onboard. Then, from the other end of the hallway, stormtroopers arrived and began firing at the New Republic agents. Meanwhile, Skywalker held his lightsaber in front of the figure, the two exchanging barbs until the woman removed her hood, revealing her identity as
 Reyna Oskure
 , Adelhard's counselor and blade. She told Luke that Adelhard was doing the unthinkable, and would create a new Empire to fill the vacuum left behind after Vader and Palpatine's deaths, and that Luke couldn't stop that, before being tied up.
-[
-214
-]
 Duel onboard the
 Scepter
 .
-Skywalker then told the freed crew to take the captive Oskure and Bragh to find a ship and escape, but Zenat protested, wanting Luke to come with. Oskure mocked Skywalker's nobility, and said Adelhard was waiting for him, as the group left for the docking bay. Skywalker, now alone, threw off his cape and set off intent on finding and stopping the mad Moff who had gone too far– Luke wanted the man to see consequences for his actions. Simultaneously, the crew that was escaping was cornered by stormtroopers and lost their captives, and the ship began to shake, being fired upon by a small New Republic fleet under Lando Calrissian's command. In the now-shaking Star Destroyer's control room, Luke came upon the scheming Adelhard, lightsaber ignited, surrounded by stormtroopers. Skywalker told the man that his reign was over, but Adelhard told him it was just beginning, as the stormtroopers fired. Expertly dodging and deflecting blaster bolts while taking out stormtroopers left and right, the Jedi advanced across a narrow bridge toward Adelhard, eventually using the Force to throw the remaining stormtroopers off of the bridge.
-[
-214
-]
+Skywalker then told the freed crew to take the captive Oskure and Bragh to find a ship and escape, but Zenat protested, wanting Luke to come with.
+Oskure mocked Skywalker's nobility, and said Adelhard was waiting for him, as the group left for the docking bay.
+Skywalker, now alone, threw off his cape and set off intent on finding and stopping the mad Moff who had gone too far– Luke wanted the man to see consequences for his actions.
+Simultaneously, the crew that was escaping was cornered by stormtroopers and lost their captives, and the ship began to shake, being fired upon by a small New Republic fleet under Lando Calrissian's command.
+In the now-shaking Star Destroyer's control room, Luke came upon the scheming Adelhard, lightsaber ignited, surrounded by stormtroopers.
+Skywalker told the man that his reign was over, but Adelhard told him it was just beginning, as the stormtroopers fired.
+Expertly dodging and deflecting blaster bolts while taking out stormtroopers left and right, the Jedi advanced across a narrow bridge toward Adelhard, eventually using the Force to throw the remaining stormtroopers off of the bridge.
 Skywalker confronts Moff Adelhard.
 The two men now stood alone as a comm transmission came through warning Adelhard about the Republic ships encroaching on the
 Scepter
-. As Skywalker was saying that Adelhard needed to stand trial for what he'd done, the entire ship rocked, knocking Luke off of his feet and onto the ground. Adelhard, still standing, then went to kick Skywalker in the head, but he blocked it with his forearm, and used the Force to draw his lightsaber back to him. As the Moff continued to kick Skywalker, he ignited his lightsaber and quickly slashed the bridge in two spots, causing the rogue Imperial to fall below with his fallen troopers. This allowed Luke to run to the docking bay and help his friends escape, lodging debris in front of a crowd of stormtroopers, allowing them all to board a freighter. With this ship, they blasted out of
+.
+As Skywalker was saying that Adelhard needed to stand trial for what he'd done, the entire ship rocked, knocking Luke off of his feet and onto the ground.
+Adelhard, still standing, then went to kick Skywalker in the head, but he blocked it with his forearm, and used the Force to draw his lightsaber back to him.
+As the Moff continued to kick Skywalker, he ignited his lightsaber and quickly slashed the bridge in two spots, causing the rogue Imperial to fall below with his fallen troopers.
+This allowed Luke to run to the docking bay and help his friends escape, lodging debris in front of a crowd of stormtroopers, allowing them all to board a freighter.
+With this ship, they blasted out of
 Scepter'
 s docking bay as Skywalker told the rest that the conflict with Adelhard is far from over, and that the man was intent on seizing something he felt he was promised: the Empire.
-[
-214
-]
 Training his sister
 [
 ]
@@ -5686,28 +4657,20 @@ What do you mean?
 Your footwork is terrible. Don't get me wrong, your lightsaber craft is coming along, but…you do other things. Naturally. What I mean is, you're exceptional. Just…different.
 "
 ―Skywalker and Organa during the latter's training
-[
-215
-]
 After the Battle of Endor, Skywalker's sister became his first apprentice.
 At some point after the Battle of Endor, Skywalker took on his first student and trained his twin sister in the ways of the Force. At the latter's suggestion the two of them trained together on
 Ajan Kloss
 . Under his tutelage, Organa constructed
 her lightsaber
-, and began to learn the principles of lightsaber combat. Skywalker also instructed in her in the basics of the Force, teaching her about light side, and in meditation. He was impressed by Organa's strength in the Force and how quickly she progressed in her training. While training her, he found it interesting that she struggled with skills and concepts that he had a natural affinity for (like lightsaber combat), but excelled in other areas (like meditation) that were harder for him to master. He would use various tools to help Organa develop her senses, such as a repurposed
+, and began to learn the principles of lightsaber combat.
+Skywalker also instructed in her in the basics of the Force, teaching her about light side, and in meditation.
+He was impressed by Organa's strength in the Force and how quickly she progressed in her training.
+While training her, he found it interesting that she struggled with skills and concepts that he had a natural affinity for (like lightsaber combat), but excelled in other areas (like meditation) that were harder for him to master.
+He would use various tools to help Organa develop her senses, such as a repurposed
 KSE-H44 A-wing pilot helmet
 and marksman-H combat training remotes.
-[
-4
-]
 At some point during their training together, Skywalker and Organa spent an hour sparring with their lightsabers. Later that same day, Skywalker attempted to teach her in a scenario similar to what he did with Yoda on Dagobah, where she held herself up in a handstand with the Force.
-[
-215
-]
 At another point, Skywalker explained from personal experience that the Force allowed glimpses of the future, past, and at times, departed, and that these voices would offer her guidance from beyond death in times of hardship.
-[
-4
-]
 The Archivist's Holocron
 [
 ]
@@ -5721,13 +4684,7 @@ This doesn't look like the other ones.
 Well it's definitely a holocron of some kind, but I've never seen another like it. It responds to…well. You'll see it'll answer your questions though. I know it did for me.
 "
 ―Skywalker and Organa on the Archivist's Holocron
-[
-173
-]
 Sometime during Organa's training, the two discovered
-[
-173
-]
 a
 holocron
 that contained the story of Lady
@@ -5735,28 +4692,19 @@ Qi'ra
 , the former leader of Crimson Dawn, and her
 war against the Sith
 that she had carried out between 3 ABY and 4 ABY shortly before the fall of the Empire. Skywalker had listened to it beforehand and it had answered his questions, so he activated wit for Organa using the light side of the Force. He agreed with Organa that it was unusual for a holocron despite definitely being one, telling her she would see why and assuring her it would answer her questions.
-[
-216
-]
 As the Archivist described Qi'ra's plans to kill Vader and Palpatine, Skywalker lamented that Qi'ra had never come to them for help and instead kept everything secret and did it by herself. Organa suggested it was because Qi'ra was not trusting.
-[
-217
-]
 The Archivist suggested that the Rebel Alliance had perhaps been engineered by Palpatine, which Skywalker said the Archivist at at lest gotten wrong, but Organa pointed out that while he did not create it, he definitely used it.
-[
-171
-]
 When she described the presence of Darth Vader as feeling like you were in the presence of an animal eating its own young, Skywalker held onto that idea and repeated it out loud.
-[
-218
-]
 Skywalker and Organa with the Archivist's Holocron
 At the end of the story, the Archivist said that Qi'ra had failed to take down the Sith and saw her hidden empire of Crimson Dawn destroyed, even theorizing that Qi'ra had been killed by the Empire or its
 remnants
-as she had never seen her again. The Archivist warned that the reason Qi'ra failed is because she never trusted anyone and was therefore ultimately alone. Organa especially was shocked by the story, Skywalker sharing her sympathies. He told Organa that the Archivist had been wrong, however, in saying that Qi'ra had failed to take down the Sith and the Empire, as Crimson Dawn agents had been the ones that revealed the existence of the second Death star to the rebellion, Leia adding that Qi'ra's syndicate war had allowed the Rebellion to regroup by distracting Palpatine. Skywalker postulated that because nothing happens in a vacuum, Qi'ra had touched the galaxy and saved it from the Sith, just not in the way she thought. Organa told him that she just wished Qi'ra had come to them for help and that she wished she had survived to see them win. Unbeknownst to them, however, Qi'ra had survived.
-[
-173
-]
+as she had never seen her again.
+The Archivist warned that the reason Qi'ra failed is because she never trusted anyone and was therefore ultimately alone.
+Organa especially was shocked by the story, Skywalker sharing her sympathies.
+He told Organa that the Archivist had been wrong, however, in saying that Qi'ra had failed to take down the Sith and the Empire, as Crimson Dawn agents had been the ones that revealed the existence of the second Death star to the rebellion, Leia adding that Qi'ra's syndicate war had allowed the Rebellion to regroup by distracting Palpatine.
+Skywalker postulated that because nothing happens in a vacuum, Qi'ra had touched the galaxy and saved it from the Sith, just not in the way she thought.
+Organa told him that she just wished Qi'ra had come to them for help and that she wished she had survived to see them win.
+Unbeknownst to them, however, Qi'ra had survived.
 Leia's final training session
 [
 ]
@@ -5764,33 +4712,15 @@ Leia's final training session
 It was the last night of her training. Leia told me that she had sensed the death of her son at the end of her Jedi path. She surrendered her saber to me and said one day it would be picked up again by someone who would finish her journey.
 "
 ―Luke Skywalker, to Rey
-[
-17
-]
 On the final night of her training, Organa experienced a dark vision that her Jedi path would lead to the death of her
 son
 .
-[
-17
-]
 Realizing where the galaxy needed her most,
-[
-4
-]
 she set aside her lightsaber
-[
-17
-]
 to focus on her new family and
 senatorial
 duties.
-[
-4
-]
 While Skywalker hoped that his sister would resume her training later on, Organa gave him her lightsaber to convince him otherwise, asking to pass it on to a promising student someday. However, Skywalker did not do that and never told her where he stored her lightsaber.
-[
-215
-]
 Recovering Force trees
 [
 ]
@@ -5809,16 +4739,10 @@ back
 .
 "
 ―Shara Bey and Luke Skywalker
-[
-219
-]
 Skywalker and Shara Bey recovered the last fragments of the Great Tree from the Imperial research base on Vetine.
 In
 5 ABY
 ,
-[
-220
-]
 three
 months
 after the Battle of Endor, Skywalker planned a
@@ -5847,15 +4771,13 @@ Hurron
 , showed them into the facility and led them to the research lab containing the tree, at which point he revealed that he knew that Bey was not Beck. Hurron questioned why two Rebels would break into the facility, and Skywalker explained the importance of the tree—which he found had two remaining fragments. Skywalker and Bey fought their way out of the base, making their way through numerous stormtroopers who attempted to stop their escape. Once back at
 Antarra
 , Hurron ordered his forces to throw thermal detonators at the escaping Rebels, but Skywalker used the Force to deflect them back, killing Hurron and several of his stormtroopers in an explosion.
-[
-219
-]
-The Rebel trio made their way back towards the Alliance Fleet. During the trip back, Skywalker and Bey discussed the latter's future plans for service in the Rebellion, as Skywalker knew that Bey was considering leaving the Alliance to reunite with her husband, Pathfinder Sergeant Kes Dameron, and their son Poe. Bey was unsure as to whether she wanted to leave the Rebels behind, but Skywalker's guidance helped Bey decide to leave the Alliance. The Jedi Knight gifted one of the tree fragments to her, as he had only expected to find one, believing that the important relic would be kept safe with Bey and her family. She and Dameron planted it outside of their
+The Rebel trio made their way back towards the Alliance Fleet.
+During the trip back, Skywalker and Bey discussed the latter's future plans for service in the Rebellion, as Skywalker knew that Bey was considering leaving the Alliance to reunite with her husband, Pathfinder Sergeant Kes Dameron, and their son Poe.
+Bey was unsure as to whether she wanted to leave the Rebels behind, but Skywalker's guidance helped Bey decide to leave the Alliance.
+The Jedi Knight gifted one of the tree fragments to her, as he had only expected to find one, believing that the important relic would be kept safe with Bey and her family.
+She and Dameron planted it outside of their
 new home
 on Yavin 4.
-[
-219
-]
 The Lehanis affair
 [
 ]
@@ -5864,9 +4786,6 @@ The walls are closing in on you, Jedi—and on your friends. As they struggle to
 "You talk too much. But that might help me.
 "
 ―Yuan Howzell and Luke Skywalker while dueling on Lehanis.
-[
-221
-]
 The Acolytes of the Beyond ambush Skywalker and Rynn Zenat on Lehanis.
 Some time later, Skywalker was on the Outer Rim swamp planet
 Lehanis
@@ -5876,27 +4795,31 @@ belonging to Jedi
 Ky Narec
 . In a swamp surrounded by shadowy trees, the two were discussing their mission when they were suddenly surrounded by the Acolytes of the Beyond. Seeing this threat, Skywalker drew his lightsaber and Zenat her blaster. The two fought the many Acolytes, all of whom had
 electrostaffs
-and surrounded the New Republic's heroes. In the battle, the Acolytes were going for the relic, which Zenat mockingly called a "rusty sundial" to Luke's chagrin. Then, Acolyte leader Yuan Howzell removed her hood and confronted Skywalker personally, saying that they were playing a game, and that the Acolytes had already won. But the fight continued, Skywalker realizing that this was all a trap and that they needed to leave. But the Acolytes raged on, Howzell now targeting Zenat and knocking the artifact on to the ground, injuring the pilot. Skywalker then struck Howzell, the two engaging each other in solo combat. As Howzell continued to try to intimidate Skywalker, he slashed her once more with his lightsaber, pinning her on the ground.
-[
-221
-]
-Skywalker then asked Howzell what Adelhard was planning next, and she didn't cooperate, telling him that a true Jedi wouldn't threaten someone. But then Zenat stepped in, saying that she would be the one doing the threatening, and that Adelhard had tried to kill her twice. While Zenat aimed her gun at Howzell, her and Skywalker saw someone grabbing the artifact from the ground where it laid. Skywalker then shot up and the two chased this thief back to their X-Wing. It was, of course, the dastardly Doctor Chelli Aphra, who was thankful that Skywalker had made finding the compendium so easy.
-[
-221
-]
+and surrounded the New Republic's heroes.
+In the battle, the Acolytes were going for the relic, which Zenat mockingly called a "rusty sundial" to Luke's chagrin.
+Then, Acolyte leader Yuan Howzell removed her hood and confronted Skywalker personally, saying that they were playing a game, and that the Acolytes had already won.
+But the fight continued, Skywalker realizing that this was all a trap and that they needed to leave.
+But the Acolytes raged on, Howzell now targeting Zenat and knocking the artifact on to the ground, injuring the pilot.
+Skywalker then struck Howzell, the two engaging each other in solo combat.
+As Howzell continued to try to intimidate Skywalker, he slashed her once more with his lightsaber, pinning her on the ground.
+Skywalker then asked Howzell what Adelhard was planning next, and she didn't cooperate, telling him that a true Jedi wouldn't threaten someone.
+But then Zenat stepped in, saying that she would be the one doing the threatening, and that Adelhard had tried to kill her twice.
+While Zenat aimed her gun at Howzell, her and Skywalker saw someone grabbing the artifact from the ground where it laid.
+Skywalker then shot up and the two chased this thief back to their X-Wing.
+It was, of course, the dastardly Doctor Chelli Aphra, who was thankful that Skywalker had made finding the compendium so easy.
 Aphra then threw the compendium back to Skywalker, who questioned why she'd stolen it. Aphra avoided answering directly, instead saying that she was there to warn Skywalker– as a gigantic
 Klyff'wat
 emerged from the woods, attacking the three. They all ran from the beast, until Skywalker spotted a clearing, igniting his lightsaber to hold off the Klyff'wat while his friends made it to the clearing.
-[
-222
-]
 Skywalker, Aphra, and Zenat run from the dreaded Klyff'wat.
-Running up a large branch, Skywalker slashed the Klyff'wat several times, not wanting to hurt the creature but needing to leave Lehanis as soon as possible. As the beast falls, Luke turns to Aphra, asking what she was there to warn him about. Holding the compendium, Aphra tells Skywalker that it took her less than a minute to determine it was fake– and someone wanted to distract Luke from somewhere else he was probably supposed to be. Aphra had come across intel about Adelhard seeking to push outward instead of just focusing on the Anoat sector like he had been. Luke and Rynn breaking for their starfighters, Zenat stopped Skywalker, asking what was wrong. He said he was longing for the simplicity of Rynn's life as a pilot, which caused Zenat to keep asking. Luke then expressed his regret at not confirming Adelhard's demise on the
+Running up a large branch, Skywalker slashed the Klyff'wat several times, not wanting to hurt the creature but needing to leave Lehanis as soon as possible.
+As the beast falls, Luke turns to Aphra, asking what she was there to warn him about.
+Holding the compendium, Aphra tells Skywalker that it took her less than a minute to determine it was fake– and someone wanted to distract Luke from somewhere else he was probably supposed to be.
+Aphra had come across intel about Adelhard seeking to push outward instead of just focusing on the Anoat sector like he had been.
+Luke and Rynn breaking for their starfighters, Zenat stopped Skywalker, asking what was wrong.
+He said he was longing for the simplicity of Rynn's life as a pilot, which caused Zenat to keep asking.
+Luke then expressed his regret at not confirming Adelhard's demise on the
 Scepter
 , as the Imperial tried to trick the eager Jedi with an artifact, pulling him away from the conflict at hand.
-[
-222
-]
 Targeted by Adelhard
 [
 ]
@@ -5904,9 +4827,6 @@ Targeted by Adelhard
 Back away from him, assassin. You only get one shot to strike at the heart of the Republic—and you missed.
 "
 ―Leia Organa standing down Kranor, the bounty hunter sent to kill Luke Skywalker on Chandrila
-[
-223
-]
 right
 As Skywalker had caused trouble for Moff Adelhard in the Anoat sector, the Imperial warlord placed a bounty on the young Jedi. After the mission to Lehanis, former
 Cloud-Rider
@@ -5920,9 +4840,6 @@ Jyala Haydenn
 to the cause at
 Hamix Outpost
 .
-[
-223
-]
 Skywalker and Kranor duel on Chandrila.
 Back on Chandrila, Skywalker had returned to his sister to inform her about what Doctor Aphra had told him: Adelhard wanted them divided, and was working to make that so. But as they were discussing a transmission from Behrens, Mon Mothma burst into the room with even more information from the same spy. As this happened,
 Trandoshan
@@ -5930,12 +4847,14 @@ bounty hunter and spice runner
 Kranor
 crashed through the window, shattering the glass. Skywalker ignited his lightsaber and dueled the hulking hunter's vibroblade. As the two fought, Kranor mentioned the recent death of senator
 Mirim Kess
-before powerfully slashing and knocking down Skywalker. As Kranor raised his blaster at his enemy he was shot in the arm by Leia, giving Luke enough time to rise and strike back with his lightsaber. As the Skywalker twins held their weapons at the disarmed hunter, Luke asked who he worked for. Kranor then dove at and attacked Mothma before the pregnant Organa blasted him. Skywalker then struck once more, causing the Trandoshan to leap back out the window after telling Luke that the message was that no one is safe, not even him. This attack was followed up by another where
+before powerfully slashing and knocking down Skywalker.
+As Kranor raised his blaster at his enemy he was shot in the arm by Leia, giving Luke enough time to rise and strike back with his lightsaber.
+As the Skywalker twins held their weapons at the disarmed hunter, Luke asked who he worked for.
+Kranor then dove at and attacked Mothma before the pregnant Organa blasted him.
+Skywalker then struck once more, causing the Trandoshan to leap back out the window after telling Luke that the message was that no one is safe, not even him.
+This attack was followed up by another where
 Lan-Drus
 killed Calder Behrens, threatening Skywalker.
-[
-223
-]
 Striking back
 [
 ]
@@ -5945,13 +4864,13 @@ ignoring
 him he'll go away? You heart what Lando said—They barely got out alive. If we just hope Adelhard disappears, we'll be sorely disappointed sooner than we'd like.
 "
 ―Luke Skywalker discussing plans on Chandrila
-[
-224
-]
-In the Anoat sector, Lando Calrissian was still leading a task force fighting against Adelhard's Iron Blockade, but Chandrila had heard little from them, leading to unease from Admiral Ackbar and Mon Mothma. The galaxy was in chaos and war still raged, and the New Republic simply didn't have enough ships to finish off the Empire like they wanted to. Suddenly, two ships entered Chandrilan airspace: Calrissian and the pilot Preeti had returned from the Anoat sector with news. Meanwhile, Skywalker discussed military deployments with his sister. Organa was once again haunted by the decisions lying in front of her, mainly potentially asking Ackbar to offer more ships to the campaign against Adelhard, or just leaving him alone. Skywalker tried to comfort her, while she wanted none of it, reminding him that Adelhard was actively working to assassinate senators as they spoke. Then, Zenat entered, getting Skywalker and Organa for a meeting called by Mothma regarding the information Calrissian brought in.
-[
-224
-]
+In the Anoat sector, Lando Calrissian was still leading a task force fighting against Adelhard's Iron Blockade, but Chandrila had heard little from them, leading to unease from Admiral Ackbar and Mon Mothma.
+The galaxy was in chaos and war still raged, and the New Republic simply didn't have enough ships to finish off the Empire like they wanted to.
+Suddenly, two ships entered Chandrilan airspace: Calrissian and the pilot Preeti had returned from the Anoat sector with news.
+Meanwhile, Skywalker discussed military deployments with his sister.
+Organa was once again haunted by the decisions lying in front of her, mainly potentially asking Ackbar to offer more ships to the campaign against Adelhard, or just leaving him alone.
+Skywalker tried to comfort her, while she wanted none of it, reminding him that Adelhard was actively working to assassinate senators as they spoke.
+Then, Zenat entered, getting Skywalker and Organa for a meeting called by Mothma regarding the information Calrissian brought in.
 Skywalker explains his plan for dealing with the situation in the Anoat sector.
 Mothma informed the group that Behrens had died, but that he sent off a final batch of intel just before he did. This new intelligence revealed that Reyna Oskure was not as firmly allied to Adelhard as they once though, but also that the Imperial remnant, led by the mysterious
 Gallius Rax
@@ -5959,17 +4878,15 @@ Gallius Rax
 Jakku
 in a
 final confrontation
-. The choice was now between mobilizing forces toward Jakku and monitoring the situation in the Anoat sector. A debate began, with Skywalker adamantly advocating for taking action against Adelhard, but Ackbar and Mothma didn't know if it was possible. Practically begging, Luke asked if Ackbar would permit himself, Calrissian, Zenat, and more taking a small attack force to the Anoat sector, using this as a chance to undercut Adelhard's coalition with the Acolytes and the underworld. In Calder Behrens' memory, Skywalker said it was time they struck back against the mad Moff Adelhard.
-[
-224
-]
+.
+The choice was now between mobilizing forces toward Jakku and monitoring the situation in the Anoat sector.
+A debate began, with Skywalker adamantly advocating for taking action against Adelhard, but Ackbar and Mothma didn't know if it was possible.
+Practically begging, Luke asked if Ackbar would permit himself, Calrissian, Zenat, and more taking a small attack force to the Anoat sector, using this as a chance to undercut Adelhard's coalition with the Acolytes and the underworld.
+In Calder Behrens' memory, Skywalker said it was time they struck back against the mad Moff Adelhard.
 Skywalker gathers his forces near the Iron Blockade.
 Soon after, on the fringes of the Anoat sector, Skywalker gathered his forces with Valance, Haydenn, Preeti, and Zenat, preparing to get past the Iron Blockade and bring the fight to Adelhard. Valance had heard about a weak point in the blockade's Imperial sensor network from a smuggler he knows, and they were going to use that to enter in. As Skywalker and Valance spoke, the cyborg hunter described that this was personal for many, as Adelhard had almost crushed an entire
 Uprising
 in his sector. The Moff had killed many of his own people in the process, and some of Valance's friend, so this was personal for him too.
-[
-224
-]
 Skywalker's fleet engages the
 Scepter
 .
@@ -5979,12 +4896,15 @@ Scepter
 Scepter
 , led by Luke's X-Wing, striking hard while the Star Destroyer's crew was caught unawares. Then, Preeti noticed something launch from the
 Scepter
-, but Zenat dismissed it as debris. A broadcast then went out to New Republic forces: the voice of Reyna Oskure said that Ubrik Adelhard was dead. The Anzati witch was insistent that Skywalker's fleet should leave, claiming she was now in control of the Anoat sector and had Imperial reinforcements coming to bolster her forces. Upon hearing this, Calrissian told Skywalker he'd received word from Ackbar saying to pull back, but Lando was wary of this choice. Skywalker and Zenat then agreed to do one last spot-check of the area before heading back, as the rest of Skywalker's forces there pulled out. Little did they know, though, Moff Adelhard was not killed. The man had left the
+, but Zenat dismissed it as debris.
+A broadcast then went out to New Republic forces: the voice of Reyna Oskure said that Ubrik Adelhard was dead.
+The Anzati witch was insistent that Skywalker's fleet should leave, claiming she was now in control of the Anoat sector and had Imperial reinforcements coming to bolster her forces.
+Upon hearing this, Calrissian told Skywalker he'd received word from Ackbar saying to pull back, but Lando was wary of this choice.
+Skywalker and Zenat then agreed to do one last spot-check of the area before heading back, as the rest of Skywalker's forces there pulled out.
+Little did they know, though, Moff Adelhard was not killed.
+The man had left the
 Scepter
 in an escape pod with a small group of loyalists, surviving to fight another day.
-[
-224
-]
 Galowyss grapple
 [
 ]
@@ -5994,16 +4914,14 @@ Adelhard
 came to derailing what we were trying to build... part of me needs to be sure he's gone. Forever.
 "
 ―Luke Skywalker talking to Rynn Zenat on Galowyss.
-[
-225
-]
 Skywalker and Zenat face off against Adelhard loyalist stormtroopers.
 After the fleet left, Valance left Skywalker and Zenat with a ship to continue searching for Adelhard. After two days, over Galowyss, the Luke and Rynn discussed the blip that was picked up near the
 Scepter
-. Zenat was dismissive, calling it a false alarm, but Skywalker was insistent that Adelhard was still around, and wanted to make sure he was dealt with for good. They then landed on the rocky world, where Skywalker confessed that he was sensing something there, dark and festering, that was drawing him. Little did they know, a now-caped and tattered Adelhard had set up camp uphill from them– and two of his stormtroopers had spotted the Jedi and pilot. The mad Moff insisted that he was no longer a believer like Skywalker, and sent his forces to destroy the Jedi, demonstrating his rebirth into something new.
-[
-225
-]
+.
+Zenat was dismissive, calling it a false alarm, but Skywalker was insistent that Adelhard was still around, and wanted to make sure he was dealt with for good.
+They then landed on the rocky world, where Skywalker confessed that he was sensing something there, dark and festering, that was drawing him.
+Little did they know, a now-caped and tattered Adelhard had set up camp uphill from them– and two of his stormtroopers had spotted the Jedi and pilot.
+The mad Moff insisted that he was no longer a believer like Skywalker, and sent his forces to destroy the Jedi, demonstrating his rebirth into something new.
 Adelhard flees Galowyss.
 Soon after, the stormtroopers engaged Skywalker and Zenat, and the two fought fiercely, Luke deflecting countless blaster bolts back at the former Imperials. Skywalker pointed out that their disorganization was quite strange, as a trooper received a communication saying their ship was leaving. Hearing the trooper give this order, Skywalker and Zenat sprinted after them, coming upon a
 Lambda
@@ -6014,13 +4932,7 @@ bombing on Chandrila
 , and that Luke needed to return immediately. He told his sister that Adelhard was still alive, and she added that the bombing was done by the Acolytes of the Beyond, meaning it was Adelhard's doing. The madman, now in command of the
 Scepter
 and coalition once more, was seeking revenge.
-[
-225
-]
 The two then took off, and Zenat questioned if they were even going to make it back to Chandrila in time to help with anything. But Skywalker reassured her that they could still do good there, as Leia was sure to still be threatened, and more importantly they needed to regroup to fight off Adelhard's now cornered and desperate forces.
-[
-226
-]
 Pieces falling into place
 [
 ]
@@ -6032,9 +4944,6 @@ everything
 on us. The Operator wanted us there—it was a trap. Now our friends are stranded.
 "
 ―Luke Skywalker talking to Rynn Zenat on Chandrila, after the Battle of Jakku had begun.
-[
-226
-]
 The Skywalker twins are reunited with Han Solo and Mon Mothma.
 In a tower on Chandrila, Mothma, Organa, agent
 Bastion
@@ -6042,31 +4951,30 @@ Bastion
 Dowutin
 Acolyte
 Saycos Hawn
-that was captured. The agent was concerned with Adelhard's resurgence, and especially how this chaos has frayed his relationships with both the Acolytes and the Spice Runners– and she wished luck to Lando's forces still fighting in the Anoat sector. Organa then interrogated Hawn, and as she left the chamber with news of Adelhard's plan to tip the scales at Jakku, Skywalker and the rest received a transmission. It was from the undercover Kith Alaytia, and confirmed what Leia had just heard: Adelhard had his sights set on Jakku, and wanted to tear down both the New Republic and Rax's Imperial remnant forces alike.
-[
-226
-]
+that was captured.
+The agent was concerned with Adelhard's resurgence, and especially how this chaos has frayed his relationships with both the Acolytes and the Spice Runners– and she wished luck to Lando's forces still fighting in the Anoat sector.
+Organa then interrogated Hawn, and as she left the chamber with news of Adelhard's plan to tip the scales at Jakku, Skywalker and the rest received a transmission.
+It was from the undercover Kith Alaytia, and confirmed what Leia had just heard: Adelhard had his sights set on Jakku, and wanted to tear down both the New Republic and Rax's Imperial remnant forces alike.
 Soon after, the Empire and New Republic's forces were gathering at Jakku. The New Republic Senate had allowed their fleet to participate thanks to the efforts of Solo and Mothma, and the end of the war was about to begin.
-[
-227
-]
 From Chandrila, Skywalker and the rest monitored the situation on Jakku, particularly the consolidation of the Imperial fleet around the Super Star Destroyer
 Ravager
 . Gallius Rax gave a rallying speech, and the gigantic battle began, Adelhard's forces still in the Anoat sector preparing.
-[
-226
-]
-Meanwhile, Skywalker and Zenat stood on a landing pad to meet the newly-escaped Alaytia and Kranor, the assassin who had previously targeted Mothma. Rynn knew they were coming, and Skywalker was confused by this. Skywalker was adamant that they needed to be helping out at Jakku, but instead they were meeting on Chandrila. Luke wanted to fight Adelhard himself, but Zenat assured him that there was another way. Kranor then said that Adelhard relied too hard on his alliances, thinking them unbreakable, but Luke wasn't inclined to believe because Kranor was a Spice Runner. But then, Zenat revealed that she herself was a Spice Runner as well, surprising Skywalker. Zenat told him that she knew how to take down Adelhard's coalition, and that he needed to trust her– which he unequivocally did, the group setting off to even the odds.
-[
-226
-]
+Meanwhile, Skywalker and Zenat stood on a landing pad to meet the newly-escaped Alaytia and Kranor, the assassin who had previously targeted Mothma.
+Rynn knew they were coming, and Skywalker was confused by this.
+Skywalker was adamant that they needed to be helping out at Jakku, but instead they were meeting on Chandrila.
+Luke wanted to fight Adelhard himself, but Zenat assured him that there was another way.
+Kranor then said that Adelhard relied too hard on his alliances, thinking them unbreakable, but Luke wasn't inclined to believe because Kranor was a Spice Runner.
+But then, Zenat revealed that she herself was a Spice Runner as well, surprising Skywalker.
+Zenat told him that she knew how to take down Adelhard's coalition, and that he needed to trust her– which he unequivocally did, the group setting off to even the odds.
 Zenat leads Skywalker to Sauwecer to make moves against Adelhard.
 On the planet
 Sauwecer
-, the group landed and Skywalker learned that the Spice Runner Tomasso was Zenat's adopted father after her parents were killed by the Empire. She was raised to become a Spice Runner, but left to join the Rebellion instead. Then, Tomasso himself emerged, confusing Kranor and Alaytia about where the Spice Runners stood in regard to Adelhard. Zenat then asked her father to pull back the Spice Runners, and Skywalker begged the man to help them. Tomasso explained that Zeva Bliss was not blindly allied with Adelhard, and promised he would try to convince her to turn the Spice Runners against him. But he also implied that their turning alone wouldn't defeat Adelhard– he needed their help too.
-[
-226
-]
+, the group landed and Skywalker learned that the Spice Runner Tomasso was Zenat's adopted father after her parents were killed by the Empire.
+She was raised to become a Spice Runner, but left to join the Rebellion instead.
+Then, Tomasso himself emerged, confusing Kranor and Alaytia about where the Spice Runners stood in regard to Adelhard.
+Zenat then asked her father to pull back the Spice Runners, and Skywalker begged the man to help them.
+Tomasso explained that Zeva Bliss was not blindly allied with Adelhard, and promised he would try to convince her to turn the Spice Runners against him.
+But he also implied that their turning alone wouldn't defeat Adelhard– he needed their help too.
 Pirate ally & infiltration
 [
 ]
@@ -6076,9 +4984,6 @@ Skywalker
 —the party's getting good.
 "
 ―Eleodie Maracavanya while fighting the Adelhard coalition in the Anoat sector.
-[
-228
-]
 Eleodie Maracavanya's Super Star Destroyer
 Liberty's Misrule
 engaged Adelhard's forces before they went to Jakku.
@@ -6091,9 +4996,6 @@ Scepter
 . The shuttle haphazardly landed in its hangar as Alern was shot down outside, something that greatly impacted Zenat. Skywalker then reminded her that they needed to calmly take this chance, this incredible opportunity to make Alern's sacrifice mean something more. Skywalker and Zenat were now in place on the
 Scepter
 , ready to take down Adelhard, and Maracavanya contacted Luke to let him know that zhe was taking too much damage. After essentially delaying the mad Moff, the pirate regent departed, as Adelhard's fleet prepared to jump to Jakku.
-[
-228
-]
 Jedi at Jakku
 [
 ]
@@ -6105,9 +5007,6 @@ you.
 ―Skywalker speaking to Urbik Adelhard on the bridge of the
 Scepter
 during the battle of Jakku
-[
-228
-]
 Jakku's orbit was completely filled with vessels, the Imperial fleet making a ring around the
 Ravager
 and facing off against the New Republic's
@@ -6117,24 +5016,23 @@ Amity
 was rammed and destroyed by Star Destroyer
 Punishment
 ,
-[
-227
-]
 Adelhard's fleet arrived, Skywalker onboard its lead ship. Just when he posed the greatest threat, Adelhard was backstabbed by Reyna Oskure and the Spice Runners at the same time. The Star Destroyer was falling apart, Zenat met up with the fleeing Anzati in the
 Scepter'
 s halls, and Skywalker made his way toward the bridge. As the once-mighty
 Ravager
 fell to Jakku and the New Republic began to emerge victorious, Skywalker confronted the mad self-declared Grand Moff Adelhard for the last time.
-[
-228
-]
 Adelhard and Skywalker duel as the old state of the galaxy burns down around them.
-Entering the burning bridge with his saber ignited, Skywalker found a kneeling, battered man, consumed by his own madness, crouching in front of him. Adelhard questioned Luke's presence there, saying that he'd already won– but the young Jedi told the old Imperial that he wasn't there to fight him, he was there to save him as his ship was falling apart. Skywalker told him there was another path, one averse to darkness, but Adelhard responded to this with only a mad laugh at the idea of being saved. Insisting he was beyond salvation, the man swung at Skywalker with his
+Entering the burning bridge with his saber ignited, Skywalker found a kneeling, battered man, consumed by his own madness, crouching in front of him.
+Adelhard questioned Luke's presence there, saying that he'd already won– but the young Jedi told the old Imperial that he wasn't there to fight him, he was there to save him as his ship was falling apart.
+Skywalker told him there was another path, one averse to darkness, but Adelhard responded to this with only a mad laugh at the idea of being saved.
+Insisting he was beyond salvation, the man swung at Skywalker with his
 Vibro-ax
-, which Luke easily blocked. Skywalker wouldn't give up, though, and insisted that Adelhard could survive this and truly live, pushing him back with the Force. Ubrik then said that there was no way he could be saved or redeeemed to continue living, as that required a reason to live, and his reason, the Empire, was a lie. As he explained that this would be a shallow victory, he was shot in the chest by Zenat, who came up behind Skywalker. Luke insisted that they should save him, but Zenat told him that Adelhard had been gone for a long time. Zenat told Luke that she admired his hope, but it was time for them to go.
-[
-228
-]
+, which Luke easily blocked.
+Skywalker wouldn't give up, though, and insisted that Adelhard could survive this and truly live, pushing him back with the Force.
+Ubrik then said that there was no way he could be saved or redeeemed to continue living, as that required a reason to live, and his reason, the Empire, was a lie.
+As he explained that this would be a shallow victory, he was shot in the chest by Zenat, who came up behind Skywalker.
+Luke insisted that they should save him, but Zenat told him that Adelhard had been gone for a long time.
+Zenat told Luke that she admired his hope, but it was time for them to go.
 In the
 Scepter'
 s collapsing docking bay, Skywalker and Zenat ran out to meet the
@@ -6142,9 +5040,6 @@ Millennium Falcon
 – Han Solo had left Chandrila to join the battle and rescue them. The two boarded the old freighter, and remarked that it finally, truly felt like this was over. The
 Scepter
 exploded, and with it, Adelhard's dreams of conquest, as the heroes flew off, victorious, into a new era.
-[
-228
-]
 War's end
 [
 ]
@@ -6157,38 +5052,20 @@ beautiful
 How does it feel to be an uncle, Luke? Maybe that'll keep you close and stop your wandering.
 "
 ―Luke Skywalker and Leia Organa discussing the birth of Ben
-[
-228
-]
 Skywalker attended the signing of the Galactic Concordance between the Galactic Empire and the New Republic on Chandrila
 While the Battle of Jakku lingered on the desert world's surface, the Galactic Civil War came to an end on Chandrila with the signing of the
 Galactic Concordance
 , a peace treaty between the Republic and the Empire that forced the Empire to remain within pre-established borders, though some of the remnants of the once-powerful military force had disappeared into the
 Unknown Regions
 .
-[
-229
-]
 . Skywalker, along with many other notable individuals witnessed the signing of the Concordance between Mas Amedda and Mon Mothma overlooking Hanna City.
-[
-228
-]
-[
-227
-]
 Skywalker visited his family shortly after the birth of his nephew Ben.
 Following the signing of the treaty, Leia gave birth to her and Han's son and Luke's nephew,
 Ben Solo
 , on Chandrila. Skywalker visited the family shortly after Ben's birth where Leia hoped that Skywalker being an uncle would keep him closer to home.
-[
-228
-]
 An
 Imperial officer
 stationed on a Star Destroyer during the Battle of Jakku claimed to have seen the Jedi Knight using the Force and a lightsaber to dispatch Star Destroyers in space, causing them to crash into the surface of the planet. When the Star Destroyer crashed into the surface the officer said he was recovered by a figure who dragged him across the desert searching wreckage for other survivors. He also noted the man wore clothes similar to Luke Skywalker and talked about being raised in another desert.
-[
-230
-]
 Reconstruction
 [
 ]
@@ -6203,16 +5080,10 @@ I—I don't know who they are…all I know is that they're pirates…hidden in t
 "Where are they striking next?
 "
 ―The Gran merchant being interrogated by Luke Skywalker
-[
-231
-]
 Luke Skywalker flew in a skirmish against pirate forces outside the Fenril sector.
 Around
 6 ABY
 ,
-[
-232
-]
 a group of planets in the
 Fenril sector
 known as the
@@ -6223,35 +5094,17 @@ protection of their trading vessels
 and unwilling to cooperate with the new democracy. Just outside the Fenril sector, Skywalker was flying with a squadron of X-Wings to investigate the threat after an incident on a former Imperial space station over
 Maldran
 .
-[
-232
-]
 A dogfight began between the New Republic's fighters and starships accompanied by a modified Imperial Star Destroyer.
-[
-233
-]
 After losing some fighters, Skywalker and fellow pilot Rynn Zenat flew down to a nearby planet following a crashing pirate vessel. A
 gray-skinned
 man emerged with a vibroblade and charged at Luke and Rynn. Skywalker fought the man, and knocked him down. Drawing Luke close,
-[
-233
-]
 the pirate warned the Jedi about who he's facing, and told him about
 a collector
 of Jedi artifacts on the planet
 Gadrilam
 , who has a crown that will help Luke "learn the truth". He then told Luke to brace himself,
-[
-234
-]
 as he detonated himself to cover his tracks, knocking Luke out.
-[
-233
-]
 Awakening in a trance-like state, Skywalker departed straight for Gadrilam, confusing Zenat and taking off into hyperspace while telling her that he needed to investigate this alone.
-[
-234
-]
 Mission to Gadrilam
 [
 ]
@@ -6259,9 +5112,6 @@ Mission to Gadrilam
 That pirate shared something before he died. Something I couldn't ignore.
 "
 ―Luke Skywalker to R2-D2 upon landing on Gadrilam
-[
-234
-]
 Luke Skywalker lands on Gadrilam
 On the snowy world of Gadrilam, Luke apologized to R2-D2 about the promptness and strangeness of
 his actions
@@ -6280,22 +5130,24 @@ Jesrit
 – who spotted that Luke was a Jedi. Angry, Hossalana screamed that they should leave the bar, as
 Gallana Venk
 and her gang entered the establshment, letting Luke know that they'd found his ship, and know he's a New Republic pilot on some kind of mission. Jesrit tried to leave as Luke asked her about Truddispal, which made Venk's men grab him, wondering why Luke was looking for him. Responding with the Force, Luke pushed them back, and took out his lightsaber, to everyone's surprise.
-[
-234
-]
 Luke Skywalker enters the tunnel on Gadrilam
-Chaos ensued as the hostile Nagai charged at Skywalker and a battle commenced, but Skywalker quickly dispatched with his enemies, analyzing their body language and using their own tells against them. Eliminating them and incredibly determined, Skywalker scared off Venk and the rest of her men, as Luke pleaded with Jesrit to stay and help him. She had called Truddispal a smuggler, which Luke had never said, meaning she knew him. Jesrit tried to explain herself as just a simple laborer, but Luke, sensing a darkness on Gadrilam, requested her help once more. The two then went into the nearby woods by torchlight, Jesrit guiding Luke to the tunnel where Truddispal was held. Skywalker asked what Jesrit was doing on the barren world, to which she told him that she isn't there by choice, and was brought there with many of her people, the Nagai. Luke was confused, because Venk is also a Nagai, but Jesrit asserted that Venk is not truly one of them, and is a traitor to the followers of
+Chaos ensued as the hostile Nagai charged at Skywalker and a battle commenced, but Skywalker quickly dispatched with his enemies, analyzing their body language and using their own tells against them.
+Eliminating them and incredibly determined, Skywalker scared off Venk and the rest of her men, as Luke pleaded with Jesrit to stay and help him.
+She had called Truddispal a smuggler, which Luke had never said, meaning she knew him.
+Jesrit tried to explain herself as just a simple laborer, but Luke, sensing a darkness on Gadrilam, requested her help once more.
+The two then went into the nearby woods by torchlight, Jesrit guiding Luke to the tunnel where Truddispal was held.
+Skywalker asked what Jesrit was doing on the barren world, to which she told him that she isn't there by choice, and was brought there with many of her people, the Nagai.
+Luke was confused, because Venk is also a Nagai, but Jesrit asserted that Venk is not truly one of them, and is a traitor to the followers of
 Garlev
 . Luke then told Jesrit his name, and tells her he wants to help, as it's what Jedi do. As they arrived at the tunnel, Jesrit told Luke that her people are forced laborers on Gadrilam, and that they need help, if he wants to– and, ever the Jedi, of course he does.
-[
-234
-]
-Sent into the tunnel alone by Jesrit, Luke though about how the pilot knew far too much for this to be a normal situation, unlike false artifacts Luke had been fooled by before. Going deeper, Luke overheard Venk and her men speaking about him around an injured Ibo Truddispal, and approached, lightsaber lit. Venk tossed down the silver object she was holding– the Crown of Verity. Luke rushed forward and caught it, as Venk spoke ill Garlev's followers, frustrated at how prevalent they are. Venk then fired at Truddispal from point-blank range, killing the Jedi relic collector. As her and her men left, she introduced Luke to members of the
+Sent into the tunnel alone by Jesrit, Luke though about how the pilot knew far too much for this to be a normal situation, unlike false artifacts Luke had been fooled by before.
+Going deeper, Luke overheard Venk and her men speaking about him around an injured Ibo Truddispal, and approached, lightsaber lit.
+Venk tossed down the silver object she was holding– the Crown of Verity.
+Luke rushed forward and caught it, as Venk spoke ill Garlev's followers, frustrated at how prevalent they are.
+Venk then fired at Truddispal from point-blank range, killing the Jedi relic collector.
+As her and her men left, she introduced Luke to members of the
 Zantarrk Gang
 , a group that had been terrorizing surrounding areas recently. Luke cut them down and ran away after one of them revealed that they took out the village, which he found to be true upon emerging from the tunnel's depths and seeing the fiery blaze.
-[
-234
-]
 Departing Chandrila
 [
 ]
@@ -6305,11 +5157,12 @@ refuse
 to sit back and let that happen.
 "
 ―Leia Organa to Mon Mothma before departing for Kaltrais.
-[
-235
-]
 Organa and Alaytia depart for Kaltrais, leaving Skywalker behind.
-Back on the New Republic's capital, Chandrila, Skywalker and Zenat stood amongst a collection of artifacts while pondering the Crown of Verity, and Luke expressed grief about the fate of the old Jedi Order. Zenat asked Skywalker what the Crown does, which Luke explained is that it allows the wearer to discern truth from lies, while also preventing them from telling lies. He connected this idea to the idea of Jedi identity, being part of a greater movement than just oneself. Then, his comms buzzed as Kith Alaytia was calling for help in a nearby docking bay. There, Mon Mothma was actively trying to stop Leia Organa from leaving the planet on a diplomatic
+Back on the New Republic's capital, Chandrila, Skywalker and Zenat stood amongst a collection of artifacts while pondering the Crown of Verity, and Luke expressed grief about the fate of the old Jedi Order.
+Zenat asked Skywalker what the Crown does, which Luke explained is that it allows the wearer to discern truth from lies, while also preventing them from telling lies.
+He connected this idea to the idea of Jedi identity, being part of a greater movement than just oneself.
+Then, his comms buzzed as Kith Alaytia was calling for help in a nearby docking bay.
+There, Mon Mothma was actively trying to stop Leia Organa from leaving the planet on a diplomatic
 mission to Kaltrais
 , a world that was a valued member of the
 Old Republic
@@ -6320,15 +5173,15 @@ Pirrosi
 forces and their Fenril Consortium allies wished to disrupt the New Republic's efforts there, and she wouldn't let that happen, as the New Republic already had enough trouble with the Consortium completely shuttering its borders to New Republic trade. Leia had a bad feeling about Kaltrais, as she'd spoken to President
 Tusvein Shoirin
 to arrange the meeting in-person, and he sounded "off". Skywalker and Zenat arrived to speak to Leia. Luke attempted to sway Leia into staying, but she was adamant about going, seeing Kaltrais as a great way to demonstrate that the New Republic cares about the planets that join it. Luke begged to accompany Leia, but his stalwart sister declined and boarded the transport with Alaytia, bound for Kaltrais.
-[
-235
-]
 Meanwhile, the
 Millennium Falcon
-was back on Chandrila as well, and Skywalker and Zenat met in its cockpit with Han Solo and Beilert Valance, who had just returned from investigating the Zantarrk Gang, and found the Nagai Garlev dead on Cloud City. Solo was shocked at Leia departing for Kaltrais, and Valance told Skywalker that Garlev's killer was moving towards Kaltrais as well. Luke then began connecting the dots between the oppressed Nagai, the Zantarrk Gang, and the rising Fenril Consortium. He'd heard Garlev's name on his mission to Gadrilam, and knew that he was a freedom fighter. Luke told his friends about his investigations so far, saying that the Nagai have been part of the groups hitting their supply lines, which led to him discovering the Zantarrk Gang holding Nagai slaves. Solo said that that sounded correct, and Skywalker told him about Jesrit, the Nagai who mentioned Garlev. This confirmed that the Zantarrk were connected to both the supply line hits and Garlev's death, leading Skywalker and the rest to depart for the Fenril sector immediately.
-[
-235
-]
+was back on Chandrila as well, and Skywalker and Zenat met in its cockpit with Han Solo and Beilert Valance, who had just returned from investigating the Zantarrk Gang, and found the Nagai Garlev dead on Cloud City.
+Solo was shocked at Leia departing for Kaltrais, and Valance told Skywalker that Garlev's killer was moving towards Kaltrais as well.
+Luke then began connecting the dots between the oppressed Nagai, the Zantarrk Gang, and the rising Fenril Consortium.
+He'd heard Garlev's name on his mission to Gadrilam, and knew that he was a freedom fighter.
+Luke told his friends about his investigations so far, saying that the Nagai have been part of the groups hitting their supply lines, which led to him discovering the Zantarrk Gang holding Nagai slaves.
+Solo said that that sounded correct, and Skywalker told him about Jesrit, the Nagai who mentioned Garlev.
+This confirmed that the Zantarrk were connected to both the supply line hits and Garlev's death, leading Skywalker and the rest to depart for the Fenril sector immediately.
 Fenril frenzy
 [
 ]
@@ -6339,22 +5192,21 @@ anything
 but fun.
 "
 ―Luke Skywalker and Han Solo over Kaltrais
-[
-235
-]
 Luke and his allies receive Mon Mothma's transmission about Loradil.
 On Kaltrais, Leia's meeting with Shoirin had quickly gone awry because of the Zantarrk Gang's presence on the planet, breaking out into a firefight on the rocky world. As Skywalker and his allies arrived in the
 Falcon
-, they were surrounded by Fenril Consortium vessels. The modified ships fired on the Corellian freighter, and it took lots of hits– until the antagonistic starships suddenly pulled back because of Shoirin's final act on Kaltrais. The world's defenses fired on grounded ships, and the attack was completely called off. This gave Organa and Alaytia an opening to escape in their shuttle into orbit, where they were contacted by the Consortium's true leader, the devious Reyna Oskure. The Anzati witch had been manipulating the situation from the beginning under the guise of being an "advisor". Skywalker and the rest of the
+, they were surrounded by Fenril Consortium vessels.
+The modified ships fired on the Corellian freighter, and it took lots of hits– until the antagonistic starships suddenly pulled back because of Shoirin's final act on Kaltrais.
+The world's defenses fired on grounded ships, and the attack was completely called off.
+This gave Organa and Alaytia an opening to escape in their shuttle into orbit, where they were contacted by the Consortium's true leader, the devious Reyna Oskure.
+The Anzati witch had been manipulating the situation from the beginning under the guise of being an "advisor".
+Skywalker and the rest of the
 Falcon'
 s occupants then received a transmission from Chancellor Mothma, requesting that they go to the desert world
 Loradil
 to
 investigate a New Republic trading vessel
 that had been shot down by Fenril affiliated Zantarrk Gang vessels. Luke and the rest heard audio from the crash site– the New Republic traders were in distress and apparently surrounded.
-[
-235
-]
 Luke Skywalker battles through the
 Providence'
 s insides.
@@ -6381,19 +5233,17 @@ commando droids
 Phase II
 clone trooper
 armor,
-[
-236
-]
 which they equipped, fighting their way outside into a huge field of not only battle droids, but
 Armored Assault Tanks
 , concerned about saving Rynn Zenat and reflecting on the armor's storied history.
-[
-237
-]
 The Clone Wars reignited– the battle on Loradil.
 Skywalker, Valance, and Solo fought countless
 security droids
-in their armor, but after Solo destroyed a group of droids surrounding him, he and Valance lost track of Luke. The Jedi was out of sight, hiding under an AAT, calling upon Obi-Wan Kenobi and Yoda for help in the battle. The droids were catching on, though, and began to search under the tank– but Skywalker wasn't there! Suddenly, the inspecting droid was thrown upward into the tank's front, flying up to the tank's pilot, destroying them both. Luke used the Force to destroy the rest of them, and after eliminating the final droid with his lightsaber, headed forwards toward the
+in their armor, but after Solo destroyed a group of droids surrounding him, he and Valance lost track of Luke.
+The Jedi was out of sight, hiding under an AAT, calling upon Obi-Wan Kenobi and Yoda for help in the battle.
+The droids were catching on, though, and began to search under the tank– but Skywalker wasn't there!
+Suddenly, the inspecting droid was thrown upward into the tank's front, flying up to the tank's pilot, destroying them both.
+Luke used the Force to destroy the rest of them, and after eliminating the final droid with his lightsaber, headed forwards toward the
 Nechrim's Wake
 . Inside the
 Wake
@@ -6417,9 +5267,6 @@ rising up on Kaltrais
 , a
 New Republic agent
 was present, and it was the Nagai's only chance at freedom. The group, having survived the Separatist onslaught, then left for Kaltrais.
-[
-237
-]
 Uprising at Kaltrais
 [
 ]
@@ -6429,31 +5276,38 @@ Uprising at Kaltrais
 It's what we do, Jesrit.
 "
 ―Jesrit and Luke Skywalker, after meeting again during the Nagai insurrection on Kaltrais
-[
-238
-]
 Reunited, Luke Skywalker and Jesrit fight the Zantarrk Gang.
 Soon after, the
 Millennium Falcon
 arrived over Kaltrais, but didn't receive any communications from the surface– something was wrong. And as the freighter descended further, towards a central city, blaster fire could be seen from the sky. As the entire New Republic team exited the
 Falcon
-, Luke Skywalker ran forward,  shocked to see the Nagai he met on Gadrilam, Jesrit, alive and leading the insurrection in the plaza! Amidst the chaos, and a reunion between Jesrit and Marntiv, Luke called out to Jesrit, and the two fought the pirate troopers together. They took out several as Luke explained that he's a Jedi, and that means coming back to help. He sadly informed her of Garlev's death, and the two kept fighting the oppressors, many of which were Nagai themselves, enslaved by the Zantarrk or promised reward. They were then interrupted by Solo and the rest, Han informing Luke that Rynn Zenat was not doing okay, and was feeling weak. Meanwhile, New Republic agent Bastion was in place infiltrating the Zantarrk's base of operations, and entered Prime Minister Almovar's chamber, where the regal woman stood surrounded by holograms. Alarmed, Almovar immediately questioned who Bastion was, as Skywalker, Zenat, and Jesrit caught up and entered the room as well.
-[
-238
-]
-Finally speaking to someone responsible for the continued oppression of the Nagai, Skywalker tried to rationalize with the fierce leader, as he and Jesrit told her that her actions were putting countless people–including her own–in danger. Almovar said she was doing everything for her home, but Luke and Rynn reminded her that her will doesn't exactly line up with what the people of Pirros really want. Kaltrais is in shambles, the people of Pirros don't want war, and she's been manipulated by Reyna Oskure. Jesrit was furious at the Prime Minister, seeing Nagai blood on her hands as she'd worked with Gallana Venk and used Nagai slaves. A bit resigned, Almovar then admitted that war was already here, that the Fenril Consortium had permanently allied itself with Oskure and the Zantarrk, and that it was too late to stop it all. Bastion refuted this, and Luke extended a hand of grace to the misguided woman, but Almovar was still concerned about Nagai retribution. At this, Jesrit told her that the Nagai rebellion's two goals were the freedom of the homeworld
+, Luke Skywalker ran forward, shocked to see the Nagai he met on Gadrilam, Jesrit, alive and leading the insurrection in the plaza!
+Amidst the chaos, and a reunion between Jesrit and Marntiv, Luke called out to Jesrit, and the two fought the pirate troopers together.
+They took out several as Luke explained that he's a Jedi, and that means coming back to help.
+He sadly informed her of Garlev's death, and the two kept fighting the oppressors, many of which were Nagai themselves, enslaved by the Zantarrk or promised reward.
+They were then interrupted by Solo and the rest, Han informing Luke that Rynn Zenat was not doing okay, and was feeling weak.
+Meanwhile, New Republic agent Bastion was in place infiltrating the Zantarrk's base of operations, and entered Prime Minister Almovar's chamber, where the regal woman stood surrounded by holograms.
+Alarmed, Almovar immediately questioned who Bastion was, as Skywalker, Zenat, and Jesrit caught up and entered the room as well.
+Finally speaking to someone responsible for the continued oppression of the Nagai, Skywalker tried to rationalize with the fierce leader, as he and Jesrit told her that her actions were putting countless people–including her own–in danger.
+Almovar said she was doing everything for her home, but Luke and Rynn reminded her that her will doesn't exactly line up with what the people of Pirros really want.
+Kaltrais is in shambles, the people of Pirros don't want war, and she's been manipulated by Reyna Oskure.
+Jesrit was furious at the Prime Minister, seeing Nagai blood on her hands as she'd worked with Gallana Venk and used Nagai slaves.
+A bit resigned, Almovar then admitted that war was already here, that the Fenril Consortium had permanently allied itself with Oskure and the Zantarrk, and that it was too late to stop it all.
+Bastion refuted this, and Luke extended a hand of grace to the misguided woman, but Almovar was still concerned about Nagai retribution.
+At this, Jesrit told her that the Nagai rebellion's two goals were the freedom of the homeworld
 Nagi
 , and the deaths of Venk and Oskure, as Luke rebuked her for this retributive anger and hate.
-[
-238
-]
 Skywalker, Zenat, Bastion, and Jesrit confront Prime Minister Kezrin Almovar on Kaltrais.
-Luke then testified of his experience with the Zantarrk, as they'd built a slave army and killed many, and then spoke of Oskure's Imperial past. Accepting that she had indeed failed her people, Prime Minister Almovar then, finally, declared that she would be withdrawing her fleet, as the Nagai insurrection's explosions outside rocked the building. Almovar dismissed the group and said that she had much to repair and ponder, as Rynn promised that the New Republic would be there to help deal with it. As the group left, quietly, Almovar said her fate was sealed, as a pair of white eyes opened in the shadows behind her, Reyna Oskure killing the Pirrosi leader. Outsiude, while Zenat grew weaker, Luke Skywalker helped her as the group fought their way towards a major hangar. Luke tried asking what was wrong, but Rynn refused to answer. The Nagai were winning, fighting their way onto and stealing ships, as the Zantarrk fell one trooper after the last. Luke and Rynn held the line while more Nagai escaped, until the two were picked up by the
+Luke then testified of his experience with the Zantarrk, as they'd built a slave army and killed many, and then spoke of Oskure's Imperial past.
+Accepting that she had indeed failed her people, Prime Minister Almovar then, finally, declared that she would be withdrawing her fleet, as the Nagai insurrection's explosions outside rocked the building.
+Almovar dismissed the group and said that she had much to repair and ponder, as Rynn promised that the New Republic would be there to help deal with it.
+As the group left, quietly, Almovar said her fate was sealed, as a pair of white eyes opened in the shadows behind her, Reyna Oskure killing the Pirrosi leader.
+Outsiude, while Zenat grew weaker, Luke Skywalker helped her as the group fought their way towards a major hangar.
+Luke tried asking what was wrong, but Rynn refused to answer.
+The Nagai were winning, fighting their way onto and stealing ships, as the Zantarrk fell one trooper after the last.
+Luke and Rynn held the line while more Nagai escaped, until the two were picked up by the
 Falcon
 , which departed into space towards Nagi to win this revolution once and for all.
-[
-238
-]
 Liberation of Nagi
 [
 ]
@@ -6469,9 +5323,6 @@ If we take them down, the Fenril Consortium will be finished.
 Easier said than done, kid.
 "
 ―Luke Skywalker and Han Solo on the surface of Nagi.
-[
-239
-]
 The New Republic's heroes split up on Nagi.
 As the
 Falcon
@@ -6481,18 +5332,16 @@ down to the surface. The freighter crashed into a crowd of Zantarrk pirates, tak
 landspeeders
 and
 speeder bikes
-appeared, one member saying that it was prophesized that Jesrit would arrive. Jesrit set their goals straight and introduced her new allies to the recently arrived Nagai. The group then decided to split up, Luke, Rynn, Jesrit, and Marntiv going with the Nagai to find medical aid for Zenat, while Solo, Valance, Gauvis, Finch, and Bastion set out to find and eliminate Venk and Oskure as quickly as they could. Skywalker and his allies were on a Nagai convoy as Zenat's illness quickly became all-consuming, as if her life is being drained. Jesrit promised that they wouldn't let Rynn die, as a group of
+appeared, one member saying that it was prophesized that Jesrit would arrive.
+Jesrit set their goals straight and introduced her new allies to the recently arrived Nagai.
+The group then decided to split up, Luke, Rynn, Jesrit, and Marntiv going with the Nagai to find medical aid for Zenat, while Solo, Valance, Gauvis, Finch, and Bastion set out to find and eliminate Venk and Oskure as quickly as they could.
+Skywalker and his allies were on a Nagai convoy as Zenat's illness quickly became all-consuming, as if her life is being drained.
+Jesrit promised that they wouldn't let Rynn die, as a group of
 Tof
 emerged in front of them and blew up their transports. As Skywalker woke up, he saw that Marntiv was killed in the blast, and that two of the large men were taking Jesrit and Rynn with them. The Tof departed on speeder bikes while claiming the Nagai rebellion was destined for death– with Skywalker left for dead in the barren wastes of Nagi.
-[
-239
-]
 Wandering the wastes injured and reflecting on what and who he'd lost, Luke Skywalker fainted from exhaustion, but awoke to the Nagai
 Tuula
 , a friend of Jesrit's and the daughter of Garlev. Tuula says that if Oskure kills Jesrit, the hope of the Nagai rebellion dies with her. She helps Luke up, and the two set off to find their friends,
-[
-239
-]
 as Tuula used her tracking skills to guide the two towards Oskure. In the capital city of
 Siva
 , Oskure was escorting the captured Zenat and Jesrit to a shuttle, guarded by Zantarrk stormtroopers, while her fleet gathered in orbit. Suddenly, a New Republic fleet, led by Alaytia, consisting of a
@@ -6500,34 +5349,45 @@ Defender
 -class cruiser
 , at least two
 escort frigates
-, several corvettes, and many starfighters arrived to confront the Consortium. But as the Anzati witch boasted, Skywalker, Solo, Valance, and Tuula, reunited, fired on Oskure. A new battle had begun as the stormtroopers unleashed a volley of fire at the New Republic heroes, who had the high ground. Luke noticed Oskure draining more of Rynn's life force from above, and slashed stormtroopers with his lightsaber as he dove down to face the Anzati. She'd been waiting for this, and accepted the young Jedi's challenge. The witch dove in with her claws out, slicing Luke and seeking to feast on his life force. She knocked his lightsaber out of his hand, and asked him if he'd made peace with his past and future. He then said that he'd made peace with who he was, and that his past is the Jedi's past, and that was also his future. Using the Force, Luke held Oskure back, pushing her to the wall as he held her still and approached her.
-[
-240
-]
+, several corvettes, and many starfighters arrived to confront the Consortium.
+But as the Anzati witch boasted, Skywalker, Solo, Valance, and Tuula, reunited, fired on Oskure.
+A new battle had begun as the stormtroopers unleashed a volley of fire at the New Republic heroes, who had the high ground.
+Luke noticed Oskure draining more of Rynn's life force from above, and slashed stormtroopers with his lightsaber as he dove down to face the Anzati.
+She'd been waiting for this, and accepted the young Jedi's challenge.
+The witch dove in with her claws out, slicing Luke and seeking to feast on his life force.
+She knocked his lightsaber out of his hand, and asked him if he'd made peace with his past and future.
+He then said that he'd made peace with who he was, and that his past is the Jedi's past, and that was also his future.
+Using the Force, Luke held Oskure back, pushing her to the wall as he held her still and approached her.
 Oskure and Skywalker finally face off.
-Luke then put the Crown of Verity on Reyna's head, causing her to scream as she was now only able to speak the absolute truth. Just before she began to speak, Oskure secretly pressed a button on a remote behind her back, and told Luke that if he wanted the "truth", that she, a creature of lies and shadows, would reveal it. She confessed to forcing the Nagai peasants to haphazardly assemble a fleet made of Imperial scraps, but in a way that would specifically ensure victory for herself. To Luke's horror, Oskure then said that the truth would set her free, and prove to be his final resting place. Then, to the shock of Stannix in orbit, the fleet above Nagi suddenly detonated, causing massive explosions and scaring New Republic pilots. Nagi had now become a death trap.
-[
-240
-]
+Luke then put the Crown of Verity on Reyna's head, causing her to scream as she was now only able to speak the absolute truth.
+Just before she began to speak, Oskure secretly pressed a button on a remote behind her back, and told Luke that if he wanted the "truth", that she, a creature of lies and shadows, would reveal it.
+She confessed to forcing the Nagai peasants to haphazardly assemble a fleet made of Imperial scraps, but in a way that would specifically ensure victory for herself.
+To Luke's horror, Oskure then said that the truth would set her free, and prove to be his final resting place.
+Then, to the shock of Stannix in orbit, the fleet above Nagi suddenly detonated, causing massive explosions and scaring New Republic pilots.
+Nagi had now become a death trap.
 New Republic pilots in orbit dodged and fought to eliminate debris from the detonated fleet, some of it managing to fall to the surface, threatening the Nagai. There, the standoff between Skywalker and Oskure ended with the Anzati throwing off the Crown of Verity as wreckage from the fleet rained and Skywalker used his lightsaber and the Force to redirect falling debris.
-[
-241
-]
-On the wastes of Nagi, the final battle for Nagi had begun as Oskure's forces, consisting of Tof soldiers, pirates, and Zantarrk stormtroopers faced off with Skywalker and his allies. The heroes fought fiercely, as Luke helped Rynn Zenat to limp away, her condition worsening even more. Skywalker wanted to help her, but she begged him to stop Oskure and end the fighting first. While Skywalker deflected a sudden barrage of blaster fire, Zenat crawled on the ground to grab the Crown of Verity as Oskure approached her ship to escape. Then, while the battle raged, a New Republic transport accompanied by two X-Wings landed– and Mon Mothma and Leia Organa emerged to announce that the New Republic stood with the Nagai– the Pirrosi delegation had surrendered. The fighting ceased upon this declaration, the combatants looking at the arriving dignitaries. Jesrit took this opportunity to address the crowd– saying that they now stood on the precipice of true peace, a free Nagi, and freedom from mainpulators, monsters, and their lackeys. Leia denounced the Fenril Consortium as a shadow government run by Oskure, stated that the New Republic stands with Nagi as a free, independent world they will help rebuild, and the enemy Nagai removed their salvaged Imperial trooper helmets, cheering the phrase "in Garlev's name", freed. Close by, the heroes cornered the escaping Oskure, Skywalker telling her that she had much to answer for, attacking the vampiric witch. Oskure was able to knock Skywalker down while her guards were killed, but Zenat emerged from behind, placing the Crown of Verity this time on her own head.
-[
-241
-]
+On the wastes of Nagi, the final battle for Nagi had begun as Oskure's forces, consisting of Tof soldiers, pirates, and Zantarrk stormtroopers faced off with Skywalker and his allies.
+The heroes fought fiercely, as Luke helped Rynn Zenat to limp away, her condition worsening even more.
+Skywalker wanted to help her, but she begged him to stop Oskure and end the fighting first.
+While Skywalker deflected a sudden barrage of blaster fire, Zenat crawled on the ground to grab the Crown of Verity as Oskure approached her ship to escape.
+Then, while the battle raged, a New Republic transport accompanied by two X-Wings landed– and Mon Mothma and Leia Organa emerged to announce that the New Republic stood with the Nagai– the Pirrosi delegation had surrendered.
+The fighting ceased upon this declaration, the combatants looking at the arriving dignitaries.
+Jesrit took this opportunity to address the crowd– saying that they now stood on the precipice of true peace, a free Nagi, and freedom from mainpulators, monsters, and their lackeys.
+Leia denounced the Fenril Consortium as a shadow government run by Oskure, stated that the New Republic stands with Nagi as a free, independent world they will help rebuild, and the enemy Nagai removed their salvaged Imperial trooper helmets, cheering the phrase "in Garlev's name", freed.
+Close by, the heroes cornered the escaping Oskure, Skywalker telling her that she had much to answer for, attacking the vampiric witch.
+Oskure was able to knock Skywalker down while her guards were killed, but Zenat emerged from behind, placing the Crown of Verity this time on her own head.
 Skywalker and his allies charge Reyna Oskure as she attempts to escape.
 Rynn's eyes glowed, and she explained that the Crown allows the wearer to not only see the truth, but all that they've left behind. Grabbing Oskure, Zenat told the ancient Anzati that she'd taken something from her, a piece of her that's helped her destroy so many lives in the Fenril sector. Oskure mocked Zenat's
 spice runner
-background, but the pilot continued, telling Oskure that she'd left something behind inside of her, the sorceress's skin growing more and more decrepit as the rapidly aging woman begged to be left alone. This began to restore Zenat, who became somewhat mad with power, taunting the dying witch– to Skywalker's dismay. He begged her to stop, to not lash out for revenge, and it was Solo's hand on Zenat's shoulder that finally stopped her, as he reminded her that she had won, and shouldn't drag herself down with Oskure. The crumpled, old body of Reyna Oskure then fell to the ground, barely clinging to life, as Rynn removed the Crown.
-[
-241
-]
-Some time later, Rynn asked Luke if it was really over, to which the Jedi said that it was, for now– but there was always a potential challenge waiting around the corner. In the city of Siva, the New Republic heroes celebrated and gathered with the Nagai, as they began clearing debris and rebuilding. Jesrit thanked Luke and his friends, and Luke clarified that he was just keeping his promise from Gadrilam. Zenat saw this moment of reconstruction, celebration, and all the rest of it, and reflected on the moment of happiness with Luke, who told her that these moments were incredibly important. The Jedi said these moments were what keep one moving through the dark times, even when the fight feels endless: moments of peace and happiness like this give one life.
-[
-241
-]
+background, but the pilot continued, telling Oskure that she'd left something behind inside of her, the sorceress's skin growing more and more decrepit as the rapidly aging woman begged to be left alone.
+This began to restore Zenat, who became somewhat mad with power, taunting the dying witch– to Skywalker's dismay.
+He begged her to stop, to not lash out for revenge, and it was Solo's hand on Zenat's shoulder that finally stopped her, as he reminded her that she had won, and shouldn't drag herself down with Oskure.
+The crumpled, old body of Reyna Oskure then fell to the ground, barely clinging to life, as Rynn removed the Crown.
+Some time later, Rynn asked Luke if it was really over, to which the Jedi said that it was, for now– but there was always a potential challenge waiting around the corner.
+In the city of Siva, the New Republic heroes celebrated and gathered with the Nagai, as they began clearing debris and rebuilding.
+Jesrit thanked Luke and his friends, and Luke clarified that he was just keeping his promise from Gadrilam.
+Zenat saw this moment of reconstruction, celebration, and all the rest of it, and reflected on the moment of happiness with Luke, who told her that these moments were incredibly important.
+The Jedi said these moments were what keep one moving through the dark times, even when the fight feels endless: moments of peace and happiness like this give one life.
 Foundations of an order
 [
 ]
@@ -6535,74 +5395,26 @@ Foundations of an order
 I had great hope for the future of the Jedi. I came to believe that if a single Jedi could help bring balance back to the Force, then perhaps a restored Jedi Order could maintain peace and prevent the dark side from ever regaining its hold on the galaxy. So I scoured worlds for the remaining Jedi texts and gathered a new class of apprentices under my tutelage.
 "
 ―Luke Skywalker
-[
-242
-]
 Luke Skywalker visited many places in search of Jedi lore, including Elphrona.
 Just as he promised Farnay near the start of his own Jedi studies,
-[
-48
-]
 in 5 ABY,
-[
-243
-]
 Skywalker set about rebuilding the Jedi Order. Despite his optimism, he had many unanswered questions
-[
-244
-]
 and was hesitant to take on another apprentice after his sister Leia, unsure of his grounding in Jedi lore.
-[
-4
-]
 Luke became a caretaker of the Jedi Order's legacy, and largely disappeared from galactic view and dedicated himself to traveling the galaxy in hopes of finding what remained of the Jedi after the Empire's long efforts to eradicate their history. Through his quest, he came to understand much about himself and his destiny and gained the confidence he needed to rebuild the Jedi Order.
-[
-244
-]
 As he traveled the galaxy, he also searched for force-sensitives who could possibly become his students.
-[
-245
-]
 During this long and difficult task,
-[
-244
-]
 Skywalker was aided by
 Lor San Tekka
 , an explorer and member of the
 Church of the Force
-[
-246
-]
 who, though not Force-sensitive himself, believed in the Jedi ideals. San Tekka was old enough to remember the Jedi Knights before the Clone Wars, and he did not believe the Emperor's lies about how the Jedi betrayed the Old Republic.
-[
-229
-]
 San Tekka, who believed that the return of the Jedi Order was essential to bring balance to the Force,
-[
-8
-]
 became a valuable ally for both Skywalker and Organa.
-[
-229
-]
 Gatalenta
 was one of the first destinations in Skywalker's search,
-[
-247
-]
 and he also traveled to Moraband,
-[
-248
-]
 the ancient home of the Sith,
-[
-21
-]
 to investigate anything he could about the Force.
-[
-248
-]
 He visited the
 Deep Core
 planet of
@@ -6610,18 +5422,9 @@ Tython
 many times and studied its ancient
 ruined temple
 , impressed by the majesty of the site every time he visited.
-[
-7
-]
 He scoured many worlds and assembled a collection of eight ancient bound
 books
-[
-4
-]
 and scrolls
-[
-19
-]
 that described Jedi tenets, history and guidance for those following the path of the Jedi—
 sacred Jedi texts
 . One of the books was the
@@ -6631,32 +5434,20 @@ Ossus
 . The
 Aionomica
 was another, a two-volume collection of Jedi explorations and codifications of the Force, part codex, correspondence and scrapbook.
-[
-4
-]
 He also found a book that was a catalog of the
 Eeshaypher Collection
 , a forbidden gallery of artifacts related to the dark side of the Force.
-[
-7
-]
 At one point, Skywalker journeyed to
 Black Spire Outpost
 on
 Batuu
 , searching for ancient Jedi texts and artifacts.
-[
-249
-]
 Skywalker uncovered the
 Aionomica
 and other Jedi relics on his travels.
 Skywalker dedicated much of these years to finding the site of the
 first Jedi Temple
 . He uncovered many tantalizing clues that hinted at the origins of the Jedi, but the precise location was a mystery. One key to unravelling the mystery was his study of the spread of the Force-sensitive uneti saplings.
-[
-244
-]
 He also made use of the
 Jedi star compass
 he had discovered in the Emperor's storehouse on Pillio. With a
@@ -6669,49 +5460,29 @@ wayfinders
 and was attuned to specific points in hyperspace. Through studying the compass, Skywalker uncovered a path to Ahch-To the site of
 Temple Island
 and the first Jedi Temple.
-[
-4
-]
 With the help of Lor San Tekka, he finally put together the many clues and learned the location of the temple, a discovery that he and San Tekka kept a secret.
-[
-244
-]
-With San Tekka, Skywalker hunted down relics the force across the stars. Following the Jedi compass he recovered on Pillio, the pair mapped out the network of Jedi temples scattered across the galaxy, many of which were forgotten after the end of the Jedi Purge. Their voyages proved fruitful most of the time, Skywalker amassing a massive collection of tomes, texts, scrolls, data cards, ritual items, sigils, and other antique symbols. Besides the Jedi star compass, Skywalker also acquired lightsabers. All of this, the pair of men researched, gaining even deeper understanding of the old Jedi Order and its teachings.
-[
-7
-]
+With San Tekka, Skywalker hunted down relics the force across the stars.
+Following the Jedi compass he recovered on Pillio, the pair mapped out the network of Jedi temples scattered across the galaxy, many of which were forgotten after the end of the Jedi Purge.
+Their voyages proved fruitful most of the time, Skywalker amassing a massive collection of tomes, texts, scrolls, data cards, ritual items, sigils, and other antique symbols.
+Besides the Jedi star compass, Skywalker also acquired lightsabers.
+All of this, the pair of men researched, gaining even deeper understanding of the old Jedi Order and its teachings.
 Skywalker discovered the lost cache of Jedi artifacts belonging to Jocastu Nu.
 Around
 6 ABY
 ,
-[
-3
-]
 in his explorations for Jedi lore, Skywalker discovered the
 cache
 of Jedi
 Chief Librarian
 Jocasta Nu
 ,
-[
-250
-]
 and recovered her holocrons, which contained a wealth of Jedi knowledge and history.
-[
-245
-]
 He uncovered many lost Jedi and Force relics throughout the galaxy, including a
 Jedi Crusader pendant
 ,
-[
-244
-]
 and another Holocron, of the High Republic Era Jedi
 Avar Kriss
 .
-[
-251
-]
 He came to learn about some of the Jedi Masters that existed before the fall of the Order, such as
 Mace Windu
 ,
@@ -6725,17 +5496,11 @@ Darth Tyranus
 , and the Inquisitorius Jedi hunters of the Galactic Empire and about several locations and temples strong with the Dark Side such as his father's castle
 Fortress Vader
 on Mustafar. With all this, he also learned about the Sith's history and several events, such as the creation of Darth Bane's Rule of Two, and the Scourge of Malachor.
-[
-242
-]
 Another relic he recovered was a page of the
 Journal of Caleb Dume
 , a survivor of the Jedi Purge who took on the new name Kanan Jarrus, fought against the Empire, and trained his own apprentice,
 Ezra Bridger
 , in the years of Skywalker's own youth on Tatooine.
-[
-242
-]
 He eventually brought this and the other Jedi artifacts he had uncovered to Ahch-To and compiled his knowledge of the Jedi into a book he called
 The Secrets of the Jedi
 . Ahch-To was also where Skywalker collected the
@@ -6747,17 +5512,11 @@ Chronicles of Brus-bu
 ,
 Poetics of a Jedi
 , and the other sacred Jedi texts
-[
-4
-]
 and assembled them into a small
 library
 housed in an
 uneti tree
 .
-[
-252
-]
 Rescue of Grogu
 [
 ]
@@ -6765,16 +5524,10 @@ Rescue of Grogu
 He is strong with the Force, but talent without training is nothing. I will give my life to protect the Child… but he will not be safe until he masters his abilities.
 "
 ―Luke Skywalker, to Din Djarin
-[
-18
-]
 Luke Skywalker takes Grogu as his student.
 In approximately
 9 ABY
 ,
-[
-3
-]
 a
 Force-sensitive
 member of
@@ -6788,9 +5541,6 @@ Jedi Temple
 on Coruscant before the
 Great Jedi Purge
 but had not yet been fully trained as a Jedi,
-[
-253
-]
 and had since become a
 foundling
 cared for by the
@@ -6798,21 +5548,12 @@ Mandalorian
 bounty hunter
 Din Djarin
 , whom had been tasked with taking Grogu to someone who could train him in the use of the Force.
-[
-18
-]
 Shortly afterwards, Grogu was
 taken
 by an
 Imperial remnant
 .
-[
-18
-]
 Feeling a presence in the Force,
-[
-254
-]
 Skywalker tracked Grogu to a
 light cruiser
 that Djarin and his allies had boarded in
@@ -6822,9 +5563,6 @@ platoon
 of
 third-generation dark troopers
 that had trapped Grogu and Djarin's team on the ship's bridge. Afterwards, Skywalker offered his hand to Grogu, and, noting the child's strong attachment to Djarin, told Djarin that he would take care of him if Djarin allowed it. Djarin relinquished Grogu to Skywalker to be trained in the ways of the Force and Skywalker left the ship with the child.
-[
-18
-]
 Building an academy
 [
 ]
@@ -6844,44 +5582,36 @@ Sometimes I wonder if his heart is in it [...] What should I do about him?
 Trust your instincts.
 "
 ―Luke Skywalker and Ahsoka Tano on Grogu's training
-[
-255
-]
 Skywalker instructing Grogu on Ossus.
 Fulfilling the dying wish of Yoda,
-[
-12
-]
 Skywalker set out to begin training a new generation of Jedi. Having rescued and brought in an original Jedi Padawan from the twilight years of the Galactic Republic, Skywalker ventured to Ossus with the young Grogu to build the first
 Jedi Academy
-after the Jedi Order's near extinction following Order 66. Possessing the wisdom and teachings of his own masters, Skywalker tried to educate his young student through the ways of the Force. Telling tales of Master Yoda onto Grogu, the young Jedi Master passed on what he had learned, echoing Yoda's words "size matters not" and to do, not try. However, Skywalker strived to make impression on his small student, having to stop him from using the Force to eat creatures and let Grogu use the Force as he did. Knowing that knowledge lied in Grogu's memory, Luke offered to help him remember and placed his hands gently on the alien's head. Seeing the traumatic images of the 501st Legion gunning down three Jedi Knights protecting the Padawan, everything faded to black when the clones killed the Jedi and moved towards Grogu. When his student awoke, Luke greeted his return and began to better understand the turmoil and subsequent reluctance of Grogu towards his lessons.
-[
-255
-]
+after the Jedi Order's near extinction following Order 66.
+Possessing the wisdom and teachings of his own masters, Skywalker tried to educate his young student through the ways of the Force.
+Telling tales of Master Yoda onto Grogu, the young Jedi Master passed on what he had learned, echoing Yoda's words "size matters not" and to do, not try.
+However, Skywalker strived to make impression on his small student, having to stop him from using the Force to eat creatures and let Grogu use the Force as he did.
+Knowing that knowledge lied in Grogu's memory, Luke offered to help him remember and placed his hands gently on the alien's head.
+Seeing the traumatic images of the 501st Legion gunning down three Jedi Knights protecting the Padawan, everything faded to black when the clones killed the Jedi and moved towards Grogu.
+When his student awoke, Luke greeted his return and began to better understand the turmoil and subsequent reluctance of Grogu towards his lessons.
 Skywalker speaks with Tano about Grogu, while watching him train on the riverbank.
 While carrying Grogu on his back as he had done with Yoda on Dagobah, Skywalker felt the presence of the Mandalorian, Din Djarin. After a time, Grogu seemed to master balance and studied in awe as Luke practiced his skills with the lightsaber. Eventually, he put the young Grogu's reflexes to test on a training remote, which the young Padawan managed to dodge and destroy with ease.
 Ahsoka Tano
-approached Skywalker and complimented him on his progress with Grogu. The doubtful Jedi expressed his concerns that Grogu's progress was due to him gradually remembering his training on Coruscant, not necessarily his training so far with him. Ahsoka stated that sometimes the student teaches the master. Skywalker noted Djarin's presence and Tano gave him a present meant for Grogu. Not sure whether Grogu had heart for the way of the Jedi, Skywalker shared his thoughts. Fortunately, Tano knew the same mind of Skywalker's father, seeing that same compassionate heart which she felt Anakin had for her and mentioned Luke's alikeness. Skywalker asked what should be done and Tano told him to trust his instincts, wisdom she learned from her master. She then departed the planet and said the two would perhaps meet again and told the Force be with him.
-[
-255
-]
+approached Skywalker and complimented him on his progress with Grogu.
+The doubtful Jedi expressed his concerns that Grogu's progress was due to him gradually remembering his training on Coruscant, not necessarily his training so far with him.
+Ahsoka stated that sometimes the student teaches the master.
+Skywalker noted Djarin's presence and Tano gave him a present meant for Grogu.
+Not sure whether Grogu had heart for the way of the Jedi, Skywalker shared his thoughts.
+Fortunately, Tano knew the same mind of Skywalker's father, seeing that same compassionate heart which she felt Anakin had for her and mentioned Luke's alikeness.
+Skywalker asked what should be done and Tano told him to trust his instincts, wisdom she learned from her master.
+She then departed the planet and said the two would perhaps meet again and told the Force be with him.
 Skywalker showing Grogu Master Yoda's old lightsaber
 Heeding the advice of Tano, Skywalker decided to offer Grogu a final choice. In the stone hut, Skywalker presented Grogu with Din Djarin's gift as well as the lightsaber of Master Yoda, which Skywalker had kept. The first path was to accept the present from Djarin and be returned to him, however, by choosing attachment he would forsake the Jedi way. The second was to pick up
 Yoda's lightsaber
 and pledge himself to Luke's teachings to become his first Jedi Padawan. He told Grogu that to become a Jedi would take years and hard work, though at the end he could be a great Jedi. He then let Grogu choose.
-[
-255
-]
 Grogu would choose the armor, thus leading Skywalker to put him in his X-wing starfighter and instruct R2-D2 to pilot him to Tatooine to be reunited with Djarin.
-[
-256
-]
 Despite their time together being brief, Skywalker's guidance had a significant impact on Grogu. After being asked about Grogu's impressive use of the Force by fellow Mandalorian
 Bo-Katan Kryze
 , Djarin noted that his abilities were a result of Skywalker's training.
-[
-257
-]
 Some time after his meeting with Ahsoka Tano, the
 Nightsister
 Morgan Elsbeth
@@ -6895,9 +5625,6 @@ Peridea
 in a
 distant galaxy
 .
-[
-258
-]
 Recruiting his nephew
 [
 ]
@@ -6905,118 +5632,40 @@ Recruiting his nephew
 He's an amazing teacher. Very strong. I've learned so much from him…
 "
 ―Ben Solo, on his uncle
-[
-259
-]
 Skywalker and Solo together
 Though reluctant to take on another apprentice at first, when the Force awakened in Skywalker's nephew Ben Solo
-[
-4
-]
 and his mother Leia could see the dark side taking hold of her son, she entrusted the boy to her brother to help him find balance.
-[
-242
-]
 He agreed to train the 10-year-old Solo,
-[
-4
-]
 in
 15 ABY
 .
-[
-260
-]
 Skywalker took on the responsibilities of a Jedi Master by teaching his nephew. After Ben's fall to the dark side however, Luke would say that he was merely playing the role of Jedi Master as it was a title he had not formally earned.
-[
-242
-]
 Skywalker taught Solo the ways of the Jedi, in its many forms, under the tutelage and impressed on his pupil the importance of practicing discipline and control. Solo gave his best efforts to gain his Master's approval, although at times their familial bond caused him to address Skywalker as uncle instead of Master.
-[
-7
-]
 Though he loved his nephew,
-[
-261
-]
 Skywalker had committed his life to reestablishing the Jedi Order's teachings, which had virtually nothing to do with family ties; therefore, he taught Solo that detachment and distance were necessary to gaining the pure focus that every Jedi aspired to achieve.
-[
-7
-]
 His nephew soon joined in exploring the galaxy for ancient Jedi lore,
-[
-4
-]
 and together they found holocrons from forgotten eras and ancient Jedi texts with arcane writings.
-[
-204
-]
 The two shared more than the same Skywalker blood, for like him, Ben gained a strong devotion to the ways of the Jedi Order.
-[
-242
-]
 Skywalker saw his nephew's raw power and believed he could pass on his strengths to him,
-[
-19
-]
 and he attempted to manage his progress through the Force by having him exercise a level of restraint.
-[
-262
-]
 Solo was his strongest and most prized student,
-[
-20
-]
 and Skywalker went on to place his hope for the Jedi Order's future within his nephew,
-[
-242
-]
 and despite knowing of the darkness within his pupil, the Jedi Master believed he was strong enough to keep it in check.
-[
-244
-]
 Skywalker was a kind master,
-[
-245
-]
 and Solo considered his uncle to be a strong and amazing teacher,
-[
-259
-]
 but Skywalker made mistakes that culminated over time, protecting Ben from the dark truths of their family, much like his sister did before him, and inadvertently isolated Ben over the years of his training.
-[
-4
-]
 At the request of his sister, Luke never provided his nephew with the details of Anakin Skywalker's fall to the dark side or Darth Vader's redemption and return to the light.
-[
-204
-]
 During his training of his nephew, a powerful dark side-practitioner known as
 Snoke
 ,
-[
-259
-]
 who was the
 Supreme Leader
 of a splinter group of the Empire known as the
 First Order
 , and also secretly a puppet of the resurrected Emperor Palpatine,
-[
-17
-]
 began influencing Ben from afar, clouding him with the dark side.
-[
-259
-]
 At some point Skywalker had encountered Snoke and supposedly damaged him,
-[
-20
-]
 and Snoke was responsible for indirectly inspiring Luke to rebuild the Jedi Order, having tried to shatter his resolve.
-[
-244
-]
 More apprentices
 [
 ]
@@ -7024,28 +5673,13 @@ More apprentices
 We all studied together. I was first, but they came not long after.
 "
 ―Ben Solo, on Luke's training other apprentices
-[
-251
-]
 Skywalker training a new generation of Jedi
 Around
 16 ABY
 ,
-[
-3
-]
 Skywalker gathered disciples, young force-sensitive beings adrift with no way to harness their abilities as a result the Jedi Purge,
-[
-204
-]
 who went on to be his first students.
-[
-244
-]
 Skywalker's new students numbered about a dozen besides his nephew,
-[
-229
-]
 including students
 Voe
 ,
@@ -7053,63 +5687,25 @@ Tai
 , and
 Hennix
 ,
-[
-20
-]
 and he worked to teach them everything he had learned in his own training and about the light side of the Force per Yoda's command.
-[
-263
-]
 Skywalker hoped that teaching the students in a real Jedi Temple would offer them a more traditional Jedi path than his own training under Obi-Wan Kenobi and Yoda. He kept temple's location on Ossus a secret known only to the members of the Order and his loyal droid R2-D2.
-[
-244
-]
 Skywalker stored the recovered Jedi knowledge and relics that he and Lor San Tekka had recovered within the Jedi Temple,
-[
-7
-]
 a decision which Solo disagreed, which he believed was just locked up and never used.
-[
-259
-]
 With the small gathering of his new students looking to him as a spiritual guide and mentor for the Jedi arts, Skywalker believed he could usher in a new era of enlightenment.
-[
-204
-]
 With his attention now split between several other apprentices, Skywalker's nephew Ben Solo's focus was drawn away to dark Force knowledge.
-[
-4
-]
 Teaching several Jedi techniques and traditions as telekinesis, meditation, and the use and construction of
 lightsabers
 ,
-[
-251
-]
 Skywalker's approach for guiding the young minds under his care was steeped in his own master Yoda's teachings passed on while he was on Dagobah, so would often be preaching about patience and balance.
-[
-204
-]
 While also instilling the belief that all beings were equal within the Force,
-[
-204
-]
 he gave lectures outside his temple, passing on ever more experience from training with Yoda on Dagobah as he taught the levitation of rocks through the Force. During one such event, student Voe asked why Ben Solo was stronger, where Skywalker compared the Force to a door, that it would become easier to use the more she opened herself up to it. The Jedi Master also tutored Hennix in opening holocrons through the Force, reminding the young
 Quarren
 to listen to the unique voices of each holocron, for each one was different based on their teachings.
-[
-251
-]
-Skywalker desired heavily to preserve the teachings of the Jedi Order, laboring to pass on the best of what Yoda and Obi-Wan taught him as Jedi mentors at his Jedi temple and to instill the core beliefs they embodied within the next generation. Additionally, Luke understood what Yoda experienced with himself on Dagobah as teacher, having the same unique frustrations with his own pupils; a master guiding a young unseasoned student that was convinced they were wasting time on pointless exercises, such as stacking stones.
-[
-204
-]
+Skywalker desired heavily to preserve the teachings of the Jedi Order, laboring to pass on the best of what Yoda and Obi-Wan taught him as Jedi mentors at his Jedi temple and to instill the core beliefs they embodied within the next generation.
+Additionally, Luke understood what Yoda experienced with himself on Dagobah as teacher, having the same unique frustrations with his own pupils; a master guiding a young unseasoned student that was convinced they were wasting time on pointless exercises, such as stacking stones.
 At some point during his time as a Jedi Master, Skywalker would face a group of
 IG-RM assassin droids
 alongside his nephew.
-[
-264
-]
 Encountering the Knights of Ren
 [
 ]
@@ -7124,57 +5720,51 @@ Jedi outpost
 . Everything in it belongs to the Jedi Order, which, at the moment, means me. I am the last Jedi.
 "
 ―Ren and Skywalker
-[
-259
-]
 Skywalker, Solo, and San Tekka discover the Jedi Outpost on Elphrona.
 In
 19 ABY
 , the year his nephew turned fourteen,
-[
-204
-]
 Skywalker, Ben, and Lor San Tekka
 traveled
 to a
 Jedi outpost
 on
 Elphrona
-, a location from the days of the High Republic Era, hoping to find Jedi artifacts. Luke flew the ship and conversed with San Tekka, while Solo, without his master's knowledge, was communing with Snoke. Skywalker was initially skeptical of a Jedi presence so far from the core, but San Tekka assured him that with his expertise he had recognized the description from his contact as a Jedi Outpost, and explained that the Jedi's activity was greatly expanded throughout the galaxy during the High Republic Era. Meanwhile, Solo telepathically communicated with Snoke, expressing that he was tired of missions to find artifacts with Skywalker that he would just lock away in the temple and never use. Solo admitted that Skywalker was an amazing teacher, but was frustrated that he never wanted Solo to use any of the things he had taught him, which Snoke claimed was because Skywalker viewed Solo as a child and had not realized his true capabilities. Skywalker then told Solo that they would possibly find insights into the old Jedi, and added that they could find interesting weapons, as he knew that Solo was interested in such subjects, which San Tekka affirmed. Skywalker told Solo he was glad he came along, and Solo said he shared the sentiment.
-[
-259
-]
+, a location from the days of the High Republic Era, hoping to find Jedi artifacts.
+Luke flew the ship and conversed with San Tekka, while Solo, without his master's knowledge, was communing with Snoke.
+Skywalker was initially skeptical of a Jedi presence so far from the core, but San Tekka assured him that with his expertise he had recognized the description from his contact as a Jedi Outpost, and explained that the Jedi's activity was greatly expanded throughout the galaxy during the High Republic Era.
+Meanwhile, Solo telepathically communicated with Snoke, expressing that he was tired of missions to find artifacts with Skywalker that he would just lock away in the temple and never use.
+Solo admitted that Skywalker was an amazing teacher, but was frustrated that he never wanted Solo to use any of the things he had taught him, which Snoke claimed was because Skywalker viewed Solo as a child and had not realized his true capabilities.
+Skywalker then told Solo that they would possibly find insights into the old Jedi, and added that they could find interesting weapons, as he knew that Solo was interested in such subjects, which San Tekka affirmed.
+Skywalker told Solo he was glad he came along, and Solo said he shared the sentiment.
 When they landed, Skywalker was impressed by the sight of the outpost. He cautioned his apprentice to careful and warned that such a place was likely to be rigged with traps, recalling a time he found a lightsaber in a similar place that turned out to be a trap and nearly killed him. Inside, they found a treasure trove that Skywalker judged so impressive he thought it may be better than Jocasta Nu's cache, including many Jedi holocrons and a
 lightsaber rifle
 . Skywalker was excited by the possibility of learning many new things. As the three perused the outpost, instantly, both Skywalker and Solo felt a cold presence within the structure. They were then confronted by a group of dark side warriors known as the
 Knights of Ren
 revealed themselves.
-[
-259
-]
 Luke battles the Knights of Ren
 Their master, "
 Ren
-," declared themselves, and claimed ownership of all within the outpost and that they way they took it was up to Skywalker. Skywalker countered, shooting back that all within the outpost, due it being a Jedi location, belonged to the Order; all the holocrons and relics belonged to Luke, for he was the last Jedi Knight even though he would not be for long. Skywalker told the Knights he could sense the dark side in them and would never let them have the artifacts. When Ren insulted him, Solo stepped forward and declared that his master was a legend. Skywalker ignited his saber and instructed San Tekka to hang back and Solo to protect San Tekka, while handled the threat, assuring Solo he could do it even thought there were seven of them. Ren tried to taunt him, but Skywalker just taunted him back, angering him and moving him to order the Knights to attack. As Solo watched on and called out to him, Skywalker engaged the knights, not intending to kill any of them, and managed to overpower them quite easily despite their numbers, which he explained as him not being alone because he had the powerful ally that was the Force by his side. He criticized them for their crude use of the Force, saying they wielded the dark side like a hammer, contrasted by his blade-like precision with the light side. He eventually used the Force to destroy the Knights' weapons and proceeded to prepare himself for a duel with
+," declared themselves, and claimed ownership of all within the outpost and that they way they took it was up to Skywalker.
+Skywalker countered, shooting back that all within the outpost, due it being a Jedi location, belonged to the Order; all the holocrons and relics belonged to Luke, for he was the last Jedi Knight even though he would not be for long.
+Skywalker told the Knights he could sense the dark side in them and would never let them have the artifacts.
+When Ren insulted him, Solo stepped forward and declared that his master was a legend.
+Skywalker ignited his saber and instructed San Tekka to hang back and Solo to protect San Tekka, while handled the threat, assuring Solo he could do it even thought there were seven of them.
+Ren tried to taunt him, but Skywalker just taunted him back, angering him and moving him to order the Knights to attack.
+As Solo watched on and called out to him, Skywalker engaged the knights, not intending to kill any of them, and managed to overpower them quite easily despite their numbers, which he explained as him not being alone because he had the powerful ally that was the Force by his side.
+He criticized them for their crude use of the Force, saying they wielded the dark side like a hammer, contrasted by his blade-like precision with the light side.
+He eventually used the Force to destroy the Knights' weapons and proceeded to prepare himself for a duel with
 Ren
 , who wielded a
 red lightsaber
-. Ren informed Skywalker that he activated a kill switch on his lightsaber that would detonate the room if it left his hand. Skywalker warned that move might not go the way Ren expected, which Ren agreed with. Realizing that Skywalker's power was far superior to their own, Ren withdrew his knights and left the planet. However, before he left, Ren removed his helmet and warned Skywalker about the strong presence of the dark side within Solo, before offering the boy chance, if he chose, to seek them out if decided he wanted another path.
-[
-259
-]
+.
+Ren informed Skywalker that he activated a kill switch on his lightsaber that would detonate the room if it left his hand.
+Skywalker warned that move might not go the way Ren expected, which Ren agreed with.
+Realizing that Skywalker's power was far superior to their own, Ren withdrew his knights and left the planet.
+However, before he left, Ren removed his helmet and warned Skywalker about the strong presence of the dark side within Solo, before offering the boy chance, if he chose, to seek them out if decided he wanted another path.
 Ultimately, the structure proved to be a source of more knowledge for Skywalker,
-[
-245
-]
 for he recovered the holocrons and other relics inside, leaving the outpost empty,
-[
-251
-]
 but his nephew was prompted with the dark side of the Force.
-[
-245
-]
 Quest for Exegol
 [
 ]
@@ -7185,29 +5775,18 @@ Visions and voices
 But this…place, whatever it is. I'm seeing it for a reason, Lor. I can feel it.
 "
 ―Luke Skywalker to Lor San Tekka on his visions
-[
-7
-]
 As his first disciples grew older
-[
-20
-]
 and new younglings came into the New Jedi Order's care, Skywalker had a Twi'lek named
 Enyo
 help him as one of the younglings' instructors.
-[
-7
-]
 In
 21 ABY
 ,
-[
-265
-]
-Skywalker started feeling an increasing darkness in the Force and having dark visions that frequently came to him in meditation. One day, Lor San Tekka, who was the only person Skywalker told about the visions, visited Skywalker in his temple on Ossus, his old friend's arrival heralded to Skywalker by Ben Solo. San Tekka greeted Skywalker and Solo, but once the latter was gone, asked Skywalker about the visions and whether or not they had become stronger or changed. Skywalker asked San Tekka to help him understand the visions and learn what the place in them was by standing vigil over him while he accessed the vision and described it. San Tekka was hesitant, but agreed, and Skywalker thus began the meditation.
-[
-7
-]
+Skywalker started feeling an increasing darkness in the Force and having dark visions that frequently came to him in meditation.
+One day, Lor San Tekka, who was the only person Skywalker told about the visions, visited Skywalker in his temple on Ossus, his old friend's arrival heralded to Skywalker by Ben Solo.
+San Tekka greeted Skywalker and Solo, but once the latter was gone, asked Skywalker about the visions and whether or not they had become stronger or changed.
+Skywalker asked San Tekka to help him understand the visions and learn what the place in them was by standing vigil over him while he accessed the vision and described it.
+San Tekka was hesitant, but agreed, and Skywalker thus began the meditation.
 The ancient Sith world of Exegol and its
 Sith Citadel
 , which Luke Skywalker had a vision of in 21 ABY.
@@ -7216,9 +5795,6 @@ Exegol
 , though he did not know that was what he was seeing. Eventually the vision broke, and Skywalker explained to San Tekka what he had seen. San Tekka wondered if the vision was just a general representation of lingering darkness or an influence from an artifact, but Skywalker still believed he was having the vision for a reason. Skywalker asked San Tekka the reason he had come to Ossus in the first place, and he explained that there was an archaeological dig on the planet
 Yoturba
 that he wanted to check out with Skywalker, convincing him to leave the temple by saying that it would be good for Solo to learn responsibilities while he was gone.
-[
-7
-]
 Yoturba
 [
 ]
@@ -7230,9 +5806,6 @@ something
 there. A…person. No. A shape. Like a…a shadow. It was…on me, I could feel it, I could hear it speaking to me.
 "
 ―Mico Haswell to Luke Skywalker, after being influenced by a kyber crystal bled with the dark side of the Force
-[
-7
-]
 A Sith holocron, like the one discovered on Yoturba.
 Skywalker and San Tekka arrived at the
 archeological expedition
@@ -7248,16 +5821,16 @@ at the site. Skywalker recognized it immediately, and San Tekka recognized the w
 Aurebesh
 . Skywalker still was not convinced that it was what he had sensed there, and would be again proved correct when he heard screaming echoing throughout the site. Archeologist
 Mico Haswell
-had discovered a Sith kyber crystal and had his mind influenced by it, causing him to uncontrollably lash out and cause destruction with the Force. Luke restrained him with the Force, but in reaching out to him once again had a vision of Exegol that Haswell was now present in. Haswell leapt toward Skywalker in the vison and moved in a way that Skywalker recognized to be inhuman and even reptilian. Then Skywalker was on Yoturba again and managed to restrain the man with the Force again, calling a team of medics to sedate him via an injection.
-[
-7
-]
+had discovered a Sith kyber crystal and had his mind influenced by it, causing him to uncontrollably lash out and cause destruction with the Force.
+Luke restrained him with the Force, but in reaching out to him once again had a vision of Exegol that Haswell was now present in.
+Haswell leapt toward Skywalker in the vison and moved in a way that Skywalker recognized to be inhuman and even reptilian.
+Then Skywalker was on Yoturba again and managed to restrain the man with the Force again, calling a team of medics to sedate him via an injection.
 Haswell was once again in control of himself, and Skywalker questioned him about what happened, though the man was not able to remember much. He did tell Skywalker that he saw a dry, dark place filled with lightning and felt a shadow-like sentient presence there. Once Haswell passed out, Skywalker discovered the
 bled
-kyber crystal in his hand, and confiscated it. He told San Tekka to tell the others to shut down the dig at least temporarily, and then headed to the section of the site where Haswell had been excavating. He discovered that the chamber was actually a crashed ship, and discovered more bled kyber crystals within it, that like the one Haswell had been holding, were the wrong size and shape for a lightsaber. This and his experience on the planet confirmed for Skywalker that something dark and evil was coming, deciding to leave San Tekka there to look over the dig site while he went to Tython in search of answers.
-[
-7
-]
+kyber crystal in his hand, and confiscated it.
+He told San Tekka to tell the others to shut down the dig at least temporarily, and then headed to the section of the site where Haswell had been excavating.
+He discovered that the chamber was actually a crashed ship, and discovered more bled kyber crystals within it, that like the one Haswell had been holding, were the wrong size and shape for a lightsaber.
+This and his experience on the planet confirmed for Skywalker that something dark and evil was coming, deciding to leave San Tekka there to look over the dig site while he went to Tython in search of answers.
 Ghosts of the past
 [
 ]
@@ -7265,27 +5838,32 @@ Ghosts of the past
 Remember, my son, no matter how dark the night may grow, you are never alone. You will know what to do, my son. Let the Force guide you. Let it flow through you as it flows through me. Use that power, and your instincts, for they are one and the same.
 "
 ―Anakin Skywalker, to Luke Skywalker
-[
-7
-]
 The ruined temple and the seeing stone on Tython.
 Skywalker traveled to Tython and visited the ruined Jedi temple known as the Force-henge, where he sat on the seeing stone and began to study the Sith Holocron and the kyber crystals and perform research through his many ancient tomes and personal notes. In a book that was a catalog of the Eeshaypher Collection, Skywalker discovered an entry about a
 Sith wayfinder
-, which he found remarkably similar in appearance and utility to the Sith holocron. The book stated that the wayfinders contained navigational data to an ancient Sith world called Ixigul—or in Skywalker's translation: Exegol. Skywalker gleaned from both the catalog and his other research that Exegol was meant to be a place of power and eternal life, and that its secret was so important that only two Sith wayfinders were ever made. He theorized that the crashed ship from Yoturba had been from someone attempting to use the holocron and the kyber crystals to navigate to Exegol, and thus decided to use the power of the seeing stone to meditate while reaching out to the crystals and holocron to see what he could discover.
-[
-7
-]
-During his meditation, Skywalker once again had a vision of Exegol, but this time if felt like he was truly on the planet, causing him to wonder if the information stored in the holocron had allowed the seeing stone to actually transport him to the planet. Skywalker was then approached by nine Sith wraiths on the planet who ignited red lightsabers and began to attack him. Skywalker could block their lightsabers with his own, but could not attack the wraiths themselves, his blade and his body merely passing right through them. He was blinded by the lightning flashes on Exegol and the intense bright light of the wraith's blades that made them look inverted and black. Skywalker started struggling to fight them more and more until all nine wraiths eventually went in for one coordinated strike, but before they could a blue glow in the shape of a person holding a lightsaber appeared in from of Skywalker and pushed them away. Skywalker realized he was being assisted by a Force-spirit with a blue-bladed lightsaber and initially thought was Kenobi, but when the figure lowered his hood, Skywalker learned that it was his father, Anakin Skywalker. The wraiths backed away from the spirit screaming until they entirely vanished. Anakin Skywalker then reached out his hand to Luke, who took it and then found himself back on Tython as if he had never left.
-[
-7
-]
+, which he found remarkably similar in appearance and utility to the Sith holocron.
+The book stated that the wayfinders contained navigational data to an ancient Sith world called Ixigul—or in Skywalker's translation: Exegol.
+Skywalker gleaned from both the catalog and his other research that Exegol was meant to be a place of power and eternal life, and that its secret was so important that only two Sith wayfinders were ever made.
+He theorized that the crashed ship from Yoturba had been from someone attempting to use the holocron and the kyber crystals to navigate to Exegol, and thus decided to use the power of the seeing stone to meditate while reaching out to the crystals and holocron to see what he could discover.
+During his meditation, Skywalker once again had a vision of Exegol, but this time if felt like he was truly on the planet, causing him to wonder if the information stored in the holocron had allowed the seeing stone to actually transport him to the planet.
+Skywalker was then approached by nine Sith wraiths on the planet who ignited red lightsabers and began to attack him.
+Skywalker could block their lightsabers with his own, but could not attack the wraiths themselves, his blade and his body merely passing right through them.
+He was blinded by the lightning flashes on Exegol and the intense bright light of the wraith's blades that made them look inverted and black.
+Skywalker started struggling to fight them more and more until all nine wraiths eventually went in for one coordinated strike, but before they could a blue glow in the shape of a person holding a lightsaber appeared in from of Skywalker and pushed them away.
+Skywalker realized he was being assisted by a Force-spirit with a blue-bladed lightsaber and initially thought was Kenobi, but when the figure lowered his hood, Skywalker learned that it was his father, Anakin Skywalker.
+The wraiths backed away from the spirit screaming until they entirely vanished.
+Anakin Skywalker then reached out his hand to Luke, who took it and then found himself back on Tython as if he had never left.
 Anakin Skywalker as a Force ghost
-Luke found that many of his books were burning and the holocron was completely destroyed, putting them out before speaking to Anakin. Anakin's figure flashed in and out and shifted between him as a young Jedi and him as the old man Luke had seen behind the mask of Darth Vader. Luke noticed that he seemed to be in pain and afraid. Anakin explained that there was a disturbance in the Force that was a shadow from an ancient time. He also clarified that the seeing stone had sent a part of Luke to Exegol and that it had taken everything in him to bring him back. Anakin reminded Luke that he could divert the path of the Force if he needed to, and that no matter how dark things seemed he was never alone as long as he allowed the Force to be his guide. Anakin then disappeared and left Luke alone until he heard the sound of a ship flying overhead and landing. It was Lando Calrissian, in the
+Luke found that many of his books were burning and the holocron was completely destroyed, putting them out before speaking to Anakin.
+Anakin's figure flashed in and out and shifted between him as a young Jedi and him as the old man Luke had seen behind the mask of Darth Vader.
+Luke noticed that he seemed to be in pain and afraid.
+Anakin explained that there was a disturbance in the Force that was a shadow from an ancient time.
+He also clarified that the seeing stone had sent a part of Luke to Exegol and that it had taken everything in him to bring him back.
+Anakin reminded Luke that he could divert the path of the Force if he needed to, and that no matter how dark things seemed he was never alone as long as he allowed the Force to be his guide.
+Anakin then disappeared and left Luke alone until he heard the sound of a ship flying overhead and landing.
+It was Lando Calrissian, in the
 Lady Luck
 , who greeted Luke, but immediately told him that he needed to leave and that it was too dangerous for him to be there. But Calrissian told him that Lor San Tekka had told him where he was because Calrissian had information about the Sith, and also believed they were back.
-[
-7
-]
 Calrissian's mission
 [
 ]
@@ -7293,9 +5871,6 @@ Calrissian's mission
 We need to find the family. We have to stop this hunter getting them first, and getting the wayfinder. Luke, listen, you said it yourself. There's a disturbance in the Force, a, what did you call it, a shadow, and it's coming at us fast.
 "
 ―Lando Calrissian, to Skywalker on the family being pursued by Ochi of Bestoon
-[
-7
-]
 Calrissian brought Skywalker onto his ship and explained that overheard an assassin named Ochi of
 Bestoon
 who had become
@@ -7305,26 +5880,20 @@ Halo Squadron
 fighting off hunters attacking the family's ship Wild Space that backed up Ochi's story, explaining that the New Republic had apparently relocated the family after the incident. He then displayed a hologram of a
 hex charm
 that the family had been carrying as proof that they were being hunted by the Sith. Skywalker recognized it immediately as a symbol of the Sith and decoded mirrored Aurebesh on it to be a Sith saying.
-[
-7
-]
 A hex charm, like the one depicted on the mysterious family's amulet.
-Calrissian expressed his worry over Ochi's implication that the Sith were still out there pulling strings, and wondered why they would want that family and go through the trouble of kidnapping the girl. Skywalker told Calrissian about his visions of Exegol, and told him that the way to the planet was hidden in a Sith wayfinder. Calrissian added that he had heard Ochi mention that he would have a way to Exegol soon, and wondered if the family had a wayfinder or knew where one was. But unbeknownst to Skywalker and Calrissian, the father of the family was a
+Calrissian expressed his worry over Ochi's implication that the Sith were still out there pulling strings, and wondered why they would want that family and go through the trouble of kidnapping the girl.
+Skywalker told Calrissian about his visions of Exegol, and told him that the way to the planet was hidden in a Sith wayfinder.
+Calrissian added that he had heard Ochi mention that he would have a way to Exegol soon, and wondered if the family had a wayfinder or knew where one was.
+But unbeknownst to Skywalker and Calrissian, the father of the family was a
 strand-cast
 of the late Emperor Palpatine named
 Dathan
 , and the girl, his daughter named
 Rey
 , was thus Palpatine's genetic granddaughter.
-[
-7
-]
 Calrissian decided that he and Skywalker needed to go together to find the family and stop the hunter from getting to them, urging Skywalker to get ahead of the shadow that he had sensed before it was too late. Skywalker was hesitant to bring Calrissian along, but agreed to partially because he was aware of Calrissian's daughter's kidnapping and his friend's desperate hope that investigating this kidnapping could lead to her. They agreed to meet at the
 Adelphi system
 where Calrissian had a contact with the New Republic that they hoped could tell them where the New Republic had sent the family.
-[
-7
-]
 Nightside
 [
 ]
@@ -7335,9 +5904,6 @@ It's them. Those are the same kind of ships that were chasing the family. […] 
 The dark side. It's here. I can feel it.
 "
 ―Calrissian and Skywalker, as Ochi's forces and the Sith arrive on Nightside
-[
-7
-]
 The Duros Shriv Suurgav
 Skywalker and Calrissian met with the latter's contact,
 Shriv Suurgav
@@ -7356,22 +5922,13 @@ Therezar system
 . Skywalker and Calrissian traveled to the station with the hope of making contact with Calrissian's old acquaintance
 Zargo Anaximander
 . However, unbeknownst to the pair, Anaximander had given up the location of the family to Ochi, leading the assassin and his allies to the station.
-[
-7
-]
 Using a clearance code that Anaximander had given Calrissian years earlier, Skywalker and Calrissian were able to land their ship in the VIP hangar of Nightside. They located the family's ship but discovered that it was empty. Using the Force, Skywalker located the family and sensed that they were aboard Anaximander's personal yacht
 Goldstone
 . R2-D2 then tapped into the station's surveillance systems and discovered from recordings that Dathan and Miramir were planning to escape with their daughter Rey. Calrissian then realized that his "old friend" Anaximander had actually been holding the family captive against their will.
-[
-7
-]
 The Droid Crush Pirates of Bestoon.
 Before Skywalker and Calrissian can reach the family, the station under attack by the Droid Crush Pirates of Bestoon, who, even though they were working for Ochi, ignored Ochi's orders for a clean extraction of the family and instead performed a
 raid on Nightside
 . Skywalker was able to sense in the Force that the attackers were the same people pursuing the family. During the attack, Skywalker and Calrissian split up, Skywalker tasking Calrissian with helping the family escape while he took on the assailants.
-[
-7
-]
 The lightsaber of Darth Noctyss
 Left alone, Skywalker used the Force to track a Sith presence that he felt, ending up in a cable train station. A masked
 Pantoran
@@ -7384,9 +5941,6 @@ Lady Luck
 , who informed Skywalker that he had helped the family escape the station in Anaximander's personal Yacht the
 Goldstone
 .
-[
-7
-]
 Torrenoteer Minor
 [
 ]
@@ -7400,9 +5954,6 @@ What's this, a Jedi with feelings? I thought that wasn't supposed to happen. Som
 These people are important, and we're going to find them.
 "
 ―Skywalker consoles Calrissian on the loss of his daughter and resolves to find the fugitive family
-[
-7
-]
 Skywalker and Calrissian followed the
 Goldstone
 via transmissions aboard the
@@ -7430,26 +5981,20 @@ Cerensco
 , and
 Krastan
 landed their starship and were also hunting the fugitive family. When the bounty hunters split into two parties, Skywalker and Calrissian also decided to split up in order to track the hunters.
-[
-7
-]
 The fugitive family pursued and protected by Skywalker and Calrissian
 While riding his speeder bike through a ravine system, Skywalker was
 ambushed
 by the two bounty hunters, also riding speeder bikes. Skywalker deflected their blaster bolts of using his lightsaber, and hit one bolt back at one of the hunters, causing the hunter's speeder bike to crash in a ravine. Skywalker chased the second speeder over a lake, once again deflecting the hunter's blaster bolts, causing the hunter and his speeder bike to fall in the lake by hitting the bolts back at him. Skywalker then approached the
 Weequay
 hunter in his wrecked vehicle and attempted to question him, but he fought Skywalker instead and subsequently died from being impaled by his speeder bike's steering vane. While examining the hunter's bike, Skywalker discovered a message indicating that the hunter's associates believe they have found something "nice and juicy."
-[
-7
-]
 Heading to coordinates transmitted by the hunter's associates, Skywalker found that the Gran hunter Krastan had captured Lando and was holding him in the prisoner clamp of a
 CAP-2
 walker. Skywalker fought Krastan with his lightsaber, killing him by defecting his own blaster bolts back at him. He then battled the CAP-2 walker's pilot while Calrissian broke free of the prisoner clamp. Skywalker sliced the CAP-2's left leg with his lightsaber, causing the machine to stumble, before using the Force to throw the machine to the ground. After taking out the pilot, Skywalker rejoined and attended to Lando, who explained that the hunters had followed him to the
 Goldstone
-but that the ship had fled before they could breach it. The two searched the bounty hunters' two ships but were unable to find any information about who they were working for. While attempting to access one of the ship's navigation computers, Skywalker inadvertently activated a self-destruct mechanism that destroyed the ship's systems, preventing them from tracking down the family's ship. Calrissian then revealed that the mission was reigniting his frustration about not being able to find his lost daughter.
-[
-7
-]
+but that the ship had fled before they could breach it.
+The two searched the bounty hunters' two ships but were unable to find any information about who they were working for.
+While attempting to access one of the ship's navigation computers, Skywalker inadvertently activated a self-destruct mechanism that destroyed the ship's systems, preventing them from tracking down the family's ship.
+Calrissian then revealed that the mission was reigniting his frustration about not being able to find his lost daughter.
 Polaar
 [
 ]
@@ -7460,9 +6005,6 @@ Yupe Tashu was revealed as the true master of the Acolytes of the Beyond. […] 
 She put it on, and Exim Panshard lived again.
 "
 ―Komat and Lando Calrissian, on how Kiza became possessed by Sith lord Exim Panshard
-[
-7
-]
 The Acolytes of the Beyond
 Skywalker had begun to suspect that the woman he encountered was related to a dark side cult called the
 Acolytes of the Beyond
@@ -7485,9 +6027,6 @@ KB-68
 , who was serving as
 Komat
 's sentry. Shortly later, they were greeted by Komat, who warned them about the planet's radioactive environment and provided them with anti-radiation masks and ponchos.
-[
-7
-]
 Agreeing to help them if they helped her in turn, Komat took them to a wrecked
 Mon Calamari cruiser
 that
@@ -7503,9 +6042,6 @@ Mask of Viceroy Exim Panshard
 which contained the preserved consciousness of the ancient Sith lord
 Exim Panshard
 and allowed him to take over her when she wore it. Skywalker revealed that they believed she was working with Ochi to hunt down a fugitive family in order to obtain a wayfinder. Explaining that two Sith wayfinders were made as navigational guides to Exegol, the hidden Sith world, Komat became determined to help Skywalker and Calrissian stop Kiza and keep her from reaching Exegol.
-[
-7
-]
 A Sith wayfinder
 Komat was able to locate the
 Goldstone
@@ -7516,12 +6052,12 @@ attacked the planet
 . Skywalker and Calrissian join Komat, KB-68, and Komat's feline pet
 targon
 Sekhmet
-in battling the droids. Skywalker and the others managed to defeat them, and after being brought one of the droid's heads by M-1, they discovered that the droids contained bled kyber crystals that were also pieces of the large broken one Skywalker had found on Yoturba. Skywalker decided that he would use the droids' navigational data to locate Kiza and make sure that she and subsequently Exim Panshard did not make it to Exegol, and thus make sure the Sith did not return. He did this with the assurance that while he did Calrissian and Komat would head to
+in battling the droids.
+Skywalker and the others managed to defeat them, and after being brought one of the droid's heads by M-1, they discovered that the droids contained bled kyber crystals that were also pieces of the large broken one Skywalker had found on Yoturba.
+Skywalker decided that he would use the droids' navigational data to locate Kiza and make sure that she and subsequently Exim Panshard did not make it to Exegol, and thus make sure the Sith did not return.
+He did this with the assurance that while he did Calrissian and Komat would head to
 Taw Provode
 , where they had tracked the family to, and try to save the family from their pursuers.
-[
-7
-]
 Kiza
 [
 ]
@@ -7529,9 +6065,6 @@ Kiza
 I can help you right now, Kiza. I can see what the mask has done to you. How it feeds off you, off your anger and your pain. The more you suffer, the stronger it gets. It will kill you, and then when you die, it will find someone else. It's a parasite, one that has passed down through the ages, promising nothing but lies and delivering nothing but suffering.
 "
 ―Skywalker to Kiza, on the mask of Sith lord Exim Panshard
-[
-7
-]
 Kiza, wearing the mask of Exim Panshard.
 Using coordinates retrieved from the droid lander's
 navigation computer
@@ -7541,20 +6074,21 @@ at the edge of the
 Red Honeycomb Zone
 . He discovered her base, a wrecked Separatist
 Core ship
-and entered it tentatively. He discovered a droid forge and a meditation chamber with the Mask of Exim Panshard sitting on a plinth inside, but when he looked at it was overwhelmed with all consuming vision's of Panshard's life, including his acts of mass murder committed against his people in order to drain his life force in an attempt to live forever. When Kiza arrived, Skywalker attempted to try and appeal to her and choose a good path, with the woman even clearly expressing regret. He insisted that the mask was using her and she did not have to listen to it, but Kiza explained that it had promised her rebirth on Exegol, which Skywalker told her was a lie. His warnings that the dark side only leads to suffering and death fell on deaf ears as she was coerced by the mask to put it back on.
-[
-7
-]
-Kiza engaged Skywalker in lightsaber combat, fueled by the knowledge of Panshard. Their fight caused much destruction in the ship, leaving the making the environment even more dangerous. While fighting, Kiza used the Force in attempt to pour hot molten metal onto Skywalker, but the Jedi Master used the Force to escape the ensuing molten fire in the droid foundry. However, molten material began to spread everywhere melt the ship. Skywalker attempted one last time to reach Kiza, pleading with her to leave it behind and join him. Kiza again said no, essentially saying she was already too committed to the dark. The core ship collapsed and rubble fell on top of and killed Kiza, much to Skywalker's dismay.
-[
-7
-]
+and entered it tentatively.
+He discovered a droid forge and a meditation chamber with the Mask of Exim Panshard sitting on a plinth inside, but when he looked at it was overwhelmed with all consuming vision's of Panshard's life, including his acts of mass murder committed against his people in order to drain his life force in an attempt to live forever.
+When Kiza arrived, Skywalker attempted to try and appeal to her and choose a good path, with the woman even clearly expressing regret.
+He insisted that the mask was using her and she did not have to listen to it, but Kiza explained that it had promised her rebirth on Exegol, which Skywalker told her was a lie.
+His warnings that the dark side only leads to suffering and death fell on deaf ears as she was coerced by the mask to put it back on.
+Kiza engaged Skywalker in lightsaber combat, fueled by the knowledge of Panshard.
+Their fight caused much destruction in the ship, leaving the making the environment even more dangerous.
+While fighting, Kiza used the Force in attempt to pour hot molten metal onto Skywalker, but the Jedi Master used the Force to escape the ensuing molten fire in the droid foundry.
+However, molten material began to spread everywhere melt the ship.
+Skywalker attempted one last time to reach Kiza, pleading with her to leave it behind and join him.
+Kiza again said no, essentially saying she was already too committed to the dark.
+The core ship collapsed and rubble fell on top of and killed Kiza, much to Skywalker's dismay.
 Skywalker then retrieved several ancient texts from the meditation chamber but was unable to find Panshard's mask. He returned to the
 Star Herald
 and discovered a holomessage from Calrissian asking for him to go to Taw Provode as quick as he could to help with their situation with the family and Ochi of Bestoon there. But unbeknownst to Skywalker, Panshard's mask survived, and as he departed some of Kiza's droids followed programming to reforge the mask with melted bled kyber crystals, before placing the mask on Kiza's dead body, allowing Panshard to live again by possessing and reanimating her body.
-[
-7
-]
 Clue to Exegol
 [
 ]
@@ -7562,30 +6096,26 @@ Clue to Exegol
 Luke and I were tailing an old Jedi hunter. Ochi of Bestoon. He was carrying a clue that could lead to a wayfinder. We followed his ship halfway across the galaxy here. When we got to his ship, it was abandoned.... No clue. No wayfinder.
 "
 ―Lando Calrissian, on his and Luke's mission to Pasaana
-[
-17
-]
 Skywalker and Lando Calrissian spent some time tracking down Ochi of Bestoon.
 Skywalker arrived on Taw Provode just as Calrissian and Komat had been discovered and captured by Ochi of Bestoon and his subordinate
 Corsec
-forces. Skywalker faced off with Ochi, and was surprised that his lightsaber did not cut through Ochi's dagger. The power of Ochi's dagger allowed him to hold himself off against the Jedi for some time until Skywalker managed to use his lightsaber to ignite a fuels reserve and trigger a massive explosion. Panshard appeared in his TIE Defender and started shooting at Skywalker and the others, leading Skywalker to realize that the mask was not really destroyed and the ancient Sith Lord lived on. Skywalker and Komat decided to chase him into space, while Calrissian and R2-D2 went after the family.
-[
-7
-]
+forces.
+Skywalker faced off with Ochi, and was surprised that his lightsaber did not cut through Ochi's dagger.
+The power of Ochi's dagger allowed him to hold himself off against the Jedi for some time until Skywalker managed to use his lightsaber to ignite a fuels reserve and trigger a massive explosion.
+Panshard appeared in his TIE Defender and started shooting at Skywalker and the others, leading Skywalker to realize that the mask was not really destroyed and the ancient Sith Lord lived on.
+Skywalker and Komat decided to chase him into space, while Calrissian and R2-D2 went after the family.
 Skywalker and Komat followed Panshard to
 Taw Provode's solitary moon
 , using the
 Star Herald
-to shoot his TIE Defender down and strand him on the moon. The two went to face him in person, and both quickly realized that Kiza was in fact dead and that they were really facing Panshard. Panshard told Skywalker to tell him how to get to Exegol or be killed, but Skywalker and Komat refused and instead faced off with their lightsabers. Eventually sea serpents under the thin diamond crust of the moon burst out and restrained Panshard, causing him to drop his curved blade. Skywalker picked it up and then called the mask to him with the Force before slicing it into four pieces with the two lightsabers and destroying Panshard for good.
-[
-7
-]
+to shoot his TIE Defender down and strand him on the moon.
+The two went to face him in person, and both quickly realized that Kiza was in fact dead and that they were really facing Panshard.
+Panshard told Skywalker to tell him how to get to Exegol or be killed, but Skywalker and Komat refused and instead faced off with their lightsabers.
+Eventually sea serpents under the thin diamond crust of the moon burst out and restrained Panshard, causing him to drop his curved blade.
+Skywalker picked it up and then called the mask to him with the Force before slicing it into four pieces with the two lightsabers and destroying Panshard for good.
 Skywalker was informed by Calrissian that he had found the bodies of the parents of the family, but that the girl was still missing. Skywalker, Calrissian, R2-D2, and Komat traveled to
 Neftali
 , where they buried them and honored their lives. Skywalker and Calrissian worried that Ochi had successfully captured the girl and taken her to Exegol, but they could not be sure, and decided to keep looking for Ochi.
-[
-7
-]
 Luke and Lando stand in front of the Bestoon Legacy on Pasaana
 After Calrissian took a time to recover by working with Komat at her homestead, Skywalker and Calrissian eventually
 tracked
@@ -7594,21 +6124,9 @@ Pasaana
 where they found
 his ship
 but no Ochi. They did find a sheet of old-looking paper with a wayfinder drawn on it that proved that Ochi had had a clue to a wayfinder,
-[
-7
-]
 but other than that, the trail went cold.
-[
-17
-]
 Skywalker then returned to Ossus to continue running his Jedi academy and left Calrissian on Pasanna, who decided to use the planet as his base to look for both the lost girl and his daughter. Skywalker stored the pieces of bled kyber crystal and the shards of Exim Panshard's mask in the temple with other artifacts.
-[
-7
-]
 Skywalker would chronicle his efforts to trace the disturbance in the Force and find the Sith Wayfinder in the Rammahgon throughout his explorations in the galaxy.
-[
-4
-]
 Telling a story
 [
 ]
@@ -7616,30 +6134,26 @@ Telling a story
 Considering… Well, your family, your skill in the Force, and that you'll be one of the first students to complete your training… It seems likely that you could hold a position of leadership in the Jedi Order to come.
 "
 ―Luke Skywalker, to Ben Solo
-[
-266
-]
 By passing on his experience to Solo, Skywalker hoped to guide his nephew on the path to becoming a true Knight of the Jedi Order.
 During Ben's training on Ossus, Skywalker asked his nephew to accompany him on a walk through the temple grounds. As they walked, Skywalker told Solo that he was almost ready to undergo the
 Jedi Trials
 , the completion of which would mark the end of their time together as Master and apprentice.
-[
-266
-]
-According to Skywalker, Solo would no longer have to listen to a master since he would be free to make his own decisions as a fully-trained Jedi Knight. In addition, Skywalker acknowledged Solo's potential to become a future leader in the Jedi Order that he was working to restore, given his nephew's status as a Skywalker, his strength in the Force, and the fact that he stood poised to be among the first in his generation to complete his instruction in the Jedi arts. Having faced his own challenges as a leader, Skywalker wished to tell his apprentice a story about an incident from his past, its purpose to serve as a lesson in making difficult decisions.
-[
-266
-]
+According to Skywalker, Solo would no longer have to listen to a master since he would be free to make his own decisions as a fully-trained Jedi Knight.
+In addition, Skywalker acknowledged Solo's potential to become a future leader in the Jedi Order that he was working to restore, given his nephew's status as a Skywalker, his strength in the Force, and the fact that he stood poised to be among the first in his generation to complete his instruction in the Jedi arts.
+Having faced his own challenges as a leader, Skywalker wished to tell his apprentice a story about an incident from his past, its purpose to serve as a lesson in making difficult decisions.
 Skywalker's story centered on his discovery and subsequent use of the
 Grim Rose
 , an ancient weapon that he discovered upon returning to the
 Living Sea
 on the planet
 Gazian
-. Solo learned that Skywalker had considered using the Grim Rose to assassinate Emperor Palpatine; using a sample of Palpatine's blood, the weapon could be used to target and kill the Emperor. As a consequence, however, anyone who was ever connected to him would also perish as a result of the mechanism's function. Solo theorized that the weapon had the capacity to destroy the Sith. Being aware of Vader's connection to Palpatine, Solo was certain that the weapon would have scanned Vader as well, ultimately resulting in the deaths of both Sith Lords. Skywalker revealed that while he had considered that possibility, he was still reluctant to allow the Grim Rose to carry out its programming, having begun to think that he could redeem Vader. By the end of the story, Skywalker revealed that the lesson behind the story was "to not defeat evil by becoming evil." Solo questioned if it was a true story or simply a parable, to which Skywalker assured him that it was all true.
-[
-266
-]
+.
+Solo learned that Skywalker had considered using the Grim Rose to assassinate Emperor Palpatine; using a sample of Palpatine's blood, the weapon could be used to target and kill the Emperor.
+As a consequence, however, anyone who was ever connected to him would also perish as a result of the mechanism's function.
+Solo theorized that the weapon had the capacity to destroy the Sith.
+Being aware of Vader's connection to Palpatine, Solo was certain that the weapon would have scanned Vader as well, ultimately resulting in the deaths of both Sith Lords.
+Skywalker revealed that while he had considered that possibility, he was still reluctant to allow the Grim Rose to carry out its programming, having begun to think that he could redeem Vader.
+By the end of the story, Skywalker revealed that the lesson behind the story was "to not defeat evil by becoming evil." Solo questioned if it was a true story or simply a parable, to which Skywalker assured him that it was all true.
 Fallen apprentice
 [
 ]
@@ -7647,100 +6161,57 @@ Ben Solo's betrayal
 [
 ]
 "
-I saw darkness. I sensed it building in him. I'd seen it in moments during his training. But then I looked inside, and it was beyond what I ever imagined. Snoke had already turned his heart. He would bring destruction, pain, death, and the end of everything I love because of what he will become. And for the briefest moment of pure instinct, I thought I could stop it. It passed like a fleeting shadow. And I was left with shame and with consequence. And the last thing I saw were the eyes of a frightened boy whose master had failed him.
+I saw darkness.
+I sensed it building in him.
+I'd seen it in moments during his training.
+But then I looked inside, and it was beyond what I ever imagined.
+Snoke had already turned his heart.
+He would bring destruction, pain, death, and the end of everything I love because of what he will become.
+And for the briefest moment of pure instinct, I thought I could stop it.
+It passed like a fleeting shadow.
+And I was left with shame and with consequence.
+And the last thing I saw were the eyes of a frightened boy whose master had failed him.
 "
 ―Luke Skywalker
-[
-8
-]
 Sensing the darkness within Ben Solo, Skywalker instinctively moved to strike down his nephew.
 One night in
 28 ABY
 ,
-[
-267
-]
 Skywalker, sensing the darkness within his nephew Ben growing in glimpses during his training, decided to probe Solo's mind as he lay asleep. He learned that Snoke had turned his apprentice's heart to the dark side,
-[
-19
-]
 and experienced a brief dark vision
-[
-4
-]
 that Solo would bring nothing but death and destruction
-[
-19
-]
 and leave Skywalker's loved ones in anguish. Despite the love for his nephew,
-[
-261
-]
 in a flash of defensive instinct,
-[
-4
-]
 Skywalker thought he could stop that future and for a brief moment of pure instinct he raised his lightsaber to destroy him, believing that it was the only way to halt his descent into darkness and prevent the end of everything he loved. This instinct was gone almost the second that it had come, and Skywalker was immediately filled with shame.
-[
-19
-]
 Skywalker had failed to correctly view that his nephew's mind was still conflicted, and his choice not yet made between light and darkness.
-[
-245
-]
 From Rey's point of view, Skywalker's failure as not only Solo's Jedi Master, but his uncle and family, had been completed when this occurred.
-[
-19
-]
 Skywalker's Jedi Temple is destroyed by Ben Solo.
 Solo had already awoken to see his uncle standing over him with his lightsaber raised. Confused and angry, Solo pulled his own
 lightsaber
 to him in self-defense and attacked Skywalker, using the Force to pull down the hut on top of him.
-[
-19
-]
 Solo emerged from the hut and screamed toward the temple, asking Skywalker why he had done it, and in his anger bringing down a lightning strike with the Force that destroyed the temple and set it on fire.
-[
-3
-]
-[
-20
-]
 When Skywalker came around, he emerged from the rubble of the hut to find his temple destroyed, with his other apprentices either killed or vanished along with Solo. This effectively left Skywalker the last of the Jedi once more
-[
-19
-]
 as he was after the death of his own master, Yoda, decades earlier.
-[
-12
-]
-Three of Skywalker's apprentices, Tai, Hennix, and Voe, eventually returned to the temple while it burned and were not able to sense his presence, which they normally felt overwhelmingly in the Force. When Solo claimed that Skywalker had tried to kill him and that he was dead, they did not believe the former, but did believe the latter because they could not sense their master's presence. Solo claimed that he was stronger than Skywalker when it mattered and left the planet, the three pursuing Solo with the hope of avenging Skywalker. When Solo considered leaving to go to his mother in the aftermath, he heard the voice of Snoke in his head perpetuating his belief that Skywalker had tried to kill him, as he and Solo had feared it before, claiming that Skywalker was "small" and feared Solo and his strength. Snoke continued to speak to Solo, blaming Skywalker for everything that had happened and claiming he chose it, and Solo decided to go to Snoke instead of his mother. On the
+Three of Skywalker's apprentices, Tai, Hennix, and Voe, eventually returned to the temple while it burned and were not able to sense his presence, which they normally felt overwhelmingly in the Force.
+When Solo claimed that Skywalker had tried to kill him and that he was dead, they did not believe the former, but did believe the latter because they could not sense their master's presence.
+Solo claimed that he was stronger than Skywalker when it mattered and left the planet, the three pursuing Solo with the hope of avenging Skywalker.
+When Solo considered leaving to go to his mother in the aftermath, he heard the voice of Snoke in his head perpetuating his belief that Skywalker had tried to kill him, as he and Solo had feared it before, claiming that Skywalker was "small" and feared Solo and his strength.
+Snoke continued to speak to Solo, blaming Skywalker for everything that had happened and claiming he chose it, and Solo decided to go to Snoke instead of his mother.
+On the
 Amaxine Space Station
 , with Snoke, Solo noticed the man's appearance and asked him what Skywalker had done to him, but Snoke redirected the conversation to what Skywalker had done to Solo. Solo tried to claim it did not matter because he had killed the Jedi Master, but Snoke warned that Skywalker was not dead and would not die so easily, though agreed to stop talking about Skywalker because he had "stolen" too much of his life already.
-[
-20
-]
 Solo eventually became the apprentice of Snoke and took the new name "Kylo Ren," becoming the leader of a group of dark side warriors known as the Knights of Ren.
-[
-8
-]
 Skywalker cries out in anguish at discovering the temple destroyed.
-Left deeply affected and mentally broken by what he believed to be his ultimate failure, Skywalker lost faith in the Force and the vision of the Jedi for having failed to rebuild the Jedi Order. Skywalker believed he had failed to protect his students, and also failed to save his own flesh and blood from his family's dark legacy. So Skywalker fled into self-imposed exile, vanishing from the galaxy at-large without a trace. No one knew for sure where he went, but those closest to him believed he went off in search of the first Jedi Temple.
-[
-8
-]
-To those who knew what Skywalker was seeking, there remained a way to find him: after destroying the Jedi, the Empire had begun to seek out the thousands of Jedi temples scattered across the galaxy, with the aim to prevent anyone from discovering the lost secrets of the Order. As such, Imperial authorities discovered the locations of some of the first Jedi Temples. The partial map remained within the archives of the Empire. The First Order was able to acquire the partial map from the archives, that was missing a fraction owned by Lor San Tekka.
-[
-268
-]
+Left deeply affected and mentally broken by what he believed to be his ultimate failure, Skywalker lost faith in the Force and the vision of the Jedi for having failed to rebuild the Jedi Order.
+Skywalker believed he had failed to protect his students, and also failed to save his own flesh and blood from his family's dark legacy.
+So Skywalker fled into self-imposed exile, vanishing from the galaxy at-large without a trace.
+No one knew for sure where he went, but those closest to him believed he went off in search of the first Jedi Temple.
+To those who knew what Skywalker was seeking, there remained a way to find him: after destroying the Jedi, the Empire had begun to seek out the thousands of Jedi temples scattered across the galaxy, with the aim to prevent anyone from discovering the lost secrets of the Order.
+As such, Imperial authorities discovered the locations of some of the first Jedi Temples.
+The partial map remained within the archives of the Empire.
+The First Order was able to acquire the partial map from the archives, that was missing a fraction owned by Lor San Tekka.
 As he had downloaded Imperial star maps during his time on the first Death Star,
-[
-269
-]
 R2-D2, Skywalker's faithful astromech, was able to recover the contents of the map.
-[
-268
-]
 Kylo Ren's vision
 [
 ]
@@ -7748,18 +6219,16 @@ Kylo Ren's vision
 Your Uncle feared you. Feared how formidable you could become. Your hatred for him is right. Skywalker would have murdered you in your sleep. Rise above what's holding you back. Strike. Strike against the light side within you! STRIKE!
 "
 ―Snoke to Kylo Ren as he fought a vision of Skywalker
-[
-270
-]
 Kylo Ren fights an apparition of Skywalker in the Cave of Evil
-Later, while training Kylo Ren with an exercise in which he forced Ren to stop himself from falling, Snoke informed the boy that Skywalker would have caught him if he had not caught himself, and would have thus held him back. Snoke then took Ren to the Cave of Evil on Dagobah, where Ren could sense that Skywalker had been there, Snoke revealing that he had trained there before becoming one of the most formidable Jedi. Ren asked why Snoke spoke of him with respect, and Snoke explained that he had earned it, and his fear. Ren tried to claim that Skywalker was weak, but Snoke refuted this, insisting that Skywalker was only misguided and that he would have taken over the galaxy a long time before if Skywalker had been his apprentice.
-[
-270
-]
-Ren then entered the cave and found himself facing an apparition of Skywalker, who insisted that he did not want to fight. Ren fought him anyway, his red crossguard lightsaber clashing against Skywalker's green. Snoke egged Ren on and validated his hatred as he fought his old master, insisting that Skywalker had feared what Ren would become, would have murdered him in his sleep, and was representative of the light side holding him back. Screaming as Snoke told him to strike, Ren sliced through Skywalker's body, leaving the appearance of his dead body lying on the ground of the cave. While staring at the corpse, Ren declared himself ready.
-[
-270
-]
+Later, while training Kylo Ren with an exercise in which he forced Ren to stop himself from falling, Snoke informed the boy that Skywalker would have caught him if he had not caught himself, and would have thus held him back.
+Snoke then took Ren to the Cave of Evil on Dagobah, where Ren could sense that Skywalker had been there, Snoke revealing that he had trained there before becoming one of the most formidable Jedi.
+Ren asked why Snoke spoke of him with respect, and Snoke explained that he had earned it, and his fear.
+Ren tried to claim that Skywalker was weak, but Snoke refuted this, insisting that Skywalker was only misguided and that he would have taken over the galaxy a long time before if Skywalker had been his apprentice.
+Ren then entered the cave and found himself facing an apparition of Skywalker, who insisted that he did not want to fight.
+Ren fought him anyway, his red crossguard lightsaber clashing against Skywalker's green.
+Snoke egged Ren on and validated his hatred as he fought his old master, insisting that Skywalker had feared what Ren would become, would have murdered him in his sleep, and was representative of the light side holding him back.
+Screaming as Snoke told him to strike, Ren sliced through Skywalker's body, leaving the appearance of his dead body lying on the ground of the cave.
+While staring at the corpse, Ren declared himself ready.
 Exile on Ahch-To
 [
 ]
@@ -7770,41 +6239,19 @@ Shutting himself off from the Force
 You've closed yourself off from the Force.
 "
 ―Rey, to Luke Skywalker
-[
-17
-]
 After exiling himself to Ahch-To, Skywalker resolved to die as the last Jedi.
 The Jedi Master fled to the location of the Temple—on an aquatic planet named Ahch-To—that he discovered by studying the spread of uneti saplings.
-[
-244
-]
 Having failed in bringing back the Jedi Order, Skywalker intended nothing more than to live out the rest of his days there in reclusive exile
-[
-263
-]
 and had pledged to protect the hidden world and its many secrets.
-[
-271
-]
 Taking the relics he had uncovered with him, the
 hermit
 shut himself off from the Force
 ,
-[
-263
-]
 consequently ceasing the guidance of Obi-Wan Kenobi, Yoda, and Anakin Skywalker's spirits.
-[
-242
-]
-It had taken years for him to learn the discipline of blocking the Force out, and he considered the fact that it was harder to do so than to feel it and let it in a dark secret that was never taught. He believed the Force and the Jedi had many secrets and that not even the greatest and in his opinion arrogant Jedi Masters could understand all of it. Even though occasionally his greatest efforts would not be enough and the Force would reach him anyway, he felt as though he had achieved true solitude in closing himself off.
-[
-272
-]
+It had taken years for him to learn the discipline of blocking the Force out, and he considered the fact that it was harder to do so than to feel it and let it in a dark secret that was never taught.
+He believed the Force and the Jedi had many secrets and that not even the greatest and in his opinion arrogant Jedi Masters could understand all of it.
+Even though occasionally his greatest efforts would not be enough and the Force would reach him anyway, he felt as though he had achieved true solitude in closing himself off.
 Among the relics Luke had collected and brought into his exile were the sacred Jedi texts and the Jedi Crusader pendant.
-[
-244
-]
 Some of which were mentioned as being taken from the island long before in the Lanais' songs. The
 Caretakers
 tolerated Skywalker's presence, though he had learned the
@@ -7814,9 +6261,6 @@ Festival of Return
 , something which puzzled
 Alcida-Auka
 .
-[
-273
-]
 Though absent from galactic affairs, Skywalker's story was nonetheless a thing of myth and legend in certain corners of the galaxy. His exploits in the Galactic Civil War were known to the
 Resistance
 , a band of freedom fighters led by now-General Organa to
@@ -7824,26 +6268,18 @@ combat
 the rise of the First Order. Resistance fighter pilot
 Jessika Pava
 learned that C-3PO, who also served in the Resistance, knew Skywalker and asked the droid to tell her a story about his former master. Threepio regaled her with the tale of Skywalker's encounter with Sarco Plank on Devaron, and how Skywalker kept his promise to Farnay and indeed returned to Devaron.
-[
-48
-]
 Members of the First Order, however, had a less-than-ideal view of the Jedi Master; the First Order taught their followers, including
 stormtroopers
 like
 FN-2187
 , that Skywalker was an enemy who helped destroy the Empire. Despite the knowledge about Skywalker, the mystical elements of his life, as well as the Jedi in general, were seen as mythic rather than historic.
-[
-274
-]
 Prior to Rey's arrival, Luke Skywalker hears the will of the Force despite his efforts to block it out.
-Prior to Rey's arrival on Ahch-To, Luke Skywalker had a dream while sleeping in his hut. In his dream, he saw the life he would never have, one in which he never left Tatooine and remained in the moisture farming business with his uncle, marrying Camie Marstrap and allowing the Galactic Empire to shatter the Rebel Alliance and destroy more planets with the Death Star. Luke eventually awoke, trying to shake away his dream, and left his hut. He was still astonished at the oceans of Ahch-To, which he attributed to growing up in the deserts of Tatooine. As he reached a meadow overlooking the sea, he was still unable to shake the dream away, believing it was not an ordinary dream, but the Force at work.
-[
-273
-]
+Prior to Rey's arrival on Ahch-To, Luke Skywalker had a dream while sleeping in his hut.
+In his dream, he saw the life he would never have, one in which he never left Tatooine and remained in the moisture farming business with his uncle, marrying Camie Marstrap and allowing the Galactic Empire to shatter the Rebel Alliance and destroy more planets with the Death Star.
+Luke eventually awoke, trying to shake away his dream, and left his hut.
+He was still astonished at the oceans of Ahch-To, which he attributed to growing up in the deserts of Tatooine.
+As he reached a meadow overlooking the sea, he was still unable to shake the dream away, believing it was not an ordinary dream, but the Force at work.
 Also shortly before Rey arrived, one of the moments where the Force demanded to be heard and got through despite Skywalker's block occurred. In that moment, the old Jedi Master undeniably felt that the Force was telling him that someone had found him.
-[
-272
-]
 Skywalker is found
 [
 ]
@@ -7851,19 +6287,10 @@ Skywalker is found
 You think what? I'm going to walk out with a laser sword and face down the whole First Order?
 "
 ―Luke Skywalker to Rey
-[
-19
-]
 In
 34 ABY
 , Organa sent Resistance fighter Poe Dameron,
-[
-8
-]
 the son of Shara Bey and Kes Dameron,
-[
-229
-]
 to Jakku to find San Tekka and recover the map to Skywalker's alleged location, as she hoped her brother would return and help in the fight against the dark side. The First Order also learned of the map and sought it so they could destroy the last Jedi. Dameron found San Tekka living in the village of
 Tuanul
 , and the old explorer gave the map to Dameron, who in turn gave it to his astromech droid
@@ -7873,9 +6300,6 @@ sacked
 the village. Ren killed San Tekka and took Dameron into custody in the hopes of finding the map, while BB-8 came into the possession of a Jakku
 scavenger
 named Rey. Rey believed that Skywalker was only a myth, but she too possessed strength in the Force that she had not yet discovered. Rey teamed with FN-2187, an ex-Stormtrooper who took the name Finn after defecting from the First Order, and, with the help of Han Solo and Chewbacca, sought to return the map fragment to the Resistance.
-[
-8
-]
 Rey, a scavenger from Jakku, implored Skywalker to help the Resistance against the First Order.
 After Rey discovered the lightsaber that once belonged to both Anakin and Luke in the
 pirate castle
@@ -7888,23 +6312,11 @@ Starkiller Base
 in an attempt by Ren to analyze Rey's thoughts to find the path to Skywalker, BB-8's map fragment was soon combined with R2-D2's, and together they provided a complete map to Ahch-To. Accompanied by Chewbacca, Rey flew the
 Millennium Falcon
 to Ahch-To and found the old Jedi Master on an island.
-[
-8
-]
 When Rey arrived on the island, Skywalker was standing up top the
 saddle
 , summoning the will to try to torch the tree library again having just failed to do so.
-[
-273
-]
 While standing there, Skywalker was reflecting that his efforts to block the Force from him was impossible as it always demanded to be heard. But in that moment, the old Jedi Master felt that someone had found him, turning around to see who was, discovering Rey.
-[
-272
-]
 After making her way to Skywalker, Rey presented him with his father's old weapon as a symbol of the only hope that the galaxy had left.
-[
-268
-]
 Confronted with the past
 [
 ]
@@ -7912,61 +6324,22 @@ Confronted with the past
 I can't teach you. […] I will never train another generation of Jedi. I came to this island to die. It's time for the Jedi to end.
 "
 ―Skywalker, to Rey
-[
-19
-]
 Though reluctant to take on another apprentice, Skywalker chose to train Rey after R2-D2 replayed Organa's call for help.
 After taking his old lightsaber and looking it over, Skywalker,
-[
-19
-]
 emotion roiled over his face,
-[
-4
-]
 hoping to lose the blade once again,
-[
-36
-]
 tossed it behind him and left the plateau, with Rey following close behind him. Despite her repeated attempts, Skywalker declined to help her or the Resistance, even though he knew that the girl had been sent by his sister Leia.
-[
-19
-]
 Secluding himself in his hut, Skywalker thought to himself that he did not expect that the person who found him would be a child with what he considered a worthless antique and delusions of grandeur.
-[
-272
-]
 Later, Luke was folding his old clothes then heard Rey trying to reach out to him again by knocking on his door but he told her to go away. However, Luke was surprised when his door broke open but was even more surprised to see his old friend Chewbacca was with her. Hearing how they got to where he was with the Millennium Falcon, Luke asked where Han was.
-[
-19
-]
 Rey and Chewbacca told him that his old friend and brother-in-law was dead, murdered by Kylo Ren, which stunned Skywalker. Feeling regret for not having sensed his brother-in-law's death because he had disconnected himself from the Force, Luke was comforted by the Wookiee, who hugged him, before Skywalker comforted Chewbacca back.
-[
-272
-]
 While hiking the island with a backpack, Skywalker noticed the sacred uneti tree on the island and decided to go inside it. There he found Rey,
-[
-272
-]
 who had discovered several original texts of Jedi teachings hidden there. Skywalker learned that she had the Force within her and sought assistance to understand it and her place in the galaxy. Skywalker refused to teach her revealed that he had come to the place where the Jedi started in order to die, and voiced his belief that it was time for the Jedi Order to die.
-[
-19
-]
 Skywalker agreed to give Rey three lessons about the Force
 The next night, the former Jedi Master slipped into the
 Millennium Falcon
 and recalled the adventures he had experienced. While aboard, Skywalker reunited with R2 who, after he insisted that he could not be convinced to help, replayed Leia's holographic message to Kenobi. Although Skywalker grumbled that the tactic "was a cheap move" on the droid's part, it nevertheless inspired Skywalker to agree to give Rey some basic initiation training as a Jedi, explaining the basic foundations of the Force.
-[
-19
-]
 R2 also told Skywalker that she had grown up on a desert planet before discovered a droid carrying secret data vital to the Rebellion, which he recognized a similar story to his own. He approached Rey while she slept, telling her that R2 had told him her story
-[
-272
-]
 and that he would give her three lessons to both teach her the ways of the Jedi and also show her why the Order needed to end.
-[
-19
-]
 A reluctant teacher and enlightenment
 [
 ]
@@ -7980,84 +6353,37 @@ It's a power that Jedi have that lets them control people… and make things flo
 Impressive. Every word in that sentence was wrong.
 "
 ―Luke Skywalker and Rey
-[
-19
-]
 Skywalker gives Rey her first lesson.
-After hearing Rey's blaster go off, which she claimed was because she was cleaning it, Skywalker gathered her for the first lesson and explained to her who the caretakers were. During the lesson, Skywalker explained to her that her idea of the Force as a power to have was wrong and that it was not about lifting rocks, explaining that it was an energy field throughout the universe. After Rey misunderstood Skywalker's instructions to reach out and reached out her arm, Skywalker pranked her by touching her hand with a leaf and telling her it was the Force before hitting her with it. Rey then tried again, Skywalker telling her that the Force and the light was so much more than just the Jedi as she felt it. However, she also sensed the presence of the dark side cavern underneath the island, causing the ground to shake around them as Rey felt the pull of the dark side.
-[
-19
-]
+After hearing Rey's blaster go off, which she claimed was because she was cleaning it, Skywalker gathered her for the first lesson and explained to her who the caretakers were.
+During the lesson, Skywalker explained to her that her idea of the Force as a power to have was wrong and that it was not about lifting rocks, explaining that it was an energy field throughout the universe.
+After Rey misunderstood Skywalker's instructions to reach out and reached out her arm, Skywalker pranked her by touching her hand with a leaf and telling her it was the Force before hitting her with it.
+Rey then tried again, Skywalker telling her that the Force and the light was so much more than just the Jedi as she felt it.
+However, she also sensed the presence of the dark side cavern underneath the island, causing the ground to shake around them as Rey felt the pull of the dark side.
 Rey practices using her lightsaber with a large rock.
 Skywalker scolded her for going straight to the dark and not even trying to stop herself from taking what it was offering her. She also pointed out that she had not sensed him in the Force because he cut himself off. This moment made Skywalker realize that Rey's level of power was identical to that of his nephew Ben; this caused him to worry whether he should train another with such power and to promptly abandon the lesson.
-[
-19
-]
 But Skywalker did not just see Ben in her, he also saw much of himself, which he suspected was what scared him most.
-[
-275
-]
 Skywalker realized something else from this lesson; that Rey was the Emperor, Darth Sidious', granddaughter, which is why she was so easily drawn to the dark side.
-[
-204
-]
 He later found her practicing with a
 quarterstaff
 and then with the returned lightsaber. Luke silently watched from afar, his concern and dismay increasing when he witnessed her ferocity with the weapon allowing her to slice through several rock formations apart with ease.
-[
-19
-]
 He recognized that she was focused and talented, but also that she was impetuous and driven by emotion, enmity, and impatience, which he knew lead to the dark side and found all too familiar. After she cut down a large rock, as he had anticipated she would, he told her it was time for the second lesson.
-[
-276
-]
 Eventually, after the second lesson, Skywalker sat and spoke with Rey, telling her that the true legacy of the Jedi was failure, and revealing that they were responsible for the creation of Darth Vader. Rey pointed out that he had seen the light in Vader and turned him,
-[
-19
-]
 but Skywalker just wished that he had never told that story and thus not allowed it or himself to become a legend.
-[
-276
-]
 He then revealed that his nephew Ben had the same tremendous power in the Force she had and was corrupted by Snoke's teachings to the dark side, becoming Kylo Ren. He then destroyed the Jedi temple Skywalker had started, taking some of his other apprentices with him and killing the rest. Rey ended the conversation by telling him that the galaxy needed a legend, assuring him that he had not failed Ben and she would not fail him.
-[
-19
-]
 That night, Rey having reminded him that his solitude had cost him his connections to those he loved and not just his connection to the Force, Skywalker went to the
 meditation ledge
 . Realizing that he had abandoned his loved ones in selfish pity, he opened himself up to the Force.
-[
-276
-]
 He managed to regain his Force abilities, allowing him to sense his sister from across the galaxy.
-[
-19
-]
 Disturbed by Rey's growing connection to Kylo Ren, Skywalker demanded that she leave the island.
 Skywalker went to find Rey in order to tell her that he was going back to the Resistance with her
-[
-273
-]
 but instead he found Rey talking with Kylo Ren through the Force due to a
 Force-bond
 that he previously was unable to detect. Witnessing them touching hands,
-[
-19
-]
 Skywalker thought that they were in league. He had gestured at the walls and the ceiling of the
 hut
 Rey was in, and all the stone blocks were shot outward
-[
-271
-]
 from the hut's center, scattering them around the bench.
-[
-273
-]
 Having decided that Rey could not be trusted anymore, he ordered her to leave the planet.
-[
-271
-]
 Revelations
 [
 ]
@@ -8065,35 +6391,17 @@ Revelations
 He would bring destruction, pain, death, and the end of everything I love because of what he will become. And for the briefest moment of pure instinct, I thought I could stop it. It passed like a fleeting shadow. And I was left with shame and with consequence. And the last thing I saw were the eyes of a frightened boy whose master had failed him.
 "
 ―Luke Skywalker, about Ben Solo, to Rey
-[
-19
-]
 An enraged Rey proceeded to battle Skywalker with her staff, only to be swiftly disarmed
-[
-19
-]
 after stumbling over a stone,
-[
-277
-]
-leading to Rey threatening him with his father's lightsaber. She revealed that, according to Kylo, Skywalker had tried to murder him while he was asleep and defenseless simply because he was afraid of his strength in the Force, sparking a duel between Uncle and Nephew. Skywalker clarified that when he had arrived at the hut, he sensed the power and darkness within his nephew and, for a brief instant of absolute pure instinct, he did intend to kill him and activated his lightsaber.. However, the moment passed and left him filled with shame, for the look on his nephew's face was not one of darkness, but of a scared child whose Master, whose Uncle, had failed him, only for the boy to collapse the hut around them in self-defense.
-[
-19
-]
+leading to Rey threatening him with his father's lightsaber.
+She revealed that, according to Kylo, Skywalker had tried to murder him while he was asleep and defenseless simply because he was afraid of his strength in the Force, sparking a duel between Uncle and Nephew.
+Skywalker clarified that when he had arrived at the hut, he sensed the power and darkness within his nephew and, for a brief instant of absolute pure instinct, he did intend to kill him and activated his lightsaber..
+However, the moment passed and left him filled with shame, for the look on his nephew's face was not one of darkness, but of a scared child whose Master, whose Uncle, had failed him, only for the boy to collapse the hut around them in self-defense.
 Rey told Skywalker that like when he confronted his father about the light side still within him, she sensed the goodness still within Kylo Ren. Skywalker disagreed, saying that it is no longer there. Unable to convince him otherwise, Rey secretly stole the texts to teach herself later and left the planet without him to confront Kylo.
-[
-19
-]
 While Rey boarded the
 Millennium Falcon
 to leave, Skywalker saw R2 for the last time and told him to send his best to 3PO and that he would need to stay with Rey to make sure she got back to safety.
-[
-271
-]
 As Rey left Ahch-To, Luke realized the similarity between her departure and when Yoda and Kenobi insisted him to remain on Dagobah to complete his training rather than abandon to save his friends at Cloud City.
-[
-277
-]
 Important lesson
 [
 ]
@@ -8101,40 +6409,20 @@ Important lesson
 Luke, We are what they grow beyond. That is the true burden of all masters.
 "
 ―Yoda
-[
-19
-]
 The spirit of Yoda communed with Skywalker, urging him to embrace failure as the greatest teacher.
 The following night, Skywalker returned to the tree containing the Jedi texts with the intention of burning it to the ground. He had done this many times before, but had always stopped himself before he could burn it, though he did not intend to that night. As he approached the tree, his thoughts were answered by a voice,
-[
-277
-]
 and when he turned he was greeted by the spirit of his old master Yoda,
-[
-19
-]
 whom he had not seen in
 decades
 since he last saw him on Dagobah and Endor.
-[
-271
-]
 Skywalker affirmed his desire to burn the tree with the texts inside.
-[
-19
-]
 Yoda informed him that he had no intentions of stopping him and reminded him that had never been able to prevent him from doing what he wanted.
-[
-277
-]
 Skywalker began to hesitate when he attempted to set the tree on fire. Yoda instead proceeded to summon a bolt of lightning, setting the tree alight and while laughing, repelled Skywalker with the flames when he changed his mind and tried to save the texts.
-[
-19
-]
-As the tree burned, the two masters sat next to each other and Yoda reminded Skywalker that he needed to heed his final instructions to him before Yoda's physical death on Dagobah, namely passing down what he had learned. Skywalker lamented over the loss of the texts, but Yoda slyly stated that although the texts held wisdom, 'page turners, they were not', and they did not contain anything Rey did not already have with her. Skywalker tried to explain that by failing Ben he felt that he had failed the Jedi. Yoda admonished Skywalker for still "constantly looking to the horizon," like he had when they met on Dagobah. Yoda explained that 'failure is the greatest teacher' and that failure was an essential part of what he had implored Skywalker to pass on so many years before.
-[
-19
-]
+As the tree burned, the two masters sat next to each other and Yoda reminded Skywalker that he needed to heed his final instructions to him before Yoda's physical death on Dagobah, namely passing down what he had learned.
+Skywalker lamented over the loss of the texts, but Yoda slyly stated that although the texts held wisdom, 'page turners, they were not', and they did not contain anything Rey did not already have with her.
+Skywalker tried to explain that by failing Ben he felt that he had failed the Jedi.
+Yoda admonished Skywalker for still "constantly looking to the horizon," like he had when they met on Dagobah.
+Yoda explained that 'failure is the greatest teacher' and that failure was an essential part of what he had implored Skywalker to pass on so many years before.
 Finding peace and purpose
 [
 ]
@@ -8142,9 +6430,6 @@ Finding peace and purpose
 See you around, kid.
 "
 ―Luke Skywalker's last words to Kylo Ren
-[
-19
-]
 Skywalker confronted Ren by projecting his appearance on Crait, having never left Ahch-To.
 Skywalker later appeared at the
 Resistance base
@@ -8155,76 +6440,31 @@ gold dice
 to remember him by. Reconciling his failure to stop Ren and for not being there to prevent Han's death, Skywalker resolved to finally
 confront Ren
 to buy the Resistance time to escape.
-[
-19
-]
 He believed it was the moment he had been waiting for, being the final chance to set things right.
-[
-278
-]
 Before Skywalker went to confront his nephew, he wordlessly greeted his old friend C-3PO.
-[
-19
-]
 Stepping outside, Skywalker was spotted and targeted by a barrage of cannon fire from multiple
 AT-M6
 walkers, but when the fusillade came to a stop, Skywalker strolled out of the smoke completely unharmed.
-[
-19
-]
 After Ren witnessed the impossible feat, Skywalker spoke to him in the Force, telling him that it wasn't over until it was just the two of them.
-[
-278
-]
 Ren landed on the surface and approached Skywalker alone and on foot. Ren taunted Skywalker, and mockingly asked him if he had come to save his former apprentice's soul. But Skywalker acknowledged that he was not there to redeem him.
-[
-19
-]
-Engaging his former master in combat, Ren charged at Skywalker but Skywalker simply danced around Ren without engaging in any form of counter attack. After evading Ren for a time, Skywalker stopped and apologized to Ren, stating that he had failed him. He also informed his former student that victory was not so certain as he believed; that the war was only beginning, and that the Jedi would continue through Rey. He then deactivated his lightsaber and offered to let Kylo strike him down, but warned him that doing so in anger would only cause him pain, just as killing Han had, and stated that in death, he would always be with his nephew.
-[
-19
-]
+Engaging his former master in combat, Ren charged at Skywalker but Skywalker simply danced around Ren without engaging in any form of counter attack.
+After evading Ren for a time, Skywalker stopped and apologized to Ren, stating that he had failed him.
+He also informed his former student that victory was not so certain as he believed; that the war was only beginning, and that the Jedi would continue through Rey.
+He then deactivated his lightsaber and offered to let Kylo strike him down, but warned him that doing so in anger would only cause him pain, just as killing Han had, and stated that in death, he would always be with his nephew.
 Unknown to Kylo, Luke had sensed that Rey had lifted all the rocks blocking the exit of the Resistance base so they could escape to fight another day.
-[
-279
-]
 Ren ignored all these warnings and slashed Skywalker across the torso. Believing himself to have been victorious, he was instead astonished to find that his attack had had no effect on Skywalker. He walked over to his former master and tentatively ran him through, and discovered that Luke was not physically present; he was in fact still on Ahch-To,
 projecting
 an illusion of himself through the Force.
-[
-19
-]
 He thought to himself that was saving his best trick for last, as any good master would tell someone to do.
-[
-278
-]
 The illusion was tailored to have the maximum effect on Ren, as Luke portrayed himself as he had last appeared to his nephew before they came to blows. Likewise, he portrayed himself as wielding Anakin Skywalker's lightsaber, knowing that it would have more effect on Ren than if he had used his green blade.
-[
-280
-]
 Ahch-To's binary sunset was the last thing Skywalker saw as he passed away into the Force.
 Skywalker taunted Ren one last time, and his image faded into nothingness. Light-years away, Skywalker collapsed from the mental stress necessary to sustain such a lifelike illusion, which Ren realized meant that Luke would become one with the Force. As he sat down on the cliff where he first trained Rey, Luke beheld the twin suns of Ahch-To in their final descent towards the horizon.
-[
-19
-]
 He had taken all his strength to project himself to Crait, but now that it had been done, he could at least enjoy a few last breaths from the island that had been his home. Luke Skywalker knew that he was going to die, but it was something he accepted; death was the way of all things, even the stars.
-[
-271
-]
 Though unsure if it was real or just a memory, Skywalker heard the familiar and comforting voice of Obi-Wan Kenobi, urging him to let go, and so he did.
-[
-273
-]
 Staring at a binary sunset on the horizon much like the one he gazed upon as a boy, Luke Skywalker—Jedi Master, ace pilot, galactic legend, and son of the Chosen One—passed away, joining his father and old masters as one with the Force with a feeling of peace and purpose.
-[
-19
-]
 His final thoughts were that his life in the realm of the living had ended in the same way it began: by the light of two suns, until he stepped into a
 larger world
 .
-[
-278
-]
 Post-mortem
 [
 ]
@@ -8237,30 +6477,24 @@ Ben
 .
 "
 ―Luke Skywalker
-[
-264
-]
 Kylo Ren learned of Skywalker's death from the former Jedi Grandea.
-[
-281
-]
 In the aftermath of Skywalker's death, Ren felt Skywalker in the Force, watching him. Wanting a reckoning with him, Ren traveled in search of Skywalker's "ghost" to where Skywalker had faced him on Crait, to the Jedi Outpost on Elphrona with Knights of Ren
 Vicrul
 and
 Ushar
 who both remembered facing Skywalker there, and finally to the ruins of Skywalker's Jedi Temple on Ossus. Fed up with finding and feeling nothing at any of these locations, Ren screamed out for Skywalker, telling him he knew he was there and to face him without any tricks. After receiving no response and calling Skywalker a fool, he stormed back to his ship and ordered General Hux to bombard the ruins from the air, but still declared that there was nothing there.
-[
-282
-]
 As an enraged Ren found his way back to him, Skywalker kept trying to teach his nephew a few lessons.
-By entering Darth Vader's meditation chamber, Ren was able to reach a plane in the Force where Skywalker resided. Standing with several other figures, including Yoda, Skywalker approached Ren as he tried to strike down another Jedi, substantiating the apparition's claim that Ren should not be there, but was nonetheless. Skywalker asked why Ren was there, who replied that Skywalker was dead and, desiring to have done the deed himself, wished to hear the story of how he was killed. Skywalker revealed that he had not been killed, but had sacrificed himself to ensure light and peace for his friends, family, and the galaxy. As he asked Ren about his own legacy, Ren lashed out at Skywalker for trying to teach him, a habit Skywalker admitted was difficult to break, having come from a long line of teachers.
-[
-264
-]
-Skywalker agreed that their time as mentor and student had come to a close. Ren questioned why Skywalker taught Rey, to which the Jedi replied that she wanted to learn. Expressing his hate for Skywalker, Ren told the Jedi he was nothing to him, that he had failed to turn Ren into himself and lost, threatening Skywalker to leave him alone lest Ren find a way to destroy him. Skywalker told Ren that he could not destroy the Jedi without destroying the Force itself, something he would be unable to do without destroying himself, though praised the young man for having goals. Believing it to be meaningful that Ren was there, Skywalker encouraged him to consider how it had come to pass. Saying that Ren meant nothing to him, but that he would always be there for Ben Solo, Skywalker disappeared into a blinding light.
-[
-264
-]
+By entering Darth Vader's meditation chamber, Ren was able to reach a plane in the Force where Skywalker resided.
+Standing with several other figures, including Yoda, Skywalker approached Ren as he tried to strike down another Jedi, substantiating the apparition's claim that Ren should not be there, but was nonetheless.
+Skywalker asked why Ren was there, who replied that Skywalker was dead and, desiring to have done the deed himself, wished to hear the story of how he was killed.
+Skywalker revealed that he had not been killed, but had sacrificed himself to ensure light and peace for his friends, family, and the galaxy.
+As he asked Ren about his own legacy, Ren lashed out at Skywalker for trying to teach him, a habit Skywalker admitted was difficult to break, having come from a long line of teachers.
+Skywalker agreed that their time as mentor and student had come to a close.
+Ren questioned why Skywalker taught Rey, to which the Jedi replied that she wanted to learn.
+Expressing his hate for Skywalker, Ren told the Jedi he was nothing to him, that he had failed to turn Ren into himself and lost, threatening Skywalker to leave him alone lest Ren find a way to destroy him.
+Skywalker told Ren that he could not destroy the Jedi without destroying the Force itself, something he would be unable to do without destroying himself, though praised the young man for having goals.
+Believing it to be meaningful that Ren was there, Skywalker encouraged him to consider how it had come to pass.
+Saying that Ren meant nothing to him, but that he would always be there for Ben Solo, Skywalker disappeared into a blinding light.
 Skywalker heir
 [
 ]
@@ -8268,39 +6502,20 @@ Skywalker heir
 We've passed on all we know. A thousand generations live in you now. But this is your fight.
 "
 ―The spirit of Luke Skywalker, to Rey
-[
-17
-]
 The spirit of Luke Skywalker appeared to Rey, encouraging her to continue her Jedi path.
 Following his death, Leia took up Luke's mantle as Rey's Jedi mentor, and Skywalker's spirit continued to urge his sister to become one with the Force, sensing her declining health, but she persistently refused until Rey and the Resistance were ready to stand on their own.
-[
-215
-]
 One year after becoming one with the Force, Luke spoke to Leia once more, shortly before her death, beckoning her to show her son Ben she still loved him, reminding his sister that if Vader could become Anakin again, Kylo Ren could be Ben Solo again.
-[
-215
-]
-Shortly afterwards, he sensed that Rey had discovered the truth behind her lineage and had stranded herself on Ahch-To much like he did during the final years of his life. As she threw her lightsaber into the wreckage of her ship, Luke appeared and grabbed it out of the air. Admitting that he was wrong in exiling himself, Luke consoled her that her legacy would not be defined by her bloodline but by her heart and her actions. When Rey lamented that Kylo Ren destroyed the final Sith marker that led to where the resurrected Emperor was residing, Luke mirrored the words of Yoda, stating that she had everything she needed. As a parting gift, Luke gifted Rey his sister's lightsaber and raised his old X-Wing from the depths of the ocean for Rey to use and travel to Exegol.
-[
-17
-]
+Shortly afterwards, he sensed that Rey had discovered the truth behind her lineage and had stranded herself on Ahch-To much like he did during the final years of his life.
+As she threw her lightsaber into the wreckage of her ship, Luke appeared and grabbed it out of the air.
+Admitting that he was wrong in exiling himself, Luke consoled her that her legacy would not be defined by her bloodline but by her heart and her actions.
+When Rey lamented that Kylo Ren destroyed the final Sith marker that led to where the resurrected Emperor was residing, Luke mirrored the words of Yoda, stating that she had everything she needed.
+As a parting gift, Luke gifted Rey his sister's lightsaber and raised his old X-Wing from the depths of the ocean for Rey to use and travel to Exegol.
 Luke's spirit along with his sister watched over Rey from afar as she buried their Jedi weapons as tribute to the Skywalker legacy.
-Rey could hear Luke among the numerous voices of the Jedi of the past shortly before she received the inner strength to overcome Darth Sidious. As the girl rose from the ground, Skywalker assured her that the Force would always be with her, and after she finally destroyed the Emperor by deflecting his Force lightning using Luke's and Leia's original lightsabers, he appeared one more time with his sister on Tatooine and watched from afar as Rey buried both of the weapons at the old Lars Homestead finally albeit posthumously formally earning the title of Jedi Master with his role as her mentor completed.
-[
-17
-]
+Rey could hear Luke among the numerous voices of the Jedi of the past shortly before she received the inner strength to overcome Darth Sidious.
+As the girl rose from the ground, Skywalker assured her that the Force would always be with her, and after she finally destroyed the Emperor by deflecting his Force lightning using Luke's and Leia's original lightsabers, he appeared one more time with his sister on Tatooine and watched from afar as Rey buried both of the weapons at the old Lars Homestead finally albeit posthumously formally earning the title of Jedi Master with his role as her mentor completed.
 Having come to consider the Skywalkers her chosen family
-[
-283
-]
 and hoping to honor her mentors,
-[
-211
-]
 the girl adopted the name Skywalker following Luke's statement that one's heart and actions defined one's legacy rather than one's bloodline.
-[
-17
-]
 Legacy
 [
 ]
@@ -8313,13 +6528,7 @@ suffered
 No one killed me. I sacrificed my life for others, in service of something greater. I died for my friends and family and for people I don't know all across the galaxy, so they could live in peace and light. That's what my life was for.
 "
 ―Kylo Ren and the ghost of Luke Skywalker
-[
-264
-]
 After his death, Skywalker's belongings, including his green lightsaber, were gathered by the Caretakers and stored with the other Jedi artifacts that they preserved alongside the temple on the Ahch-To island.
-[
-273
-]
 The tale of Skywalker's stand against Ren and the First Order at Crait spread across the galaxy. One instance occurred on
 Canto Bight
 , where
@@ -8329,28 +6538,13 @@ Temiri Blagg
 and
 Arashell Sar
 .
-[
-19
-]
-[
-244
-]
 As word of this moment spread, Skywalker's sacrifice showed others that it was possible to stand defiant against the First Order, and his legend reinvigorated a spark of hope.
-[
-4
-]
 However, Commander
 Branwayne Spiftz
 , like some others in the First Order, did not believe the story of Skywalker Force-projecting himself, and even thought that the Force was not real and just a children's story. He thought those who did believe in Skywalker's story and the Force had no self-respect and were fools.
-[
-284
-]
 Shortly before his death, Skywalker wrote in his book
 The Secrets of the Jedi
 acknowledging that if perhaps he had remained active as a Jedi Master, wielding his lightsaber and actively fighting against his nephew, for the years he was in exile instead, he probably could have prevented the rise of the First Order and the destruction of the New Republic.
-[
-242
-]
 Additionally, Skywalker's loss represented a heavy blow to the Resistance. When
 Temmin Wexley
 and
@@ -8360,19 +6554,10 @@ Norra Wexley
 about their losses since the Battle of Crait, Antilles felt devastated upon learning of the death of his former wingmate, asking himself if the Jedi were not supposed to
 live forever
 . A short time later,
-[
-285
-]
 Skywalker's lesson to Del Meeko, that everyone had a choice to be better,
-[
-211
-]
 was passed onto the Resistance by Meeko's daughter,
 Zay Versio
 .
-[
-285
-]
 After learning that the
 Zixon
 on
@@ -8388,41 +6573,17 @@ Rose Tico
 that it was Luke who freed the Zixon during the time he was missing, as he fought and helped defeat the Empire. Tico latched on to the idea, but Rey, having known him, was immediately skeptical that Luke was the type of person who would spend time with the Zixon and their spritely culture, but thought if she was better at using the Force she would be able to know. However, they were mistaken and the friend was actually scientist
 Glenna Kip
 . As Rey grew with her skill in the Force, she started to believe she was nothing like Luke.
-[
-284
-]
 One of the most influential people in the entire galaxy, Luke Skywalker's accomplishments were remembered for decades after the Battle of Endor. Within the annals of the Resistance, basic training would see all pilots in its
 Starfighter Corps
 learning the
 Skywalker Swoop
 , which was based on Luke's piloting abilities during the Galactic Civil War.
-[
-229
-]
 Many remembered him for destroying the Death Star and killing the Emperor,
-[
-247
-]
 and as such viewed him as a hero of mythic proportions.
-[
-19
-]
 Resistance pilot Jessika Pava considered Skywalker to be the greatest X-wing pilot of all time.
-[
-286
-]
 Some questioned whether or not Luke could have used his powers for evil,
-[
-247
-]
 while others simply viewed him as a myth.
-[
-8
-]
 Skywalker's unlikely story of going from a simple farm boy on Tatooine to a galactic legend gave hope to restless youths on a number of worlds.
-[
-287
-]
 Personality and traits
 [
 ]
@@ -8433,427 +6594,118 @@ Youth
 This one a long time have I watched. All his life has he looked away…to the future, to the horizon. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. You are reckless!
 "
 ―Yoda
-[
-11
-]
 Luke Skywalker was once a farm boy who longed for a more exciting life.
 In his youth, Skywalker was often curious, impatient, looking ahead to the future with little regard for his present surroundings, and even a bit brash.
-[
-271
-]
 Like his father, he was impulsive, reckless, and often had little regard for his own personal safety.
-[
-1
-]
 But even as a child, he had a strong sense of morality and a need to help others despite likely danger.
-[
-31
-]
 He believed his aunt Beru was a sweet person in every part of her being.
-[
-133
-]
 Some time after the Battle of Yavin, he would confer with Nakari Kelen that he regretted his behavior before then, acknowledging he complained "about everything" because of his desire to escape from Tatooine. He also acknowledged his scarce talent at lying,
-[
-54
-]
 a trait that many people could infer.
-[
-68
-]
 He once confided in Leia that he felt Tatooine had never felt like a home to him,
-[
-94
-]
 and did not like to be seen as just a farm boy
-[
-89
-]
 though later took pride in where he came from and his past.
-[
-102
-]
-[
-132
-]
 He was annoyed by both Solo and Aphra calling him "kid."
-[
-89
-]
 He struggled with anger and feelings of wanting revenge, especially toward Queen Trios because she had betrayed the Alliance, despite knowing they could be dangerous for someone who used the Force. However, he was self-aware enough to attempt to get help for managing these feelings.
-[
-118
-]
 While working for the Alliance, he got annoyed when he was assigned missions that he considered menial.
-[
-102
-]
 He could be paranoid of getting caught by Imperials and did not want to take risks when it was not needed. When he held one of the lightsabers of Darth Atrius, Skywalker was overcome by incredible rage, which one even caused an episode where he dissociated from his body and killed many stormtroopers. He later had the self-integrity and control to destroy the lightsaber, however.
-[
-58
-]
 Similarly, when controlled by an Abersyn symbiote, Skywalker became obsessed with power and dominating others, but eventually rejected the raw power that the Rur crystal suggested it could offer because he would not truly be like a Jedi and have their freedom.
-[
-9
-]
 He was somewhat traumatized by his experience with Grakkus the Hutt and became weary of those that were very interested in the Jedi.
-[
-90
-]
 Luke Skywalker after the Battle of Yavin
 After everything they went through at the Battle of Yavin, Skywalker took pride in his membership of Red Squadron and found kinship with them, but did not love the attention and honor he received for being the one to take the final shot. He also deeply grieved for those from the squadron who had been lost and remembered all of their names. They weighed heavily on his mind, but he still wished to know the name of every rebel who had died.
-[
-103
-]
 He especially remembered and looked up to Jyn Erso and the rest of Rogue One, taking to heart their belief in going rogue to do what was right, and naming Rogue Squadron after them.
-[
-109
-]
 However, he still retained a sense of confidence and excitement about the Alliance's chances of beating the Empire
-[
-110
-]
 and surviving the Death Star gave him greater confidence that he would survive other events.
-[
-111
-]
 He became determined to take down the Empire, and determined to become a Jedi in order to do so despite the risk.
-[
-125
-]
 Upon becoming leader of Rogue Squadron, Skywalker came to believe that it was the best team in the galaxy.
-[
-131
-]
 Trials of the self and the Force
 [
 ]
 Over the course of his Jedi journey, Skywalker would rely on people, like Leia Organa, Han Solo, and Chewbacca, among others.
-[
-288
-]
 In the immediate aftermath of losing his hand, Skywalker was incredibly distraught and haunted by traumatic flashbacks of the events on Cloud City, what he had lost, and what Vader revealed to him. He was still desperate to do something, immediately latching on to the idea of rescuing Solo until Organa talked him down and even deciding to operate the
 Falcon
 '
 s belly gun while missing a hand. During this time he was desperate for guidance, consumed by anger and fear, and questioned if he should even be a Jedi.
-[
-142
-]
 He initially did not even want to get a prosthetic hand, because he felt it made him feel less like himself and more like Vader.
-[
-143
-]
 Overall, as his skills in the Force progressed, and especially after losing a hand to Darth Vader, Skywalker became more patient and seasoned.
-[
-206
-]
 He was often seen as having wisdom beyond his years.
-[
-12
-]
-[
-48
-]
 He came to decisively accept his path as a Jedi and started to understand that having a lightsaber did not define him as a Jedi and that being one was about using the Force to bring light to the galaxy.
-[
-146
-]
 He held on to Yoda's teachings and repeated them to try and focus and overcome obstacles.
-[
-147
-]
 He stayed committed to his path as a Jedi, determined to help a suffering galaxy, even when Verla tried to dissuade him from it by revealing what it cost her. He also was inspired by a seeing an old Jedi outpost and was determined to fight for what was right no matter the risk just like they did.
-[
-148
-]
 He felt the Force flow through his being as a whole and did not localize it, meaning the loss of his hand did not physically limit him.
-[
-189
-]
 He also became a better leader, and was able to lead starfighter pilots from different squadrons during a battle at Elessia.
-[
-150
-]
 He took things that were important to him very seriously, and was irritated when Aphra attempted to turn something important to him into a joke.
-[
-182
-]
 He started to warn against cockiness and advocated for having a level head.
-[
-132
-]
-[
-131
-]
 He developed more confidence in himself and in the Force, and when he focused on it became more capable.
-[
-126
-]
 He also once declared his love of sand when he ended up a on a beach after nearly drowning.
-[
-147
-]
 After discovering an ancient Jedi text, Skywalker became determined and committed to studying it and used the rare free time he had to do so instead of relaxing. However, he still often doubted his abilities despite others believing in him
-[
-172
-]
 and his attempts to affirm himself in his abilities,
-[
-175
-]
 and started to believe that without the text he would never become a Jedi.
-[
-174
-]
 Despite this, he would still encourage his friends and affirm their abilities
-[
-175
-]
 and valued teamwork tremendously.
-[
-132
-]
 After losing the text, he became increasingly determined and focused on recovering the text, to the point of small outbursts of aggression while fighting his way to it and ignoring any danger that might come with doing so.
-[
-174
-]
 His self-doubt continued to evolve into feeling like he would never truly be able to become a Jedi, leaving him wanting to take control of his life and take action.
-[
-184
-]
 As one of the only Jedi left, he also suffered from loneliness in that aspect, wishing there were others. He also feared that he was useless and would not be able to save people, and
-[
-182
-]
 wrongly
-[
-206
-]
 worried Organa viewed him as pathetic
-[
-182
-]
 and did not want to disappoint her.
-[
-58
-]
 Before meeting Yoda, Skywalker was desperate for a teacher in the Force and dreamed of being able to do all the things Kenobi had been able to.
-[
-123
-]
 Because of this, Skywalker was quick to go along with Aphra's plan to go with her to the Screaming Citadel because of the promise of a Jedi teacher and learning Jedi knowledge despite his knowledge of Aphra's untrustworthiness.
-[
-89
-]
 He eventually rejected the Rur crystal because he recognized that it was not a Jedi in practice and belief and only in knowledge, and came to realize that he could not take shortcuts like Aphra did to get what he wanted and urged her to stay away.
-[
-9
-]
 He also immediately trusted and begged for training from Werla Calip when she said she knew the Force despite having no proof of this,
-[
-125
-]
 and started to believe that signs Calip was not what she seemed and her beliefs were not morally sound was Calip testing him. This naivete led to Calip stealing his lightsaber from him.
-[
-127
-]
 When she revealed that she did not know the Force and her trainings were empty, Skywalker believed that there was more to her than it seemed.
-[
-129
-]
-After facing Vader on Cloud City, Skywalker began to accept that he would have to face Vader again but was terrified by the prospect, recalling Vader's sheer power. He hoped that he could tap into great power and defeat him, but doubted he could, and was haunted by imagining himself facing Darth Vader again in his current state and being killed by the Sith Lord. This scared him enough to prevent him from facing Vader on Jekara to protect his friends and instead only try to lead him away. His fear also prevented him from being able to reach the Force consistently or speak to Kenobi, contributing to his feelings of loneliness and sense that he was not ready.
-[
-159
-]
+After facing Vader on Cloud City, Skywalker began to accept that he would have to face Vader again but was terrified by the prospect, recalling Vader's sheer power.
+He hoped that he could tap into great power and defeat him, but doubted he could, and was haunted by imagining himself facing Darth Vader again in his current state and being killed by the Sith Lord.
+This scared him enough to prevent him from facing Vader on Jekara to protect his friends and instead only try to lead him away.
+His fear also prevented him from being able to reach the Force consistently or speak to Kenobi, contributing to his feelings of loneliness and sense that he was not ready.
 Despite not wanting to face Vader on Jekara, he remained confident that he would become a Jedi and confront him one day.
-[
-163
-]
 Even after training with Yoda, his loneliness grew, and he became frustrated with Yoda for not responding to him and answering him through the Force.
-[
-185
-]
 He enthusiastically and desperately wanted to search for old Jedi temples and outposts to learn more about the Order.
-[
-152
-]
 He eventually decided that while he was grateful for what Yoda taught him, he would rather just learn from his text.
-[
-185
-]
 In the end, however, he would decide to return to Yoda to complete his training.
-[
-12
-]
 According to Yoda, when he arrived he had developed a clear "gaping need" for a connection to his father and to have a family.
-[
-201
-]
 While he did demand answers as for whether Vader was his father and wanted to know why it was "unfortunate" for him to know, he was saddened by the news that Yoda was passing.
-[
-12
-]
 Skywalker promised Organa he could train her as Yoda trained him.
-[
-206
-]
 Growing values and beliefs
 [
 ]
 Despite all he went through, Skywalker still retained his idealistic viewpoint, willing to think the best of anyone,
-[
-54
-]
 and believing that Vader was redeemable.
-[
-12
-]
 Despite not thinking so immediately, Skywalker still believed that Doctor Aphra was a good person and her friend despite her prior service to the Empire, and went out of his way to save her life. He believed that she would see sense when it came to her belief in the Empire and was convinced that she could move past the bad things she had went through to be a better person like Solo had.
-[
-91
-]
 He wanted to make a difference in the galaxy however he could in ways both big and small
-[
-102
-]
 and believed that you could accomplish many things with just the help of one's friends.
-[
-130
-]
 He grew to truly believe that anything was possible.
-[
-189
-]
 He was also unable to ignore those who needed help, sometimes to the point of endangering missions for the sake of saving someone else's life, as his father would throughout the Clone Wars.
-[
-14
-]
-[
-54
-]
 He was dedicated to saving lives, and once stood up to General Dodonna to convince him to save others even at their own expense.
-[
-114
-]
 Even when he knew he likely could not beat Vader, he still went to help his friends against him,
-[
-129
-]
 and was brave enough to fight him and put himself in danger so that his friends Chewbacca and R2-D2 could escape and live.
-[
-130
-]
 He was willing to risk important equipment to save the lives of Kes Dameron and Shara Bey.
-[
-134
-]
 He was willing to help save Lando Calrissian at a time when they did not know each other well even though Skywalker did not trust him and was struggling with using the Force.
-[
-143
-]
 As both a Jedi and Rebel Alliance fighter, Luke Skywalker wanted to help the people around him and those across the galaxy.
 Throughout his life, Skywalker had always been filled with a need to be helpful and recognized that that need had steered him toward fighting with the Rebel Alliance.
-[
-133
-]
 Organa even thought he could be neurotic about always wanting to be out in the fight and on the front lines.
-[
-112
-]
 He was incredibly sympathetic to those in need and wanted to help them even when other's around him did not.
-[
-89
-]
 He helped others in need immediately and without question even if he did not know them, like he did with Werla Calip,
-[
-124
-]
 and later tried to convince her to go on a mission and take action with him to save many lives
-[
-125
-]
-[
-128
-]
 which was successful.
-[
-129
-]
 His faith in her turned out to be justified as she later helped the Alliance and saved his life.
-[
-130
-]
 He continued to always believe in an encourage others, especially his friends,
-[
-131
-]
 and his faith that Aphra had good in her was also somewhat proven right when she helped hide Echo Base from the Empire.
-[
-135
-]
 He also had a strong sense of justice, and was determined to make Ajax Sigma answer for the people he killed,
-[
-178
-]
 but on a smaller scale repeatedly and fiercely stood up to Urtya on the behalf of Organa and Lee-Char.
-[
-104
-]
-[
-106
-]
 He believed that the Partisans plan to kill millions on Shu-Torun as payback to the Empire was not just or fair,
-[
-120
-]
 and was even willing to sacrifice his life if it meant they would not be able to do it.
-[
-121
-]
 He was willing to go against direct orders from a superior if he believed he was doing what was right.
-[
-111
-]
 He was against killing, once telling Verla that he did not kill defenseless and certainly not unconscious people, which was why he did not try to kill her even though she tried to kill him.
-[
-148
-]
 He became frustrated with Partisans unnecessarily taking lives,
-[
-117
-]
 and even did not want to even speak to or interact with Gretta after she killed several people upon their meeting.
-[
-184
-]
 He was incredibly kind and reassuring, even to droids,
-[
-110
-]
 and especially kind to kids, and was considerate towards one named Forvan he had just met while in No-Space and was concerned for his well-being.
-[
-175
-]
 When the boy started to believe that Skywalker would save him from being trapped in No-Space, Skywalker was sure to not get his hopes up, but still assured the boy that he would do everything he could to try to free them and help them, demonstrating his unconditional care for others.
-[
-174
-]
 Skywalker cared deeply for his friends, and could intuitively tell when something was bothering Organa or she was not acting like herself.
-[
-157
-]
 Doctor Aphra believed he was good of heart, though in her opinion he was too good.
-[
-179
-]
 He told her that he was committed to helping protect her from Vader because it was what Jedi did. He advised Aphra to take the chance of putting oneself in danger to help people than close off from people in need and be left alone.
-[
-183
-]
 After the Battle on Epikonia, he willingly stayed behind with Organa, wanting to help the people affected by the Scourge there. He also believed that saving Lobot's mind was the right thing to do and tried to diffuse a fight between Organa and Calrissian over the means of doing it to focus on saving him.
-[
-187
-]
 Jedi Knight and Master
 [
 ]
@@ -8879,35 +6731,23 @@ The Rebellion?
 No. A choice to be better. May the Force be with you.
 "
 ―Luke Skywalker and Del Meeko
-[
-211
-]
-Leia Organa took note of Skywalker's change into a calmer man as he became a Jedi Knight, thinking of the change in regard to the years that had past: while he was somewhat like other rebels who had joined the fight hopeful, only for those rebels to become jaded over the course of the war, Organa noticed a much deeper stillness within him. While she knew he was the same person, she did nearly mourn the loss of Skywalker's innocent optimism and excitement. All the same, she saw how forgiving Skywalker was towards their father and pondered how it was possible for him to not hate Vader the way she did; Skywalker tried to tell her about Anakin Skywalker's redemption to the light, but she refused to listen. Skywalker was incredibly happy for his sister and Solo's marriage. He also offered to train her in the ways of the Force, thinking they could be wonderful together as Jedi Knights, and gave her a chance to come with him on his hunt for information about the Jedi of the past. While he did not see it as Organa needing to chose between a life with Solo or a life as a Jedi, Organa did and declined.
-[
-206
-]
+Leia Organa took note of Skywalker's change into a calmer man as he became a Jedi Knight, thinking of the change in regard to the years that had past: while he was somewhat like other rebels who had joined the fight hopeful, only for those rebels to become jaded over the course of the war, Organa noticed a much deeper stillness within him.
+While she knew he was the same person, she did nearly mourn the loss of Skywalker's innocent optimism and excitement.
+All the same, she saw how forgiving Skywalker was towards their father and pondered how it was possible for him to not hate Vader the way she did; Skywalker tried to tell her about Anakin Skywalker's redemption to the light, but she refused to listen.
+Skywalker was incredibly happy for his sister and Solo's marriage.
+He also offered to train her in the ways of the Force, thinking they could be wonderful together as Jedi Knights, and gave her a chance to come with him on his hunt for information about the Jedi of the past.
+While he did not see it as Organa needing to chose between a life with Solo or a life as a Jedi, Organa did and declined.
 Following the end of the Empire and the death of the Sith Order, Skywalker came to have great hope for the future of the Jedi, coming to believe that if a single Jedi could help bring back balance to the Force, then a restored Jedi Order perhaps could maintain that achieved peace and prevent the dark side of the Force from ever regaining its hold on
 the galaxy
 . This belief led Luke to scour worlds for the remaining Jedi texts and gathered a new class of apprentices under his tutelage.
-[
-242
-]
 Furthermore, when he encountered the Imperial Special Forces trooper Del Meeko, he left the man with the lesson that all he needed to do was be better,
-[
-211
-]
 a lesson that would be passed onto Meeko's daughter, Zay Versio, and the Resistance.
-[
-285
-]
 During his brief time as Grogu's master, Luke had to suppress his more sentimental side and be more professional in an effort to successfully pass on the Jedi values to the child.
-[
-255
-]
-Skywalker became confident in his abilities as a Jedi Master, all while he became perceived by the galaxy as a legend. He was confident that he could take down seven Knights of Ren on his own, and expressed to them that he was superior at using the Force than them, even slightly taunting them and predicting that they would leave crying. This confidence was justified, as he did successfully defeat them. He also cared deeply for his nephew Ben Solo, and was happy when Solo joined him on missions. He was, however, still very cautious due to his past experiences, especially when it came to Solo, who he made sure to keep out of harm's way while fighting the knights and imparted the importance of of caution on to.
-[
-259
-]
+Skywalker became confident in his abilities as a Jedi Master, all while he became perceived by the galaxy as a legend.
+He was confident that he could take down seven Knights of Ren on his own, and expressed to them that he was superior at using the Force than them, even slightly taunting them and predicting that they would leave crying.
+This confidence was justified, as he did successfully defeat them.
+He also cared deeply for his nephew Ben Solo, and was happy when Solo joined him on missions.
+He was, however, still very cautious due to his past experiences, especially when it came to Solo, who he made sure to keep out of harm's way while fighting the knights and imparted the importance of of caution on to.
 Later life
 [
 ]
@@ -8918,88 +6758,31 @@ I failed. Because I was Luke Skywalker. Jedi Master. A legend.
 The galaxy may need a legend.
 "
 ―Luke Skywalker and Rey
-[
-19
-]
 In his later years, Skywalker lived in exile as a grief-ridden and embittered hermit.
 After Ben Solo, his nephew, betrayed him and killed most of his apprentices, Skywalker became embittered as well as grief-ridden and chose to exile himself to the planet Ahch-To, where he would spend the rest of his life in with the intention of dying where the Jedi began to forever end the Jedi.
-[
-19
-]
 Despite all of this, he still comforted Chewbacca when he learned of Han Solo's death, and became even more riddled with guilt.
-[
-272
-]
 He also became more cautious in teaching others of immense power due to Solo's betrayal, feeling finished with the Jedi Order,
-[
-289
-]
 as evidenced by when he initially regarded Rey as a delusional child,
-[
-272
-]
 initially refused to train her, and when he would later decide to abruptly end their lessons after seeing her drawn towards the dark side.
-[
-19
-]
 Part of this was because he was deeply terrified by how much she reminded him of himself.
-[
-275
-]
 He also now believed that there was no hope for those who fell to the dark side, as shown when he openly expressed that he believed there was no hope for Kylo Ren to return to the light.
-[
-19
-]
 By this point, Skywalker had come to regard Ren as his responsibility and his greatest failure.
-[
-242
-]
 However, Rey helped him realize that in disconnecting himself from the Force, he had abandoned those he loved in selfish pity, which he was determined to rectify.
-[
-276
-]
 However, after Yoda's spirit encouraged him that Rey was the Jedi's hope, Skywalker finally realized his wrongs and chose to help the Resistance. Despite his lost faith in his nephew, Skywalker showed great remorse for failing to stop his fall to the dark side, and for himself ending up being the turning point in Solo's fall.
-[
-19
-]
 Skywalker realized that instead of blaming himself, he blamed the Jedi for his failures. His belief of the Jedi being romanticized deities with a legacy of failure remained, but gained realization that if one stripped away the sacred temples, lightsabers, and even the legends about them, they were just good people the galaxy needed.
-[
-242
-]
 In the end, Skywalker willingly sacrificed himself for the Jedi to be revived and the Resistance to live on. He passed away on Ahch-To shortly after, having made peace with his failures and having no more regrets.
-[
-19
-]
 Romances
 [
 ]
 Based on observing Owen and Beru Lars, Skywalker grew up believing in showing his love to people rather than telling them. When he and Nakari Kelen fell in love, he demonstrated his feelings for her, but he did not tell her how he felt; he regretted that as grieved for her death alongside the then-recent losses of his aunt, uncle, and Obi-Wan Kenobi.
-[
-54
-]
 While stranded on
 Hubin
 , Skywalker was instantly smitten with
 Tula Markona
-[
-290
-]
 and they shared a kiss,
-[
-291
-]
 but it would be a one-time event. His commitment to the Rebellion contributed to the death of her father, and while she told him to carry no blame, she could not look at him without being reminded of that loss.
-[
-292
-]
 When he mentioned he previously had a brief attraction to Chelli Lona Aphra, Aphra's ex-girlfriend, Sana Starros told him to count himself lucky that Aphra was not interested in men.
-[
-89
-]
 Skywalker and Reyé Hollis each appreciated the other man's smile and pleasantly-scented hair.
-[
-133
-]
 Powers and abilities
 [
 ]
@@ -9010,129 +6793,42 @@ Lightsaber abilities
 I see you have constructed a new lightsaber. Your skills are complete.
 "
 ―Darth Vader to Luke Skywalker
-[
-12
-]
 Skywalker was an accomplished duelist who triumphed over his father, Darth Vader.
 Though he received little formal training, Luke Skywalker had a natural talent for lightsaber combat.
-[
-11
-]
 Luke's initial training with the weapon of the Jedi came during a brief session with Obi-Wan Kenobi and a training remote on the way to Alderaan,
-[
-1
-]
 where he learned the initial position and the four defensive postures.
-[
-48
-]
 Though his level proved inadequate during his first, brief duel against Darth Vader on Cymoon 1,
-[
-63
-]
 his combat skills had improved for their duel on Bespin,
-[
-11
-]
 and culminated with him besting the Sith Lord in combat during the Battle of Endor.
-[
-12
-]
 Like most Jedi, Skywalker was adept at redirecting blaster fire,
-[
-1
-]
-[
-54
-]
-[
-12
-]
 and eventually was able to do it while flipping.
-[
-126
-]
 During his
 mission
 to Rodia, he tried his hand at
 Jar'Kai
 for the first time with his and Huulik's lightsaber. Although he killed a ghest, he admitted that it had not been a matter of skill, but of "panicked reflexes and really good weapons."
-[
-54
-]
 He received further training from the "Gamemaster," a servant of Grakkus the Hutt, who had learned the art of lightsaber combat. Forced to fight him and the Hutt's MagnaGuards, Skywalker improved his cursory abilities.
-[
-71
-]
 He was able to fight and defeat Kreel of SCAR Squadron in lightsaber combat, with help from utilizing his surroundings,
-[
-102
-]
 and could easily take down Imperial droids.
-[
-126
-]
 After a brief time of training with Yoda, Skywalker revealed himself to be a gifted duelist on Bespin. Skywalker engaged Vader in a fierce duel and managed to hold his own for much of the duel, wounding Vader in the shoulder, impressing the Dark Lord with his skill, though Vader ultimately bested his son and cut off his hand, proving his superiority.
-[
-11
-]
 After recovering from his loss to Vader, Luke defeated the spirit of Grand Inquisitor in a duel on Tempes. The Inquisitor insulted his lightsaber ability and suggested that he fought like a child, but Skywalker was still able to defeat him.
-[
-148
-]
 In one training session aboard Home One, Luke faced off against nine training remotes simultaneously. He easily destroyed the remotes in quick succession, finishing the last one off while in the middle of a conversation with C-3PO.
-[
-152
-]
 However, when he attempted to fight killdroids with his lightsaber while in No-Space, he first believed that the droids were resistant to lightsabers,
-[
-175
-]
 before realizing that they were not resistant, he just had not been focused and one with the Force. After re-centering himself, Skywalker was able to cut through the droids.
-[
-176
-]
 He also successfully defeated the droid Ajax Sigma using a lightsaber, though the droid escaped.
-[
-178
-]
 He also fought many droids on Epikonia and was able to take many down with his lightsaber by consistently focusing on staying calm and concentrating on the Force.
-[
-187
-]
-Skywalker showed his abilities in battle during the rescue of Han Solo, where a skirmish ensued in which the Jedi killed many guards aboard the execution skiff and Jabba's sail barge. Skywalker also utilized his abilities on Endor, blocking laser fire from a scout trooper on a speeder bike before causing the trooper to crash after severing off the speeder's front stabilizers. Later, on board the second Death Star, Skywalker showed his improved abilities and was finally able to duel Vader on an even footing. However, his unwillingness to fight his own father partly held him back; but when Vader threatened to turn Leia to the dark side, an enraged Skywalker unleashed all of his raw ability, overwhelming and defeating the Sith Lord.
-[
-12
-]
+Skywalker showed his abilities in battle during the rescue of Han Solo, where a skirmish ensued in which the Jedi killed many guards aboard the execution skiff and Jabba's sail barge.
+Skywalker also utilized his abilities on Endor, blocking laser fire from a scout trooper on a speeder bike before causing the trooper to crash after severing off the speeder's front stabilizers.
+Later, on board the second Death Star, Skywalker showed his improved abilities and was finally able to duel Vader on an even footing.
+However, his unwillingness to fight his own father partly held him back; but when Vader threatened to turn Leia to the dark side, an enraged Skywalker unleashed all of his raw ability, overwhelming and defeating the Sith Lord.
 Skywalker continued to hone his lightsaber skills.
 Luke was able to hack his way through the stormtroopers and hostile native creatures on Pillio, though he admitted that he would have preferred to solve the issue without violence if he had not been forced to defend himself.
-[
-211
-]
 During his rescue of Grogu from Moff Gideon, Skywalker easily destroyed a platoon of Dark Troopers with his lightsaber and the Force.
-[
-18
-]
 Later in life, Skywalker taught multiple students in the art of lightsaber combat, including his nephew Ben Solo,
-[
-251
-]
 who would later become his strongest student and destroy his Jedi Order.
-[
-20
-]
 During Ben's training, Skywalker encountered and effortlessly overpowered the Knights of Ren, seamlessly dodging their attacks and destroying their weapons before using the Force to disarm them.
-[
-259
-]
 When Luke dueled Exim Panshard, he discovered that his skills with a blade far surpassed those of the ancient Sith Lord. Luke easily defeated the Sith despite restraining himself to avoid harming Panshard's host Kiza.
-[
-7
-]
 When fighting an angry Rey using her quarterstaff, Skywalker fluidly dodged her initial assault, then using a metal rod, blocked all her strikes before hitting her once and then disarming her. Later, on Crait, Luke proved his superiority in skill over Kylo Ren as well by avoiding all of Ren's attacks without even needing to use his lightsaber to block, distracting the First Order long enough for the remaining members of the Resistance to escape.
-[
-19
-]
 Force powers
 [
 ]
@@ -9148,287 +6844,92 @@ blade
 . And so am I.
 "
 ―Luke Skywalker, to the Knights of Ren
-[
-259
-]
 Skywalker had the power to project his image across the galaxy, albeit with fatal consequences.
 Like his father, Skywalker possessed a uniquely powerful connection to the Force, and became one of the most powerful Force wielders in galactic history. Indeed, Darth Sidious feared Skywalker and believed that he was strong enough in the Force to destroy the Sith.
-[
-11
-]
 Most of Luke's understanding of the Force came from his own research, exploration, and experience as he only had a few days Kenobi's mentorship before his demise, Yoda's one year of mentorship before he died of old age, and Kenobi's sporadic guidance from beyond the Netherworld of the Force.
-[
-1
-]
-[
-48
-]
-[
-14
-]
-[
-11
-]
 After learning the basics of the Force, he quickly learned how to
 sense
 through it,
-[
-1
-]
 and took the habit of opening himself to the Force in hopes of learning more than Kenobi had told him, and becoming aware of his surroundings.
-[
-54
-]
-[
-14
-]
 In time, he would also learn to sense the presence of his father, and telepathically calling his sister.
-[
-12
-]
-[
-11
-]
 He was capable of seeing and hearing those who had become one with the Force.
-[
-1
-]
-[
-11
-]
-[
-12
-]
 By using the Force during the Battle of Yavin, he managed to destroy the Death Star with a shot that many thought was impossible.
-[
-1
-]
 After obtaining
 Huulik's lightsaber
 and dismantling it to know his inner workings, Skywalker surmised on his own that the Force could be used to manipulate matter in the manner of telekinesis and managed to learn how to move small objects, such as a noodle or a fork.
-[
-54
-]
 However, he struggled to use telekinesis on command
-[
-90
-]
 but could do it in moments of great danger and emotion.
-[
-89
-]
 He also struggled with reaching out and locating things or people at this time.
-[
-124
-]
 While under the influence of an Abersyn symbiote, he gained incredible psychic power that he started to use to fight the Queen of Ktath'atn in a mindscape before rejecting the power that it and the Rur crystal offered.
-[
-9
-]
 By the time of the Battle of Hoth, Skywalker had the ability to pull his lightsaber to his hands, though not without difficulty. Under Yoda's training, this ability was further developed, enabling him to levitate several objects at once while meditating.
-[
-11
-]
 Shortly after the revelation that Darth Vader was his father, Luke Skywalker struggled with using the Force and could not reach out to Kenobi. When consumed by anger and fear over what he had learned and lost, he lashed out with the Force, hurtling a squadron of Tie Fighters into each other. In another outburst, he accidentally cracked the window of a starship while desperately trying and failing to contact Yoda.
-[
-142
-]
 However, he regained his connection when he tried to reach out for his lightsaber and had a vision of Verla and that Organa was in trouble. He then was able to deactivate many carbonite blocks with people inside all at once with the Force and free them.
-[
-146
-]
 He was able to use the Force to anticipate and avoid many booby traps set by Verla in a cave. He was also able to hold back water flooding in to a trap from the ocean with the Force long enough to convince Verla to deactivate it.
-[
-147
-]
 Despite his connection to the Force still being somewhat unreliable,
-[
-159
-]
 Vader sensed that Skywalker's strength and connection in the Force had grown significantly.
-[
-162
-]
 Skywalker eventually learned other uses, such as mind control techniques and the
 mind trick
 .
-[
-293
-]
 He could use the Force to influence and
 control creatures
-[
-169
-]
 and was able to use it to sense others' emotions and intentions.
-[
-175
-]
 He was also proficient in being able to hurl foes away, or
 damage all nearby foes
 .
-[
-211
-]
 Luke could use the Force to make great leaps.
-[
-11
-]
 When large amounts of death occurred, he could also sense it as a disturbance in the Force.
-[
-178
-]
 When visibility was limited, Skywalker could use the Force to help him navigate in a ship.
-[
-179
-]
 After the activation of the
 Fermata Cage
 , Skywalker's abilities in the Force became more difficult, beginning as just being unsure that he could perform a mind trick,
-[
-172
-]
 but becoming more unwieldy when he was trapped in
 No-Space
 . When trying to use the Force to catch Lando Calrissian when he fell, Skywalker thought that he did not do it as quick as he normally could have and felt distracted by ripples in the Force.
-[
-175
-]
 Later, after pushing dangerous droids away from Chewbacca, he unusually felt like he would not be able to do so again.
-[
-176
-]
 During this time, he could perform a massive Force push that acted as a wave, a feat believed he would not have been able to do without the weirdness of the Force at the time, but one that allowed him to push all of the killdroids on the Hall out into space
-[
-177
-]
 and later destroy large crystal guardians.
-[
-179
-]
 The first time he performed this feat, it caused him to pass out,
-[
-177
-]
 and he felt like he was going to pass out after the second time, though he did not.
-[
-179
-]
 After he first performed it, Skywalker struggled to just pull and object toward him with the Force, and he felt its power go in and out like waves.
-[
-177
-]
 Some examples of this were when he tried to calm a massive creature on Christophsis, but suddenly felt unable to touch the Force at all,
-[
-184
-]
 and when he could not feel the Force when he attempted to open Sason Temple.
-[
-179
-]
 It could also cause him to not use the Force in the way he intended, such as when he tried to hold a
 Starweird
 still and instead impaled it with many crystals.
-[
-183
-]
 In the
 Sason Temple
 , Skywalker could hear and sense the frequency produced by
 Kythoo's Bell
 and its emitter in the Force. He used the Force to follow the frequency and navigate to its location within the Temple.
-[
-182
-]
 He could later use the Force to activate said emitter. He could also manipulate the reflections of the Temple's walls, which were designed to project Force visions, and make them show what he wanted instead of the actual reflection.
-[
-183
-]
-Prior to the Battle of Endor, Skywalker once attempted to purify a red kyber crystal at the direction of Cuata and Gretta, but he failed and merely had a vision of a Sith lord before temporarily being sent to a different dimension of the Force and seeing Vader. He was later able to connect to a raw kyber crystal, which turned green and allowed him to speak with Yoda, but the unsteadiness of the Force at that time left him trapped in his vision until Yoda helped him realize that just like the sun did not disappear during the night, the Force would also always be there. Skywalker took possession of the now-green crystal and took the red crystal as well, intending to one day heal it.
-[
-185
-]
+Prior to the Battle of Endor, Skywalker once attempted to purify a red kyber crystal at the direction of Cuata and Gretta, but he failed and merely had a vision of a Sith lord before temporarily being sent to a different dimension of the Force and seeing Vader.
+He was later able to connect to a raw kyber crystal, which turned green and allowed him to speak with Yoda, but the unsteadiness of the Force at that time left him trapped in his vision until Yoda helped him realize that just like the sun did not disappear during the night, the Force would also always be there.
+Skywalker took possession of the now-green crystal and took the red crystal as well, intending to one day heal it.
 Years later, during his rescue of Grogu, Skywalker used the Force to destroy Dark Troopers by throwing them off ledges, pushing them away, smashing crates into them/flinging debris at them, and crushing them with the Force.
-[
-18
-]
 Skywalker was skilled at doing
 mind tricks
 ,
-[
-12
-]
 as well as performing Force-enhanced jumps.
-[
-69
-]
-[
-11
-]
-[
-12
-]
 He also demonstrated the ability to have visions several times.
-[
-48
-]
-[
-11
-]
 Skywalker could disconnect himself from the Force, and he was able to renew his connection within a short amount of time.
-[
-242
-]
-[
-273
-]
 Luke Skywalker understood the dark side powers
 mind probe
 , Force-bond, and Force lightning well enough to write about them. On at least one occasion, he healed the bled kyber crystal from a Sith lightsaber.
-[
-7
-]
 He also studied
 Force healing
 and many esoteric Force powers.
-[
-4
-]
-[
-7
-]
 Snoke considered Skywalker to be very powerful and formidable and believed he would have taken over the galaxy quickly with Skywalker as his apprentice.
-[
-270
-]
-When using the force to restrain an archeologist possessed by a Sith spirit on Yoturba, Luke had to concentrate very carefully to restrain his power so that he did not accidentally kill the man. Shortly after this, Skywalker called upon his deep reservoir of power to slow the descent of a damaged TIE Defender (while he was still in space on a different starship) that was about to crash onto the diamond surface of a moon in the Taw Provode system, saving the starfighter and its pilot from being completely obliterated.
-[
-7
-]
+When using the force to restrain an archeologist possessed by a Sith spirit on Yoturba, Luke had to concentrate very carefully to restrain his power so that he did not accidentally kill the man.
+Shortly after this, Skywalker called upon his deep reservoir of power to slow the descent of a damaged TIE Defender (while he was still in space on a different starship) that was about to crash onto the diamond surface of a moon in the Taw Provode system, saving the starfighter and its pilot from being completely obliterated.
 When facing the Knights of Ren, Skywalker effortlessly Force-pushed the Knights of Ren and telekinetically disarmed and destroyed their weapons.
-[
-259
-]
 After the fall of Ben Solo and the destruction of his Jedi Temple, Skywalker spent years himself how to close himself off from the Force, an ability he considered much more difficult than reaching out to it in the first place.
-[
-272
-]
 Shortly after reopening himself to the Force, Luke detected Rey and Ren's bond and in his anger, he Force pushed Rey's hut into pieces around the two and broke the connection. When defending himself against Rey, Luke pried an antenna from the roof of a hut and summoned it to himself in seconds, then managed to keep himself suspended off the ground after being knocked down by Rey. Whereas Ren noted that the effort of attempting
 Force projection
 would kill Rey, Skywalker was able to use the complete version of this ability; he gave all of himself into the Force, which allowed him to interact with others
-[
-4
-]
 by sending a life-like image of himself across the galaxy to distract Kylo Ren and the First Order. The projection was so powerful that C-3PO acknowledged his presence, and Ren was tricked into believing it was the real him. Skywalker maintained it for a prolonged period of time, although the strain ultimately proved to be fatal and killed the Jedi Master.
-[
-19
-]
 Skywalker was one of the few Jedi who was able to truly become one with the Force and preserve his consciousness as a
 Force spirit
 . As a Force spirit, Skywalker was able to physically interact with the living world, which he demonstrated when he caught the Skywalker lightsaber after Rey threw it, and when he lifted his X-wing from the oceans of Ahch-To and repaired it so that she could travel to Exegol.
-[
-17
-]
 Other abilities
 [
 ]
@@ -9436,144 +6937,48 @@ Other abilities
 Luke is the best bush pilot in the Outer Rim Territories.
 "
 ―Biggs Darklighter boasts about Luke's piloting skills to Garven Dreis
-[
-1
-]
 Skywalker, whose father was considered the best pilot in the galaxy, flew the X-wing starfighter that destroyed the Death Star.
 Skywalker was acknowledged to be an expert pilot, being the person who was responsible for destroying the first Death Star and managing to evade Darth Vader himself (albeit with help from Han Solo).
-[
-1
-]
 He also managed to destroy an
 Interdictor
 vessel on his own while piloting the
 Desert Jewel
 , although he acknowledged that R2-D2 saved him when the astromech droid made the ship jump into hyperspace in the nick of time.
-[
-54
-]
 He was also able to pilot a Imperial Lambda-class T-4a shuttle with relative ease, outmaneuvering an
 RZ-1 A-wing interceptor
 that was trying to get a lock on him.
-[
-205
-]
 In fact, Skywalker had a talent for tinkering and a passion for speed.
-[
-271
-]
 With no previous experience, Skywalker was able to pilot a podracer with incredible skill, a feat that an announcer and Vader acknowledged was impressive.
-[
-58
-]
 He was considered to be one of the Alliance's best pilots
-[
-123
-]
 and gained recognition and fame amongst them for his skills because he made the shot that destroyed the Death Star.
-[
-156
-]
 He was able to pilot a shuttle into Cloud City and avoid the shots from its turret defenses though he worried he would get them killed.
-[
-143
-]
 He briefly bested Vader in a dogfight over Jekara, tricking him into crashing.
-[
-162
-]
 His piloting and targeting skills were limited by his fear occasionally, and on one instance he missed a shot because he had a vision of Vader defeating Solo during the Battle of Yavin.
-[
-156
-]
 He was even able to use a jetpack
-[
-176
-]
 and was skilled with a speeder, once using one to take down an Imperial transport.
-[
-128
-]
 However, he once attempted to drive a boat and ended up capsizing it.
-[
-147
-]
 He also could perform environmental surveys, largely to due farming skills he gained from his time on Tatooine.
-[
-102
-]
 He was a native speaker of
 Galactic Basic Standard
 ,
-[
-1
-]
 and although Skywalker could not understand
 Shyriiwook
 , he had quickly learned how to read Chewbacca's moods by his tone and expression before the Battle of Yavin.
-[
-6
-]
 After decades of missions with R2, Skywalker was reasonably fluent in droidspeak.
-[
-273
-]
 Skywalker was adept in unarmed combat. He demonstrated his skill early on Cymoon 1 where he defeated a few stormtroopers by kicking and slamming them to the ground.
-[
-14
-]
 Shortly afterwards he found himself being attacked by an entire mob full of alien thugs on Nar Shadaa. Skywalker defeated numerous of the attackers unarmed before igniting his lightsaber and startling the rest.
-[
-68
-]
 He found himself in another similar situation on Horox III, where he defeated an entire cantina of alien thugs with the help of Aphra and her Wookiee bounty hunter.
-[
-89
-]
 Skywalker knocked out the Commander Kanchar, a hulking cybernetic enhanced man with a single punch after outsmarting him.
-[
-101
-]
 He was able to take down a muscled individual who was much larger than him using only a broom.
-[
-123
-]
 However, Ellian Zahra was able to knock him down in an encounter where she was holding back, though he easily dodged her sword attack.
-[
-150
-]
 He was also capable with a blaster,
-[
-1
-]
 and could also escape ropes tied around his hands quickly, a skill Doctor Aphra theorized he learned from Han Solo.
-[
-179
-]
 It took him time to get used to fighting with a blaster and hand-to-hand with his prosthetic hand, however.
-[
-142
-]
 He was capable with a grappling hook and could use it to both swing
-[
-1
-]
 and pull items down.
-[
-129
-]
 He also knew how to swim.
-[
-107
-]
 In his later years, Skywalker displayed such skill that he was able to easily punch aside a Knight of Ren
-[
-259
-]
 and disarm Rey of her quarterstaff before she could react.
-[
-19
-]
 Equipment
 [
 ]
@@ -9583,13 +6988,7 @@ On Tatooine
 As a boy, Luke Skywalker wore a yellow undershirt with a tan
 linen
 tunic that offered protection from the harsh Tatooine suns,
-[
-25
-]
 and brown belt.
-[
-30
-]
 As an adult, he wore a Tatooine farm tunic, light pants, and
 boots
 with sandproof leg bindings and grip soles. On his belt he had a tool pouch and a
@@ -9597,9 +6996,6 @@ droid caller
 . Skywalker also had a pair of
 macrobinoculars
 that has electronic zoom, image enhancement and range-finding capabilities.
-[
-36
-]
 As a pilot
 [
 ]
@@ -9616,9 +7012,6 @@ code cylinders
 along with safe passage documents attached to his suit with signal
 flares
 attached to his boots.
-[
-36
-]
 On Ahch-To
 [
 ]
@@ -9628,15 +7021,9 @@ sacred Jedi texts
 pinniped
 -skin
 jacket
-[
-244
-]
 and
 gloves
 ,
-[
-4
-]
 a weather shawl and waterproof boots with tightly wound leggings. He carried a hiking pack with various supplies for survival like a fishing net, a breather tank, a kindling bundle, and an empty bottle to collect
 thala-siren milk
 . He used a walking stick to aid his mobility and a long barbed spearfishing pole with a carved bone tip to catch large fish like the
@@ -9648,9 +7035,6 @@ Jedi Crusader pendant
 , a lightning rod, and a
 ponipin astrogator
 .
-[
-244
-]
 Lightsabers
 [
 ]
@@ -9665,35 +7049,14 @@ Skywalker built a new lightsaber after losing his father's weapon.
 Luke Skywalker wielded at least three lightsabers during the
 Galactic Civil War
 . The first was his father's former weapon, that was retrieved and given to him by Obi-Wan Kenobi.
-[
-1
-]
 He wielded this weapon for three years before losing it, and the hand holding it, in a duel against Darth Vader on the cloud city on Bespin.
-[
-11
-]
 The second one he obtained shortly after his visit to a Jedi outpost on Tempes. This saber was a lightsaber pike with only the still functional half of the lightsaber. Luke eventually fixed the damaged end and continued using this one to defend himself against foes like Commander Ellian Zahra.
-[
-150
-]
 While in No-Space, this lightsaber was crushed and mangled by a killdroid. R2-D2 attempted to fix it, and while it still ignited, it often dangerously sputtered and crackled with energy.
-[
-177
-]
 Dr. Cuata eventually repaired it.
-[
-185
-]
 Eventually, Skywalker built himself a new weapon, with a green blade, that he used to rescue his friends from Jabba the Hutt and during his final duel with Darth Vader.
-[
-12
-]
 He also briefly utilized one of
 Darth Atrius' lightsabers
 , but quickly destroyed it due to its effects on his mind.
-[
-58
-]
 Blasters
 [
 ]
@@ -9711,17 +7074,11 @@ E-11 medium blaster rifle
 . During the Award ceremony that occurred shortly after the Battle of Yavin, Skywalker had a
 Defender sporting blaster pistol
 .
-[
-1
-]
 He later owned a
 heavy blaster pistol
 similar to a
 DL-44
 .
-[
-11
-]
 Behind the scenes
 [
 ]
@@ -9736,9 +7093,6 @@ Star Wars saga
 , Luke Skywalker was portrayed by actor
 Mark Hamill
 .
-[
-1
-]
 For his appearance in
 Star Wars
 : Episode III
@@ -9746,68 +7100,37 @@ Revenge of the Sith
 , Skywalker was portrayed as a infant by
 Aidan Barton
 .
-[
-13
-]
 Luke Skywalker's character went through subsequent changes. In George Lucas' original script, Skywalker was meant to be called Luke Starkiller,
-[
-294
-]
 at one point the character was a girl,
-[
-295
-]
 and Lucas even considered the main character to be a little person.
-[
-296
-]
 Luke Skywalker's first name is identical with George Lucas' high school nickname.
-[
-297
-]
 That Skywalker is urged by his uncle Owen Lars—who serves as the boy's father figure—to give up on his dreams and instead work in the family business, in his case moisture farming, can also be connected to Lucas' life, where his father George Lucas Sr. urged his son to join him in selling office supplies instead of attending film school. Furthermore, Skywalker also suffers great injuries throughout the saga,
-[
-298
-]
 such as being attacked by a wampa and losing his hand in
 Star Wars
 : Episode V
 The Empire Strikes Back
 alone,
-[
-11
-]
 much as Lucas himself did in a 1962 car crash that almost killed the future director. The injuries suffered by Luke's father Anakin Skywalker can also be connected to Lucas' car crash. Lucas has indeed stated he put parts of himself into the characters of Anakin and Luke, reflecting that over his life he had wanted to be a Han Solo-like person, yet he instead found himself to be more of a Skywalker.
-[
-298
-]
 The draft script for the final entry of the original trilogy, what became
 Star Wars
 : Episode VI
 Return of the Jedi
 , had Luke fight the Emperor aboard Death Star II with the assistance of the Force spirits of both his masters, Obi-Wan Kenobi and Yoda. Skywalker would have been defended by both when Palpatine unleashed his Force lightning. Kenobi, Yoda, and Anakin Skywalker also returned to having physical forms in the script, allowing Luke to hug his resurrected father.
-[
-299
-]
 Skywalker's black costume in
 Return of the Jedi
 was intentionally designed to invoke Vader's also dark outfit.
-[
-300
-]
 Sequel trilogy
 [
 ]
 "
-If you look at any classic hero's myth that is actually worth its salt, at the beginning of the hero's journey, like with King Arthur, he pulls the sword from the stone and he's ascendant — he has setbacks but he unites all the kingdoms. But then if you keep reading, when it deals with the hero's life as they get into middle-age and beyond, it always starts to get into darker places. And there's a reason for that: It's because myths are not made to sell action figures; myths are made to reflect the most difficult transitions we go through in life.
+If you look at any classic hero's myth that is actually worth its salt, at the beginning of the hero's journey, like with King Arthur, he pulls the sword from the stone and he's ascendant — he has setbacks but he unites all the kingdoms.
+But then if you keep reading, when it deals with the hero's life as they get into middle-age and beyond, it always starts to get into darker places.
+And there's a reason for that: It's because myths are not made to sell action figures; myths are made to reflect the most difficult transitions we go through in life.
 "
 ―
 Rian Johnson
 on Luke's characterization in
 The Last Jedi
-[
-301
-]
 George Lucas
 's
 sequel trilogy
@@ -9816,13 +7139,7 @@ outline involved a Luke who had fallen into a dark state of mind, living in self
 concept art as "a
 Colonel Kurtz
 type.")
-[
-302
-]
 However, Lucas did not give a reason for Luke's change of attitude.
-[
-303
-]
 Michael Arndt
 's initial script for
 The Force Awakens
@@ -9831,72 +7148,33 @@ J.J. Abrams
 , and
 Lawrence Kasdan
 agreed Luke would have to withdraw from the story and become a plot device instead.
-[
-304
-]
 Hamill still attended the cast's script reading, thereby concealing Luke's role, and was assigned to read the stage directions. "It was a way of having [him] be part of every scene, every moment, not just spiritually or thematically or narratively, but actually," Abrams said. "Having his voice in it made the read through a better experience for everyone."
-[
-305
-]
 Hamill was initially concerned by how Luke was written in
 The Last Jedi
 . "I got into trouble because… I was quoted as saying to Rian [Johnson] that I fundamentally disagree with everything you decided about Luke, and it was inartfully [sic] phrased. What I was, was surprised at how he saw Luke. And it took me a while to get around to his way of thinking, but once I was there it was a thrilling experience. I hope it will be for the audience too."
-[
-306
-]
 Johnson explained: "Honestly, that came out of what I felt was a necessity, because it came from where he was at the end of
 Episode VII, The Force Awakens
 . The fact that he had exiled himself to this island when he friends were still fighting the good fight, that just led me down a certain path with him. I couldn't really see any other alternative.";
-[
-307
-]
 "Knowing that Luke is a hero, knowing Luke from growing up, I know he must think he's doing the right thing by taking himself out of the equation. And because he's the last Jedi, by taking the Jedi out of the equation, by saying, 'I'm taking the Jedi out of this fight,' he must think that's the best thing for the galaxy."
-[
-308
-]
 Hamill agreed that an old, comfortable Luke would have been too reminiscent of Obi-Wan, but his issue was that "'Jedis [sic] don't give up.'" Johnson added the back-and-forth to get Luke's character to make sense helped "made me really dig in and justify the choices I had made to bring Luke to where he was at. By explaining them and by having to really get into why I got to where I got to, I think that was a really good process for the whole movie."
-[
-309
-]
 To get into character, Hamill thought of the real life hopes and disappointments of
 his generation
 .
-[
-310
-]
 Johnson deemed it best to conclude Luke's
 Last Jedi
 arc with him dying partly because, "honestly, thinking about the number of characters we have on our plate going into the next movie [...] it just vaguely seemed good to me that putting Luke in another realm could open possibilities for his possible involvement in the next one. As opposed to him just being another character that had to be juggled into the plot, if that makes sense." He was unconcerned that the audience might feel unable to cope with Luke's death so soon after Han's murder in
 The Force Awakens
 , as Luke's passing was victorious and peaceful, not a violent defeat.
-[
-311
-]
 Hamill was particularly not keen on Luke dying, feeling he had to return a triumphant hero, but Johnson argued that "if Skywalker just came back like he did in the original trilogy, an optimistic fighter, he's just an older version of Rey. And Johnson needed someone to bounce up against Rey."
-[
-312
-]
 Hamill said his primary lesson from the experience was how, "At times, I'd say to Rian, 'We gotta think of what the audience wants,' "And he would say, 'No, we've gotta think of what we want.'"
-[
-313
-]
 Hamill later expressed regret for his comments regarding the film, stating that such creative differences are common, but usually remain private and that Johnson had made a great film.
-[
-314
-]
 He later disclosed he had similarly disputed the way the character was written in
 Return of the Jedi
 , revealing "I read [the script for] Jedi and thought, 'Wait a sec! I thought I was heading toward the struggle of heading to the Dark Side. I'm in black. I have a glove. I see a trend here.'"
-[
-315
-]
 The Rise of Skywalker
 reveals Luke and Leia knew about Rey's ancestry, despite the revelation not having been conceived during production of the previous two films. Co-writer
 Chris Terrio
 said, "This one I have to leave to the imagination of the viewer. But, I don't think it would be wrong to assume that Luke's Force Ghost would seek out his Force-sensitive, Jedi-trained sister."
-[
-316
-]
 Portrayal on Disney+
 [
 ]
@@ -9915,9 +7193,6 @@ Max Lloyd Jones
 physically portrayed the character, with
 Matt Rugetti
 serving as a stunt double.
-[
-18
-]
 Both Hamill and Jones were filmed—Jones with all of the cast, and Hamill when most of the cast and crew were filming outside of the studio. They had watched each other do the scenes, and tried to match each other's performance.
 Lola's
 digital
@@ -9925,9 +7200,6 @@ de-aging
 was used to make the character look like young Luke Skywalker, and the voice was completely synthesised using an application called Respeecher. To prevent this appearance from leaking, the scripts had
 Plo Koon
 written instead of Luke Skywalker, and a concept art of Plo Koon destroying dark troopers was created.
-[
-317
-]
 In
 Star Wars: The Book of Boba Fett
 ,
@@ -9935,31 +7207,22 @@ Graham Hamilton
 was the performance artist for the character, with
 Scott Lang
 serving as a stunt double. The voice was artificially created with Respeecher.
-[
-318
-]
 Rosario Dawson
 , who played Ahsoka Tano in
 The Book of Boba Fett
 ,
-[
-255
-]
 didn't learn that her character would interact with Luke Skywalker until the day of filming. She was very excited that she got to work with Mark Hamill.
-[
-319
-]
 Portrayal in
 Obi-Wan Kenobi
 [
 ]
 "
-And [Obi-Wan Kenobi] sees a guy in a dark robe with a red lightsaber, and he's like, 'Anakin, Anakin, Anakin!' And as… the guy in the robe comes up, he lifts his lightsaber, you see, it's Luke. Mark Hamill, 19. And so, Luke attacks him. Obi-Wan and Luke had this lightsaber battle in mine, which was mirroring, of course, Empire Strikes Back… so it was that kind of a thing that ends with, you know, Luke, just almost killing Obi-Wan, and Obi-Wan is snapping out of the, you know, the vision, basically, but it's a vision of the future if Obi-Wan keeps training Luke and putting all his guilt on this kid, Luke's gonna turn to the Dark Side.
+And [Obi-Wan Kenobi] sees a guy in a dark robe with a red lightsaber, and he's like, 'Anakin, Anakin, Anakin!' And as… the guy in the robe comes up, he lifts his lightsaber, you see, it's Luke.
+Mark Hamill, 19.
+And so, Luke attacks him.
+Obi-Wan and Luke had this lightsaber battle in mine, which was mirroring, of course, Empire Strikes Back… so it was that kind of a thing that ends with, you know, Luke, just almost killing Obi-Wan, and Obi-Wan is snapping out of the, you know, the vision, basically, but it's a vision of the future if Obi-Wan keeps training Luke and putting all his guilt on this kid, Luke's gonna turn to the Dark Side.
 "
 ―Stuart Beattie describing the script for his Obi-Wan Kenobi feature film
-[
-320
-]
 In
 Stuart Beattie
 's script for an Obi-Wan Kenobi feature film, when Kenobi left Tatooine, he left
@@ -9976,9 +7239,6 @@ refugees
 that are fleeing from the Empire. Tao, the lead refugee woman, took Kenobi to a sacred shrine and instructed the Jedi Master to let their goddess speak to him. Kenobi was then on Mustafar and was attacked by Luke Skywalker played by a de-aged Mark Hamill. Skywalker almost killed Kenobi, but he snapped out the vision and realized that putting his guilt on Skywalker would turn him to the dark side. Beattie was excited to be part of the first
 Star Wars
 project to bring back Skywalker.
-[
-320
-]
 Grant Feely portrayed Luke Skywalker in
 Obi-Wan Kenobi
 Skywalker was portrayed by
@@ -9986,46 +7246,25 @@ Grant Feely
 as a young kid in
 Part I
 ,
-[
-28
-]
 Part V
 ,
-[
-29
-]
 and
 Part VI
 of the
 Star Wars: Obi-Wan Kenobi
 limited television series.
-[
-30
-]
 In
 April
 ,
 2021
 ,
-[
-321
-]
 Feely's agent sent him the audition for a role.
-[
-322
-]
 He then filmed an audition for "Boy - Untitled
 Disney+
 Series," not knowing the role was for
 Obi-Wan Kenobi
 ,
-[
-321
-]
 and he did not think anything of it.
-[
-322
-]
 A week later, he had an hour-long
 Zoom
 callback with
@@ -10035,58 +7274,25 @@ June
 , he had a director's callback with director
 Deborah Chow
 .
-[
-321
-]
 When he was in
 Hawaii
-[
-322
-]
 during the end of June,
-[
-321
-]
 he was asked if he could come to
 Los Angeles
 . He was not able to go, so they flew him to LA
-[
-322
-]
 to do an in-person audition with Chow. In early
 July
 , Chow called Feely to offer him the role of Luke Skywalker.
-[
-321
-]
 For about nine months, Feely kept his role a secret and only told his close family.
-[
-323
-]
 Feely wanted to do research for his portrayal, however Chow told him to not watch any
 Star Wars
 movies so that he could act like a regular boy instead of how Mark Hamill played the character in the original trilogy. Chow explained that Skywalker does not learn about the Force until he's around twenty years old.
-[
-322
-]
 He was not told anything about Skywalker or any other characters in the series.
-[
-323
-]
 When the rock scene
-[
-321
-]
 of Skywalker being chased by the
 Inquisitor
 Reva
-[
-30
-]
 was being filmed, Feely was in a harness running along the top of the set.
-[
-321
-]
 Other appearances
 [
 ]
@@ -10095,9 +7301,6 @@ Episode IV: A New Hope Read-Along Storybook and CD
 , Skywalker was voiced by
 Joshua Fardon
 .
-[
-324
-]
 When he wrote the
 2020
 relaunch of the
@@ -10111,22 +7314,10 @@ Return of the Jedi
 , author
 Charles Soule
 knew that Skywalker's emotional journey between the events of both films was key factor in bridging their gap. In sculpting Skywalker's path between those movies, he found that one story arc,
-[
-325
-]
 the two issue
 The Sith and the Skywalker
 storyline,
-[
-191
-]
-[
-326
-]
 was quite important to Skywalker's journey. Due to its importance, he was happy to see fans enjoy it.
-[
-325
-]
 Trials on Tatooine
 [
 ]
@@ -10134,9 +7325,6 @@ Trials on Tatooine
 Good luck with whatever Luke has you doing down here.
 "
 ―Han Solo to Skywalker's student about Luke
-[
-327
-]
 In the cinematic virtual-reality game,
 Star Wars: Trials on Tatooine
 , after Skywalker had many journeys to the distant corners of the galaxy, uncovering secrets about the legacy of the Jedi, he felt ready to create a new Jedi Order. He took on a
@@ -10146,9 +7334,6 @@ mission
 to Tatooine to await a delivery from Han Solo. The
 Millennium Falcon
 landed, and R2-D2 handed the Padawan a lightsaber. However, remnants of the Galactic Empire began an operation to attack the Padawan.
-[
-327
-]
 Role in LEGO
 Star Wars
 [
@@ -10160,9 +7345,6 @@ LEGO animated series
 Rowan, May the Force be With You.
 "
 ―Luke Skywalker to Rowan Freemaker after their first meeting
-[
-328
-]
 Luke Skywalker as depicted in
 The Freemaker Adventures
 Even though Skywalker's appearances in various
@@ -10172,9 +7354,6 @@ content are not a part of the official
 Star Wars
 canon
 , they are set in a unique, continuous universe.
-[
-329
-]
 In the
 LEGO Star Wars
 television series
@@ -10182,31 +7361,16 @@ LEGO Star Wars: The Freemaker Adventures
 , Skywalker was often alluded to, but the man himself only made three physical appearances: the episodes "
 Crossing Paths
 ,"
-[
-328
-]
 "
 Trouble on Tibalt
 ,"
-[
-330
-]
 and "
 Return of the Return of the Jedi
 ,"
-[
-331
-]
 where he was voiced by
 Eric Bauza
 .
-[
-328
-]
 Skywalker also made appearance
-[
-332
-]
 in the five-episode limited series
 LEGO Star Wars: Droid Tales
 , a series that re-told the story of the live-action
@@ -10224,13 +7388,7 @@ Star Wars Rebels
 episode "
 Droids in Distress
 ."
-[
-333
-]
 Skywalker was once again voiced by Eric Bauza in the series.
-[
-332
-]
 LEGO video games
 [
 ]
@@ -10240,21 +7398,12 @@ For the
 LEGO Star Wars: The Force Awakens
 video game
 , Mark Hamill reprised his role as Skywalker, albeit through archive footage and not newly-recorded dialogue.
-[
-334
-]
 In
 LEGO Star Wars: The Skywalker Saga
 , he was voiced by
 David Menkin
 , who was overjoyed to play the iconic character.
-[
-335
-]
 In this game, Skywalker is presented as having tried to deal with the rising darkness of Ben Solo during the time of the Jedi academy in a calm and non-threatening way, only drawing his lightsaber to block an attack from the younger man.
-[
-336
-]
 LEGO
 Star Wars
 Holiday Specials
@@ -10266,15 +7415,9 @@ LEGO Star Wars Terrifying Tales
 Skywalker would make an appearance in
 The LEGO Star Wars Holiday Special
 , once again voiced by Eric Bauza.
-[
-337
-]
 Skywalker then would make an appearance in
 LEGO Star Wars Terrifying Tales
 in the segments, "The Lost Boy" and "The Wookiee Paw". He was once again voiced by Eric Bauza.
-[
-338
-]
 Appearances
 [
 ]

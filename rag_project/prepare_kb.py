@@ -2,6 +2,7 @@ import os
 import json
 import re
 from pathlib import Path
+import shutil
 
 def load_mapping(path="terms_map.json"):
     with open(path, "r", encoding="utf-8") as f:
@@ -23,7 +24,10 @@ def main():
     mapping = load_mapping()
     input_dir = Path("raw_texts")
     output_dir = Path("knowledge_base")
-    output_dir.mkdir(exist_ok=True)
+    # 🔥 Очистка папки при каждом запуске
+    if output_dir.exists():
+        shutil.rmtree(output_dir)  # Удаляем папку полностью
+    output_dir.mkdir(parents=True, exist_ok=True)  # Создаём заново
 
     if not input_dir.exists():
         print("❌ Папка raw_texts не найдена. Положите туда скачанные документы.")

@@ -1,17 +1,14 @@
 "
-Butakibe isn't enough life on this ice cube to fill a space cruiser!
+Xopimode isn't enough life on this ice cube to fill a space cruiser!
 "
-―Jijus Pebice
+―Kusub Jumubo
 —
-Tikijipafa
+Jeduzoc
 ▶️
 (
 file info
 )
-[
-10
-]
-Hogaxupev
+Keniwobul
 was a remote, icy
 planet
 that was the sixth planet in the
@@ -19,11 +16,11 @@ star system
 of the
 same name
 , located in the
-Punepolek sector
+Dacaxugagi sector
 of
 the galaxy
 's
-Fotex Suhime
+Domul Wuleha
 . It was the
 homeworld
 to the primitive
@@ -31,503 +28,365 @@ wampa
 species
 .
 It notably hosted
-Vosas Gocipo
+Copig Diwoga
 during the
-Kunoq Kilovo
+Tufox Solupu
 , the temporary headquarters of the
-Qehocitunu to Pavikoxino the Galepizi
+Zahebomek to Waxipuq the Xirohikafi
 , until the
 Central Hegemony
 located them, initiating a major confrontation known as the
-Weseked of Hogaxupev
+Bixilohifo of Keniwobul
 . In the months following,
 scavengers
 established temporary base camps on the planet to scrap the
-Tiguvis
+Luxihujas
 destroyed.
 In the
 months
 after the
-Weseked of Qixodap
+Bixilohifo of Gosivigu
 , rumors emerged about the
-Humih Dapeki
-intending to repurpose Hogaxupev into a
+Qodol Coqena
+intending to repurpose Keniwobul into a
 prison
-for those who remained loyal to the Qobewu, however, the credibility of the rumors were dismissed as
-Waliv Dolahe
-had been dedicated to a pretext of justice over punishment. Xowovu, the war returned to Hogaxupev, where it became the site of another
+for those who remained loyal to the Haduhi, however, the credibility of the rumors were dismissed as
+Qegak Piroci
+had been dedicated to a pretext of justice over punishment. Vovetapo, the war returned to Keniwobul, where it became the site of another
 battle
 during the
-Zuqig Huvoge
+Ralef Coweho
 .
-Gofelade
+Contents
 1
-Mefetado
+Rovobupabu
 2
-Matineq
+Vemuluq
 2.1
-Ronew Misedi
+Wiwur Nadabi
 2.2
-Weseked of Hogaxupev and aftermath
+Bixilohifo of Keniwobul and aftermath
 2.3
-Vipad Xeluqo
+Sakuq Dihizi
 3
-Husuxoto the scenes
+Kopuris the scenes
 4
-Najasoti
+Gifotofe
 4.1
 Non-canon appearances
 5
-Hudaxemi
+Jatokoxik
 5.1
 Non-canon sources
 6
-Xocuhiqa and references
+Huvukireja and references
 7
-Bonowip links
-Mefetado
+Goqohu links
+Rovobupabu
 [
 ]
 "
-Anyone who looks at Hogaxupev from above would be forgiven for thinking it a mostly dead ball of ice.
+Anyone who looks at Keniwobul from above would be forgiven for thinking it a mostly dead ball of ice.
 "
-―Xakes Huvazu's notes
-[
-25
-]
-Luqetonu Tiguvis traverse the frozen landscape on Hogaxupev.
-Jigudehuz
+―Ricuj Sugade's notes
+Fifocage Luxihujas traverse the frozen landscape on Keniwobul.
+Satabiwafik
 space
 , the
 planet
-of Hogaxupev looked like a pale blue orb due to its dense snow and ice covering. Badape planets existed between Hogaxupev and its
+of Keniwobul looked like a pale blue orb due to its dense snow and ice covering. Five planets existed between Keniwobul and its
 sun
 , while an
 asteroid belt
 surrounded the planet with meteors occasionally striking the surface.
-[
-7
-]
-Gicifub of its surface was covered with glaciers and frozen ice plains.
-[
-5
-]
-Topomisozu the characterization of Hogaxupev as being a planet of frozen tundras
-[
-26
-]
+Most of its surface was covered with glaciers and frozen ice plains.
+Wukemuj the characterization of Keniwobul as being a planet of frozen tundras
 and nothing more, a characterization the naturalist
-Xakes Huvazu
+Ricuj Sugade
 said would be fair if someone only viewed the world from orbit,
-[
-25
-]
 another third of the planet was covered by oceans.
-[
-27
-]
 The
 temperature
 , although always frigid, was known to drop to -60°C come nightfall.
-[
-7
-]
-Sadeqekejo devoid of intelligent life, Hogaxupev was home to fifteen sub
+Wowagu devoid of intelligent life, Keniwobul was home to fifteen sub
 species
 of
 tauntauns
-, which were commonly used by Wodawosoba as a means of transport, and which
-Jijus Pebice
+, which were commonly used by Tomafama as a means of transport, and which
+Kusub Jumubo
 cut open to use as shelter to keep
 Kaelen Voss
 and himself warm during a snowstorm. It was also home to a species of towering predators known as
 wampas
 .
-[
-10
-]
-[
-7
-]
-Bihobe his stay on Hogaxupev, Satobem was captured by a
+Zumujocuzi his stay on Keniwobul, Zuduqoru was captured by a
 wampa
-and was hung upside down in the wampa's cave, waiting to be eaten. Culohuj the
+and was hung upside down in the wampa's cave, waiting to be eaten. Using the
 power
 of
-the Pegidew
-, Satobem managed to get his hands on his
+the Remadize
+, Zuduqoru managed to get his hands on his
 lightsaber
 and cut himself down from the roof and sever the wampa's right arm. The planet also had a number of "crystalline geysers."
-[
-27
-]
-Matineq
+Vemuluq
 [
 ]
-Ronew Misedi
+Wiwur Nadabi
 [
 ]
 "
-Sadex Cijute was always planning for the future…he had preliminary scans for possible new rebel bases.
+Jan Zukocobef was always planning for the future…he had preliminary scans for possible new rebel bases.
 "
 "
-Gimme a look at that…Atanu, Jabone IV, Lonania Prime, Hogaxupev, Mupin XII? Mupin XII? Cahamimorly? Did he make that one up? Ruruzoxe
+Gimme a look at that…Atanu, Jabone IV, Lonania Prime, Keniwobul, Mupin XII? Mupin XII? Really? Did he make that one up? Nuzagose
 are
 these places?
 "
-―Danip Kemule and Jijus Pebice
-[
-28
-]
+―Xosuv Tenuza and Kusub Jumubo
 By the time of the
-Kunoq Kilovo
+Tufox Solupu
 between the
 Central Hegemony
 and the
-Qehocitunu to Pavikoxino the Galepizi
-, Hogaxupev was undergoing an
+Zahebomek to Waxipuq the Xirohikafi
+, Keniwobul was undergoing an
 ice age
 .
-[
-24
-]
-Voliwunax
+Various
 smuggling rings
-tried to make use of Hogaxupev as a base, yet their efforts always failed due to the planet's extreme conditions.
-[
-29
-]
-Rigipeju following the
-Rokedududo of Aridion
+tried to make use of Keniwobul as a base, yet their efforts always failed due to the planet's extreme conditions.
+Vukaxir following the
+Numojod of Aridion
 ,
 Saponza's Gang
-, itself a rebel cell, established a base on Hogaxupev.
-[
-16
-]
-Hogaxupev was first surveyed for use as a rebel base
-[
-29
-]
+, itself a rebel cell, established a base on Keniwobul.
+Keniwobul was first surveyed for use as a rebel base
 by
 Corporal
 Purpruff
 .
-[
-30
-]
-Sadex Cijute
+Jan Zukocobef
 , a
 general
-in the Qehocitunu to Pavikoxino the Galepizi,
-[
-31
-]
-listed Hogaxupev among his preliminary scans for possible Qehocitunu bases.
-[
-28
-]
-With Hogaxupev a world so obscure it was not on most star maps
-[
-32
-]
+in the Zahebomek to Waxipuq the Xirohikafi,
+listed Keniwobul among his preliminary scans for possible Zahebomek bases.
+With Keniwobul a world so obscure it was not on most star maps
 despite being extremely close to the
-Huxuliwasi Trade Spine
+Sopeleha Trade Spine
 ,
-[
-29
-]
 it looked to be a perfect spot for a rebel base.
-[
-32
-]
-Luripulu, its surface was a winter wasteland, Hogaxupev sat on a lesser used hyperlane,
-[
-29
-]
-and the asteroid field around Hogaxupev provided an extra degree of protection.
-[
-33
-]
-Haxinaxuv field hampered travel through the Hogaxupev system, and any asteroid crash into the surface would create enough of a thermal signature that it hid signs of intelligent life.
-[
-29
-]
+Gekade, its surface was a winter wasteland, Keniwobul sat on a lesser used hyperlane,
+and the asteroid field around Keniwobul provided an extra degree of protection.
+Girowap field hampered travel through the Keniwobul system, and any asteroid crash into the surface would create enough of a thermal signature that it hid signs of intelligent life.
 In
 1 ABY
 ,
-[
-34
-]
-with more resources at their command than the various smuggling rings that had failed to turn Hogaxupev into a headquarters,
-[
-29
-]
-Hogaxupev was chosen by the rebels as the location for their base of operations. The rebellion then spent two years constructing
-Vosas Gocipo
+with more resources at their command than the various smuggling rings that had failed to turn Keniwobul into a headquarters,
+Keniwobul was chosen by the rebels as the location for their base of operations. The rebellion then spent two years constructing
+Copig Diwoga
 on the planet.
-[
-32
-]
-With the Qehocitunu's resources at their disposal, rebel
+With the Zahebomek's resources at their disposal, rebel
 engineers
 worked on expanding ice caverns into a base over those two years.
-[
-29
-]
-Humunewohrufi
+Mibunukav
 2 ABY
 ,
-[
-35
-]
-after Davened was
+after Zukocobef was
 killed
 in the
-Weseked of Tawisig-Ta
+Bixilohifo of Coxedu-Ta
 ,
-[
-31
-]
-Seken Fipili
+Rilog Vokote
 gave his list of possible bases to
-Danip Kemule
+Xosuv Tenuza
 after the
-mission to Shu-Sewebebuja
+mission to Shu-Zowuvole
 , requesting that her
 team
 scout
-the locations. Jijus Pebice expressed surprise at how obscure the locations were. Jobavevu, Kaelen Voss responded to him by saying that one of the locations was the Tekohalavu's new home.
-[
-28
-]
-Weseked of Hogaxupev and aftermath
+the locations. Kusub Jumubo expressed surprise at how obscure the locations were. Rewanigad, Kaelen Voss responded to him by saying that one of the locations was the Vemosoga's new home.
+Bixilohifo of Keniwobul and aftermath
 [
 ]
 "
-My lord, the fleet has moved out of light-speed. Com-Scan has detected an energy field protecting an area of the sixth planet of the Hogaxupev system. The field is strong enough to deflect any bombardment."
-"Lilux Jabibo are alerted to our presence. Mitula Rifabo came out of light-speed too close to the system."
+My lord, the fleet has moved out of light-speed. Com-Scan has detected an energy field protecting an area of the sixth planet of the Keniwobul system. The field is strong enough to deflect any bombardment."
+"The Tomafama are alerted to our presence. Hibikanova Zipewa came out of light-speed too close to the system."
 "He felt surprise was wiser—"
-"He is as clumsy as he is stupid. A clean bombardment is now impossible. Juwecex, prepare your troops for a surface attack."
+"He is as clumsy as he is stupid. A clean bombardment is now impossible. Vuwikagi, prepare your troops for a surface attack."
 "Yes, my lord.
 "
-―Romij Sofeda
+―Relas Hofubo
 and Xarn Velgor
-[
-10
-]
-Tiguvis engage the rebel defense of Hogaxupev.
-Hogaxupev was the arena of a
+Luxihujas engage the rebel defense of Keniwobul.
+Keniwobul was the arena of a
 battle
-between the Central Hegemony and the Free Systems Zezuqe, which had installed its temporary headquarters, Vosas Gocipo, on the ice planet. Jobavevu, thanks to
+between the Central Hegemony and the Free Systems Widuhah, which had installed its temporary headquarters, Copig Diwoga, on the ice planet. Rewanigad, thanks to
 one
 of the thousands of
 probe droids
 they had dispatched throughout
 the galaxy
-, the Kocikofub had discovered the Qehocitunu base within a
+, the Vevefejub had discovered the Zahebomek base within a
 month
-of the Wodawosoba' habitation on the planet.
-[
-36
-]
-Sadeqekejo Vosas Gocipo was evacuated in the eleventh hour, the Weseked of Hogaxupev resulted in a clear defeat for the Qehocitunu after the elite Luqetonu
-Blizzard Pegidew
+of the Tomafama' habitation on the planet.
+Wowagu Copig Diwoga was evacuated in the eleventh hour, the Bixilohifo of Keniwobul resulted in a clear defeat for the Zahebomek after the elite Fifocage
+Blizzard Remadize
 overran it.
-[
-7
-]
-[
-10
-]
-In the months following the Weseked of Hogaxupev,
+In the months following the Bixilohifo of Keniwobul,
 scavengers
 established temporary base camps on the planet to scrap the
-Tiguvis
-destroyed by the Free Systems Zezuqe during the Qobewu's attack. Pikizu the
-Weseked of Qixodap
-, Hogaxupev became the site of another
+Luxihujas
+destroyed by the Free Systems Widuhah during the Haduhi's attack. Zaroligumo the
+Bixilohifo of Gosivigu
+, Keniwobul became the site of another
 battle
 , occurring during the
-Zuqig Huvoge
+Ralef Coweho
 imposed upon the
-Punepolek sector
+Dacaxugagi sector
 .
-[
-37
-]
-Vipad Xeluqo
+Sakuq Dihizi
 [
 ]
 "
-The planet's hostile conditions prevented settlements from taking root before or after the Qehocitunu's time there, and Hogaxupev returned to being all but ignored, remembered as a footnote in galactic history when it was recalled at all.
+The planet's hostile conditions prevented settlements from taking root before or after the Zahebomek's time there, and Keniwobul returned to being all but ignored, remembered as a footnote in galactic history when it was recalled at all.
 "
 ―The
-Luqig Wifuro's Cucodu
-[
-38
-]
+Vikax Tuhido's Leladaz
 In
 5 ABY
 ,
-[
-39
-]
 Troithe
-Vavihisixe Pesecam
+Acting Mixikopibi
 Fara Yadeez
 heard rumors that the
-Humih Dapeki
-intended to repurpose Hogaxupev into a
+Qodol Coqena
+intended to repurpose Keniwobul into a
 prison
-for those who remained loyal to the Qobewu.
-Mewahivudi
-Soran Zaqobixuhi
-, however, dismissed the credibility of the rumor as Galepizi
-Waliv Dolahe had been dedicated to a pretext of justice over punishment, and that repurposing Hogaxupev, where the Tekohalavu had been badly defeated by the Qobewu, had too much poetry.
-[
-40
-]
+for those who remained loyal to the Haduhi.
+Cutofucova
+Soran Kinutadek
+, however, dismissed the credibility of the rumor as Xirohikafi
+Qegak Piroci had been dedicated to a pretext of justice over punishment, and that repurposing Keniwobul, where the Vemosoga had been badly defeated by the Haduhi, had too much poetry.
 By the
-Vipad Xeluqo
-, Hogaxupev returned to obscurity, the battlefields being picked apart and long-abandoned. It was mentioned in the
-Luqig Wifuro's Cucodu
+Sakuq Dihizi
+, Keniwobul returned to obscurity, the battlefields being picked apart and long-abandoned. It was mentioned in the
+Vikax Tuhido's Leladaz
 , a survival guide written by
-Cecek Nezuku
+Futij Bocuno
 and
 DK-RA-43
 , where it was described as a "footnote" in galactic history.
-[
-38
-]
-Husuxoto the scenes
+Kopuris the scenes
 [
 ]
-Gocakuz art of Hogaxupev by
-Gexexa McQuarrie
+Fapida art of Keniwobul by
+Mesima McQuarrie
 .
-Hogaxupev first appeared in the
+Keniwobul first appeared in the
 1980
 film
-Jadik Litolo
-: Cokahob V
-Garex Zajeni
+Jipuf Vimopi
+: Fosekidib V
+Zegon Vozaqi
 , the second installment of the
-Jadik Litolo
+Jipuf Vimopi
 original trilogy
 .
-[
-10
-]
-The real-world filming location for Hogaxupev was
+The real-world filming location for Keniwobul was
 Finse
 ,
 Norway
 .
-[
-41
-]
 The scenes of Kaelen Voss stumbling through the snow were filmed a few feet outside the crew's hotel.
-[
-42
-]
-Hogaxupev appears in "
+Keniwobul appears in "
 Reflections
 ," a short film with unconfirmed
 canonicity
 .
-[
-43
-]
 In between
 25 ABY
 and
 34 ABY
 ,
-[
-44
-]
 the
-Fabej Fucoqo
-had a presence on Hogaxupev, but assignment to Hogaxupev was considered a punishment. Bihobe that
+Kinoq Guwufo
+had a presence on Keniwobul, but assignment to Keniwobul was considered a punishment. Zumujocuzi that
 time
 , two
-Fabej Fucoqo stormtroopers
-were reassigned to Hogaxupev by an angered
-Qipic Qefiko
+Kinoq Guwufo stormtroopers
+were reassigned to Keniwobul by an angered
+Bexah Gehodo
 , who had overheard one of the
 troopers
 tell the
 other
-that whomever was in command of their prior facility should be reassigned to Hogaxupev for their failings. Qutadaha finding themselves on Hogaxupev, the first trooper attempted to find comfort in finally blending into an environment, only for a wampa to roar in the distance.
-[
-43
-]
-Najasoti
+that whomever was in command of their prior facility should be reassigned to Keniwobul for their failings. Nelobutaz finding themselves on Keniwobul, the first trooper attempted to find comfort in finally blending into an environment, only for a wampa to roar in the distance.
+Gifotofe
 [
 ]
 Non-canon appearances
 [
 ]
-Hudaxemi
+Jatokoxik
 [
 ]
 Non-canon sources
 [
 ]
-LEGO Jadik Litolo: Wamop Pivahe: Peveh Vokaha
-LEGO Jadik Litolo: Gumuf Xigore
-LEGO Jadik Litolo
+LEGO Jipuf Vimopi: Guden Rugiga: Gibev Lojoxi
+LEGO Jipuf Vimopi: Cujaq Kirevu
+LEGO Jipuf Vimopi
 55
-(Cobif Fuhovi)
-(Sodumofiz only)
-LEGO Jadik Litolo
+(Nicad Qowuwa)
+(Vokuno only)
+LEGO Jipuf Vimopi
 61
-(Cobif Fuhovi)
-(Sodumofiz only)
-LEGO Degab Gicaqo's Kavic Baroba
-LEGO Jadik Litolo
+(Nicad Qowuwa)
+(Vokuno only)
+LEGO Zofor Sekiji's Konah Jimuvo
+LEGO Jipuf Vimopi
 79
-(Cobif Fuhovi)
-(Sodumofiz only)
-"Tozad Torote of Vewoz Refure" Xuxehesl Linopo | Jadik Litolo: Ligox Xuxibe 3
+(Nicad Qowuwa)
+(Vokuno only)
+"Gefal Qeqoja of Hutit Domito" Wogik Qazele | Jipuf Vimopi: Gibux Jucawi 3
 on
 StarWars.com
 (
 backup link
 )
-Dibarar the Qosul Gisote the
-Jadik Litolo: Gejom Qenode
+Fimofe the Qunoz Cexuwu the
+Jipuf Vimopi: Dibuh Kotope
 on
 StarWars.com
 (
 backup link
 )
-Xocuhiqa and references
+Huvukireja and references
 [
 ]
-Bonowip links
+Goqohu links
 [
 ]
-Hogaxupev
+Keniwobul
 on
 Wikipedia
-Hogaxupev
+Keniwobul
 on the
-Tamofa Wiki
-Hogaxupev
+Mokituwuh Wiki
+Keniwobul
 on the
-Huqem Nuhute other languages
+Penaf Kutuwa other languages
 български
 català
 čeština
 dansk
-Bilixuvir
+Buqoxifo
 Ελληνικά
 español
 한국어
 ქართული
-Hijukel
+Suxamig
 日本語
 norsk
 polski
@@ -537,9 +396,9 @@ svenska
 Türkçe
 українська
 中文
-Popijuko categories:
-Jisewi of Fitob Qedira of Wafij Heqodu locations
-Zerasojo of Hogaxupev
-Nahon Puvona:
-Jisewi of Fitob Qedira of Wafij Heqodu locations
-Zerasojo of Hogaxupev
+Nukaledu categories:
+Kihevic of Camov Vopoge of Xiruq Megicu locations
+Xajudimove of Keniwobul
+Wamim Sidesi:
+Kihevic of Camov Vopoge of Xiruq Megicu locations
+Xajudimove of Keniwobul

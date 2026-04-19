@@ -9,9 +9,6 @@ Millennium Falcon
 "It's the ship that made the Kessel Run in less than twelve parsecs. I've outrun Imperial starships. Not the local bulk cruisers, mind you, I'm talking about the big Corellian ships now. She's fast enough for you, old man.
 "
 ―Han Solo and Obi-Wan Kenobi
-[
-18
-]
 The
 Millennium Falcon
 , originally designated
@@ -234,9 +231,6 @@ actually appears to be in good working order.
 "
 ―C-3PO, during the
 Assault on Cymoon
-[
-15
-]
 Schematics of the
 Millennium Falcon
 The
@@ -244,9 +238,6 @@ Millennium Falcon
 was a
 YT-1300 light freighter
 of the YT-1300f variety.
-[
-1
-]
 Its basic shape was defined by two convex saucers welded together, a pair of front-facing mandibles and an outrigger-style, side-mounted
 cockpit
 with
@@ -257,9 +248,6 @@ Falcon
 retained very little of its off-the-dock instrumentation. Because its successive owners either upgraded or downgraded every system according to their personal specifications, the freighter ended up becoming a unique
 ship
 .
-[
-13
-]
 These customizations, however, came at the price of reliability, and the
 Falcon
 was known to suffer frequent breakdowns in the heat of battle. After the circular military-grade
@@ -275,21 +263,12 @@ Falcon
 had a
 dejarik
 table,
-[
-7
-]
 which was installed by
 Lando Calrissian
 when upgrading the ship,
-[
-27
-]
 featuring creatures found throughout
 the galaxy
 for the amusement of passengers and crew.
-[
-7
-]
 Engines
 [
 ]
@@ -300,9 +279,6 @@ She'll make point five past lightspeed.
 Falcon
 '
 s lightspeed capabilities
-[
-18
-]
 The
 Millennium Falcon
 '
@@ -321,34 +297,22 @@ G
 in
 space
 .
-[
-10
-]
 The stock
 hyperdrive
 of the YT-1300 series was replaced with a
 Isu-Sim
 SSP05
 .
-[
-1
-]
 Although the regular SSP05 was a Class 1 hyperdrive, the one that equipped the
 Falcon
 had been jury-rigged "
 Vandangante style
 " into a Class 0.5 drive
-[
-13
-]
 —twice as fast as most
 warships
 of the
 Galactic Empire
 .
-[
-12
-]
 According to
 Ralsius Paldora
 , the
@@ -357,23 +321,14 @@ Millennium Falcon
 s hyperdrive failed 1.22 times more than the one on the
 YT-2400 light freighter
 .
-[
-28
-]
 In addition to its renowned hyperdrive, which supposedly made the
 Falcon
 the "fastest ship in the galaxy," the ship was equipped with a backup hyperdrive. It was much slower than the primary engine and often took several weeks or months to reach the nearest star system.
-[
-1
-]
 A component of the engines was the
 engine coupling
 which caused the
 Falcon
 to malfunction when misaligned.
-[
-29
-]
 Armament, hull, and shields
 [
 ]
@@ -381,9 +336,6 @@ Armament, hull, and shields
 Whoa, two ST2 launchers? What the hell were you and Solo doing with my ship that made you install that much firepower?
 "
 ―Lando Calrissian, to Chewbacca
-[
-30
-]
 The
 Falcon
 '
@@ -391,9 +343,6 @@ s deflector shield console.
 The weaponry of the
 Millennium Falcon
 was normally suited for a much larger warship.
-[
-1
-]
 It included two CEC
 AG-2G
 quad laser cannons
@@ -407,16 +356,10 @@ ST2 concussion missile tubes
 , each of which carried a four-
 missile
 magazine.
-[
-13
-]
 Additionally, a
 BlasTech
 Ax-108 "Ground Buzzer" blaster cannon
 mounted near the ventral boarding ramp allowed its crew to defend the ship against infantry and other light targets while on the ground.
-[
-1
-]
 Duralloy
 plates salvaged from an Imperial
 cruiser
@@ -427,9 +370,6 @@ capital ship
 hull
 armor
 .
-[
-13
-]
 The ship had three
 deflector shield
 generators
@@ -442,9 +382,6 @@ Nordoxicon
 units, while a
 Kuat Drive Yards
 generator shielded the stern.
-[
-13
-]
 The
 Falcon
 '
@@ -479,9 +416,6 @@ Falcon
 s main source of power was a
 Quadex power core
 .
-[
-1
-]
 Its main
 computer
 was made of three
@@ -489,9 +423,6 @@ droid brains
 which identified themselves as the
 Millennium Collective
 .
-[
-31
-]
 The first droid brain was a
 transport droid
 known as
@@ -501,27 +432,15 @@ slicer droid
 called
 ED-4
 ,
-[
-12
-]
 and the third from
 L3-37
 , which began as an
 R3-series astromech droid
 brain, but was overlaid with data architecture from an espionage droid, protocol droid processors, and custom state-of-the-art coding.
-[
-31
-]
-[
-10
-]
 A pair of
 Gelieg
 20m-cp Strobe/C-Beam Lamps
 , which flooded illumination outside the ship, were mounted on the tips of the front mandibles.
-[
-13
-]
 In case of emergency landing or crash on
 water
 , the
@@ -529,9 +448,6 @@ Falcon
 was also equipped with
 flotation pontoons
 .
-[
-16
-]
 The
 Falcon
 also had a
@@ -539,18 +455,12 @@ static charge dissipator
 which could dissipate static charge on the ship, but when the dissipator burned out, the
 Falcon
 would need immediate repairs.
-[
-29
-]
 The
 Falcon
 '
 s navigation computer consisted of a
 Rubicon astrogration computer
 which had been upgraded with additional memory nodules.
-[
-3
-]
 History
 [
 ]
@@ -571,23 +481,14 @@ Falcon
 ―The
 Falcon
 and L3 converse about integrating
-[
-32
-]
 The
 Stellar Envoy
 was the property of the Republic Group during the Clone Wars.
 The YT-1300f
 light freighter
-[
-3
-]
 designated unit YT 492727ZED was built at
 Orbital Assembly Facility 7
 ,
-[
-33
-]
 a Corellian
 shipyard
 owned by the
@@ -597,35 +498,20 @@ years
 before the
 Battle of Starkiller Base
 .
-[
-3
-]
 As was intended, the ship began its career as an intermodal tug pushing container in
 orbital
 freight yards.
-[
-1
-]
 It once worked in the galaxy's busiest
 spacelanes
 .
-[
-10
-]
 Just after the
 Battle of Coruscant
 , it was docking in the
 Senate Office Building
 .
-[
-34
-]
 Inconsistent records from the
 Bureau of Ships and Services
 indicate that the YT 492727ZED changed ownership more than once via unregistered transactions.
-[
-3
-]
 During the
 Clone Wars
 , the freighter was property of the
@@ -641,13 +527,7 @@ Stellar Envoy
 was involved in a collision with a bulk freighter and was seriously damaged. The wreckage was reconditioned by a
 salvager
 , who used several sections and modules from a scrapped YT-1300p freighter to repair the ship.
-[
-3
-]
 The ship had a number of owners over its service.
-[
-35
-]
 At some point, the
 human
 gambler
@@ -656,25 +536,13 @@ sabacc
 , and registered the freighter under the name
 Millennium Falcon
 .
-[
-3
-]
 Calrissian modified the freighter, inside and out,
-[
-13
-]
 converting it into his own speedy sports vessel as Calrissian saw how powerful its freight-pushing engines were. As such, Calrissian modified the two cargo mandibles at the front into an auxiliary ship launch, thus turning the plain freighter into a unique starship.
-[
-10
-]
 He also once explained the controls to
 Brea Tonnika
 of the
 Tonnika sisters
 .
-[
-36
-]
 Lando Calrissian made significant modifications and named the vessel
 Millennium Falcon
 .
@@ -717,31 +585,16 @@ Corellian Spike
 " game of sabacc on
 Numidian Prime
 ,
-[
-14
-]
 losing to the smuggler Han Solo.
-[
-37
-]
 Under the captaincy of Solo, the
 Falcon
 was further customized,
-[
-13
-]
 and he regularly claimed it was the fastest ship in
 the galaxy
 .
-[
-36
-]
 While most who saw the ship declared it looked like "junk," Solo and Chewbacca both prided themselves on the
 Falcon
 , considering it the epitome of classic design.
-[
-38
-]
 Galactic Civil War
 [
 ]
@@ -754,9 +607,6 @@ You came in that thing? You're braver than I thought.
 ―Leia Organa upon seeing the
 Millennium Falcon
 for the first time
-[
-18
-]
 The
 Millennium Falcon
 blasts its way out of Mos Eisley
@@ -778,9 +628,6 @@ Falcon
 was capable of attaining 0.5 past
 lightspeed
 , and that it had completed the infamous Kessel Run in fewer than twelve parsecs.
-[
-18
-]
 The journey to Alderaan proved to be much more than a simple passenger flight. The
 Falcon
 was forced to blast its way out of
@@ -792,25 +639,16 @@ stormtroopers
 attacked the ship in an attempt to recover its cargo. It also narrowly avoided capture by a couple of
 Star Destroyers
 before making the jump to lightspeed.
-[
-18
-]
 Having also been on Tatooine, the Tonnika sisters had hoped to steal the
 Falcon
 to use as their own ship. When the
 Falcon
 began its escape, it created a big enough distraction that the siblings realized they had the chance to steal any other nearby ship,
-[
-36
-]
 while seeing the freighter escape the Empire's grasp convinced stormtrooper
 TD-7556
 to desert the
 Imperial Army
 .
-[
-39
-]
 The
 Falcon
 emerged from
@@ -837,9 +675,6 @@ smuggling holds
 . They then killed a
 scanning crew
 before they could be detected by the scanner.
-[
-18
-]
 The
 Millennium Falcon
 escapes from the soon-to-explode Death Star after helping Luke Skywalker make his final shot.
@@ -878,9 +713,6 @@ Darth Vader's
 two
 wingmen
 and sent Vader himself spinning off into space, allowing Skywalker to successfully complete his attack and destroy the Death Star.
-[
-18
-]
 Rebel service
 [
 ]
@@ -893,15 +725,9 @@ Falcon
 was subsequently featured in footage of the Battle of Yavin and the Death Star's destruction leaked to the
 DarkNet
 by the Alliance, catching the attention of Calrissian when he saw the footage.
-[
-40
-]
 The battered hull of the
 Falcon
 became a symbol of the rebel cause as it flew against the Empire, becoming a bane to the regime. Its battered hull came to represent the freedom fighters who opposed Imperial tyranny and the relentlessness of their service.
-[
-38
-]
 Escape from Hoth
 [
 ]
@@ -909,9 +735,6 @@ Escape from Hoth
 Punch it!
 "
 ―Han Solo to Chewbacca
-[
-6
-]
 Three years after the Battle of
 Yavin
 , the
@@ -945,9 +768,6 @@ Falcon
 caused the two Star Destroyers approaching and the one pursuing to nearly collide with each other. The
 Falcon
 then attempted to make the jump into lightspeed, but was stopped short by an equipment malfunction.
-[
-6
-]
 Forced to take drastic measures to avoid capture, Solo made the decision to pilot the
 Falcon
 into a nearby
@@ -980,9 +800,6 @@ Falcon
 as it left the
 system
 .
-[
-6
-]
 The
 Falcon
 is pursued as it flees Cloud City.
@@ -1023,9 +840,6 @@ Falcon
 managed to make the jump at the last
 second
 and escape.
-[
-6
-]
 Battle at Rendezvous Point Delta-Three
 [
 ]
@@ -1033,25 +847,17 @@ Battle at Rendezvous Point Delta-Three
 But this isn't your ship. With Han gone, I'm commandeering it for the Rebel fleet, which means you don't get a say in where it goes.
 "
 ―Leia Organa, to Lando Calrissian
-[
-30
-]
 After the events on Cloud City, Organa, Skywalker, Calrissian, Chewbacca, C-3PO, and R2-D2 all were in the
-[
-30
-]
 main hold,
-[
-3
-]
 although Skywalker sat thinking about what had happened, as he learned that Vader was actually his father. Chewbacca and Calrissian were discussing Solo, with the latter questioning what they would have done if the
 Falcon
 had caught up with
 Slave I
-, noting that firing Fett's ship out of the sky would have killed Solo. Calrissian also spoke to Organa and told her that they missed their chance to catch Fett because she made them get Skywalker, whom Organa introduced as the man who destroyed the Death Star. Calrissian promised that they would rescue Solo, as both he and Chewbacca understood Fett was taking their friend to Jabba. When Skywalker joined the conversation and asked where Solo was, Organa told him about what happened and promised that they would find him. After she asked what had happened to him, Skywalker only told her that Kenobi had not answered his call.
-[
-30
-]
+, noting that firing Fett's ship out of the sky would have killed Solo.
+Calrissian also spoke to Organa and told her that they missed their chance to catch Fett because she made them get Skywalker, whom Organa introduced as the man who destroyed the Death Star.
+Calrissian promised that they would rescue Solo, as both he and Chewbacca understood Fett was taking their friend to Jabba.
+When Skywalker joined the conversation and asked where Solo was, Organa told him about what happened and promised that they would find him.
+After she asked what had happened to him, Skywalker only told her that Kenobi had not answered his call.
 The
 Falcon
 makes an attack run against a
@@ -1073,7 +879,10 @@ Ellian Zahra
 TIE fighter squadron
 and all non-essential
 turbolaser
-batteries to target the freighter. Aboard the ship, Organa and Skywalker, despite his missing hand, moved to the gunning stations, while Chewbacca and Calrissian served as the pilots. Skywalker, however, began to be distracted by thinking about Kenobi and Vader, but he then used the Force on the TIEs, ripping the controls from the pilots' hands, allowing them to deviate from their course and collide with each other, giving Organa a chance to blast them. Calrissian and Chewbacca then made their attack run on an
+batteries to target the freighter.
+Aboard the ship, Organa and Skywalker, despite his missing hand, moved to the gunning stations, while Chewbacca and Calrissian served as the pilots.
+Skywalker, however, began to be distracted by thinking about Kenobi and Vader, but he then used the Force on the TIEs, ripping the controls from the pilots' hands, allowing them to deviate from their course and collide with each other, giving Organa a chance to blast them.
+Calrissian and Chewbacca then made their attack run on an
 Arquitens
 -class command cruiser
 and, using the
@@ -1084,9 +893,6 @@ missiles
 , destroyed the ship's gun emplacements, making an opening for the Rebels to escape to
 backup Rendezvous Point Gamma-Nine
 .
-[
-30
-]
 After the battle, Zahra explained to Vader that the
 Falcon
 had disrupted their attack. She told the
@@ -1096,9 +902,6 @@ Falcon
 was off-limits. He permitted her to kill Organa if she was able to, as he had no use for her, but Vader explained to her that there was someone else who was often aboard the
 Falcon
 . He warned Zahra that if this individual, who was secretly his son Skywalker, was killed, there would be significant consequences.
-[
-30
-]
 Rescuing Han
 [
 ]
@@ -1107,17 +910,11 @@ months
 , Organa, Skywalker, and Calrissian continued to use the
 Falcon
 on missions.
-[
-41
-]
 After they
 successfully rescued Han
 , the
 Falcon
 rendezvoused with the Alliance Fleet and prepared to assault the newest Death Star.
-[
-42
-]
 Battle of Endor
 [
 ]
@@ -1125,9 +922,6 @@ Battle of Endor
 Look, I want you to take her. I mean it, take her! You need all the help you can get; she's the fastest ship in the fleet!
 "
 ―Han Solo, to Lando Calrissian
-[
-42
-]
 The
 Falcon
 leads the starfighter attack during the Battle of Endor.
@@ -1155,9 +949,6 @@ barely outran the massive explosion that destroyed the powerful battle station. 
 Emperor
 Palpatine
 .
-[
-42
-]
 New Republic
 [
 ]
@@ -1176,15 +967,9 @@ Warrin Station
 to rally smugglers and Wookiee exiles for a
 campaign
 to liberate Kashyyyk.
-[
-19
-]
 Around this time, Han Solo replaced the
 Falcon's
 sensor dish with a rectangular civilian model.
-[
-43
-]
 However, this information turned out to be a trap set by the Empire. Chewie was captured, but Solo managed to escape on the
 Falcon
 . A
@@ -1216,9 +1001,6 @@ New Republic Special Forces
 soldier
 Jom Barell
 .
-[
-43
-]
 The
 Millennium Falcon
 after the Battle of Endor
@@ -1250,9 +1032,6 @@ capital
 of
 Chandrila
 .
-[
-43
-]
 After learning that the Wookiee uprising was underway and that the Empire was
 orbitally bombarding
 Kashyyyk, Organa convinced the
@@ -1266,9 +1045,6 @@ Wedge Antilles
 and convinced him to send his
 Phantom Squadron
 there.
-[
-43
-]
 During the brief space skirmish, Organa and Verlaine flew circles around the Imperial Star Destroyers. After the Imperials capitulated, Organa landed the
 Falcon
 in the hangar of the Star Destroyer
@@ -1278,9 +1054,6 @@ laser cannons
 to blast several stormtroopers who were still putting up a fight. After reuniting with her husband, Organa and Solo took the
 Falcon
 to Kashyyyk. There, they parted company with Chewbacca before returning to Chandrila.
-[
-43
-]
 Prior to the
 Battle of Jakku
 , Temmin tried to convince Solo to lend him the
@@ -1318,9 +1091,6 @@ Conder Kyl
 and
 Nim Tar's child
 .
-[
-44
-]
 First Order/Resistance War
 [
 ]
@@ -1333,23 +1103,14 @@ The garbage will do!
 ―Rey, being forced to board the
 Falcon
 during the escape from Jakku
-[
-7
-]
 The
 Falcon
 fends off TIE Fighter fire during the Escape from Jakku
 Overall, the
 Millennium Falcon
 had become a legend in and of itself under Solo and Chewbacca.
-[
-35
-]
 In
 31 ABY
-[
-45
-]
 Solo traveled to
 Maz Kanata
 's
@@ -1365,9 +1126,6 @@ Christophsis
 , where Ducain stole the
 Falcon
 .
-[
-46
-]
 It was later stolen by
 Toursant Irving
 and
@@ -1380,9 +1138,6 @@ Unkar Plutt
 on
 Jakku
 .
-[
-47
-]
 At some point he had it stored at
 Niima Outpost
 . The collector
@@ -1392,13 +1147,7 @@ Jedi Order
 , and he and his friend
 Maize Raynshi
 boarded the ship. Nuq Sin had a vision of Skywalker and Kenobi training aboard it after touching the remote.
-[
-48
-]
 In Plutt's possession, it would sit unused for years in Niima Outpost. Plutt paid for minimum maintenance for the ship with the intention of preparing it fully for flight only in the event that he would actually find a buyer.
-[
-47
-]
 Returned ownership
 [
 ]
@@ -1408,9 +1157,6 @@ Millennium Falcon
 for good.
 "
 ―Han Solo
-[
-7
-]
 Han Solo and Chewbacca once again take ownership of the
 Falcon
 .
@@ -1444,9 +1190,6 @@ Resistance
 , as he had a
 map
 that would reveal Skywalker's location, Solo and Chewie agreed to help them. Solo was impressed with how much Rey knew about the ship itself, and how it worked.
-[
-7
-]
 On the way to Maz Kanata's castle, when the
 Falcon
 began to malfunction, the mechanically savvy Rey, who was sitting in the cockpit to the right of Solo, made a modification to the ship by simply bypassing a faulty
@@ -1457,9 +1200,6 @@ Falcon
 s crew arrived at Takodana and met
 Maz Kanata
 .
-[
-7
-]
 The Resistance
 [
 ]
@@ -1468,9 +1208,6 @@ Blow that piece of junk out of the sky!!
 "
 ―
 Kylo Ren
-[
-24
-]
 The
 Millennium Falcon
 departing Takodana
@@ -1485,9 +1222,6 @@ attack
 the superweapon's weak spot. Using the
 Falcon
 , Solo, Chewbacca, and Finn infiltrated the base, lowered the shields, and reunited with Rey, who had been captured on Takodana by the First Order.
-[
-7
-]
 While the
 Millennium Falcon
 laid dormant, it was briefly spotted by members of the Resistance's
@@ -1497,9 +1231,6 @@ TIE silencer
 into the planet. At least two of its members speculated on whether it could be the
 Millennium Falcon
 that they'd heard so many stories about, but at the time they could not confirm whether it was.
-[
-49
-]
 After the confrontation with
 Kylo Ren
 following the death of his own father, Han Solo, Chewbacca rescued Finn and Rey aboard the
@@ -1511,17 +1242,11 @@ Ahch-To
 , the remote planet where he had gone into self-
 exile
 .
-[
-7
-]
 Chewbacca and R2 remained with the
 Falcon
 while Rey attempted to persuade Skywalker to join the Resistance, though Luke slipped aboard the old freighter to reminisce, and was reminded of what was at stake when Artoo replayed the hologram Leia Organa recorded to recruit Obi-Wan Kenobi on her
 secret mission to Tatooine
 some thirty-four years earlier.
-[
-24
-]
 The
 Falcon
 led the First Order TIEs away from Resistance forces.
@@ -1552,15 +1277,9 @@ Falcon
 was later used to evacuate surviving Resistance personnel from the
 Crait outpost
 while Luke Skywalker bought his allies time by confronting Kylo Ren.
-[
-24
-]
 After the battle, Rey spent a lot of time walking the corridors of the
 Falcon
 , thinking about how much history it had.
-[
-33
-]
 Stationed on Batuu
 [
 ]
@@ -1576,9 +1295,6 @@ Millennium Falcon
 , and it belongs to me.
 "
 ―Hondo Ohnaka
-[
-50
-]
 The
 Falcon
 on
@@ -1587,9 +1303,6 @@ Batuu
 As it had been against the Empire, the
 Falcon
 became a bane to the First Order and a flying symbol of relentless resistance to tyranny.
-[
-38
-]
 The
 Millennium Falcon
 landed on
@@ -1599,9 +1312,6 @@ Hondo Ohnaka
 made a deal with
 Chewbacca
 and hired a temporary crew for the ship to take part in one of Ohnaka's endeavors.
-[
-51
-]
 Immediate repairs
 [
 ]
@@ -1616,9 +1326,6 @@ Falcon
 would have to make an immediate pit stop on the planet
 Choss
 to look for a new dissipator with Faltus, while Finn and Chewie repaired the freighter.
-[
-29
-]
 End of the war
 [
 ]
@@ -1650,9 +1357,6 @@ Falcon
 regardless, with Dameron beginning to
 lightspeed skip
 through a number of systems, whose dangers the First Order pilots were unable to evade.
-[
-21
-]
 Dameron's boldness allowed him to outmaneuver the enemy, though his reckless trick-flying heavily damaged the
 Falcon
 , causing multiple fires both within and outside of the ship. Upon returning to the
@@ -1666,9 +1370,6 @@ BB-8
 was in similarly poor condition due to her earlier training accident. Rey dismissed the pilot, quipping that he was a difficult man, before hugging Finn, who jokingly joined her in condemning his companion. Although Rey was further angered by the revelation that Dameron lightspeed skipped with the
 Falcon
 , a maneuver that the aging freighter could not support, Dameron admitted the true cause of his concern: Rey was "the best fighter [the Resistance had]," but she had spent her time training and furthering her knowledge of the Force rather than participating in the war against the First Order.
-[
-21
-]
 After learning that Darth Sidious had returned, and that the
 Final Order
 , a massive fleet of
@@ -1681,9 +1382,6 @@ Sith wayfinder
 could lead them there. Leia revealed that an ally on Pasaana may be able to help. Rey, Finn, Poe, Chewbacca, BB-8, and C-3PO departed in the
 Millennium Falcon
 as it underwent repairs.
-[
-21
-]
 The First Order later captured the
 Falcon
 , Chewbacca, and the
@@ -1699,9 +1397,6 @@ Resurgent
 -class Star Destroyer
 Steadfast
 .
-[
-21
-]
 Poe suggested traveling to the planet Kijimi to have the Sith text extracted from C-3PO's memory. Although the process would wipe the droid's memory, the coordinates to the
 wayfinder
 would be revealed. The
@@ -1709,23 +1404,14 @@ Steadfast
 later arrived on Kijimi, with Rey sensing that Chewbacca was, in fact, still alive and that the
 Falcon
 was onboard the Star Destroyer. The group then mounted a rescue mission.
-[
-21
-]
 As Rey searched for the
 dagger
 to get more clues, the group later rescued Chewbacca, but managed to get themselves captured. General Hux was then revealed to be the First Order spy, having leaked information to the Resistance in order to bring about the downfall of Kylo Ren's rule.
-[
-21
-]
 Ren later arrived and initiated a
 Force bond
 with Rey, in which he revealed that she was Sidious' granddaughter, with her father being the son of the Emperor. Kylo once again asked Rey to join him, but she refused and escaped in the
 Falcon
 .
-[
-21
-]
 Having discerned the location of the Sith wayfinder, the group traveled to
 Kef Bir
 , a moon within the
@@ -1740,9 +1426,6 @@ Supreme Leader
 and eventually took his ship in order to exile herself on
 Ahch-To
 .
-[
-21
-]
 The group, save for Rey, returned to base. The Resistance then followed Rey's coordinates to Exegol, as she traveled to confront her destiny and Sidious, at the behest of the
 Force spirit
 Luke Skywalker
@@ -1755,9 +1438,6 @@ final battle
 against the
 Sith
 , traveled to the core worlds.
-[
-21
-]
 The
 Millennium Falcon
 lead the Citizens' Fleet into the Sith Eternal's fleet, the Final Order.
@@ -1776,9 +1456,6 @@ Steadfast
 was about to crash, the
 Falcon
 promptly rescued Finn and Jannah. The Resistance then destroyed the remaining Sith forces.
-[
-21
-]
 With the Final Order fleet destroyed by the combined forces of the Exegol strike team and the galaxy fleet, Rey and the Resistance emerged victorious and left Exegol to return to Ajan Kloss. Rey, accompanied by BB-8, later took the
 Falcon
 to
@@ -1792,9 +1469,6 @@ Leia's lightsabers
 beneath the sands of the homestead, having built
 her own
 .
-[
-21
-]
 Behind the scenes
 [
 ]
@@ -1821,15 +1495,9 @@ Return of the Jedi
 , the set of the ship was rocked to stimulate the
 Falcon's
 flight.
-[
-52
-]
 Its design was derived from various World War II planes, more specifically the
 Boeing B-29 Superfortress
 .
-[
-53
-]
 Unused concept art of the
 Millennium Falcon
 with cargo pods for
@@ -1851,9 +1519,6 @@ George Lucas
 confirmed that it was the
 Millennium Falcon
 and not just another ship of the same class.
-[
-54
-]
 For the
 Star Wars
 Anthology
@@ -1870,9 +1535,6 @@ Star Wars
 : Episode VIII
 The Last Jedi
 , although they were redressed. These sets were augmented with the addition of extra sets depicting Lando Calrissian's quarters and cape closet.
-[
-55
-]
 Donald Glover
 ,
 provided a tour
@@ -1889,9 +1551,6 @@ Solo
 fixes this by revealing the
 Millennium Falcon
 had five landing gear legs, but two were lost during the Kessel Run.
-[
-14
-]
 In the Expanded Universe
 [
 ]
@@ -1904,9 +1563,6 @@ Star Wars: The Force Awakens: Incredible Cross-Sections
 , the author
 Jason Fry
 intended for the book to include information about the freighter series being able to act as a cargo pusher, but was unable to get the image in time.
-[
-56
-]
 This information was later added to the
 YT-1300 Millennium Falcon Owners' Workshop Manual
 .
@@ -1936,9 +1592,6 @@ Disney+
 series
 Prop Culture
 .
-[
-57
-]
 A. C. Crispin
 spoke of how she was privileged to write the scene where Han first beheld—and fell for—the
 Millennium Falcon
@@ -1951,9 +1604,6 @@ Black Pearl
 , when releasing the fifth excerpt of
 Pirates of the Caribbean: The Price of Freedom
 .
-[
-58
-]
 Appearances
 [
 ]

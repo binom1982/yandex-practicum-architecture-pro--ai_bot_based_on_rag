@@ -5,9 +5,6 @@ Death Star
 We call it the Death Star. There is no better name, and the day is coming soon when it will be unleashed.
 "
 ―Scientist Galen Erso
-[
-9
-]
 A
 Death Star
 was a gargantuan
@@ -64,18 +61,9 @@ Link
 (
 file info
 )
-[
-7
-]
 Constructions modules were used during the construction of the Death Star.
 The DS-1 Death Star Mobile Battle Station,
-[
-5
-]
 also known as the DS-1 Orbital Battle Station,
-[
-10
-]
 was a
 superweapon
 that was originally designed by the
@@ -89,9 +77,6 @@ project
 was later taken over by the
 Galactic Empire
 ;
-[
-2
-]
 however, the
 plans
 for the battle station were
@@ -101,49 +86,31 @@ Scarif
 by the
 Rebel Alliance
 ,
-[
-9
-]
 which led to the weapon's destruction at the
 Battle of Yavin
 , but not before it unleashed its planet-destroying cannon on the
 Imperial security complex
 on Scarif,
-[
-9
-]
 Jedha City
 on
 Jedha
 ,
-[
-2
-]
 and
 annihilated
 the entire planet of
 Alderaan
 .
-[
-7
-]
 The name "Death Star" was coined by the
 scientists
 who found themselves working on the project, such as
 Galen Walton Erso
 .
-[
-9
-]
 The name was adopted by the Empire at large, with
 Major
 Lio Partagaz
 of the
 Imperial Security Bureau
 considering it "a prescient turn of phrase."
-[
-11
-]
 DS-2 Battle Station
 [
 ]
@@ -153,16 +120,10 @@ DS-2 Death Star II Mobile Battle Station
 The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station.
 "
 ―Mon Mothma
-[
-6
-]
 The Second Death Star orbiting Endor.
 After the destruction of the first Death Star, the DS-2 Death Star II Mobile Battle Station was the second and final Death Star constructed by the Galactic Empire and was designed to be more powerful than the original. During the
 Battle of Endor
 , the Death Star II's energy shield was destroyed and the Rebels used the unfinished superstructure of the battle station against it, destroying the weapon as they had its predecessor.
-[
-6
-]
 Behind the scenes
 [
 ]
@@ -170,9 +131,6 @@ Inspiration of other franchises
 [
 ]
 The idea of the Death Stars and empowering players to be able to tell stories with similar engines of death and levels of sci-fi gravitas and drama was an inspiration for the now-massive novel and wargame franchise Warhammer 40,000 as noted at the start of the first rule book for the first edition.
-[
-12
-]
 Mimas
 [
 ]
@@ -186,48 +144,31 @@ Herschel
 Voyager I's
 1980
 flyby of the Saturn system showed a similarity to the first Death Star, with Herschel appearing as the superlaser disc, as remarked in the scientific press.
-[
-13
-]
 This resemblance became one of Mimas's most notable characteristics in astronomy and popular culture.
-[
-14
-]
 During the
 Cassini
 orbiter's
 visit to the Saturn system in
 2004
 , the resemblance was noted again in the official press releases
-[
-15
-]
 and by the scientific press.
-[
-16
-]
 However,
 Cassini
 '
 s more recent images of Mimas do not all resemble a Death Star orbiting Saturn, as the moon is more egg-shaped then the battlestation.
-[
-17
-]
 White House petition
 [
 ]
-In late 2012, a petition was submitted to the White House website urging that the United States government build a real Death Star as a economic stimulus and a means to ensure people got back to work again, and wanted its completion by 2016 at the earliest. The petition gained more then 25,000 signatures, ensuring that an official response be supplied. In early 2013, the proposal was rejected (in a tongue-and-cheek manner), citing that the overall cost of the Death Star's construction would amount to a cost exceeding $852 quadrillion, and would take 833,000 years before it could even be ready for construction due to the rate of steel production. Another reason for the rejection was also because the Government "did not support blowing up planets."
-[
-18
-]
+In late 2012, a petition was submitted to the White House website urging that the United States government build a real Death Star as a economic stimulus and a means to ensure people got back to work again, and wanted its completion by 2016 at the earliest.
+The petition gained more then 25,000 signatures, ensuring that an official response be supplied.
+In early 2013, the proposal was rejected (in a tongue-and-cheek manner), citing that the overall cost of the Death Star's construction would amount to a cost exceeding $852 quadrillion, and would take 833,000 years before it could even be ready for construction due to the rate of steel production.
+Another reason for the rejection was also because the Government "did not support blowing up planets."
 As such, the
 Star Wars Blog
 , in response to it, created a light-hearted, in universe reply from the
 Galactic Empire's Public Relations department
-were the Empire, with official statements from Admiral Conan Antonio Motti and Governor Wilhuff Tarkin, shrugged off the criticisms by the planet Earth's leaders regarding the design of the battlestation. In addition, in the same source, it also denounced the planet for grossly overestimating the cost of designing the Death Star, as well as commenting the overall lack of production methods of the planet in comparison of the Galactic Empire, even implying that the planet's leaders were cowardly in their decision.
-[
-19
-]
+were the Empire, with official statements from Admiral Conan Antonio Motti and Governor Wilhuff Tarkin, shrugged off the criticisms by the planet Earth's leaders regarding the design of the battlestation.
+In addition, in the same source, it also denounced the planet for grossly overestimating the cost of designing the Death Star, as well as commenting the overall lack of production methods of the planet in comparison of the Galactic Empire, even implying that the planet's leaders were cowardly in their decision.
 Appearances
 [
 ]

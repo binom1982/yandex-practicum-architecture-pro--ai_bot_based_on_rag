@@ -24,9 +24,6 @@ Coruscant. The entire planet is one big city.
 ―
 Ric Olié
 , to Anakin Skywalker
-[
-17
-]
 Coruscant
 (pronounced /
 'kɔɹəsɑnt
@@ -336,29 +333,14 @@ Overview
 Though Coruscant is often referred to as the 'center of the galaxy,' it's not precisely located at our…
 "
 ―Recording for Coruscant newcomers
-[
-51
-]
 Coruscant was a Core Worlds planet situated along many important hyperspace lanes.
 Coruscant,
-[
-17
-]
 also known as Imperial Center during the
 Imperial Era
-[
-52
-]
 or as the Jewel of the Core Worlds,
-[
-44
-]
 was an
 ecumenopolis
 Planet
-[
-51
-]
 located within the
 Coruscant system
 in the
@@ -367,15 +349,9 @@ of the
 Corusca sector
 in an intersecting portion of the
 Core Worlds
-[
-1
-]
 and
 The Interior
 .
-[
-2
-]
 The
 homeworld
 of the
@@ -383,65 +359,35 @@ Zhell
 and
 Taung
 species
-[
-8
-]
 and widely accepted as the origin point of
 humans
 ,
-[
-6
-]
 Coruscant, located in grid square
 L-9
 of the Standard Galactic Grid,
-[
-4
-]
 was situated at the junction between many vital and important
 hyperspace routes
 including the
 Corellian Run
 ,
-[
-4
-]
 the
 Koros Trunk Line
 ,
-[
-11
-]
 the
 Metellos Trade Route
 ,
-[
-12
-]
 the
 Namadii Corridor
 ,
-[
-13
-]
 the
 Perlemian Trade Route
 ,
-[
-4
-]
 the
 Stassia Alley
 ,
-[
-15
-]
 and the secret
 Nexus Route
 ,
-[
-14
-]
 served as the
 throneworld
 of multiple Galactic Governments, first for the
@@ -453,17 +399,11 @@ New Republic
 in
 9 ABY
 ,
-[
-53
-]
 leading to the planet gaining the coordinates 0, 0, 0 despite not being in the actual
 Center
 of
 The galaxy
 .
-[
-5
-]
 Due to Courscant's importance in
 galactic history
 , even later governments such as the
@@ -471,43 +411,22 @@ First Order
 would even attempt to conquer the planet and make it their
 capital
 , though their efforts would ultimately fail.
-[
-54
-]
 Coruscant was a bustling ecumenopolis, a city-covered planet.
 Coruscant had four
 moons
-[
-7
-]
 —
 Centax-1
 ,
-[
-8
-]
 Centax-2
 ,
-[
-9
-]
 Centax-3
 ,
-[
-10
-]
 and
 Hesperidium
 .
-[
-9
-]
 Coruscant orbited
 Coruscant Prime
 , the only star of the
-[
-6
-]
 Coruscant system, with an
 orbital period
 of 365
@@ -515,9 +434,6 @@ Local days
 , with each day lasting 24
 Standard hours
 .
-[
-5
-]
 The Coruscant week lasted five days, with each days with the name of each day relating to Coruscant is some way—
 Primeday
 , named after Coruscant's sun,
@@ -537,12 +453,6 @@ days
 and
 years
 to Coruscant's orbital period and rotational period respectively.
-[
-8
-]
-[
-55
-]
 From
 space
 , the bright lights from
@@ -550,34 +460,19 @@ Imperial City
 , Coruscant's dense multi-layered planet-spanning
 city
 could be seen,
-[
-17
-]
 though it was slightly dimmed by the planet's hazy cloud cover, which were part of the planet's
 controlled weather patterns
-[
-31
-]
 affected by troposphere-piercing
 skyscrapers
 across Imperial City. While Coruscant's artificial climate was largely temperate in nature, parts of the planet occasionally experienced infrequent snowfall,
-[
-56
-]
 and in the
 Coruscant Underworld
 beneath Imperial City's surface levels, fierce microclimates began to form, forcing the Underworld's many residents to adapt.
-[
-9
-]
 Similarly, Inside the Coruscant's tallest skyscrapers, enormous differences of
 temperature
 and
 air
 pressure from top to bottom produced unusual and unpredictable microclimates.
-[
-7
-]
 The millennia of urban development on Coruscant left sparse evidence of its pre-ecumenopolis state.
 Thousands of years
 of development destroyed the planet's ancient
@@ -585,14 +480,8 @@ mountains
 and
 seas
 .
-[
-7
-]
 Monument Plaza
 housed the top of Coruscant's last remaining mountain peak,
-[
-5
-]
 that being the peak of the
 Umate
 . The tallest mountain of the
@@ -600,15 +489,9 @@ Manarai range
 , many people decided to come to the surviving mountain top—as it could be touched on
 Level 5,216
 —to have a moment of reflection.
-[
-19
-]
 By
 232 BBY
 ,
-[
-57
-]
 a dark ring surrounded the peak's base as a result of the countless hands that had touched the rock. Generations of city planners decided to keep the mountain peak. During the
 High Republic Era
 , the surface around the peak was covered in greenery in an attempt to recreate the
@@ -616,16 +499,10 @@ trees
 and other
 plants
 that would have been around the Umate's base many millennia earlier. Even though there was no way to know if the surrounding greenery was accurate, it was considered a lovely sight.
-[
-19
-]
 Coruscant was protected by a series of Golan defense stations, such as the Golan-II Defense Platform.
 Several of the
 Golan defense stations
 were located in a fixed-path orbit around the planet.
-[
-44
-]
 During the
 Imperial Era
 , dozens of the
@@ -633,9 +510,6 @@ Golan-II Defense Platforms
 and
 Golan III defense platforms
 were in orbit of Coruscant and other important Imperial Core Worlds for defense.
-[
-58
-]
 Small
 reptiles
 used as
@@ -645,9 +519,6 @@ lizards
 and
 rats
 .
-[
-47
-]
 Imperial City
 [
 ]
@@ -657,33 +528,18 @@ Imperial City
 Thousands of layers of buildings and skyscrapers cover the entire planetary surface of Coruscant. Because of this, Coruscant is one of only a handful of city-planets, known as an 'ecumenopolis.'
 "
 ―Recording for Coruscant newcomers
-[
-51
-]
 The urban sprawl that covered the surface of Coruscant was known as Galactic City prior to the Imperial Era.
 Coruscant's surface was defined by its urban sprawl, which collectively was called
 Galactic City
-[
-1
-]
 until it was officially renamed as Imperial City during the Imperial Era.
-[
-52
-]
 The dense city blocks were built on top of each other, with the lowest being
 Level 1
 and the highest reaching to
 Level 5127
 .
-[
-7
-]
 The lowest known habitable level was
 Level 5
 .
-[
-48
-]
 At its highest level, Galactic City's
 skyscrapers
 were built with many reaching 6,000
@@ -693,23 +549,14 @@ transparisteel
 edifices standing next to older
 duracrete
 structures.
-[
-5
-]
 As a hustling, bustling planet-wide city with an underworld full of dark alleys and an abundance of people, Coruscant provided the ideal conditions for a
 thief
 to prosper, especially targeting tourists from quieter planets.
-[
-59
-]
 Galactic City was divided into sectors named by designated coordinates. Some sectors also had unofficial names; for example,
 sector H-46
 was the nicknamed of "Sah'c Town" due to the
 Sah'c family
 's ownership of much of the sector. Sectors were further divided into zones, with zones determined by purpose, such as financial, senatorial, or industrial zones.
-[
-7
-]
 The Galactic Senate's headquarters was located in the Federal District of Coruscant.
 Under the
 Galactic Republic
@@ -738,9 +585,6 @@ Jedi Order
 , as well as
 500 Republica
 , a massive residential tower home to the most powerful on Coruscant.
-[
-7
-]
 Under the rule of the
 Galactic Empire
 , the Federal District was transformed and heavily fortified, and the
@@ -751,17 +595,11 @@ Imperial Inspectorate HQ
 and the massive
 COMPNOR arcology
 ,
-[
-31
-]
 which housed the city-block-sized
 ISB Central Office
 of the
 Imperial Security Bureau
 .
-[
-5
-]
 Next to the Federal District was the
 Verity District
 , which under the Empire housed the
@@ -773,22 +611,13 @@ Institute to Preserve Imperial History
 , and the
 ISB Academy and Offices
 .
-[
-60
-]
 The surface of Coruscant featured towering skyscrapers and streams of speeder-filled air traffic.
 The planet's
 skylanes
 directed the air-traffic of
 airspeeders
 via auto-navigation system that moved the speeders along preprogrammed routes. As such crashes were extremely rare.
-[
-5
-]
 Precautions were taken though with and skytunnels incorporating bombproof shields and high-level tracking systems, and most structures on Coruscant had defensive shields to protect windows from stray and out-of-control vehicles.
-[
-7
-]
 Owing to the planet's prominence in terms of galactic affairs, Galactic City housed numerous governmental offices and inter-galactic headquarters in its winding depths. The central planning strategy offices of the food giant
 Tagge Corporation
 could be found within the city, along with the droid research institutes funded by
@@ -796,38 +625,17 @@ Cybot Galactica
 , and the
 Bank of the Core
 , one of the galaxy's largest financial institutions. The towers were symbols of power and authority, and the largest could hold populations of well over a million.
-[
-7
-]
 Coruscant was home to a population of trillions of beings, both humans and aliens, collectively known as Coruscanti.
 The planet's residents were known as the
 Coruscanti
-[
-31
-]
 and of the estimated trillions inhabitants of the planet, 68% were believed to be
 human
 .
-[
-5
-]
-[
-29
-]
 On Coruscant, wealth increased with altitude. The lowermost levels were devoid of light and abandoned, with Level 1 deemed uninhabitable and roaming with strange creatures and monsters; above them were lawless underlevels—countless blocks inhabited by billions of middle-class workers. The super-towers on Level 5217 remained home to the ultra-wealthy.
-[
-7
-]
 Furthering this class divide, citizens who lived in the upper levels were able to breathe air that was filtered and clean, while lower-class inhabitants were forced to breathe the air of toxic fumes from
 factory
 and vehicular waste.
-[
-5
-]
 As such, most visitors to Coruscant chose to bring their own air supply to last the length of their stay.
-[
-7
-]
 History
 [
 ]
@@ -838,9 +646,6 @@ Early history
 They say Coruscant used to be like any other planet, with oceans and mountains. But now it's just this, all the way down to Level 0.
 "
 ―Leia Organa
-[
-48
-]
 Though unconfirmed, Coruscant was believed to be the ancestral homeworld of the human species.
 In ancient times, Coruscant was populated by two
 sentient
@@ -850,83 +655,41 @@ Taung
 and the
 Zhell
 .
-[
-8
-]
 Sometime in its distant past, Coruscant was home to a conflict between civilizations that fought for control of the planet. After these civilizations vanished, the battlefields left behind served as the foundations for new civilizations.
-[
-7
-]
 Though its connection to the human species was unconfirmed, Coruscant was widely accepted as the human
 homeworld
 .
-[
-61
-]
 Nevertheless, the human
 Axel Greylark
 claimed that, at least to his knowledge, the people of Coruscant did not have grand creation myths.
-[
-47
-]
 In time, humans expanded throughout the known galaxy, exploring and colonizing vast regions of space, with Coruscant becoming the galactic center of political and cultural life.
-[
-7
-]
 In
 100,000 BBY
 ,
-[
-9
-]
 the lowest levels of Coruscant,
-[
-47
-]
 such as
 Level 1
 , were once called home by the people of Coruscant. As the planet expanded up, however,
-[
-48
-]
 the buildings turned to ancient ruins that were buried. It was believed those low levels were left uninhabitable.
-[
-47
-]
 Many different political systems held control over Coruscant during its existence, with these systems ranging from brutal empires and
 dictatorships
 to
 democracies
 .
-[
-19
-]
 Coruscant was one of the Galactic Republic's original Core World founders, and outmaneuvered its early rivals to become the economic and cultural engine of civilization as it expanded along newly chartered
 hyperspace routes
 . As these early hyperspace lanes became well-established trade routes, increasing numbers of
 alien
 species migrated towards Coruscant;
-[
-7
-]
 this would accelerate the construction of new residential levels and sectors for the city-world's booming population even as the growth of its rivals slowed.
-[
-62
-]
 Coruscant's effective status as the center of the Republic led to it being awarded the coordinates 0-0-0 on all standard navigation
 charts
 .
-[
-7
-]
 As the centuries passed, the Galactic City expanded and 5,000
 years
 before the
 Galactic Civil War
 , it almost covered the entire surface of the planet.
-[
-44
-]
 The Jedi Temple on Coruscant was built upon an ancient shrine of the Sith.
 The ancient
 Sith Lords
@@ -935,42 +698,21 @@ shrine
 on Coruscant. When the
 Jedi Knights
 ousted them, they built their temple over it.
-[
-31
-]
 During the
 Jedi-Sith War
 , the
 Sith
 captured
 Coruscant, but it was later reclaimed by the Republic
-[
-63
-]
 in the
 Liberation of Coruscant
 .
-[
-64
-]
 Victory
 over the Sith at
 Ruusan
-[
-65
-]
 led to the birth of the modern Galactic Republic
-[
-63
-]
 with Coruscant as its capital.
-[
-18
-]
 Beings from across the galaxy emigrated to Coruscant seeking opportunities on the bustling planet. However, many newcomers were ultimately relegated to low-level positions and subjected to a life of crime and violence. Nonetheless, it was largely accepted that whoever controlled Coruscant controlled the galaxy.
-[
-7
-]
 The Galactic Republic
 [
 ]
@@ -990,20 +732,11 @@ We are a Republic where every voice matters, whether in the Core or on the farth
 "
 ―
 Lina Soh
-[
-19
-]
 Coruscant was the capital of the Galactic Republic and home of the Jedi Order throughout the Republic Era.
 Over the millennia representatives gathered in the Galactic Senate for diplomacy and dispute resolutions, creating and enforcing laws, and maintaining peace. As such, Coruscant became known as the galactic capital for thousands of years.
-[
-13
-]
 In
 382 BBY
 ,
-[
-66
-]
 a
 Toydarian
 became inebriated and was arrested for disturbing the peace on
@@ -1018,9 +751,6 @@ casino
 . However, after starting a fight in the gambling den, he was arrested by members of the
 Coruscant Guard
 , who revealed they had been sent by his mother.
-[
-47
-]
 When
 cult guide
 Marda Ro
@@ -1029,25 +759,13 @@ Path of the Open Hand
 into the militant
 Path of the Closed Fist
 to war against the Jedi and other Force-sensitives, she had dreams of spreading their insurgency as far as Coruscant itself, urging the Path to follow her across the stars. While the Path quickly fell under Ro's sway,
-[
-67
-]
 the ensuing
 Battle of Dalna
 marked the destruction of the cult,
-[
-68
-]
 although Ro herself escaped and began a new plan
-[
-67
-]
 that culminated in the creation of the
 Nihil
 marauders.
-[
-69
-]
 The end of peace
 [
 ]
@@ -1058,9 +776,6 @@ I will not let this Republic that has stood for a thousand years be split in two
 If they do, you must realize there aren't enough Jedi to protect the Republic. We are keepers of the peace, not soldiers.
 "
 ―Sheev Palpatine and Mace Windu
-[
-2
-]
 The modern Sith secretly inhabited Coruscant, influencing Republic politics and avoiding detection by the Jedi.
 It was towards the end of the
 Republic Era
@@ -1074,21 +789,12 @@ Naboo
 , his homeworld that he represented as
 Senator
 Sheev Palpatine.
-[
-70
-]
 The Sith Order, having survived its near destruction through
 Darth Bane
 's
 Rule of Two
 , conspired for generations to reclaim their place of dominance in the galaxy.
-[
-71
-]
 By Sidious' time, the Sith secretly resided on Coruscant in spite of the Jedi Order's presence on the capital. The Jedi at the time were under the belief that their ancient rivals had been extinct for over a millennium.
-[
-17
-]
 The queen of Naboo journeyed to the galactic capital to protest the Trade Federation's invasion of her world.
 Under the influence of the Sith, the
 Trade Federation
@@ -1098,9 +804,6 @@ Naboo
 in
 32 BBY
 ,
-[
-3
-]
 forcing its
 elected ruler
 ,
@@ -1128,15 +831,9 @@ voted out
 of office and Palpatine was
 elected
 as the new Supreme Chancellor.
-[
-17
-]
 During the early years of Palpatine's chancellery, he brought Skywalker to the lower levels of Coruscant, revealing corruption and the Republic's limitations to the young
 Jedi apprentice
 .
-[
-72
-]
 A capital at war
 [
 ]
@@ -1152,9 +849,6 @@ Coruscant? Coruscant has not been attacked in over 1,000 years.
 Then it has a false sense of security.
 "
 ―Nix Card and Lott Dod
-[
-73
-]
 The formation of the Grand Army of the Republic occurred shortly before the first battle of the Clone Wars.
 The
 Clone Wars
@@ -1163,9 +857,6 @@ First Battle of Geonosis
 in
 22 BBY
 ,
-[
-3
-]
 when the
 Separatist Crisis
 that began with the establishment of the
@@ -1199,9 +890,6 @@ Dooku
 and the
 Separatist Droid Army
 .
-[
-2
-]
 Having learned of the Separatists' plan to attack the Republic, the
 Loyalist Committee
 gave serious consideration to using the
@@ -1219,47 +907,26 @@ Gungan
 politician's request, allowing Chancellor Palpatine to unilaterally create the
 Grand Army of the Republic
 .
-[
-2
-]
 The Clone Wars saw the creation of the Coruscant Guard, an elite unit of clone shock troopers.
 The Clone Wars became one of the most turbulent times in galactic history
-[
-18
-]
 and the first, full scale war in over a thousand years.
-[
-2
-]
 As the capital of the Republic, Coruscant, already a hotbed of political intrigue, became a target for both military and political reasons. Situations and events that were unthinkable centuries before became commonplace.
-[
-18
-]
 Even prior to the beginning of the war, changes could be seen in the Republic. The Senate, already corrupt and bloated found it difficult to respond, delegating emergency powers to Palpatine. The chancellor himself brought changes such as implementing the use of his personal
 Red Guards
 instead of the
 Senate Guards
 .
-[
-2
-]
 During the Clone Wars, the
 Coruscant Guard
 was formed to serve as a clone
 security force
 for the Republic capital.
-[
-74
-]
 Composed of elite
 clone shock troopers
 , the Coruscant Guard was led by
 Clone Commander
 Fox
 .
-[
-61
-]
 Throughout the conflict, Supreme Chancellor Sheev Palpatine directed the Republic war effort from Coruscant.
 As the Grand Army and the
 Republic Navy
@@ -1270,23 +937,11 @@ commanders
 and
 generals
 . The dramatic changes were noted by the Jedi and the Republic citizens alike,
-[
-75
-]
 specifically on Coruscant.
-[
-76
-]
 Unknown to everyone except a select few, Coruscant was from where the entire war was continually manipulated by Palpatine. As Supreme Chancellor, he took overall charge of the Republic military and directed the war effort from his office in the Senate Office Building.
-[
-77
-]
 As
 Darth
 Sidious he directed Dooku's actions designed to continue the war and further his plans.
-[
-78
-]
 During the Clone Wars, Chancellor Palpatine had the
 Zillo Beast
 from
@@ -1300,45 +955,21 @@ rampage
 across Coruscant's Senate district. The clone forces on Coruscant converged on the Zillo Beast, using
 poison gas
 to kill it while the Jedi protected the chancellor.
-[
-79
-]
 The
 Senate hostage crisis
 was carried out by bounty hunter
 Cad Bane
-[
-80
-]
 as part of a
 Hutt Clan
 plot to free
 Ziro Desilijic Tiure
 .
-[
-81
-]
-[
-82
-]
 While clone troopers had already started to see open use on Coruscant at that point,
-[
-83
-]
 the failure of Senate Guards during the incident became a justification
-[
-84
-]
 for the continued
-[
-83
-]
 use of clones on the capital itself. In fact, clones came to replace
 Senate Commandos
 as Coruscant-based additional security and fast-action response military forces.
-[
-84
-]
 A Separatist terrorist attack disabled power to large sections of Coruscant, including its government district.
 The
 Confederate–Republic peace initiative
@@ -1355,9 +986,6 @@ Lott Dod
 , whose respective organizations, the
 InterGalactic Banking Clan
 and the Trade Federation, profited from the Clone Wars.
-[
-73
-]
 During the late Clone Wars, the Jedi Temple was bombed in a terrorist attack.
 Public opinion towards the end of the war, as represented by the citizens of Coruscant, began to turn against the Jedi. Protesters would gather in front of the Temple, blaming the Jedi for the military losses and the Jedi's loss of perspective as keepers of the peace. It was at that time that an
 explosion
@@ -1373,21 +1001,12 @@ Jackar Bowmani
 , had fed him volatile
 nano-droids
 which then exploded, killing Bowmani and causing the bombing at the Temple. Turmond was arrested and held at the Republic Center for Military Operations.
-[
-76
-]
 Tano was subsequently framed for the death of Turmond, who was
 killed by way of the Force
 .
-[
-26
-]
 She
 escaped
 to the lower levels of Coruscant, becoming a hunted fugitive while seeking to prove her innocence.
-[
-85
-]
 After the military
 recaptured
 Tano, the former Jedi was put on
@@ -1397,17 +1016,8 @@ treason
 against the Galactic Republic. However, the charges against her were dropped when the rogue Jedi
 Barriss Offee
 confessed to the crimes that Tano had been accused of.
-[
-86
-]
 Though she remained on Coruscant,
-[
-87
-]
 Tano left the Jedi Temple after deciding to not rejoin the Jedi Order.
-[
-86
-]
 Showdown on Coruscant
 [
 ]
@@ -1415,38 +1025,17 @@ Showdown on Coruscant
 In the name of the Galactic Senate of the Republic, you're under arrest, Chancellor.
 "
 ―Mace Windu, to Darth Sidious
-[
-88
-]
 The Battle of Coruscant erupted at the height of the Clone Wars, with Republic forces engaging the Separatists in the planet's stratosphere.
 Throughout the Clone Wars, Palpatine had remained a popular leader, remaining in office at the will of the Senate for far longer than his term technically allowed.
-[
-88
-]
 During this period, Palpatine continued to consolidate and centralize his own power.
-[
-73
-]
-[
-89
-]
-[
-90
-]
 By
 19 BBY
 , the third and final year of the war,
-[
-3
-]
 Coruscant's defenses were spread thin. The Separatists had been pushed back to the
 Outer Rim Territories
 , and could not risk a direct strike at the heart of the Republic. Coruscanti citizens, used to having the war fought far from the capitol, were just as surprised as the
 Coruscant Home Defense Fleet
 when a Separatist assault force launched a surprise attack on the planet.
-[
-91
-]
 During the
 Battle of Coruscant
 , Chancellor Palpatine was captured and taken to the Separatist
@@ -1456,9 +1045,6 @@ Invisible Hand
 , where he was rescued by the Jedi Knights Anakin Skywalker and
 Obi-Wan Kenobi
 .
-[
-88
-]
 After the death of Count Dooku, the Jedi on Coruscant focused their efforts on locating General
 Grievous
 , the
@@ -1491,9 +1077,6 @@ Utapau
 , the planet where Grievous had been located by
 Clone Intelligence
 .
-[
-88
-]
 With Anakin Skywalker's help, Darth Sidious killed Mace Windu on Coruscant.
 With the Clone Wars nearing its conclusion, Chancellor Palpatine revealed his secret identity as the
 Dark Lord of the Sith
@@ -1508,9 +1091,6 @@ arrest
 Sidious. The ensuing
 lightsaber duel
 resulted in the deaths of Kolar, Tiin, and Fisto; although Sidious was disarmed by Windu, he succeeded in killing the Jedi Order's champion due to the interference of Skywalker, who believed the chancellor's claims of possessing the power to save others from death. As a consequence, Skywalker renounced the Jedi and assumed the mantle of a Sith as Darth Vader.
-[
-88
-]
 The Galactic Empire
 [
 ]
@@ -1529,27 +1109,15 @@ Link
 (
 file info
 )
-[
-88
-]
 The birth of the Galactic Empire was announced on Coruscant by Darth Sidious at the end of the Clone Wars.
 As part of his endgame, Sidious issued
 Order 66
 to the entire Grand Army of the Republic,
-[
-88
-]
 using hidden
 inhibitor chips
-[
-92
-]
 to force the clone troopers into killing their
 Jedi Generals
 .
-[
-93
-]
 On Coruscant, the
 Great Jedi Purge
 commenced with Vader and the
@@ -1557,13 +1125,7 @@ commenced with Vader and the
 's
 siege of the Jedi Temple
 .
-[
-88
-]
 With the clone army under his control,
-[
-93
-]
 Sidious claimed the title of
 Galactic Emperor
 after issuing the
@@ -1571,17 +1133,11 @@ proclamation of the New Order
 in a
 special session of Congress
 , declaring a new era of order and security under the first Galactic Empire. The Separatist attack on Coruscant had exposed the capital's vulnerability,
-[
-91
-]
 which, combined with Sidious' allegation of a "Jedi rebellion," compelled the Senate to support the
 Emperor
 and his
 New Order
 .
-[
-88
-]
 Yoda and Kenobi returned to Coruscant in the aftermath of Order 66. After learning of Skywalker's turn to the
 dark side of the Force
 , the two Jedi Masters resolved to destroy the Sith. Kenobi left Coruscant to find his fallen apprentice, whereas Yoda remained on the capital to confront the Emperor. However, Yoda
@@ -1599,9 +1155,6 @@ reconstruction
 on Coruscant as a
 cyborg
 .
-[
-88
-]
 Imperial capital
 [
 ]
@@ -1617,27 +1170,15 @@ The Empire sat at the center of the galaxy like an enormous black hole—forever
 Beaumont Kin
 ,
 The Rise and Fall of the Galactic Empire
-[
-54
-]
 Venator
 -class Star Destroyers orbited Coruscant during its early days as the Imperial capital.
 After Palpatine's accession to power, changes came quickly to Coruscant, formally renamed as Imperial Center, and the Galactic City to Imperial City.
-[
-52
-]
 The Jedi Temple and its surrounding serene complex became the home of the new Emperor. While the spires of the Temple remained in place, the rest of the structure was heavily remodeled and expanded with sloping facades and block-shaped additions. The entire area was known as the Federal District, with the Imperial Palace forming one point of the so-called supreme triangle.
-[
-31
-]
 As the Empire established itself in the greater galaxy, wealth and resources from across the stars were claimed and redirected towards the Core Worlds, particularly Coruscant, at great expense to those who were subjugated in order to secure that wealth.
-[
-54
-]
-The other two points on Coruscant were the byzantine COMPNOR arcology, which contained the headquarters of the Imperial Security Bureau, and the new Naval Intelligence Agency headquarters, a near-windowless complex which formerly housed the Republic's strategic center. The cityscape of Coruscant changed as well. Buildings were stripped of their elegant Republic dressings in favor of sleek lines and block-like surfaces, and many smaller buildings became engulfed into larger buildings. Some areas changed so quickly that they were not recognizable to those who had seen them only a few years before.
-[
-31
-]
+The other two points on Coruscant were the byzantine COMPNOR arcology, which contained the headquarters of the Imperial Security Bureau, and the new Naval Intelligence Agency headquarters, a near-windowless complex which formerly housed the Republic's strategic center.
+The cityscape of Coruscant changed as well.
+Buildings were stripped of their elegant Republic dressings in favor of sleek lines and block-like surfaces, and many smaller buildings became engulfed into larger buildings.
+Some areas changed so quickly that they were not recognizable to those who had seen them only a few years before.
 Tensions under the surface
 [
 ]
@@ -1647,46 +1188,22 @@ This place is a ghost town."
 "
 ―Cal Kestis and
 Bode Akuna
-[
-94
-]
 Jedi Knight Cal Kestis faced Imperial forces on Coruscant.
 However, the Empire's policies against non-humans and its tightening control of the population caused unrest, especially among the alien populations of the underworld.
-[
-95
-]
 The Empire's way of acting caused the movement in the streets to decrease, as the planet's population tried to avoid the Imperial authorities to avoid problems, as seen on specific on
 Level 2046
 .
-[
-94
-]
 The wealthy, however, moved around with much less stress.
-[
-96
-]
 Indeed, Coruscanti on other levels than 2046 also moved about with impunity,
-[
-97
-]
 with such Coruscanti—even if they were not wealthy—eager to enjoy the benefits of life on Coruscant.
-[
-98
-]
 The
 Krrupt Gang
 kept hold of territory on
 Level 3726
 , where they worked to keep even the Empire away.
-[
-99
-]
 In
 9 BBY
 ,
-[
-100
-]
 the
 Stinger Mantis
 crew
@@ -1703,9 +1220,6 @@ Ninth Sister
 for supposed betrayal. The Ninth Sister was also killed when Kestis decapitated her. The acquired information was handed over to the
 Partisans
 .
-[
-94
-]
 As the
 Galactic Civil War
 took shape, the Empire began moving its
@@ -1715,9 +1229,6 @@ rioting
 to erupt in the
 Old Market Sector
 , which was brutally put down by Imperial forces.
-[
-95
-]
 The Coruscant Security Force suppressed rioters on Level 3204 in the wake of Alderaan's destruction.
 After the
 destruction
@@ -1737,9 +1248,6 @@ restored order by firing indiscriminately into the crowds. The crowds, frightene
 Rebel
 spies
 had recruited local residents and that Alderaanians had to be taken in for questioning.
-[
-95
-]
 Planetary civil war
 [
 ]
@@ -1749,16 +1257,10 @@ Coruscant civil war
 It is a symbol of our indolence and torpidity. It is the moldering core of our overripe fruit and I wish to cut away such rot so as to preserve our sweet remains and of course the seeds within.
 "
 ―Gallius Rax
-[
-60
-]
 The death of Emperor Palpatine was celebrated by the citizens of Coruscant, who rebelled against Imperial rule.
 In
 4 ABY
 ,
-[
-3
-]
 the Rebel Alliance managed to defeat the Empire in the penultimate
 Battle of Endor
 . With both the Emperor and his apprentice dead, due to being killed during the destruction of the
@@ -1766,13 +1268,7 @@ DS-2 Death Star II Mobile Battle Station
 , the citizens of Coruscant
 rejoiced
 , pulling down statues of Palpatine, overwhelming the stormtroopers on the streets, and setting off chimes and fireworks.
-[
-101
-]
 Police forces on speeders quickly entered the plaza and opened fire on the crowds without warning, killing many who were present. Present Coruscanti erupted into full-scale rioting. Blaster fire and fighting soon erupted across the capital between Coruscanti and the Imperial security forces.
-[
-102
-]
 Grand Vizier Mas Amedda struggled to maintain control over Coruscant as the Empire crumbled around him.
 In the ensuing months the
 New Republic
@@ -1781,24 +1277,15 @@ Galactic Senate
 on
 Chandrila
 .
-[
-102
-]
 Meanwhile, Coruscant dissolved into a true state of
 civil war
 , with some sectors entrenching themselves with Rebel resistance fighters, while other sectors actively fought against their neighbors and supported the Imperial forces. As the Empire fractured all over the galaxy,
 Grand Vizier
 Mas Amedda
 took control of Imperial forces on Coruscant
-[
-60
-]
 and the
 Coruscanti government
 .
-[
-29
-]
 However, the Imperial Navy withdrew support from the
 throneworld
 as
@@ -1810,19 +1297,19 @@ Rae Sloane
 , the figurehead of the Navy, to send reinforcements to the planet. Rax, leader of the
 Shadow Council
 that secretly guided the Empire in its final days, saw the planet as representing the "decay" that caused the Empire's downfall.
-[
-60
-]
-In this vacuum, the Imperial Security Bureau was left to coordinate Coruscant's Imperial forces. Grand Vizier Mas Amedda remained the planet's administrator and de-facto head of the Empire, but held no real power. The ISB established a nominal blockade around the planet utilizing ISB spaceships and coordinated the efforts of present security forces and stormtroopers. The Verity and Federal District were heavily fortified with checkpoints and barricades. Coruscant skylanes were diverted, and ISB crafts flew on patrol. Smoke rose from damaged vehicles and buildings as a fierce guerrilla war consumed the entire planet. Amedda, in despair and desperation, sought to turn himself over to New Republic
+In this vacuum, the Imperial Security Bureau was left to coordinate Coruscant's Imperial forces.
+Grand Vizier Mas Amedda remained the planet's administrator and de-facto head of the Empire, but held no real power.
+The ISB established a nominal blockade around the planet utilizing ISB spaceships and coordinated the efforts of present security forces and stormtroopers.
+The Verity and Federal District were heavily fortified with checkpoints and barricades.
+Coruscant skylanes were diverted, and ISB crafts flew on patrol.
+Smoke rose from damaged vehicles and buildings as a fierce guerrilla war consumed the entire planet.
+Amedda, in despair and desperation, sought to turn himself over to New Republic
 Chancellor
 Mon Mothma
 and
 Princess
 Leia Organa
 . However, they refused to take him prisoner, instead insisting that he find a way to capitulate the Empire and sign a full surrender.
-[
-60
-]
 Galactic Concordance
 [
 ]
@@ -1830,9 +1317,6 @@ Galactic Concordance
 Mas Amedda has come out of hiding and wants to sign a cease-fire. He wants to end it. All of it.
 "
 ―Mon Mothma
-[
-30
-]
 After the Empire's capitulation, Coruscant's provisional government was established with Amedda as its figurehead.
 By the time of the
 Battle of Jakku
@@ -1847,19 +1331,10 @@ Imperial Instruments of Surrender
 and the
 Galactic Concordance
 on Chandrila, the Empire surrendered to the New Republic
-[
-30
-]
 and ceded Coruscant over to the fledgling galactic government
-[
-49
-]
 with Mas Amedda being permitted to form a
 provisional government
 on Coruscant, along with Republic observers to ensure that it remained powerless under a figurehead leader. Following the Imperial surrender, weeks of celebrations took place in the streets and rooftops of Coruscant as the population celebrated the end of Imperial rule on the planet.
-[
-30
-]
 New Republic Era
 [
 ]
@@ -1871,40 +1346,17 @@ The capital of the Old Republic was within the Core on a planet called Coruscant
 "
 ―
 CB-3DU
-[
-103
-]
 While no longer the focal point of legislative power, Coruscant continued to retain operations for governmental functions.
-With the Galactic Civil War concluded, the New Republic sought to reshape galactic politics in an effort to both prevent the abuses of the Old Republic and bring in disaffected worlds that had seceded from the Republic prior to the Clone Wars. To accomplish this, the restored Galactic Senate decided that all worlds would have an equal say in their government, and as such all worlds had an equal chance of hosting the legislative branch on a rotating basis, rather than simply remaining on Coruscant alone.
-[
-49
-]
+With the Galactic Civil War concluded, the New Republic sought to reshape galactic politics in an effort to both prevent the abuses of the Old Republic and bring in disaffected worlds that had seceded from the Republic prior to the Clone Wars.
+To accomplish this, the restored Galactic Senate decided that all worlds would have an equal say in their government, and as such all worlds had an equal chance of hosting the legislative branch on a rotating basis, rather than simply remaining on Coruscant alone.
 The New Republic would eventually move some government operations back to Coruscant as the planet was already designed to handle and administer the galaxy's infrastructure,
-[
-54
-]
 transforming Coruscant into a key administrative hub
-[
-104
-]
 for the young government.
-[
-51
-]
 In
 9 ABY
 ,
-[
-105
-]
 after Chandrila had taken on the capital title for a time,
-[
-103
-]
 Coruscant was named the New Republic's capital.
-[
-53
-]
 All the while, Coruscant remained a populous world, home to a trillion permanent residents, and was still referred to as "the center of the galaxy" during the New Republic Era. The
 New Republic Defense Force
 maintained a presence on Coruscant, providing security and structure, while overseeing the decommission of
@@ -1921,13 +1373,7 @@ salvage yards
 such as the
 Shipyard Depot
 on Coruscant.
-[
-51
-]
 Some Coruscanti, however, displayed a gleeful disregard for whatever politics shaped the galaxy and happily supported whatever government was in charge, displaying a lack of care for what it entailed beyond Coruscant.
-[
-53
-]
 The New Republic Amnesty Program assigned former Imperials to Coruscant where they could serve the new government.
 After the Galactic Empire's defeat, captured Imperials were granted the chance to join the New Republic. As a result, programs like the
 Re-Integration Institute
@@ -1944,9 +1390,6 @@ Amnesty Scientist L52
 was assigned to work in a
 New Republic skyscraper
 where Imperial technology was archived and destroyed.
-[
-51
-]
 Amnesty Officer G68
 worked in the same
 building
@@ -1956,24 +1399,12 @@ Tuttle
 from
 Requisitions
 .
-[
-106
-]
 L52 was arrested by
 New Republic soldiers
-[
-51
-]
 im 9 ABY,
-[
-105
-]
 having left the program's designated perimeter to acquire equipment in the hope of continuing his cloning research, despite its prohibition by the
 Coruscant Accords
 .
-[
-51
-]
 Return of Thrawn
 [
 ]
@@ -1990,21 +1421,12 @@ Exactly my point. Gideon was a warlord acting on his own.
 Hamato Xiono
 and
 Carson Teva
-[
-107
-]
 Late that year,
-[
-108
-]
 General
 Hera Syndulla
 was summoned to Coruscant where the New Republic
 Senate Oversight Committee
 would decided whether or not to permanently suspend her command due to her disobeying orders.
-[
-109
-]
 A Centrist stronghold
 [
 ]
@@ -2013,18 +1435,12 @@ Have you no faith in the soldiers of the New Republic, Senator Sindian? Senator 
 "
 ―Arbo, to
 Carise Sindian
-[
-110
-]
 After joining the New Republic, Coruscant was counted among the Centrist worlds that advocated for a stronger galactic government.
 Coruscant become part of a political coalition known as the
 Centrists
 . The faction that Coruscant was associated with lobbied for centralized rule akin to the system that defined the Old Empire. Their views were diametrically opposed to that of the
 Populists
 who sought to limit the galactic government's involvement in the affairs of its constituent worlds.
-[
-110
-]
 By
 28 ABY
 , Coruscant was represented in the New Republic Senate by
@@ -2038,17 +1454,11 @@ Amaxine warrior crisis
 . By then, the Core World
 Hosnian Prime
 had been designated as the capital of the New Republic. Senator Arbo was a known Centrist, war hawk, and supporter of the New Republic Defense Force.
-[
-110
-]
 After the Senate's failed attempt to elect a
 First Senator
 , the Centrists seceded from the New Republic and formed the political branch of the
 First Order
 .
-[
-63
-]
 Descent into lawlessness
 [
 ]
@@ -2056,31 +1466,16 @@ Descent into lawlessness
 Coruscant's descent into lawlessness is one of the greatest tragedies of our age. What a rich history!
 "
 ―DK-RA-43
-[
-111
-]
 Lawlessness and gang warfare became commonplace on Coruscant, a fate lamented by Hondo Ohnaka.
 Despite being a part of the New Republic,
-[
-110
-]
 the planet actually fell under the control of criminal syndicates after the Empire's fall. By the time following the
 Battle of Crait
-[
-111
-]
 in
 34 ABY
 ,
-[
-112
-]
 even the respectable areas of Coruscant were roamed by gangs. Gangs fought a
 bloody conflict
 for control of the glittering world's districts. Tourism to the once-galactic capital all but vanished, and, for an individual to be safe, they needed to afford protection like droids and armed guards. Accordingly, the city world was not a symbol of galactic possibilities. Instead, it represented the disturbing realities of the galaxy's current time period.
-[
-111
-]
 The
 pirate
 Hondo Ohnaka
@@ -2100,37 +1495,19 @@ It seems that at least two sizeable battlegroups made a push for Coruscant in th
 Beaumont Kin
 ,
 The Rise and Fall of the Galactic Empire
-[
-54
-]
 After destroying the New Republic, the First Order attempted to seize direct control over the former Imperial capital of Coruscant.
 In the middle of the
 First Order-Resistance War
 , Coruscant along with the the Inner systems mounted a valiant and successful effort to repel the First Order's forces twice.
-[
-111
-]
 In
 35 ABY
 ,
-[
-113
-]
 at least two sizeable battlegroups made a push for Coruscant in the apparent hope of seizing it and ruling the galaxy from Coruscant due to it once being the seat of power for the Empire but these efforts were defeated. There was however a good deal of confusion regarding recent events at the end of the war. The Resistance also had planned an operation on Coruscant.
-[
-54
-]
 Coruscant took part in
 open rebellion
 against the First Order
 ,
-[
-50
-]
 which saw the First Order ultimately defeated.
-[
-54
-]
 Inhabitants
 [
 ]
@@ -2140,26 +1517,11 @@ Coruscanti
 There are people from a thousand worlds on Coruscant. Worlds that have faced similar struggles. You may see it as a city of metal, but there is wisdom to be found here. And allies.
 "
 ―Qui-Gon Jinn, to Th'er
-[
-114
-]
 Coruscant was home to a cosmopolitan society as diverse as the galaxy that it once ruled.
 Although Coruscant was believed to be the homeworld of the human species,
-[
-28
-]
 the Coruscanti were as varied as the galaxy itself, especially as one journeyed below the surface of the skyscrapers and into the underworld.
-[
-115
-]
 Trillions of beings resided on the planet,
-[
-29
-]
 and humans made up 68% percent of the population.
-[
-5
-]
 According to Qui-Gon Jinn, there were people from a thousand worlds living on Coruscant.
 Th'er
 , the
@@ -2167,117 +1529,42 @@ Priestess of Wood
 from
 Bri'n
 , disdained Coruscant's planet-wide urban sprawl as an "abomination." Nevertheless, Jinn encouraged Th'er to take advantage of its diverse population, noting that there were many individuals on Coruscant whose worlds faced adversities similar to that of Bri'n.
-[
-114
-]
 Republic politicians resided in the more affluent upper levels of Coruscant.
 As the center of galactic power, senators and delegates of every represented planet had a residence on Coruscant. From there they would spend their days either working in the Senate or hosting events such as parties and political meetings.
-[
-17
-]
-[
-89
-]
 Additionally, the planet served as the home of large communities of various species, some who rarely returned to their original homeworld. Many of those communities of species that were not human resided in the lower levels of the city. With the formation of the Empire, even the humans whose home planet had fallen out of favor with the Imperial government, such as Alderaan, were forced into enclaves in the underworld.
-[
-95
-]
 On the surface levels of Coruscant, skyscrapers served as homes and businesses for the wealthy, powerful, and politically connected. They were ferried by private speeder or an
 air taxi
 from one tower to the next or to the various theaters, clubs, operas, and other entertainment areas of Coruscant.
-[
-2
-]
 Some journeyed to the surface street levels or Coruscant's surface parks to conduct clandestine meetings
-[
-83
-]
 or to mingle in the crowds of people that streamed through the walkways of the residential and commercial areas. Among the rich and powerful of the planet were the Supreme Chancellor of the Republic and members of the Galactic Senate.
-[
-2
-]
 The last generation of Republic citizens were more interested in leisure activities than galactic politics.
 The influential and wealthy of Coruscant thrived in lavish lifestyles, attending meetings and social gatherings in highrise apartments,
-[
-17
-]
-[
-89
-]
 dining in fine restaurants overlooking the city,
-[
-116
-]
 partying in the entertainment districts,
-[
-2
-]
 and viewing large scale shows in theaters and operas.
-[
-88
-]
 Even as the Republic decayed, the Clone Wars raged on, and the average citizen became disenfranchised,
-[
-76
-]
 Coruscant's wealthy continued their lifestyle.
-[
-88
-]
 The propaganda
 artist
 Janyor
 believed that this generation's lack of focus on galactic politics contributed to the decline and fall of the Republic.
-[
-63
-]
 One model of ship, the
 Coruscant Freighter
 , shared its name with Coruscant,
-[
-117
-]
 where it was often used.
-[
-115
-]
-[
-118
-]
 On the streets of the city and in the shadows of skyscrapers teemed the planet's blue collar working population.
-[
-34
-]
 Many lived in the various housing blocks of the surface structures in relative comfort though not nearly as extravagant as the planet's wealthy and powerful. Many worked on the upper and lower surface levels or enjoyed the entertainment and restaurants that were more catered to their financial abilities.
-[
-2
-]
-[
-89
-]
-[
-119
-]
 The inhabitants of Coruscant's lower levels lived in impoverished conditions.
-Below the housing blocks and surface levels was the population inhabiting the Coruscant underworld. A term used to describe both the thousands of levels underneath the surface, and, Coruscant's criminal population, the underworld was home to millions of the planet's population who were too poor to move upward or were hiding from the attentions of the authorities. The citizens who lived here rarely if ever during their lifetime saw the surface of the planet. Living between vast buildings and infrastructure that supported the surface, they carried on their lives at the mercy of the violence, decay, and constant threat of death.
-[
-115
-]
-[
-95
-]
-[
-118
-]
+Below the housing blocks and surface levels was the population inhabiting the Coruscant underworld.
+A term used to describe both the thousands of levels underneath the surface, and, Coruscant's criminal population, the underworld was home to millions of the planet's population who were too poor to move upward or were hiding from the attentions of the authorities.
+The citizens who lived here rarely if ever during their lifetime saw the surface of the planet.
+Living between vast buildings and infrastructure that supported the surface, they carried on their lives at the mercy of the violence, decay, and constant threat of death.
 The
 Kubaz
 Glikkin
 hailed from the lower levels and eventually gained enough skill to be recognized as a
 Master Thief
 , yet Glikkin vowed to never forget his roots in Coruscant's underworld.
-[
-120
-]
 Government
 [
 ]
@@ -2294,107 +1581,35 @@ Absolutely nothing. You'll be as forgotten as yesterday's breakfast. I'm the one
 Chesna Braker
 and
 Arihnda Pryce
-[
-36
-]
 Coruscant was the seat of the Galactic Senate, making it home to thousands of senators from across the galaxy.
 Coruscant, as the center of the galaxy, thrived on the rule of government. It served as the capital of the Republic which kept the peace and prevented a major war in the galaxy for over a thousand years. Under the Republic, the Chancellor and the Senate had a direct influence on the planet's governance. Major events that affected the Republic equally affected Coruscant.
-[
-79
-]
-[
-41
-]
-[
-89
-]
-[
-73
-]
-[
-76
-]
 In its last years, the Republic's Senate became corrupt, bloated, and ultimately ineffectual, though some continued to fight in the belief of its ability to govern.
-[
-17
-]
-[
-2
-]
 With the formation of the Empire, the Senate transitioned into a limited role, providing council and legislation but ultimately at the power of the Emperor.
-[
-88
-]
 As Coruscant's government services were strained, the Imperial Senate moved to have each senator open citizen assistance offices that would supplement the work of the local government. While the goal was to primarily assist the members of each senator's homeworld living on Coruscant, the assistance offices were open to help all Coruscanti.
-[
-36
-]
 After the Republic fell, Coruscant retained its status as the seat of galactic power under the Emperor's reign.
 At the height of his power, Palpatine disbanded the Senate altogether and gave what little power they had left to the regional
 governors
 .
-[
-121
-]
 At the end of the Galactic Civil War, the New Republic installed a provisional government over Coruscant led by the former Imperial Grand Vizier Mas Amedda.
-[
-30
-]
 However, the New Republic did not establish its government on Coruscant, choosing instead to rotate the capital among the various member worlds.
-[
-49
-]
 Under the New Republic, Coruscant was represented by a senator and junior senator,
-[
-110
-]
 but the planet had come under the control of crime syndicates.
-[
-111
-]
 Epidemic outbreaks at the starports of Coruscant were controlled by the
 Coruscant Health Office
 .
-[
-44
-]
 Coruscant was policed by the Coruscant Security Force, which utilized police droids on the upper levels together with sentient officers and detectives,
-[
-25
-]
 and the burly underworld police who patrolled in the cutthroat environment of the lower levels.
-[
-115
-]
 The
 Coruscant Ministry of Ingress
 handled the flow of immigration to and from the planet,
-[
-7
-]
 and the
 Galactic Republic Customs of Coruscant
 office monitored cargo transports.
-[
-118
-]
 The Senate Guards were stationed on Coruscant due to their role in government security.
 The Senate had its own protectors, the Senate Guard. Serving under a long tradition, the Senate Guard was a reminder that though the Republic did not have a standing army, it was not defenseless.
-[
-122
-]
 As the Clone Wars erupted, the clone troopers of the Coruscant Guard worked as peacekeepers and military police, providing a constant reminder of the expanded power of the government, specifically Palpatine.
-[
-123
-]
 With the formation of the Empire, the Coruscant Guard and Imperial stormtroopers took over the functions of the Senate Guard,
-[
-122
-]
 with stormtroopers directly responsible for security on the planet, alongside the civilian Coruscant police.
-[
-95
-]
 Locations
 [
 ]
@@ -2413,19 +1628,10 @@ They care. We did more than that. We passed messages. Told them about troop move
 Streaks
 , to
 Iggs
-[
-102
-]
 One of Coruscant's many sectors was a dilapidated industrial area known as CoCo Town.
 CoCo Town
 was a dilapidated industrial area of Coruscant. Home to mostly hard-working laborers, CoCo Town was located on a surface area of the city.
-[
-34
-]
 The area, however, was not as run down as other heavy industrial surface districts and contained relatively well-maintained streets, speeder lanes, and a shuttle bus route.
-[
-2
-]
 On one of the main streets built on top of the urban blocks was an eatery called Dex's Diner. Owned and operated by Dexter Jettster, a
 Besalisk
 with a colorful background, it served mostly hard workers from the area. The diner offered home-style cooked meals and freshly brewed
@@ -2437,17 +1643,8 @@ droid
 partner,
 WA-7
 .
-[
-34
-]
 Shortly before the Clone Wars, Jedi Knight Obi-Wan Kenobi came to Dex's Diner to see if his old friend Jettster could identify a poisoned dart. Jettster identified it as originating from the planet Kamino, which he knew of from his days as a prospector.
-[
-2
-]
 During the civil war that erupted after the Emperor's death, CoCo Town became an epicenter of the fight between rebel and Imperial forces. The fighting saw the formation of the so-called Anklebiter Brigade, a group of youths familiar with the underground maintenance systems, who would use them to sneak behind Imperial lines and disrupt their abilities to fight.
-[
-102
-]
 COMPNOR arcology
 [
 ]
@@ -2455,32 +1652,20 @@ Main article:
 COMPNOR arcology
 The ISB Central Office towered over the COMPNOR complex.
 The COMPNOR arcology was a huge, labyrinthine building in the Imperial City's Federal District
-[
-124
-]
 , housing several Imperial government agencies including the
 Commission for the Preservation of the New Order
 and the
 Ubiqtorate
 .
-[
-31
-]
 High-ranking officers such as
 Minister of Information
 Pollux Hax
 maintained offices in the complex,
-[
-124
-]
 while the
 Imperial Security Bureau
 's
 Central Office
 was directly connected with it. The importance of the complex led to it being considered one of the three points of the District's "supreme triangle", alongside the Imperial Palace and Navy Intelligence Headquarters.
-[
-31
-]
 Grand Republic Medical Facility
 [
 ]
@@ -2490,14 +1675,11 @@ Grand Imperial Medical Facility
 The Grand Medical Facility is state-of-the-art.
 "
 ―Nala-Se
-[
-92
-]
 The Grand Republic Medical Facility was a Republic Military treatment center, yet also a secret lair of the Sith.
-The Grand Republic Medical Facility was a tower built to serve as a treatment center for badly injured Republic soldiers. The building was heavily guarded and had defensive shields, an independent power supply and was armored to where it could withstand a siege. The facility provided treatment to patients from all over the galaxy and boasted cutting-edge techniques in surgery and biomechanical reconstruction. The heavy fortifications and benign front appealed to Palpatine, and towards the end of the Clone Wars, he began using the lower levels of the facility to store Sith artifacts and as a meditation area, access to which was prevented by the Red Guards.
-[
-7
-]
+The Grand Republic Medical Facility was a tower built to serve as a treatment center for badly injured Republic soldiers.
+The building was heavily guarded and had defensive shields, an independent power supply and was armored to where it could withstand a siege.
+The facility provided treatment to patients from all over the galaxy and boasted cutting-edge techniques in surgery and biomechanical reconstruction.
+The heavy fortifications and benign front appealed to Palpatine, and towards the end of the Clone Wars, he began using the lower levels of the facility to store Sith artifacts and as a meditation area, access to which was prevented by the Red Guards.
 Jedi General
 Shaak Ti
 and
@@ -2509,23 +1691,11 @@ CT-5555
 "Fives" to the Grand Republic Medical Facility as part of their investigation into the actions of
 CT-5385
 ,
-[
-125
-]
 the clone trooper who prematurely executed Order 66.
-[
-126
-]
 Chancellor Palpatine confronted Fives in the facility, revealing his true nature. Fives fought back against the Red Guards and escaped the facility, though he was eventually located and killed by the Coruscant Guard.
-[
-125
-]
 After ending Fives' threat to Palpatine's plans, the Medical Facility was temporarily closed, and Palpatine used the opportunity to move several larger secret
 Sith artifacts
 into the tower from a building in the Works. However, the medical capabilities remained operational and were used to build the life-sustaining suit for Darth Vader after his fateful duel with Obi-Wan Kenobi. The Sith artifacts inside the building fueled Vader's recovery and hate.
-[
-7
-]
 Imperial Executive Building
 [
 ]
@@ -2535,18 +1705,14 @@ Imperial Executive Building
 The Chancellor has been moved to his Senate quarters, and the perimeter has been secured.
 "
 ―Mace Windu
-[
-125
-]
 The Chancellor's office was located in the Senate Office Building on Coruscant.
-Directly adjacent to the Senate Building was the Senate Office Building. The executive building had docking bays that wrapped around the building, allowing Senators to land their private shuttles and walk inside. The building contained mostly offices and meeting rooms for members of the Senate but also held the offices used on a day-to-day basis by the Supreme Chancellor. During Palpatine's term, the Chancellor's office was decorated with red floors and walls as well as several statues. A lobby led to the Chancellor's public office, which contained a grand desk and large window that overlooked the cityscape. To the side, another hallway led to Palpatine's inner private office.
-[
-88
-]
+Directly adjacent to the Senate Building was the Senate Office Building.
+The executive building had docking bays that wrapped around the building, allowing Senators to land their private shuttles and walk inside.
+The building contained mostly offices and meeting rooms for members of the Senate but also held the offices used on a day-to-day basis by the Supreme Chancellor.
+During Palpatine's term, the Chancellor's office was decorated with red floors and walls as well as several statues.
+A lobby led to the Chancellor's public office, which contained a grand desk and large window that overlooked the cityscape.
+To the side, another hallway led to Palpatine's inner private office.
 The Senate Office Building became known as the Imperial Executive Building after the Republic's reorganization into the Galactic Empire.
-[
-127
-]
 Imperial Inspectorate HQ
 [
 ]
@@ -2556,31 +1722,19 @@ Imperial Inspectorate HQ
 This is a secure facility. We do not have just anyone running about.
 "
 ―Wilhuff Tarkin, to Ahsoka Tano
-[
-26
-]
 The Imperial Inspectorate HQ was originally the Republic Center for Military Operations.
 The Imperial Inspectorate HQ served as the
 Imperial Military
 headquarters of the
 Inspectorate
-[
-128
-]
 as well as the
 Naval Intelligence Agency
 during the Empire's reign.
-[
-31
-]
 The facility was originally a Republic military base; constructed in close proximity to the staging areas for
 Star Destroyers
 , the Republic Center for Military Operations was designed by
 Orson Callan Krennic
 .
-[
-33
-]
 Outside of the complex was an airfield with
 Venator
 -class Star Destroyers
@@ -2589,13 +1743,13 @@ HAVw A6 Juggernauts
 , and other ships. The
 First Battle Memorial
 was located in front of the base's main entrance.
-[
-26
-]
-The base was protected by shock troopers of the Coruscant Guard. Inside was a military prison, the cells had two options for entering. The first was sliding a keycard. The second was pressing a button on the outside of each cell. The cells had ray-shielded doors to make sure prisoners did not escape. Inside each cell was a bed and bowls for water and food. Another area in the prison was a medium circular room with a fairly large computer for scanning people before they entered the base, a crate for weapons and communication devices, and a red button to start the red-alert sequence.
-[
-26
-]
+The base was protected by shock troopers of the Coruscant Guard.
+Inside was a military prison, the cells had two options for entering.
+The first was sliding a keycard.
+The second was pressing a button on the outside of each cell.
+The cells had ray-shielded doors to make sure prisoners did not escape.
+Inside each cell was a bed and bowls for water and food.
+Another area in the prison was a medium circular room with a fairly large computer for scanning people before they entered the base, a crate for weapons and communication devices, and a red button to start the red-alert sequence.
 In the latter half of the war, the prison held
 Whorm Loathsom
 ,
@@ -2603,13 +1757,7 @@ Poggle the Lesser
 , and
 Wat Tambor
 . It was also here that Ahsoka Tano escaped when she was suspected of killing Letta Turmond.
-[
-26
-]
 Additionally, inside the compound was a military tribunal courtroom, in which the court decided the fate of dangerous criminals. It was a tall room, with platforms extending into its center for the accused, prosecution, and defense. There was seating along its walls for the presiding official, jury, and other trial participants and onlookers.
-[
-86
-]
 Imperial Palace
 [
 ]
@@ -2620,75 +1768,40 @@ The most famous of the Jedi temples, located on Coruscant, served as the home of
 "
 ―
 Luke Skywalker
-[
-129
-]
 The Jedi Temple was part school, part monastery, and the home of the Jedi Order on Coruscant.
-As the galactic capital, Coruscant was also home to the Jedi Order, guardians of peace and justice in the galaxy. An order of Force-sensitives, the Jedi Knights served the Republic for thousands of years as keepers of the peace. Their home was the Jedi Temple. Built on a plain of low lying urban blocks, the Jedi Temple was easily recognizable on the Coruscant cityscape with its distinctive five spires. Part school and part monastery, the Temple was the hub of all Jedi activity throughout the galaxy.
-[
-130
-]
+As the galactic capital, Coruscant was also home to the Jedi Order, guardians of peace and justice in the galaxy.
+An order of Force-sensitives, the Jedi Knights served the Republic for thousands of years as keepers of the peace.
+Their home was the Jedi Temple.
+Built on a plain of low lying urban blocks, the Jedi Temple was easily recognizable on the Coruscant cityscape with its distinctive five spires.
+Part school and part monastery, the Temple was the hub of all Jedi activity throughout the galaxy.
 In one of the spires sat the Jedi High Council, led by the Grand Master of the Order, which directed the actions of the Jedi and served as advisers to the Senate and Chancellor.
-[
-131
-]
 The Temple held a large lobby and chambers with statues of famous Jedi
-[
-2
-]
 and also contained numerous facilities including hanger bays for starships and speeders utilized by the Jedi,
-[
-88
-]
 sleeping and living quarters, rooms for meetings and instruction,
-[
-2
-]
 a medical facility,
-[
-132
-]
 prison cells,
-[
-76
-]
 and communications and security stations.
-[
-88
-]
 The Temple also held the famous
 Jedi Archives
 , which stored the largest collection of information on the galaxy
-[
-2
-]
 as well as a vault containing the valuable
 holocrons
 containing the Order's Force knowledge and secrets.
-[
-78
-]
 The Jedi Temple fell in the first hours of Order 66, the directive that initiated the Great Jedi Purge.
 During the Clone Wars, the Jedi, serving as generals and commanders of the Grand Army, coordinated their efforts from the Temple. However, as the war began to conclude, the Jedi became more separated from the hierarchy of the military command and establishment.
-[
-76
-]
-[
-115
-]
-When Palpatine was revealed as the Sith Lord the Jedi had been searching for, he ordered the execution of Order 66 and sent his new apprentice Darth Vader to the Jedi Temple. Entering with the 501st Legion, Vader and the clone troopers seized the Temple, killing all the Jedi and younglings inside and setting the monastery ablaze. Later, Masters Yoda and Kenobi infiltrated the Temple to discover what had occurred. It was there they reconfigured a distress signal transmitting from the Temple to any surviving Jedi asking them to return (into a Sith trap), and learned the truth of Skywalker's fall and Palpatine's identity as the Dark Lord of the Sith.
-[
-88
-]
+When Palpatine was revealed as the Sith Lord the Jedi had been searching for, he ordered the execution of Order 66 and sent his new apprentice Darth Vader to the Jedi Temple.
+Entering with the 501st Legion, Vader and the clone troopers seized the Temple, killing all the Jedi and younglings inside and setting the monastery ablaze.
+Later, Masters Yoda and Kenobi infiltrated the Temple to discover what had occurred.
+It was there they reconfigured a distress signal transmitting from the Temple to any surviving Jedi asking them to return (into a Sith trap), and learned the truth of Skywalker's fall and Palpatine's identity as the Dark Lord of the Sith.
 After the Clone Wars, the Emperor had the Jedi Temple converted into the Imperial Palace.
-After the war, Palpatine turned the Temple into the Imperial Palace, using it as his new home. The Temple's spires remained intact though the rest of the Temple was heavily remodeled and expanded. The hallways were stripped of all statues and Republic-era ornaments. Where they had once been quiet and solemn, they became filled with busy government workers and functionaries. A large landing courtyard allowed for shuttles and starships to land. The entire Palace complex was watched over by the red-robed Imperial Royal Guard. The center spire was converted into the Emperor's throne room with a ten-meter tall podium in the center accessible by the Emperor from his residence via a private turbolift.
-[
-31
-]
+After the war, Palpatine turned the Temple into the Imperial Palace, using it as his new home.
+The Temple's spires remained intact though the rest of the Temple was heavily remodeled and expanded.
+The hallways were stripped of all statues and Republic-era ornaments.
+Where they had once been quiet and solemn, they became filled with busy government workers and functionaries.
+A large landing courtyard allowed for shuttles and starships to land.
+The entire Palace complex was watched over by the red-robed Imperial Royal Guard.
+The center spire was converted into the Emperor's throne room with a ten-meter tall podium in the center accessible by the Emperor from his residence via a private turbolift.
 The structure remained standing on Coruscant throughout the Emperor's reign.
-[
-101
-]
 Imperial Senate Building
 [
 ]
@@ -2698,24 +1811,12 @@ Galactic Senate Building
 There is no civility, only politics. The Republic is not what it once was. The Senate is full of greedy, squabbling delegates. There is no interest in the common good.
 "
 ―Sheev Palpatine, to Padmé Amidala
-[
-17
-]
 The Galactic Senate Building was the political heart of the galaxy during the age of the Galactic Republic.
 The Senate Building was located within the heart of the dense Federal District. Delegates would meet here during sessions of congress to discuss legislation and galactic policy. The structure's recognizable dome was two kilometers in diameter; the
 Galactic Senate Chamber
 could seat over a thousand senators.
-[
-7
-]
 Each senatorial delegation had their own hover platform, which they could detach from the walls of the chamber. They could then float it throughout the cavernous hall to be recognized by the Senate chair or to debate the issue at hand. In the center of the Senate chamber was the Chancellor's podium. Seated in it would be the Supreme Chancellor and the Senate's Vice Chair, who would lead sessions of congress.
-[
-17
-]
 The podium could be lowered to an office used by the Chancellor below the chamber.
-[
-88
-]
 The lower levels
 [
 ]
@@ -2734,22 +1835,13 @@ You must be joking. Go down two thousand levels and you'll find all the unrest y
 Mitth'raw'nuruodo
 and
 Wullf Yularen
-[
-36
-]
 An underworld of crime, poverty, and darkness existed beneath the upper levels of Coruscant.
 Beneath the top-level structures, streets and glistening lights of the city surface was Coruscant's underworld. Its underworld was known for its crime and smugglers. It was accessible by huge portals that additionally served as ventilation shafts. The underworld was a massive city beneath a city with hundreds of
 levels
 built on top of each other. On each level, dwellings and smaller buildings were squeezed in between massive towers and infrastructure that serviced the upper levels. The streets and alleyways were narrow and large sections contained massive buildings and warehouses, largely abandoned. Sunlight almost never reached the lower levels, which had to be artificially lit.
-[
-115
-]
 The population was able to move from one area to another via
 trains
 that ran below and above the planet's surface. While airspeeders were used, they were a less common sight than on the surface levels. The underworld, containing a vast population of the poor and criminal, was dark and violent. Those who wanted to disappear to hide from the authorities or to conduct illegal transactions could blend in despite the presence of cam droids and other monitoring technology.
-[
-115
-]
 Patrolled by the underworld police division of the Coruscant Security Force, the underworld was where large populations of species not loyal to the Emperor were relocated to after the formation of the Empire. Uprisings and riots became common, with stormtroopers frequently called in to assist the Coruscant cops in putting down any dissent.
 Level 2046
 [
@@ -2757,12 +1849,14 @@ Level 2046
 Main article:
 Level 2046
 Level 2046 was one of thousands of levels that made up the ecumenopolis of Coruscant.
-Level 2046 was a middle level in the city. Home to a thriving community of sellers and industrialists, the sector housed dozens of shops and even a meat packing plant. Yet, there was also many impoverished citizens and desperate people who lived on this level. By the Imperial Era, the economy of the area had started to decline, even with the Empire's ruthless crackdown on crime. The increased oppression and protection racketeering from troopers hurt many of the businesses there, and corrupt politicians, such as Senator Daho Sejan, would use the level as a way of increasing the financial power. This level also featured at least one
+Level 2046 was a middle level in the city.
+Home to a thriving community of sellers and industrialists, the sector housed dozens of shops and even a meat packing plant.
+Yet, there was also many impoverished citizens and desperate people who lived on this level.
+By the Imperial Era, the economy of the area had started to decline, even with the Empire's ruthless crackdown on crime.
+The increased oppression and protection racketeering from troopers hurt many of the businesses there, and corrupt politicians, such as Senator Daho Sejan, would use the level as a way of increasing the financial power.
+This level also featured at least one
 Desi's Noodles
 , a common food chain of popular fast food stores that were located in the Coruscant Underworld. Eating there was considered a must for travelers to the planet. Many stormtroopers frequented the locations for their famous dishes.
-[
-94
-]
 Uscru District
 [
 ]
@@ -2777,9 +1871,6 @@ Galaxies Opera House
 was located. It was here that Chancellor Palpatine often would come to enjoy various performances. He also met Anakin Skywalker and told him the story of
 Darth Plagueis
 to subvert Skywalker's faith in the Jedi.
-[
-133
-]
 Lower district
 [
 ]
@@ -2792,22 +1883,13 @@ Where are you going, Master?
 For a drink.
 "
 ―Anakin Skywalker and Obi-Wan Kenobi
-[
-2
-]
 The Uscru District was defined by a combination of bars, casinos, clubs, and other entertainment-based establishments.
 Further down in the lower levels of the Uscru Entertainment District was a variety of establishments, most notably the
 Outlander Club
 . The club was situated in a less developed area of the district and did not garner as much attention from the police, a fact that worked in the club's favor. Its labyrinth of bars, gambling rooms and sleeping quarters allowed for a wide variety of visitors and entertainment. In the center was a large bar, usually crowded, that catered to all parts of Coruscant's society.
-[
-7
-]
 Jedi Knights Kenobi and Skywalker pursued bounty hunter
 Zam Wesell
 into the Uscru District after her attempted assassination of Senator Amidala. The pursuit ended in the Outlander Club, where the Jedi located the assassin. However, Wesell was killed by bounty hunter Jango Fett in an alley outside the club before the Jedi could finish questioning her.
-[
-2
-]
 The Works
 [
 ]
@@ -2826,9 +1908,6 @@ What is happening here?
 A rogue shuttle slipped through the security grid. We suspect Dooku was aboard.
 "
 ―Yoda and Anakin Skywalker
-[
-134
-]
 Coruscant's industrial zone, known as The Works, was once a manufacturing powerhouse known throughout the galaxy.
 A large sector and industrial area,
 The Works
@@ -2836,10 +1915,10 @@ was once a great manufacturing district, recognized as a major source of product
 spacecraft
 parts,
 construction droids
-, and building materials. However, centuries prior to the Clone Wars, increasingly high cost on Coruscant prompted most manufacturers to shift their operations to off-planet facilities. Afterwards, the Works mainly consisted of long-abandoned buildings and empty warehouses, many of which were appropriated by criminals, with large areas rendered uninhabitable by toxic waste. Because of this, a derelict hangar in the neglected industrial zone was the site of clandestine meetings between Darth Sidious and Darth Tyranus during the Clone Wars.
-[
-1
-]
+, and building materials.
+However, centuries prior to the Clone Wars, increasingly high cost on Coruscant prompted most manufacturers to shift their operations to off-planet facilities.
+Afterwards, the Works mainly consisted of long-abandoned buildings and empty warehouses, many of which were appropriated by criminals, with large areas rendered uninhabitable by toxic waste.
+Because of this, a derelict hangar in the neglected industrial zone was the site of clandestine meetings between Darth Sidious and Darth Tyranus during the Clone Wars.
 Behind the scenes
 [
 ]
@@ -2852,9 +1931,6 @@ Return of the Jedi
 , the Imperial capital planet was set to appear under the name
 Had Abbadon
 .
-[
-135
-]
 During the development of
 Star Wars
 : Episode I
@@ -2902,9 +1978,6 @@ The Rise of Skywalker
 ; For the latter, it eventually evolved into
 Exegol
 .
-[
-136
-]
 Appearances
 [
 ]

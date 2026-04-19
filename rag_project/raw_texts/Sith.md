@@ -7,9 +7,6 @@ Sith Order
 They hoped to fill me with fear. But fear leads to anger. Anger leads to hate. And hate…leads to power.
 "
 ―Darth Vader
-[
-45
-]
 The
 Sith
 , also referred to as the
@@ -398,9 +395,6 @@ The Code of the Sith
 Anger and pain are natural and part of growth. They give you focus. They make you strong.
 "
 ―Darth Vader
-[
-27
-]
 Generations of Sith adhered to a philosophy of power through the dark side of the Force.
 The Sith focused on primal emotions like anger and pain in order to gain power from the
 dark side of the Force
@@ -409,54 +403,27 @@ Code of the Sith
 was the antithesis of the
 Jedi Code
 , although like its counterpart, it governed the actions and beliefs of the Sith. The Sith code insisted on the importance of passion and the rejection of peace.
-[
-27
-]
 Peace is a lie. There is only passion.
 Through passion I gain strength.
 Through strength I gain power.
 Through power I gain victory.
 Through victory my chains are broken.
 The Force shall free me.
-[
-28
-]
 The Sith wore
 clothing
 that obscured their identity while in hiding.
-[
-38
-]
 They used the term "dark side" because they were secretive. The Sith felt it was easier to impose order if they kept their identities and knowledge a secret or, as
 Lona Aphra
 put it, "hidden—in the dark."
-[
-46
-]
 The
 hex charm
 was a traditional symbol of the Sith.
-[
-26
-]
 Jedi Master
 Zallah Macri
 maintained that, in the abstract, the Sith Order's ideals may have seemed "good" to a Jedi, but the finer details and their actions painted a clearer picture for what they truly stood for.
-[
-47
-]
 Indeed, many who joined the Sith
-[
-24
-]
 or related dark side groups tried to rationalize their actions at first
-[
-48
-]
 before being fully consumed by the dark side.
-[
-24
-]
 The Doctrine of the Dyad
 [
 ]
@@ -464,9 +431,6 @@ The Doctrine of the Dyad
 The Doctrine of the Dyad was etched into the walls of my citadel on Exegol eons ago, a constant reminder of its significance to our Order. To my Sith Eternal, the dyad is not merely the stuff of ancient legend; it is the future of the Sith—the key to unlocking the full potential of the dark side.
 "
 ―Darth Sidious
-[
-28
-]
 The Doctrine of the Dyad preceded the Sith Order's Rule of Two.
 The
 Doctrine of the Dyad
@@ -482,17 +446,11 @@ the Force
 Sith Lord
 Darth Sidious
 viewed the dyad as a source of limitless power.
-[
-28
-]
 The Doctrine of the Dyad was etched into the walls of the
 Sith Citadel
 on
 Exegol
 , eons before Sidious' time, to remind the Sith of the dyad's significance to their Order.
-[
-28
-]
 The Doctrine of the Dyad also influenced the
 Sith Eternal
 , a
@@ -502,13 +460,7 @@ Sith devotees
 who
 predicted
 the return of the dyad.
-[
-4
-]
 Like the Sith Order, the Sith Eternal believed that the dyad was essential to realizing the dark side's full potential.
-[
-28
-]
 The Rule of Two
 [
 ]
@@ -516,9 +468,6 @@ The Rule of Two
 But there was a Sith Lord who survived the culling—the great Darth Bane. It was he who reshaped the Sith, creating a new hierarchy to ensure the survival of our Order. His Rule of Two dictated that only two Sith Lords could exist at any one time—a master to possess the unlimited power of the dark side and an apprentice to covet it.
 "
 ―Darth Sidious
-[
-28
-]
 The Rule of Two governed the Sith Order for a millennium, from its ancient founder to the last Dark Lord of the Sith.
 Even before the formation of the
 Rule of Two
@@ -527,30 +476,14 @@ Sith Master
 and a
 Sith apprentice
 —could exist at one time,
-[
-28
-]
 the Sith of old often found themselves ruled by two Sith in specific, who would reign over their many fellow Sith.
-[
-49
-]
-The Rule of Two, however, would officially limit the Sith Order's numbers due to the infighting that had ruined it. The rule nonetheless ensured the relationship between a Sith Master and their apprentice was not one of trust; indeed, both the master and the apprentice constantly searched for any sign of weakness in the other, for a weak master deserved to be overthrown by their pupil, just as a weak pupil deserved to be replaced by a worthier, more powerful recruit. This philosophy was embraced by the Sith, who adopted it as a way to purify the weak and become stronger over time, since only an apprentice who had surpassed all previous Sith could take their master's place through honorable combat.
-[
-27
-]
+The Rule of Two, however, would officially limit the Sith Order's numbers due to the infighting that had ruined it.
+The rule nonetheless ensured the relationship between a Sith Master and their apprentice was not one of trust; indeed, both the master and the apprentice constantly searched for any sign of weakness in the other, for a weak master deserved to be overthrown by their pupil, just as a weak pupil deserved to be replaced by a worthier, more powerful recruit.
+This philosophy was embraced by the Sith, who adopted it as a way to purify the weak and become stronger over time, since only an apprentice who had surpassed all previous Sith could take their master's place through honorable combat.
 The Sith were free to train dark side agents identified as
 Sith acolytes
-[
-50
-]
 so long as those acolytes were not trained as true Sith Lords. However, it was more than possible the Sith apprentice would violate the Rule of Two by training an acolyte as a real apprentice, intending to have their aid in overthrowing the Sith Master.
-[
-51
-]
 The concept of the dyad influenced the philosophy of the Rule of Two, emphasized the power of two Force-sensitives working in tandem to grow even more powerful as an Order. As the successor of the Doctrine of the Dyad, the Rule of Two was seen as a "pale imitation" of its predecessor by Darth Sidious.
-[
-28
-]
 History
 [
 ]
@@ -564,26 +497,14 @@ The Hundred-Year Darkness
 Once we were brothers in the Force. But from the Hundred-Year Darkness were born the Sith.
 "
 ―Unidentified Jedi
-[
-52
-]
 Korriban, later known as Moraband, was settled by the Sith following their schism with the Jedi Order.
 Formed around
 5000 BBY
-[
-39
-]
 , the Sith were the ancient enemies of the
 Jedi Order
-[
-52
-]
 who shared their name with a
 red-skinned species
 .
-[
-53
-]
 Established by a
 rogue Jedi
 during the
@@ -593,13 +514,7 @@ Jedi
 was able to amass a
 Jedi splinter group
 with a sizable following, all of whom adhered to this new philosophy that embraced the dark side.
-[
-40
-]
 This schism in the Jedi Order led to a civil war where the Jedi and the newly-founded Sith Order, once brothers and sisters in the Force, fought against one another for power.
-[
-52
-]
 The war ended in the defeat of the Sith, who fled from known
 space
 . Unbeknownst to the Jedi, however, the Sith settled on
@@ -609,9 +524,6 @@ world
 of
 red
 sands that was later known as Moraband, where they rebuilt in secret and waited for another chance to strike.
-[
-40
-]
 Exile on Korriban
 [
 ]
@@ -619,48 +531,27 @@ Exile on Korriban
 Known long ago as Korriban, this ancient homeworld of the Sith was abandoned after countless wars transformed it into an infertile wasteland.
 "
 ―Darth Sidious
-[
-28
-]
 Sith temples and monuments were constructed on Korriban during the time of the ancient Sith.
 As the Sith Order grew, they constructed massive
 temples
 and tombs on Korriban in a location known as the
 Valley of the Dark Lords
 .
-[
-17
-]
 The Sith built
 empires
 on the backs of their
 slaves
-[
-9
-]
 and fought wars against the Jedi for control of the galaxy. During these wars, they built massive
 superweapons
 powered by giant
 kyber crystals
 .
-[
-54
-]
-[
-55
-]
 Eventually, a trade route in the
 Outer Rim
 came to be known as the
 Cloak of the Sith
 , a name which
-[
-56
-]
 was similar to how Sith Lords were known to wear dark cloaks.
-[
-43
-]
 War on the Old Republic
 [
 ]
@@ -668,24 +559,15 @@ War on the Old Republic
 The Sith Order grew, spreading its might across the galaxy.
 "
 ―Darth Sidious
-[
-28
-]
 The Sith encountered and later betrayed the Drengir.
 It was believed the
 lightfoil
 was made by the early Sith.
-[
-57
-]
 The Sith also formed an alliance with the
 Nightsisters
 of
 Dathomir
 at some point, but the "old alliance," as they came to dub it, eventually ceased. Ultimately, the Nightsisters would decide to only retain loyalty to each other.
-[
-58
-]
 Around
 2500 BBY
 , the Sith allied with the
@@ -693,13 +575,7 @@ Drengir
 , and for a
 time
 they worked alongside each other, until around the same year
-[
-39
-]
 they betrayed the living plants.
-[
-59
-]
 The Sith
 left the Drengir
 locked on the
@@ -707,9 +583,6 @@ Amaxine space station
 via the
 binding statues
 .
-[
-60
-]
 Exim Panshard
 was a Sith
 viceroy
@@ -718,9 +591,6 @@ forgotten planet
 in a bloody rule, culminating in the creation of a
 mask
 that, fueled by the deaths of countless civilians, he cling onto life within.
-[
-26
-]
 The Jedi and Sith waged a series of wars throughout their history so ruinous that at points each was brought to the brink of destruction.
 At one point, nearly five thousand
 years
@@ -735,28 +605,16 @@ attacked
 the Republic capital
 Coruscant
 .
-[
-19
-]
 This allowed the Sith to build a
 shrine
 on the planet, which became a place of immense dark side power. Eventually, the Jedi were able to repel the Sith from Coruscant. The Jedi raised their own
 temple
 over the Coruscant shrine in an attempt to contain and eliminate its power.
-[
-18
-]
 Around this time, the Jedi and Sith engaged in a number of battles and wars like the
 Great Hyperspace War
-[
-7
-]
 and the
 Great Sith Wars
 .
-[
-61
-]
 The
 Massassi
 , a
@@ -770,12 +628,6 @@ Yavin 4
 Lord
 Naga Sadow
 .
-[
-62
-]
-[
-63
-]
 A bastion of the Sith
 [
 ]
@@ -785,9 +637,6 @@ free
 .
 "
 ―Darth Sidious, to Darth Maul
-[
-64
-]
 Jedi and Sith both perished when Malachor was scourged by the power within an ancient Sith temple.
 The Sith continued to expand their empire erecting temples on multiple planets. One such
 temple
@@ -798,24 +647,15 @@ superweapon
 powered by a giant kyber crystal. The Jedi eventually learned of the weapon and assaulted the temple. A savage
 battle
 was then waged between the Sith Empire and the invading Jedi Knights. During the battle, the temple was activated, petrifying everyone on the planet. This would result in the planet being forbidden from Jedi and becoming a legend for millennia to come.
-[
-20
-]
 Resurgence of the Sith
 [
 ]
 Over the course of thousands of years, the rivalry between the Sith and Jedi took many forms.
-[
-65
-]
 The Sith
 resurged
 in one conflict that became very desperate, which was likely why the Jedi Order turned to
 Form VII
 "Juyo." That aggressive lightsaber combat form, however, resulted in a number of Jedi falling to the dark side. After the conflict had finished, the Jedi banned its study.
-[
-57
-]
 Conflict for the Force
 [
 ]
@@ -823,26 +663,14 @@ Conflict for the Force
 The Jedi and Sith battled each other over countless generations.
 "
 ―Luke Skywalker
-[
-66
-]
 The Darkseekers were Sith tasked with hunting and eliminating threats to their order's rule over the galaxy.
 At one time, the Sith established an
 oppressive rule
 over the galaxy.
-[
-24
-]
 During the reign of the Sith, a cult named the
 Ascendant
 flourished
-[
-67
-]
 and attempted to recreate the powers of the Force with technological innovations. However, the cult was an enemy of the Sith
-[
-68
-]
 and hunted by its
 Darkseekers
 , who regarded the Ascendant as an order of heretics. Although Ascendant leader
@@ -850,28 +678,16 @@ Miril
 was once able to escape a team of Darkseekers in the
 Floating Catacombs
 ,
-[
-6
-]
 the Sith eventually located the Ascendant's
 primary temple
 on
 Bar'leth
 and
 attacked
-[
-68
-]
 while the Ascendant worked on finishing the
 Spark Eternal
 .
-[
-6
-]
 As her fellow cultists were cut down, Miril gave her life to hide the Spark away to prevent it from being recovered by the Sith.
-[
-68
-]
 During one conflict, the Jedi and Sith
 fought
 on the planet
@@ -882,38 +698,23 @@ Maz Kanata
 later built her
 castle
 on top of the legendary battlefield.
-[
-69
-]
 Jedi Master
 Tal Bota
 was a legendary Jedi who often fought against the Sith. His life became the inspiration for
 holostories
 , one of which depicted him fighting many Sith troops at once.
-[
-70
-]
 The legendary Sith
 Darth Wrend
 fought against the Jedi. Despite being believed dead, Wrend returned to continue to battle.
-[
-71
-]
 At some point, the Jedi
 Radaki
 fell to the dark side, becoming the Sith Darth Krall and winning the
 Battle of Wasted Years
 . He also tamed the
 Nightmare Conjunction
-[
-72
-]
 and wielded a lightsaber with a gold
 hilt
 .
-[
-73
-]
 The rise and fall of Darth Momin
 [
 ]
@@ -921,9 +722,6 @@ The rise and fall of Darth Momin
 With resources inherited from Lady Shaa and the help of acolytes desperate to aid me in my work, I designed a great engine. It was a weapon, of course, powerful enough to burn the city to ash.
 "
 ―Darth Momin, to Darth Vader
-[
-14
-]
 Darth Momin venerated the power of the dark side of the Force.
 The Sith Lord
 Darth Momin
@@ -936,41 +734,17 @@ attempted
 this, the Jedi intervened and Momin's body was destroyed, yet his mind remained inside his
 mask
 where he waited for his revival as ages passed.
-[
-14
-]
 In the meantime, however, the Sith buried knowledge of Momin and his ideas on the belief that he had been a heretic. The Sith refused to recount information about Momin into their holocrons. The Jedi, too, made no mention of the Sith Lord in their holocrons
-[
-36
-]
 and locked his mask away.
-[
-74
-]
 Nonetheless, the Sith at some point used
-[
-75
-]
 Momin's
 Fermata Cage
-[
-76
-]
 to lock away a
 droid intelligence
 .
-[
-75
-]
 The Fermata Cage was then hidden within a
 dark side hellscape
-[
-77
-]
 Momin knew of.
-[
-14
-]
 The Dark Age
 [
 ]
@@ -978,9 +752,6 @@ The Dark Age
 After thousands of years of war, the Sith were pushed to the edge of extinction.
 "
 ―Darth Sidious
-[
-28
-]
 During a period of time known as the
 Dark Age
 , the
@@ -990,9 +761,6 @@ attacked
 the Old Republic capital world of Coruscant. The Sith successfully captured the planet as well as the Jedi Temple. The
 Liberation of Coruscant
 was one of the last battles of the Jedi-Sith War and resulted in the Sith being driven from Coruscant.
-[
-78
-]
 Destruction and rebirth
 [
 ]
@@ -1000,60 +768,30 @@ Destruction and rebirth
 A long, long time ago, there were many Sith. We rose up against the simpering light…we warred with the Jedi…and lost as we also warred amongst our own kind.
 "
 ―Darth Sidious, to Darth Vader
-[
-79
-]
 The Sith were reformed by Darth Bane, who decreed that only two Sith Lords could exist at any given time: a master and an apprentice.
 The Sith numbered thousands, yet they were eventually
-[
-80
-]
 defeated
 at
-[
-41
-]
 the world
-[
-38
-]
 of
 Ruusan
-[
-41
-]
 in the
 Mid Rim Territories
 .
-[
-38
-]
 Despite the
 Sith armada
 's quantitative advantage over the much smaller
 Ghostfinder fleet
 , the Sith were outmatched.
-[
-8
-]
 The Sith's quest to gain power was ultimately their undoing, as the dark side made them turn against one another. Within a year, the Jedi managed to defeat the infighting Sith, bringing what was left of the dark order to its knees. However, one Sith,
 Darth Bane
 , survived. With his fellow Sith Lords destroyed, he reformed the order by establishing the Rule of Two, mandating that only two Sith, a master and an apprentice, could exist at any given time, lest they fall prey to infighting.
-[
-17
-]
 To keep Bane's philosophy alive, the apprentice needed to slay their master and take on an apprentice of their own, or the master could train another apprentice and have them kill and replace their current apprentice. Bane had also initiated a revenge plot against the Jedi, called the
 Grand Plan
 .
-[
-24
-]
 The Sith abandoned their traditional
 homeworld
 of Moraband after it was scarred by many wars.
-[
-81
-]
 Eventually,
 Darth
 Bane was
@@ -1061,9 +799,6 @@ killed
 and was
 buried
 in the Valley of the Dark Lords on its surface,
-[
-17
-]
 but the Rule of Two continued through his apprentice,
 Darth Zannah
 . It was rumored that Zannah had killed Bane on the
@@ -1072,27 +807,12 @@ planet
 of
 Ambria
 .
-[
-82
-]
 The Jedi believed that they had destroyed Bane's rule and,
-[
-83
-]
 incorrectly thinking the Sith extinct,
-[
-2
-]
 entered into a golden age
-[
-83
-]
 remembered as the
 High Republic Era
 .
-[
-84
-]
 Many Sith worlds were also quarantined, including
 Rhelg
 ,
@@ -1100,15 +820,9 @@ Jaguada
 , and
 Ziost
 . Some worlds were so cleansed of their Sith history that even locals had no idea of their past.
-[
-4
-]
 The
 Lerct Historical Institute
 forbade research into the Sith as something arcane and occult that had no place among its work.
-[
-26
-]
 In the shadows
 [
 ]
@@ -1126,14 +840,8 @@ all of us
 .
 "
 ―Azlin Rell, to Yoda
-[
-85
-]
 The fallen Jedi Azlin Rell invoked the name of the Sith when justifying the destruction of an entire city on Travyx Prime as a gift to all Force-sensitives.
 The Sith stayed in hiding for a thousand years, their survival unknown to the Jedi, as they continued their revenge against the Jedi through Bane's Grand Plan. With Sith teachings passed down by Bane's Rule of Two, the Order managed to survive.
-[
-17
-]
 During the High Republic Era, the
 Nameless
 beings emerged as a major threat to any individual sensitive to the Force. Former Jedi
@@ -1147,13 +855,7 @@ destroyed
 , thereby silencing a possible lead to the Nameless homeworld,
 Planet X
 . He proclaimed to Yoda his actions were a gift to every Force user, including the Jedi and Sith,
-[
-85
-]
 but Yoda did not take his words as proof of the Sith Order's return.
-[
-2
-]
 The Stranger
 [
 ]
@@ -1167,116 +869,41 @@ What are you?
 I have no name. But the Jedi like you might call me… Sith.
 "
 ―Sol and the Stranger
-[
-86
-]
 The Stranger, also known as "the Master," was a mysterious Sith who sought to train an acolyte.
 By the later period of the High Republic Era,
-[
-87
-]
 a
 Dark Lord of the Sith
 named
 Darth Plagueis
-[
-24
-]
 was active.
-[
-87
-]
 Furthermore, a
 human Jedi
-[
-88
-]
 trained by Jedi Master
 Vernestra Rwoh
-[
-87
-]
 fell to the dark side of the Force
-[
-86
-]
 and abandoned the Jedi Order, keeping himself out of Rwoh's reach.
-[
-87
-]
 The individual, who claimed to have no name
-[
-86
-]
 and thus became known as "the Stranger,"
-[
-89
-]
 became a Sith
-[
-90
-]
 as the apprentice to Plagueis.
-[
-91
-]
 The Stranger also operated
-[
-86
-]
 publicly as the
 merchant
-[
-92
-]
 Qimir.
-[
-86
-]
 The Stranger kept his identity well-hidden
-[
-92
-]
 and sought to see the dream of the Jedi Order overthrown.
-[
-93
-]
 It was his ultimate hope to wield his power however he wished.
-[
-86
-]
 A location also known to Plagueis,
-[
-87
-]
 he based himself within an
 island
 cave
 located on
-[
-94
-]
 the planet
-[
-95
-]
 Bal'demnic
 ,
-[
-96
-]
 where he could operate without the knowledge of the Jedi.
-[
-94
-]
 Plagueis took to lurking
-[
-97
-]
 in the shadows around the Stranger's dwelling. Combined with the Stranger's reluctance to call himself a Sith, the dark side user's true loyalties thus remained elusive, especially as they related to Plagueis.
-[
-98
-]
 Searching for an acolyte
 [
 ]
@@ -1287,26 +914,11 @@ What do you want?
 Freedom. The freedom to wield my power the way I like. Without having to answer to Jedi like you. I want a pupil, an Acolyte.
 "
 ―Sol and the Stranger
-[
-86
-]
 Mae-ho Aniseya was trained as an acolyte and Sith assassin by the Stranger.
 In time, the Stranger sought out a disciple to train
-[
-86
-]
 despite the Rule of Two:
-[
-17
-]
 his decision was to train a Sith acolyte,
-[
-86
-]
 a position that, in theory, would exist outside the rule.
-[
-51
-]
 He eventually discovered a human woman named
 Mae-ho Aniseya
 , who in childhood had been part of a
@@ -1315,78 +927,30 @@ alongside her twin sister
 Verosha Aniseya
 until an
 incident involving the Jedi Order
-[
-99
-]
 in
 148 BBY
 .
-[
-100
-]
 With the Sith keeping his identity a secret,
-[
-86
-]
 Mae swore herself to and began to be trained by the individual, whom she knew only as "the Master,"
-[
-92
-]
 out of a desire to have revenge on the
 four Jedi involved in the Brendok mission
 , among them Jedi Master
 Sol
 , who had slain her mother
 Aniseya
-[
-87
-]
 out of a misunderstanding and then covered up his actions.
-[
-101
-]
 Ultimately, Mae sought to please "the Master"
-[
-92
-]
 but feared the man as well.
-[
-102
-]
 Under his public cover,
-[
-86
-]
 "Qimir" worked with Mae as a trader of rare goods
-[
-92
-]
 and fellow servant of the Master,
-[
-102
-]
 with Mae unaware he was none-other-than her mentor.
-[
-86
-]
 The Master further, in the words of his Qimir persona, "collected" people, which was "Qimir's" cover story.
-[
-102
-]
 The Stranger killed several Jedi in order to ensure that his identity as a Sith remained concealed.
 Under the Master's tutelage,
-[
-92
-]
 Mae served as a
 Sith assassin
-[
-103
-]
 and acolyte.
-[
-86
-]
 Eventually, he demanded she slay a Jedi without a weapon as her final test. As per his wishes, Mae began a
 quest
 to kill the four Jedi involved in her past, Masters Sol,
@@ -1396,39 +960,18 @@ Indara
 , and
 Kelnacca
 ,
-[
-92
-]
 in
 132 BBY
 .
-[
-100
-]
 After the deaths of Indara and Torbin, with the former killed at her own hand with a knife but the latter having taken his own life when confronted by Mae, Mae learned that her sister was in fact alive,
-[
-92
-]
 which ultimately convinced her to abandon her life as the Master's servant during her
 mission to slay Kelnacca
 . Unknown to Mae, the Master himself had arrived
-[
-102
-]
 —as he was none-other-than Qimir,
-[
-86
-]
 who she betrayed and left "trapped" in the woods—and would kill Kelnacca himself. Afterward, he engaged a grouping of Jedi under Sol who had journeyed to
 Kelnacca's shelter
 ,
-[
-102
-]
 slaughtering all but Sol over the course of the battle. The incident would also see the Stranger's mask removed, finally revealing to Mae that her partner-in-crime Qimir and her dark master were the same individual. The Stranger further revealed himself as a Sith to Sol.
-[
-86
-]
 Stranger no more
 [
 ]
@@ -1442,41 +985,23 @@ Who?
 A pupil of mine before he turned to evil.
 "
 ―Vernestra Rwoh and Mae-ho Aniseya
-[
-87
-]
 Mae-ho Aniseya had fallen out with the Stranger, who directed his attention to her twin sister, Verosha Aniseya.
 After Qimir's double identity was revealed and the Sith was swarmed by a grouping of
 umbramoths
 , Mae knocked out her sister and swapped places with her, returning to the Jedi transport with Sol. Meanwhile, the Stranger reclaimed his mask and cloak before finding the unconscious Osha,
-[
-86
-]
-who he brought back with him to the unknown world where the Stranger had based himself. Waking up in the Stranger's custody, Osha followed him as the man went out to take a swim and claimed his lightsaber, unaware that he was aware of her actions. Noticing how she thought killing an unarmed foe was not honorable, the Stranger managed to convince her into letting him live and divulged details of his past, attempting to tempt Osha into doubting the ideals of the Jedi and instead embrace his own. All the while, Sol discovered that Mae had swapped places with her sister and subdued her, leaving the orbit of Khofar and promising to save Osha from Mae's master once they had a chance to truly talk.
-[
-88
-]
+who he brought back with him to the unknown world where the Stranger had based himself.
+Waking up in the Stranger's custody, Osha followed him as the man went out to take a swim and claimed his lightsaber, unaware that he was aware of her actions.
+Noticing how she thought killing an unarmed foe was not honorable, the Stranger managed to convince her into letting him live and divulged details of his past, attempting to tempt Osha into doubting the ideals of the Jedi and instead embrace his own.
+All the while, Sol discovered that Mae had swapped places with her sister and subdued her, leaving the orbit of Khofar and promising to save Osha from Mae's master once they had a chance to truly talk.
 Just as Sol departed, a Jedi investigation team under Master Vernestra Rwoh arrived on Khofar, where they discovered the aftermath of the battle with the Stranger. Unaware of who had committed the massacre, Padawan
 Mog Adana
 suggested that Sol had fallen to the dark side.
-[
-88
-]
 With all parties converging on Brendok once Sol returned to the world where all his troubles had began, as Sol activated his tracking beacon for the Jedi to follow him and Osha experienced a Force vision of his death on the planet, Sol and the Stranger began a
 final duel
 , after which Mae rejected the ways of anger and instead wanted to see Sol brought to justice for his crime: striking down her mother and lying about his actions. However, the revelation that her master had killed her mother broke Osha, who Force choked the Jedi Master—thereby killing a Jedi without a weapon—and bled his lightsaber.
-[
-87
-]
 Verosha Aniseya turned to the dark side and replaced her sister as the Stranger's new acolyte.
 Osha accepted the station as the Stranger's acolyte, while Mae allowed her memory of her sister to be wiped so she could be handed over to the Jedi. As the Jedi party under Rwoh arrived too late to catch the Stranger, Rwoh blamed the murders of Kelnecca, Indara, and Torbin on Sol. Having sensed her former disciple's presence, however, she met with Mae and requested her aid in finding the Stranger. Meanwhile, Osha returned to the Stranger's island with him as his new acolyte,
-[
-87
-]
 all while Plagueis continued to lurk on the planet.
-[
-97
-]
 Late Republic Era
 [
 ]
@@ -1490,16 +1015,10 @@ me
 .
 "
 ―Darth Sidious, to Darth Vader
-[
-79
-]
 The Sith remained hidden for a millennium, allowing the Jedi to believe that their ancient nemesis had gone extinct.
 In
 82 BBY
 ,
-[
-104
-]
 the Jedi
 Padawan
 Dooku
@@ -1508,13 +1027,7 @@ encountering
 the
 Presagers of Hakotei
 cult, heard the voice of
-[
-105
-]
 the Sith Lord
-[
-106
-]
 Darth Skrye
 in a
 Force vision
@@ -1523,44 +1036,20 @@ Cauldron
 was opening, all alongside the sound of a planet being torn in two and an explosion. The visions greatly worried Dooku, who also saw a glimpse of himself falling to the dark side as the apprentice of another Sith Lord, but Jedi Master
 Lene Kostana
 tried to ease Dooku's concern by assuring him what he saw were merely possibilities, not certain futures.
-[
-105
-]
 Eventually, the Sith apprentice known as Darth Sidious
-[
-18
-]
 —the same Sith glimpsed by Dooku in his vision
-[
-105
-]
 —betrayed his master Darth Plagueis, by killing him in his
 sleep
 , seizing the status of master for himself as he forwards a plot to destroy the Jedi.
-[
-24
-]
 Thus, generations after the fall of the Sith,
-[
-79
-]
 Sidious moved to strike a fatal blow against the Jedi Order and the
 Galactic Republic
 .
-[
-24
-]
 Orchestrating his public persona's rise to the Republic's
 Chancellorship
-[
-2
-]
 and the creation of an army that would purge the Jedi, Darth Sidious fulfilled the return of Sith rule over the galaxy, giving rise to the
 New Order
 under himself as Emperor.
-[
-24
-]
 Fall of the Galactic Republic
 [
 ]
@@ -1574,20 +1063,11 @@ They have numbers on their side. And the faith of the Republic.
 For the moment. In time, and with careful planning, they will lose both.
 "
 ―Darth Maul and Darth Sidious
-[
-107
-]
 Darth Sidious and Darth Maul were the reigning Sith Lords by the time of the Invasion of Naboo.
 The Sith remained a distant memory until the last years of the Galactic Republic when Darth Sidious and his apprentice,
 Darth Maul
 , revealed themselves to the Jedi.
-[
-2
-]
 Although Maul longed to avenge his ancient Sith forebears, he admitted that the Jedi Order was too powerful for the Sith to challenge directly, mainly due to the Jedi's superior numbers and the Galactic Republic's support for the Order. Sidious assured his apprentice that they would undermine the Order's strength with time and careful planning.
-[
-107
-]
 Darth Sidious infiltrated the Galactic Republic's government as Senator Sheev Palpatine of Naboo.
 Sidious hid in plain sight as the unassuming
 Senator
@@ -1609,9 +1089,6 @@ Trade Federation
 as part of his agenda to accrue more political power at the expense of his
 people
 and homeworld. This allowed the Dark Lord to make a play for the galaxy's highest office in his civilian persona and sow the seeds of the Sith's revenge.
-[
-2
-]
 During the
 Battle of Naboo
 , Maul killed Jedi Master
@@ -1619,31 +1096,16 @@ Qui-Gon Jinn
 , but was defeated and left for dead by Padawan
 Obi-Wan Kenobi
 .
-[
-2
-]
 Despite the loss of Maul, Sidious discovered a prospective apprentice in
 Anakin Skywalker
 ,
-[
-28
-]
 a child whom the Force was exceptionally strong with. However, Skywalker been discovered and recruited by the Jedi Order.
-[
-2
-]
 Nevertheless, Sidious promised to monitor Skywalker's career, intending to turn the Jedi Order's prophesied Chosen One to the dark side of the Force.
-[
-28
-]
 Additionally, Sidious succeeded in his efforts as Palpatine to become
 elected
 as
 Supreme Chancellor
 of the Galactic Republic.
-[
-2
-]
 Separatist Crisis
 [
 ]
@@ -1651,20 +1113,11 @@ Separatist Crisis
 I told you everything you needed to know on Geonosis all those years ago, Kenobi. You should have joined me. Sifo-Dyas understood, he saw the future. That is why he helped me.
 "
 ―Darth Tyranus, to Obi-Wan Kenobi
-[
-108
-]
 Count Dooku was a former Jedi who replaced Maul as Sidious' Sith apprentice, adopting the title of Darth Tyranus.
 Following Maul's apparent demise on Naboo,
-[
-2
-]
 Darth Sidious approached the fallen Jedi Master Dooku, who had taken on the title of
 Count of Serenno
 , and offered him the chance to destroy the Jedi Order and reshape the Republic by becoming his new apprentice. Dooku agreed and was given the name Darth Tyranus, desiring both power and the elimination of the corruption that plagued the Republic.
-[
-1
-]
 After earning a bloody reputation as a
 Kaleesh
 warlord
@@ -1677,15 +1130,9 @@ Yam'rii
 from
 Huk
 .
-[
-109
-]
 The Sith, researching technology enhanced beings, gave Grievous an irresistible offer to improve himself. Driven by his desire to increase his combat skill, Grievous became a far more effective fighter through Sith-sponsored
 cybernetic
 technological enhancements.
-[
-110
-]
 Tyranus also trained the fallen
 Dathomirian
 Jedi
@@ -1693,16 +1140,10 @@ Asajj Ventress
 as his
 assassin
 and potential Sith apprentice while still apprenticed to Sidious.
-[
-51
-]
 The Sith chose a bounty hunter, Jango Fett, as the template for an army of clone troopers.
 For nearly a decade after accepting Sidious's offer, Tyranus helped his new master to implement much of the groundwork necessary to begin the
 Clone Wars
 .
-[
-108
-]
 Jedi Master
 Sifo-Dyas
 secretly commissioned the
@@ -1714,9 +1155,6 @@ clone troopers
 , having foreseen a future conflict through the Force. The Sith took control of Sifo-Dyas' project, however, after arranging his assassination by the
 Pyke Syndicate
 .
-[
-111
-]
 Tyranus personally recruited the
 bounty hunter
 Jango Fett
@@ -1725,13 +1163,7 @@ clone template
 of the
 Grand Army of the Republic
 ,
-[
-112
-]
 which the Sith intended for the Jedi to lead.
-[
-108
-]
 An essential part of the Sith's plan was the
 behavioral modification biochip
 ; every clone
@@ -1741,17 +1173,11 @@ brain
 , ensuring their compliance with
 Order 66
 when the time came to destroy the Jedi.
-[
-113
-]
 Darth Tyranus, under his public identity as Dooku, reentered the public eye in spectacular fashion, commandeering a Galactic Republic Holonet station in the
 Raxus system
 and delivering a rousing speech in which he thoroughly lambasted the corruption and shortcomings of the Republic. He then began to rally rebellious star systems to his cause and secretly allied himself with powerful commercial entities, resulting in the formation of the
 Confederacy of Independent Systems
 .
-[
-18
-]
 The Separatist leadership was controlled by Tyranus, who in turn, answered to Sidious.
 War broke out as both the Confederacy's
 droid armies
@@ -1770,9 +1196,6 @@ Commerce Guild
 was revealed. Though the Republic was able to score a victory, Tyranus and the rest of the
 Separatist leadership
 were able to escape the planet.
-[
-1
-]
 In preparation for the upcoming galactic-scale conflict and its aftermath, Tyranus traveled to Coruscant's industrial district, known as
 the Works
 , after the
@@ -1780,9 +1203,6 @@ First Battle of Geonosis
 , where he met with Sidious and delivered the "good news" of the war's beginning, as well as presented him with the plans for the
 DS-1 Death Star Mobile Battle Station
 .
-[
-1
-]
 Clone Wars
 [
 ]
@@ -1799,9 +1219,6 @@ Link
 (
 file info
 )
-[
-1
-]
 During the Clone Wars, the Sith controlled the Galactic Republic and the Confederacy of Independent Systems.
 In the aftermath of the battle at
 Geonosis
@@ -1810,65 +1227,29 @@ generals
 and
 commanders
 , ranks that they were formerly denied due to the Jedi Code.
-[
-1
-]
 During the war, Dooku was briefly captured by the
 Ohnaka Gang
 .
-[
-114
-]
 With most civilians in the galaxy unaware of what a "Sith" was,
-[
-115
-]
 pirate leader
 Hondo Ohnaka
 indeed believed Dooku was simply a rogue Jedi who had broken away from the Republic. Upon hearing Dooku declare himself to be a Sith Lord, Ohnaka remained unconcerned and focused on the great bounty he would gain by ransoming the Separatist leader to the Republic.
-[
-114
-]
 However, Dooku ultimately escaped when Ohnaka was distracted by Kenobi and Skywalker, who were also captured to be ransomed.
-[
-116
-]
 Dooku decided against telling his master the details of the incident, believing it to be an embarrassment.
-[
-117
-]
 Savage Opress, the brother of Darth Maul, was briefly trained as the secret apprentice of Darth Tyranus.
 On her tasks for the Sith, Ventress engaged Anakin Skywalker, Obi-Wan Kenobi, and
 Ahsoka Tano
 in
 lightsaber duels
 on numerous occasions.
-[
-118
-]
-[
-119
-]
 While loyal, she was ultimately betrayed by her Master on the orders of Darth Sidious. Dooku soon after traveled to Dathomir to meet with the Nightsisters in hopes of finding a new apprentice.
-[
-51
-]
 Dooku and the Nightsisters eventually decided on a young
 Zabrak
 named
 Savage Opress
 , brother of the long-presumed dead Darth Maul. However, Asajj Ventress sought revenge for Dooku's treachery and used Opress as a means of attaining her goal.
-[
-58
-]
 Torn between two demanding masters, Opress eventually turned on both Dooku and Ventress.
-[
-120
-]
 Returning to the Nightsisters, Opress found that his brother, Maul, had not been killed as previously believed.
-[
-120
-]
 Maul had survived his injuries on Naboo because of his sheer reliance on the dark side and was living in the junk heaps of
 Lotho Minor
 . However, Maul's tragic events had driven him to insanity. He remembered only one word: "Kenobi." Guided by an
@@ -1876,44 +1257,26 @@ Anacondan
 named
 Morley
 ,
-[
-121
-]
 Opress was able to return Maul to the Nightsisters for treatment. Now fully healed by the Nightsisters' magic and given a pair of new robotic legs, Maul began a hunt for the man who had nearly destroyed his life, Obi-Wan Kenobi.
-[
-122
-]
 Sidious killed Opress and captured Maul, ending their claim to the Sith mantle and enforcing the Rule of Two.
 His revenge scheme eventually ended with Maul's
 control
 of
 Mandalore
-[
-123
-]
 and the death of
 Satine Kryze
 . However, Darth Sidious sensed his former apprentice's action and his stance as a potential rival, and
 traveled
 to Mandalore to put an end to it. He killed Opress and took Maul captive,
-[
-124
-]
 locking him away in an old mountaintop prison known as
 the Spire
 , in an elaborate Sith gambit to settle a longstanding and deadly dispute with the Nightsisters.
-[
-125
-]
 Later during the war,
 Yoda
 visited
 Moraband, the Sith homeworld. The Jedi Master encountered an illusory spectre of the ancient Sith Darth Bane, who was buried on the barren planet and battled Sidious on a spiritual plane as the result of an ancient, arcane Sith
 ritual
 . Through his experience, Yoda gained a new enlightenment about the Force that the Sith did not foresee.
-[
-17
-]
 Revenge of the Sith
 [
 ]
@@ -1933,26 +1296,17 @@ And the Jedi don't?
 The Jedi are selfless. They only care about others.
 "
 ―Darth Sidious and Anakin Skywalker
-[
-24
-]
 After Tyranus' death, the Jedi Knight Anakin Skywalker became Sidious' new apprentice as Darth Vader.
 After three years of the Clone Wars, Darth Sidious' grand scheme was almost complete. He
 sacrificed
 and betrayed Count Dooku to a violent killing by Anakin Skywalker, to manipulate the young Jedi. As Palpatine, he told Anakin a Sith
 legend
 about Darth Plagueis the Wise. Plagueis, through the dark side, had gained the ability to keep people from dying until his apprentice killed him in his sleep. This story entranced Anakin, who was desperate to learn this power to save his wife, Padmé Amidala.
-[
-24
-]
 Eventually, Palpatine revealed himself as Sidious and converted Anakin to the dark side. Jedi Master
 Mace Windu
 tried to
 arrest
 the Dark Lord but was killed after Anakin betrayed Mace and the Jedi. After this, Anakin pledged himself to service under his new Sith Master, Sidious, and became Darth Vader.
-[
-24
-]
 The New Order
 [
 ]
@@ -1960,9 +1314,6 @@ The New Order
 Once more the Sith will rule the galaxy, and we shall have peace.
 "
 ―Darth Sidious
-[
-24
-]
 With the fall of the Jedi, the Sith returned to power through Sidious' ascension as Emperor of the Galactic Empire.
 With Windu's attack and a new Sith apprentice at his side, Sidious realized this was the perfect opportunity for him to destroy the Jedi. He ordered Vader to lead the
 501st Legion
@@ -1975,15 +1326,12 @@ wipe
 out the
 Separatist Council
 . With Vader at the temple, Sidious unleashed order 66, which led to the Clones' biochips activating and brainwashing them into murdering the Jedi.
-[
-113
-]
-Thousands of Jedi across the galaxy were then betrayed and killed by their clone troopers. Prior to Vader arriving on Mustafar to execute the Separatist Council, Sidious tricked the council into believing that Vader would protect them. After Vader slaughtered the Separatists, Vader followed Sidious's third order by shutting down the droid army, which ended the Clone Wars. In the political arena, he reorganized the Republic using the powers given to him as a result of the Clone Wars to transform the Galactic Republic into the Galactic Empire to restore the Sith Empire, installing himself as
+Thousands of Jedi across the galaxy were then betrayed and killed by their clone troopers.
+Prior to Vader arriving on Mustafar to execute the Separatist Council, Sidious tricked the council into believing that Vader would protect them.
+After Vader slaughtered the Separatists, Vader followed Sidious's third order by shutting down the droid army, which ended the Clone Wars.
+In the political arena, he reorganized the Republic using the powers given to him as a result of the Clone Wars to transform the Galactic Republic into the Galactic Empire to restore the Sith Empire, installing himself as
 Emperor
 . Once more, the Sith ruled the galaxy, unbeknownst to all but the few surviving Jedi.
-[
-24
-]
 Rise of the Galactic Empire
 [
 ]
@@ -1996,9 +1344,6 @@ superior
 candidate in mind. We did it, Vader. The Jedi destroyed! The Republic a shattered corpse for me to resurrect as a puppet! And you, Vader—the boy transformed into the man you were destined to be…
 "
 ―Darth Sidious, to Darth Vader
-[
-79
-]
 The Sith ruled the galaxy for a generation, consolidating the Empire and hunting the few Jedi who survived Order 66.
 Following the reorganization of the Republic and
 purging
@@ -2007,9 +1352,6 @@ Battle of Endor
 . The two Sith Lords established a cadre of Dark Side wielders known as the
 Inquisitorius
 .
-[
-126
-]
 The Inquisitors were tasked with hunting down Jedi Purge survivors and preventing
 Force-sensitive
 children
@@ -2017,21 +1359,12 @@ from becoming Jedi. The leading Inquisitor was a
 Pau'an
 Grand Inquisitor
 ,
-[
-127
-]
 who was a former
 Jedi Sentinel
 and Knight.
-[
-128
-]
 The Inquisitors were trained by Vader and wielded double-bladed spinning
 lightsabers
 .
-[
-126
-]
 Momin's return
 [
 ]
@@ -2049,40 +1382,19 @@ Roggo
 , and the mask that once belonged to Momin. Sidious had assured Vader that Momin's mask would guide him during his studies there. Whilst on the planet, Vader meditated in the
 Sith cave
 there. That was when Momin's mask possessed Roggo and Momin used his body to design a structure. When Brenne discovered this, she was shot dead, alerting Vader to the situation. Vader killed Roggo
-[
-36
-]
 and removed the mask from his body.
-[
-14
-]
 Fortress Vader was a Sith stronghold constructed on Mustafar during the rise of the Empire.
 Vader took it to the cave and reached into it using the Force. Momin revealed himself to Vader and told him his story, before attempting to possess him too. Vader resisted but came to let the mask take control of a
 Mustafarian
 , giving Momin a body again. The two discussed the structure Momin had designed and Momin claimed it could tune the energies of the dark side locus on Mustafar, opening the door to the dark side that could resurrect Padmé Amidala. Vader subsequently agreed to let Momin build
 Fortress Vader
 .
-[
-14
-]
 In truth, Momin hoped to use the energies to resurrect his own body. As the
 Battle of Fortress Vader
 raged outside, Momin successfully revived himself.
-[
-129
-]
 In his duel with Vader, Momin insulted the current state of the Sith as "Jedi-obsessed weaklings," remarking that it saddened him and further claiming it disgusted the dark side itself. Vader, in the end, triumphed over the ancient Sith and killed Momin once more. All the same, his mask survived again
-[
-130
-]
 and was returned to Sidious by Vader, who tried and failed to use the portal to resurrect Amidala. For its failure, he destroyed the gateway.
-[
-131
-]
 Nevertheless, the incident had concluded with Vader fully committing himself on the path of the dark side.
-[
-132
-]
 Spark of Rebellion
 [
 ]
@@ -2098,29 +1410,17 @@ Belkor Dray
 as a
 traitor
 . Despite Sidious' hopes, he failed to stamp out the sparks of the growing rebellion.
-[
-23
-]
 Among those opposed to Palpatine's rule was
 Luthen Rael
 , who maintained the cover of an innocent artifact collector and dealer while secretly building up a
 rebel network
 .
-[
-133
-]
 Among the artifacts in Rael's collection were a Sith holocron he kept in the back of his
 Galactic Antiquities and Objects of Interest
 store
-[
-134
-]
 and several pieces of
 Sith armor
 .
-[
-133
-]
 After the outbreak of the Lothal insurgency about four years before the
 Battle of Yavin
 , Sidious dispatched Vader to hunt down the
@@ -2140,9 +1440,6 @@ Kanan Jarrus
 and his apprentice
 Ezra Bridger
 .
-[
-135
-]
 Struggle on Malachor
 [
 ]
@@ -2150,9 +1447,6 @@ Struggle on Malachor
 The power within will soon serve the Emperor.
 "
 ―Darth Vader
-[
-20
-]
 Darth Vader was sent to an ancient Sith temple on Malachor, where he intended to secure its power for his Sith Master.
 A year later, Vader visited the
 Lothal Jedi Temple
@@ -2161,26 +1455,27 @@ Fifth Brother
 and the
 Seventh Sister
 had attempted to capture Bridger, Jarrus, and Tano. Vader remarked that the Emperor would be pleased with their discovery. When the Fifth Brother remarked that the power of the Jedi was growing, Vader responded that it would be their undoing.
-[
-128
-]
 The Sith Lords later took an interest in the Sith temple on Malachor, which was reputed to be home to a weapon capable of destroying all life. Vader sent another Inquisitor called the
 Eighth Brother
 to hunt down a "shadow" and to obtain a
 Sith holocron
 .
-[
-20
-]
-Bridger, Jarrus, and Tano encountered the former Sith apprentice Maul—who was the "shadow" that Vader sent the Eighth Brother to hunt—in the Malachor Sith Temple. Maul had become stranded on Malachor several years prior and had discovered a secret inside the Sith temple that would allow them to destroy the Sith. However, he lacked the strength to do so on his own. Maul managed to befriend Ezra and the two Force-wielders succeeded in obtaining the Sith holocron. Maul later helped the Jedi drive several Inquisitors away. Despite Jarrus and Tano's distrust, Maul managed to convince them to help him by teasing the opportunity of destroying the Sith once and for all.
-[
-20
-]
+Bridger, Jarrus, and Tano encountered the former Sith apprentice Maul—who was the "shadow" that Vader sent the Eighth Brother to hunt—in the Malachor Sith Temple.
+Maul had become stranded on Malachor several years prior and had discovered a secret inside the Sith temple that would allow them to destroy the Sith.
+However, he lacked the strength to do so on his own.
+Maul managed to befriend Ezra and the two Force-wielders succeeded in obtaining the Sith holocron.
+Maul later helped the Jedi drive several Inquisitors away.
+Despite Jarrus and Tano's distrust, Maul managed to convince them to help him by teasing the opportunity of destroying the Sith once and for all.
 Ahsoka Tano confronted Darth Vader in the Malachor temple, and discovered his former identity as her Jedi mentor, Anakin Skywalker.
-Maul convinced Ezra to place the Sith holocron in the obelisk at the top of the temple complex. He then helped Jarrus and Tano kill the Inquisitors before turning on both of them. Eventually, Maul blinded Jarrus. Despite this, the Jedi Knight defeated Maul in combat and pushed him off the edge of the temple. Meanwhile, Ezra discovered that the Sith holocron was the key to reactivating the Sith temple, which was a powerful superweapon capable of destroying life. Shortly later, Darth Vader arrived to claim the temple's power for the Sith. Darth Vader fought with Ahsoka while Jarrus and Bridger removed the holocron; triggering the temple's implosion. Bridger and Jarrus escaped the temple, but Vader and Tano were trapped inside when the Temple began to implode. Vader and Tano survived and parted company.
-[
-20
-]
+Maul convinced Ezra to place the Sith holocron in the obelisk at the top of the temple complex.
+He then helped Jarrus and Tano kill the Inquisitors before turning on both of them.
+Eventually, Maul blinded Jarrus.
+Despite this, the Jedi Knight defeated Maul in combat and pushed him off the edge of the temple.
+Meanwhile, Ezra discovered that the Sith holocron was the key to reactivating the Sith temple, which was a powerful superweapon capable of destroying life.
+Shortly later, Darth Vader arrived to claim the temple's power for the Sith.
+Darth Vader fought with Ahsoka while Jarrus and Bridger removed the holocron; triggering the temple's implosion.
+Bridger and Jarrus escaped the temple, but Vader and Tano were trapped inside when the Temple began to implode.
+Vader and Tano survived and parted company.
 Later, Bridger came under the influence of the Sith Holocron, which was inhabited by an entity called
 Presence
 . Under the holocron's guidance, Ezra learned more aggressive combat techniques including forcing an
@@ -2189,9 +1484,6 @@ driver
 to attack his comrades and walk his machine off a bridge. Bridger's use of the Sith Holocron strained relations with his master Jarrus, who confiscated it. Jarrus later met a powerful Force-wielder called the
 Bendu
 , who formed a middle ground between the light and dark sides. He advised Jarrus that an object could be used for both good and evil and that only the person had the power to change it. Jarrus left the Sith holocron in the Bendu's care.
-[
-136
-]
 The former Sith Lord Maul enlisted the unwitting aid of Padawan Ezra Bridger in his quest to find Jedi Master Obi-Wan Kenobi.
 Maul, who was revealed to have survived the events on Malachor, later
 captured
@@ -2201,9 +1493,6 @@ Kanan's Jedi holocron
 twin
 suns
 , an old enemy of Maul, and offered to show Bridger the "key" to destroying the Sith. However, Jarrus convinced his apprentice to look away, and the two holocrons separated. Maul took the opportunity to escape into space.
-[
-137
-]
 Bridger refused to become Maul's apprentice and attempted to find Kenobi, believing he held the key to the Sith's destruction.
 Using the fragments of Bridger's memories in his mind, Maul tracked the rebels down to their
 base
@@ -2218,9 +1507,6 @@ Mandalorian
 weapons expert
 Sabine Wren
 arrived to confront Maul but were possessed by the spirits. Bridger and Maul managed to flee outside the lair. When Maul offered Bridger a place as his apprentice, the young Jedi refused to abandon his friends. After exorcising Jarrus and Wren, the three resolved to find the planet with twin suns and to reach Kenobi before Maul could kill him.
-[
-138
-]
 Galactic Civil War
 [
 ]
@@ -2228,9 +1514,6 @@ Galactic Civil War
 We kept the skeleton of the Republic for nearly twenty years while the Death Star was constructed. Twenty years, my apprentice. All that planning is now a layer of dust orbiting around Yavin. Now, we no longer have the Senate to hold order. We do not have the Death Star to force it. Our greatest weapon is gone. Our production is in ashes. We are besieged. In all these years, we have never skirted closer to disaster.
 "
 ―Darth Sidious, to Darth Vader
-[
-139
-]
 The Death Star was a superweapon loosely based on an ancient Sith design.
 In the years leading up to the Battle of Yavin, the Empire faced a growing rebellion that had grown into the
 Alliance to Restore the Republic
@@ -2254,9 +1537,6 @@ Alderaan
 's
 destruction
 .
-[
-25
-]
 Lord Vader and
 Grand Moff
 Wilhuff Tarkin
@@ -2275,9 +1555,6 @@ Millennium Falcon
 , Kenobi sacrificed his life to delay Vader. Leia and her rescuers retreated to the rebel base on Yavin 4. The Death Star traveled to Yavin base in a bid to destroy the Rebel Alliance once and for all but this plan was ruined by a rebel
 starfighter
 force. During the Battle of Yavin, Vader sensed that the Force was strong in the rebel pilot Skywalker; who fired the missile that destroyed the Death Star, Vader, however, survived the destruction.
-[
-25
-]
 The Sith sought to prevent Luke Skywalker from becoming a Jedi by turning him to the dark side of the Force.
 Three years after the events on Yavin and following the
 Battle of Hoth
@@ -2292,9 +1569,6 @@ confrontation
 , Vader severed Luke's right hand and revealed that he was Luke's father. Despite the pain, Luke refused to join Vader, threw himself down a
 vane
 and escaped.
-[
-140
-]
 Fall of the Sith
 [
 ]
@@ -2308,9 +1582,6 @@ Never. I'll never turn to the dark side. You failed, Your Highness. I'm a Jedi, 
 So be it, Jedi.
 "
 ―Darth Sidious and Luke Skywalker
-[
-43
-]
 Construction of the second Death Star was overseen by both Sith Lords in the days leading up to the Battle of Endor.
 In secret, the Emperor directed the building of a
 second Death Star
@@ -2322,30 +1593,25 @@ spies. Using this information, the Rebel Alliance made preparations to launch an
 Moff
 Tiaan Jerjerrod
 to accelerate construction. Shortly later, Sidious traveled to the battle station to oversee the final construction stages.
-[
-43
-]
 Luke confronted Yoda and the
 Force spirit
-of Kenobi about Vader's claims on Bespin, and accepted that the Sith Lord was in fact his father, Anakin Skywalker, after his mentors confirmed it. Luke accompanied the Rebels to Endor with the intention to confront Vader, believing that he could help the former Jedi return to the light side. Likewise, the Emperor sought to turn Luke to the dark side in order to replace Vader as an apprentice. On the second Death Star, Luke confronted Sidious who wanted to provoke Luke's anger by having the Imperial Navy engage the Rebel fleet, thus putting his friends' lives at risk.
-[
-43
-]
+of Kenobi about Vader's claims on Bespin, and accepted that the Sith Lord was in fact his father, Anakin Skywalker, after his mentors confirmed it.
+Luke accompanied the Rebels to Endor with the intention to confront Vader, believing that he could help the former Jedi return to the light side.
+Likewise, the Emperor sought to turn Luke to the dark side in order to replace Vader as an apprentice.
+On the second Death Star, Luke confronted Sidious who wanted to provoke Luke's anger by having the Imperial Navy engage the Rebel fleet, thus putting his friends' lives at risk.
 The prophecy of the Chosen One came to pass when Sidious and Vader died as the last Sith Lords.
-Luke and Vader engaged in a lightsaber duel while the Emperor observed from his throne, still encouraging the Jedi apprentice to use the dark side. Luke gave into his anger after Vader learned of his sister's identity and threatened to turn her to the dark side. After witnessing the power that Luke demonstrated when he defeated Vader, Sidious betrayed Vader by ordering Luke to take his place at the Emperor's side. Luke, however, steadfastly refused in turn. Realizing Luke was a true Jedi, and would not be swayed, Sidious attempted to kill him through
+Luke and Vader engaged in a lightsaber duel while the Emperor observed from his throne, still encouraging the Jedi apprentice to use the dark side.
+Luke gave into his anger after Vader learned of his sister's identity and threatened to turn her to the dark side.
+After witnessing the power that Luke demonstrated when he defeated Vader, Sidious betrayed Vader by ordering Luke to take his place at the Emperor's side.
+Luke, however, steadfastly refused in turn.
+Realizing Luke was a true Jedi, and would not be swayed, Sidious attempted to kill him through
 torturing
 him with
 Force lightning
 . However, Vader, torn between his loyalty to his master, his old Jedi connections, and his son, ultimately threw the Emperor down a
 reactor
 shaft, killing him and returning balance to the Force. With his life-sustaining armor badly damaged from the Emperor's Force lightning, Darth Vader died, but his selfless act allowed him to rejoin the Force as a Force spirit, and be "reborn" as his old self, Anakin Skywalker. Thus, the Sith Order, along with their tyranny was no more,
-[
-43
-]
 as foretold by the ancient prophecy that predicted their downfall.
-[
-141
-]
 Interregnum
 [
 ]
@@ -2356,20 +1622,11 @@ Acolytes and new traditions
 Through the ages, I've seen evil take many forms. The Sith. The Empire. Today, it is the First Order.
 "
 ―Maz Kanata
-[
-142
-]
 Despite its destruction, the Sith Order was venerated by various Sith cults throughout the galaxy.
 While the Sith Order was defeated at the Battle of Endor, it was merely one of many denominations of Force-worshiping religions that existed throughout galactic history. The Sith's ancient legacy as enemies of the Jedi and, at times, rulers of the galaxy, would continue to be felt in the decades that followed its extinction. The downfall of the Sith at Endor left behind a vacuum that others sought to fill, such as the
 Knights of Ren
 .
-[
-69
-]
 Thus, while the ancient prophecy that foretold the destruction of the Sith came to pass, it did not foretell the destruction of the darkness, for as long as there existed light, there would always be shadow.
-[
-141
-]
 Immediately following the deaths of Darth Sidious and Darth Vader, many individuals and groups still adhered to their philosophy.
 Yupe Tashu
 , an
@@ -2377,12 +1634,6 @@ advisor
 to the late Sidious, was an admirer of the Sith interrogation methods, as well as their teachings and cunning. He believed that the remaining
 Imperial Military
 had to retreat "beyond the veil of stars," to the Unknown Regions, to search for the source of the dark side that Sidious had come to feel reaching out to him.
-[
-143
-]
-[
-8
-]
 The
 Acolytes of the Beyond
 , who worshiped the Sith, collected
@@ -2390,15 +1641,9 @@ Sith artifacts
 , such as what they believed to be
 Darth Vader's lightsaber
 , to destroy them, believing this returned the relics to their deceased owners.
-[
-143
-]
 The Acolytes eventually collapsed, but one of their members,
 Kiza
 , was corrupted by the mask of Viceroy Exim Panshard and the promises the dead Sith gave her if she could bring him to Exegol.
-[
-26
-]
 Rieve's charade
 [
 ]
@@ -2406,57 +1651,27 @@ Rieve adopted a Sith-inspired persona during her time with the Hunters of the Ou
 In
 9 ABY
 ,
-[
-144
-]
 a Force-sensitive human named
 Rieve
 joined the competitive sporting show
 Hunters of the Outer Rim
 , where she would adopt the onstage persona of a Sith Lord. In that act,
-[
-145
-]
 she wielded a red lightsaber and owned a suit of
 Sith armor
 modified to her liking.
-[
-146
-]
 While in private the two would grow close,
-[
-145
-]
 on stage she had a great rivalry with
 J-3DI
 ,
-[
-147
-]
 a droid programmed to believe he was a Jedi.
-[
-146
-]
 Their rivalry was even made the subject of the first edition of
 Arena News
 , where the Arena refreshed fans on the concept of the Sith.
-[
-147
-]
 After challenging J-3DI to a battle on one occasion and quickly walking out of interview with Arena announcer
 Boz Vega
 , who claimed to fans Rieve was a Sith Master,
-[
-148
-]
 Rieve won the "epic battle" against J-3DI, which Arena News claimed brought glory to the Sith. Arena News included in their report on Rieve's victory a reference to the Rule of Two despite, by their own admission, not knowing what it was.
-[
-149
-]
 Rieve made an effort to learn more about the Sith, but she admitted there was not much about the order in the records she reviewed. She did, however, know of Maul and uncovered a reference to his brother Savage Oppress in Sith-related records.
-[
-146
-]
 Rebirth of Darth Sidious
 [
 ]
@@ -2473,40 +1688,22 @@ Link
 (
 file info
 )
-[
-150
-]
 Darth Sidious was resurrected when his essence transferred to an imperfect clone of his original body.
 Although Darth Sidious perished at Endor, the Sith Lord was able to cheat death, using the dark side of the Force to escape from his falling original body into a cloned body far away from Endor,
-[
-150
-]
 and returned. Sidious settled on the hidden world of the Sith in the
 Unknown Regions
 ,
 Exegol
 , along with a cult of followers, the Sith Eternal.
-[
-4
-]
 However, the cloned body was unable to withstand Sidious's power and, as a result, it physically decayed, requiring it to remain connected to cybernetic components, such as an
 Ommin harness
 ,
-[
-150
-]
 in order to be sustained and move. On Exegol, the Sith Eternal oversaw the building of the largest
 fleet
 ever known to the galaxy, the
 Final Order
 ,
-[
-15
-]
 to establish a resurrected Sith Empire.
-[
-151
-]
 Meanwhile, owing to a secret
 Contingency
 plan designed by Sidious, former
@@ -2516,73 +1713,31 @@ nobles
 , and technologists were able to flee into the Unknown Regions, where they established the
 First Order
 .
-[
-8
-]
-[
-152
-]
 Snoke was a strandcast that Darth Sidious created and used as a proxy to rule the First Order.
 The Sith Eternal created artificial clone
 humanoid
 aliens
 , Strand-Casts, and bioengineered abominations
-[
-28
-]
 one of which,
 Snoke
 ,
-[
-15
-]
 came to be
 Supreme Leader
 of the First Order,
-[
-142
-]
 though the First Order was unaware of Snoke's true origins nor of the existence of the Sith Eternal
-[
-4
-]
 and the fact that their former Emperor was apparently alive in some form.
-[
-15
-]
 Snoke held a strong connection the dark side of the Force and became a master of its ways,
-[
-152
-]
 but was not a Sith himself.
-[
-141
-]
 Such a thing gave him the ability to be a useful pawn for Sidious to use as a way to influence galactic events from the shadows of Exegol, and build
 the armies
 of the First Order,
-[
-28
-]
 with Snoke's knowledge saving the faction from ultimate destruction.
-[
-152
-]
 In
 21 ABY
 ,
-[
-153
-]
 Skywalker sensed a growing darkness in the Force
-[
-26
-]
 and launched a
 quest for Exegol
-[
-142
-]
 upon learning from the ghost of his father it was the planet at the center of his visions. At the same time, Kiza and the spirit of Panshard carried on in their own search for Exegol, while the Sith assassin
 Ochi
 sought out Rey on the orders of the Sith Eternal and Sidious. After
@@ -2598,17 +1753,8 @@ Forbidden Valley
 , any signs of his daughter
 Kadara Calrissian
 ,
-[
-26
-]
 who had been kidnapped by the First Order,
-[
-4
-]
 and any signs of Rey. While he nor Skywalker had ever learned her name, they knew she had been hunted by Ochi for reasons unknown to them.
-[
-26
-]
 The rise of Kylo Ren
 [
 ]
@@ -2619,34 +1765,19 @@ An heir to the Sith
 Once reborn as Kylo Ren, he was mine to control. From the shadows, I shaped him into a worthy apprentice—not a true Sith but equally as powerful in the dark side.
 "
 ―Darth Sidious
-[
-28
-]
 Darth Sidious' machinations brought about the rise of Kylo Ren, whom Snoke trained in the ways of the dark side.
 The birth of
 Ben Solo
 presented Darth Sidious with another opportunity to convert a member of the
 Skywalker family
 to the dark side of the Force. As the grandson of Darth Vader, Solo was born with raw and powerful connection to the Force. As such, Sidious planned to turn Solo to the dark side through Snoke, whom he used as a proxy for Solo.
-[
-28
-]
 In time, Snoke turned Solo to the dark side.
-[
-154
-]
 Solo's fall to the dark side occurred after several events, including when he thought his uncle Luke Skywalker tried to kill him,
-[
-155
-]
 a mysterious storm that he summoned and
 destroyed
 the
 Jedi training temple
 ,
-[
-156
-]
 and when "
 Ren
 " killed his friend
@@ -2654,41 +1785,14 @@ Tai
 . Solo succumbed to darkness, killing Ren, changing his name to Kylo Ren, and becoming the new
 master
 of the Knights of Ren, an enclave of dark side users.
-[
-157
-]
-[
-154
-]
 Although Snoke was not a Sith,
-[
-158
-]
 he was strong with the Force. Snoke took Ren as his apprentice and trained him in the ways of the dark side, but Sidious considered himself to be the true master of Ren.
-[
-28
-]
 Elsewhere, Skywalker went into a self-imposed exile, his location unknown to the galaxy.
-[
-142
-]
 Kylo Ren's path to power through the dark side was inspired by the legacy of Darth Vader, his grandfather.
 Kylo Ren pledged to finish what his grandfather Darth Vader had begun, although Supreme Leader Snoke scorned the sentimentality of Vader, which he believed had led to the Empire's downfall. Ultimately, Ren hoped to build an immunity to the light, and succeed where Vader failed.
-[
-159
-]
 Luke Skywalker, Ren's former master and the last Jedi, once blamed the Jedi Order for Darth Sidious' rise to power.
-[
-155
-]
 Unbeknownst to Ren, his training in the dark side was monitored by Sidious. The Dark Lord regarded Ren as a worthy apprentice and the heir to Vader. Although he did not view Ren as a true Sith, Sidious confirmed that Ren was powerful with the dark side nonetheless.
-[
-28
-]
 Ren was a warlord and champion of the First Order
-[
-160
-]
 by the time of the
 First Order-Resistance War
 , a galactic conflict that ensued between the First Order and the
@@ -2697,19 +1801,10 @@ in the aftermath of the
 New Republic
 's
 destruction
-[
-142
-]
 in
 34 ABY
 .
-[
-42
-]
 During the First Order's initial invasion of the known galaxy from the Unknown Regions,
-[
-141
-]
 Ren discovered that he shared a powerful
 Force-bond
 with
@@ -2719,9 +1814,6 @@ scavenger
 from
 Jakku
 , whom Luke Skywalker instructed in the ways of the Jedi.
-[
-155
-]
 Their connection led Rey to believe that Ben Solo could be redeemed from the dark side; although they succeeded in destroying Snoke and his
 Praetorian Guards
 during the
@@ -2731,9 +1823,6 @@ Battle of Crait
 , having vowed to destroy the past and all elements of defiance to his rule, but through the
 sacrifice
 of Luke Skywalker, Rey and the Resistance escaped from Ren's forces.
-[
-155
-]
 The legacy of Darth Vader
 [
 ]
@@ -2749,46 +1838,22 @@ lost
 .
 "
 ―Vaneé, to Kylo Ren
-[
-161
-]
 Kylo Ren would undertake a journey to discover the history of his grandfather, hoping to learn how Darth Vader converted his pain into a source of dark power.
 Kylo Ren was not a Sith,
-[
-28
-]
 yet his training in the dark side was based on Sith teachings and practices, such as the Sith trial of ascendancy which Ren completed by killing his father,
 Han Solo
 , in an act of patricide.
-[
-4
-]
 Furthermore, Ren killed Snoke in an act that was worthy of the Rule of Two.
-[
-110
-]
 However, not even Snoke's death succeeded in ending the conflict within Ren, who was a product of both Jedi and Sith teachings.
-[
-160
-]
 In spite of his efforts, he struggled to resist the pull to light that prevented him from fully surrendering to the dark side. Ren looked to the memory of his grandfather, Darth Vader, as a source of inspiration for his own journey to the dark side, yet he remained fearful of never growing as strong as Vader.
-[
-142
-]
 However, by the time of his accession as Supreme Leader, Ren was no longer certain that he wanted to follow in Vader's path.
-[
-161
-]
 In turning to the dark side, Ren had forsaken all that he once cherished in exchange for an isolated existence—devoid of love and friendship—that he spent with a master whom he hated and followers that he did not trust.
-[
-4
-]
-The absolute power that came with his new position as Supreme Leader did not give Ren a sense of fulfillment either. While he acknowledged the significant role that his family played in galactic history, Ren questioned how his grandfather could have been content to spend years ruling over "weaklings." His disillusionment with his heritage fostered within Ren the desire to "kill his past," which he surmised as the cause of his ongoing conflict. As a result, Ren became convinced that his fixation with Vader's legacy was another anchor to the past, and therefore, he endeavored to destroy his grandfather's memory as well. But upon meeting
+The absolute power that came with his new position as Supreme Leader did not give Ren a sense of fulfillment either.
+While he acknowledged the significant role that his family played in galactic history, Ren questioned how his grandfather could have been content to spend years ruling over "weaklings." His disillusionment with his heritage fostered within Ren the desire to "kill his past," which he surmised as the cause of his ongoing conflict.
+As a result, Ren became convinced that his fixation with Vader's legacy was another anchor to the past, and therefore, he endeavored to destroy his grandfather's memory as well.
+But upon meeting
 Vaneé
 in Fortress Vader on Mustafar, Ren became tempted by the prospect of learning how his grandfather channeled the pain of his past into power with the dark side. Vaneé mocked Ren's rejection of his legacy, but having spent a lifetime in service to the Dark Lord of the Sith, he offered to serve the grandson and heir of his late master.
-[
-161
-]
 The final downfall
 [
 ]
@@ -2801,16 +1866,10 @@ the Sith!
 And I… I'm all the Jedi.
 "
 ―Darth Sidious and Rey
-[
-15
-]
 The Final Order was discovered by Ren when he confronted the Emperor in his citadel on Exegol.
 In the
 year
 that followed,
-[
-4
-]
 Supreme Leader Kylo Ren found Exegol, where he discovered Sidious, the Sith Eternal and its fleet, the Final Order, which he planned to unleash on the galaxy in order to establish a new Sith Empire. He further revealed to Ren that Rey was his granddaughter as the daughter of his
 son
 and his son's
@@ -2821,59 +1880,48 @@ of the existence of the Sith fleet.
 Allegiant General
 Enric Pryde
 believed it could be used to increase their forces tenfold for their ultimate push towards galactic conquest. After Ren abandoned the First Order, General Pryde, a veteran of the Old Empire, was given command of the Sith fleet for swearing fealty to Sidious.
-[
-15
-]
 Rey arrived on Exegol to confront her grandfather in his throne room before an amphitheater of his followers, who chanted as Sidious spoke. Sidious told Rey he never planned to kill her, having manipulated Ren, but instead wanted her to take his place on the Sith throne. Sidious pressured her to sacrifice him, planning to use an esoteric power to transfer his spirit into her body.
-[
-150
-]
 During his temptation, Sidious showed Rey the unveiling
 Battle of Exegol
 , which erupted as a result of Rey sending the coordinates to Exegol to her friends in the Resistance. Although the Resistance was initially outnumbered by the Sith Eternal forces, they were reinforced by a
 Citizens' Fleet
 .
-[
-15
-]
 With his strength restored, the Emperor assured his followers that the return of the Sith was inevitable.
 A returned Ben Solo arrived on Exegol, who went on to defeat the Knights of Ren and accompany Rey, standing side-by-side against the Dark Lord of the Sith. Sidious angrily grabbed the two using the Force and inadvertently drew some of their life force, which caused his body to begin healing; realizing that their connection was a dyad in the Force, Sidious
 siphoned
 the life force of their bond to rejuvenate his body. Out of pure spite for the Skywalker bloodline, Sidious disposed of Solo into a nearby abyss. Sidious ascended the throne of the Sith, and used Force lightning to attack the Resistance and citizens' fleet.
-[
-15
-]
 The Sith tradition perished with the destruction of Darth Sidious and his followers during the Battle of Exegol.
-Rey, strengthened by the spirits of the past Jedi, arose. Sidious proceeded to direct his lightning towards her, intent on killing her, but Rey defended herself with Anakin and Leia's lightsabers, deflecting the lightning back at Sidious, who disintegrated, destroying the Sith and unleashing an explosion that caused the entire amphitheater to crumble. Rey died, but Solo survived and climbed out of the pit, where he found Rey lifeless on the ground. Crawling to her, Solo gave his life force to resurrect her, and died shortly thereafter. Rey ultimately rejected her
+Rey, strengthened by the spirits of the past Jedi, arose.
+Sidious proceeded to direct his lightning towards her, intent on killing her, but Rey defended herself with Anakin and Leia's lightsabers, deflecting the lightning back at Sidious, who disintegrated, destroying the Sith and unleashing an explosion that caused the entire amphitheater to crumble.
+Rey died, but Solo survived and climbed out of the pit, where he found Rey lifeless on the ground.
+Crawling to her, Solo gave his life force to resurrect her, and died shortly thereafter.
+Rey ultimately rejected her
 dark ancestry
 ; she took the Skywalker surname to honor the extinct
 Skywalker family
 and remained a Jedi, permanently preventing the return of the Sith.
-[
-15
-]
 Without the Sith, the First Order faced a series of attacks as people
 rose up
 across the galaxy, inspired by the victory of the Resistance and the citizens' fleet at Exegol.
-[
-15
-]
-[
-162
-]
 Behind the scenes
 [
 ]
 "
-The Sith are people who are very self-centered and selfish. There used to be many Sith, but because they were corrupted by power and ambition, they killed each other off, so now there are only two - a master and an apprentice. Sith rely on their passion to get things done. They use their raw emotion, their hatred, their anger, their bitterness - which is the dark side of the Force. The Force is what binds the galaxy together, and it has a good side and a bad side. The Sith learned how to manipulate both sides of the Force, and then they fell into the trap of being corrupted by the dark side. The Jedi Knights are like marshals in the Wild West. It's their job to make sure everyone is protected, to bring peace. They are the enemy of the Sith, because the Sith want to dominate the galaxy, to control everything, and for a thousand years they have had a plot against the Jedi. So, in this movie, it is time for them to seek revenge against the Jedi for perceived injustices and to carry out that plot.
+The Sith are people who are very self-centered and selfish.
+There used to be many Sith, but because they were corrupted by power and ambition, they killed each other off, so now there are only two - a master and an apprentice.
+Sith rely on their passion to get things done.
+They use their raw emotion, their hatred, their anger, their bitterness - which is the dark side of the Force.
+The Force is what binds the galaxy together, and it has a good side and a bad side.
+The Sith learned how to manipulate both sides of the Force, and then they fell into the trap of being corrupted by the dark side.
+The Jedi Knights are like marshals in the Wild West.
+It's their job to make sure everyone is protected, to bring peace.
+They are the enemy of the Sith, because the Sith want to dominate the galaxy, to control everything, and for a thousand years they have had a plot against the Jedi.
+So, in this movie, it is time for them to seek revenge against the Jedi for perceived injustices and to carry out that plot.
 "
 ―George Lucas on the Sith in
 Star Wars
 : Episode III
 Revenge of the Sith
-[
-163
-]
 Sith was first mentioned in the 1976 novelization of
 Star Wars
 .
@@ -2889,9 +1937,6 @@ second draft
 for
 A New Hope
 , the Sith are introduced as the "Black Knights of the Sith", a sect of mercenary warriors who used the "Bogan", the evil, dark side of the "Force of Others". According to the story, the Sith once were pirates, taught to the way of the evil side by a fallen "Padawan-Jedi" called Darklighter.
-[
-164
-]
 "Sith" is used in the
 1976 novelization of
 Star Wars
@@ -2938,64 +1983,31 @@ Sam Witwer
 , who has voiced Maul and Sidious in animation, opined the Sith do not believe in life after death. That is why they go to such extreme lengths to survive. However, the Jedi will sacrifice themselves as they believe their deaths can inspire others. "You have Darth Vader, who lives a terrible life, he lives a pathetic, tortured existence but it's still preferable to having nothing, which is how he views death. The same thing with Darth Sidious, you look at him in
 Return of the Jedi
 . He's over 100 years old and is a bent, old man. But that's better than the alternative, which is nothing."
-[
-165
-]
 An appearance from the Force spirits of Darth Bane and
 Revan
 in "
 Ghosts of Mortis
 " was removed at the last minute by George Lucas since the Sith returning after death conflicted with his views on the Force.
-[
-166
-]
 As it shown in later episodes, transcending death as a Force spirit could only be achieved via the light side.
-[
-167
-]
-[
-168
-]
-[
-17
-]
 Nonetheless, members of the Sith sought to escape death through other means,
-[
-14
-]
 including Darth Sidious himself in both canon
-[
-150
-]
 and in the Expanded Universe.
-[
-169
-]
 According to
 Shadow of the Sith
 author
 Adam Christopher
 , the Sith were not always an organized faction; at such a time, the title "Darth" did not exist. Christopher believes the Sith Lord Exim Panshard came from this era.
-[
-170
-]
 In the non-Canon animated television series
 LEGO Star Wars: The Freemaker Adventures
 , the primary antagonist
 Naare
 is identified as a Sith agent of Darth Sidious and Darth Vader.
-[
-171
-]
 The non-canon comic
 Visions – Peach Momoko
 1
 features the
 Ankok
 , a cult dedicated to a deceased Sith Lord.
-[
-172
-]
 Appearances
 [
 ]

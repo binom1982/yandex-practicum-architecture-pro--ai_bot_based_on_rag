@@ -5,9 +5,6 @@ X-wing
 Lock S-foils in attack positions.
 "
 ―Wedge Antilles
-[
-16
-]
 X-wing Starfighters
 , otherwise referred to as the
 X-wing class
@@ -113,9 +110,6 @@ Sienar Fleet Systems
 ' more affordable
 TIE fighter series
 . The Alliance to Restore the Republic then adopted the X-wing design as its own.
-[
-8
-]
 In
 5 ABY
 ,
@@ -127,13 +121,7 @@ blaster cannon
 that could be used to fend off attacks from behind. At least one prototype had been constructed prior to the
 Battle of Jakku
 .
-[
-17
-]
 By 34 ABY, the New Republic had retired most of its T-70s in favor of the T-85s, which were even more capable than the already impressive T-70s.
-[
-10
-]
 Operational history
 [
 ]
@@ -147,22 +135,13 @@ Assorted Rebel Fighter exit hyperspace for an attack on Lothal.
 The
 T-65B
 model was in use
-[
-18
-]
 as early as
 5 BBY
 .
-[
-19
-]
 Saw Gerrera
 's
 Partisans
 had several of them in their livery during that period.
-[
-18
-]
 Gerrera was among the first rebel leaders to see how useful the T-65 would be in rebel operations and had stolen eight via a violent
 raid on an Incom warehouse
 . Dubbed the
@@ -170,16 +149,10 @@ Cavern Angels
 for the Partisans' habit of hiding material in caves, these X-wings were used as early as the Partisans' stay on
 Segra Milo
 .
-[
-20
-]
 The
 Alliance to Restore the Republic
 recovered information about the X-wing via the
 rescue of Incom personnel
-[
-21
-]
 and operated T-65B X-wings as early as
 1 BBY
 . During the
@@ -199,26 +172,14 @@ C1-10P
 , and
 R3-A3
 survived being shot down, but many other pilots were killed and their astromechs destroyed.
-[
-22
-]
 The Partisans continued to use the Cavern Angels squadron, though they had been ejected from the formal Alliance for Gerrera's extremist views.
-[
-8
-]
 Rebel X-wings saw action shortly before the outbreak of the
 Galactic Civil War
 in both the
 Liberation of Erso
-[
-23
-]
 and the
 Mission to Eadu
 .
-[
-24
-]
 Open war begins
 [
 ]
@@ -267,9 +228,6 @@ Death Star plans
 , the Death Star arrived at Scarif and fired a low-power blast at the
 Citadel Tower
 , killing all forces at the Imperial surface installation.
-[
-24
-]
 X-wings and TIEs engage in ship-to-ship combat above the surface of the Death Star
 Within days of Scarif, the Empire learned that the Alliance was headquartered at
 Yavin 4
@@ -289,9 +247,6 @@ thermal exhaust port
 , causing a chain reaction in the
 reactor
 that destroyed the entire station. The Death Star was gone but the Alliance lost 27 Starfighters (including 20 X-wings) in the assault.
-[
-4
-]
 Sometime during
 0 ABY
 , three X-wings of
@@ -299,9 +254,6 @@ Red Squadron
 were deployed in a
 mission to Giju
 , which resulted in the rescue of multiple Alliance agents.
-[
-25
-]
 A few days after the
 Battle of Yavin
 ,
@@ -313,9 +265,6 @@ mission to rescue the survivors of Alderaan
 . Skywalker and
 Wedge Antilles
 were scrambled to intercept their shuttle, but the rebels jumped to hyperspace.
-[
-26
-]
 After the
 Assault on Cymoon
 , Luke Skywalker and R2-D2 flew an X-wing to
@@ -327,35 +276,14 @@ skirmish
 erupted over possession of
 Darth Atrius' lightsabers
 , with R2 rescuing Skywalker by bringing him the ship.
-[
-27
-]
 Later, Skywalker flew an X-wing from the Alliance Fleet to Tatooine, accompanied by R2-D2. There, he revisited
 Obi-Wan Kenobi
 's hut and discovered the deceased Jedi Master's journal. Disappointed that the journal didn't contain any information on Jedi training, Skywalker set course for
 Nar Shaddaa
 .
-[
-28
-]
-[
-29
-]
-[
-30
-]
-[
-31
-]
-[
-32
-]
 X-wings would again see large-scale action against the Empire in the
 Battle of Vrogas Vas
 . The battle was a costly defeat for the Alliance, with Blue Squadron completely destroyed and Red Squadron suffering heavy casualties.
-[
-33
-]
 Battles continue
 [
 ]
@@ -367,9 +295,6 @@ aftermath
 of
 Eneb Ray
 's assault.
-[
-34
-]
 The Alliance struck back against the Empire with the
 hijacking of the
 Harbinger
@@ -377,9 +302,6 @@ Harbinger
 Imperial
 -class Star Destroyer
 being successfully boarded and hijacked.
-[
-35
-]
 The Alliance used the
 Harbinger
 to break through the
@@ -389,26 +311,17 @@ C-3PO
 's capture by
 Task Force 99
 .
-[
-36
-]
 The
 astromech droid
 R2-D2
 took it upon himself to stage a
 mission to rescue C-3PO
 in a stolen X-wing,
-[
-37
-]
 while Luke Skywalker and
 S4
 gave chase and embarked on a
 mission to Vagadarr Prime
 .
-[
-38
-]
 Later, General
 Davits Draven
 deployed X-wings to raid
@@ -416,9 +329,6 @@ Grakkus Jahibakti Tingi
 's safe house on
 Teth
 .
-[
-39
-]
 At least five Rebel X-wings saw action in a
 dogfight over Odona
 , where a pair of them shot down a TIE fighter. They were deployed Odona again to help rescue Han Solo and Leia Organa when a
@@ -428,17 +338,11 @@ Frax
 and
 Selt
 .
-[
-40
-]
 X-wings also defended from Imperial forces that launched an
 attack on the Rebel fleet
 shortly before the
 mission to Crait
 .
-[
-41
-]
 X-wings again saw large-scale action at the
 mutiny on Mon Cala
 , a strategic Alliance victory. After the battle, the
@@ -451,22 +355,10 @@ and his
 Regent
 Dors Urtya
 were both killed by Imperial forces.
-[
-42
-]
-[
-43
-]
 X-wings rush to the defense of the rebel fleet at the Battle of Mako-Ta.
 Later, X-wings defended the Alliance Fleet from an
 assault on the Mako-Ta Space Docks
 , a major blow for the Rebellion. The attack destroyed more than half of the Rebel cruisers and 90 percent of its available starfighter forces.
-[
-44
-]
-[
-45
-]
 A number of X-wings accompanied the
 61st Mobile Infantry
 company
@@ -477,9 +369,6 @@ Mid Rim Retreat
 . The campaign ended with the destruction of an Imperial
 biotoxin
 production facility and an Alliance victory.
-[
-46
-]
 From Hoth to Jakku
 [
 ]
@@ -492,15 +381,9 @@ Battle of Hoth
 . The rearguard actions on the surface covering the evacuation proved costly to the Alliance, with many personnel killed. Additionally, the Alliance was forced to leave behind much of their heavy equipment, and the fleet, including its X-wings, scattered throughout the
 Outer Rim Territories
 ,
-[
-12
-]
 travelling to separate rendezvous points like
 Rendezvous Point Delta-Three
 .
-[
-47
-]
 Luke Skywalker, however, traveled to the
 Dagobah system
 to seek out
@@ -512,21 +395,12 @@ Jedi Order
 . Due to
 Dagobah
 's thick fog, Skywalker crashed his X-wing in a swamp.
-[
-12
-]
 With Skywalker away,
 Wedge Antilles
 was promoted to lead Rogue Squadron in his absence, which he rebranded to be "Red Squadron" due to the losses sustained on Hoth. The following day, Antilles led Red Squadron's X-wings against
 pirates
 that threatened the security of
-[
-48
-]
 Rendezvous Point Delta-Three.
-[
-47
-]
 Meanwhile, Skywalker's starfighter sank further until it was almost fully submerged, at which point Skywalker attempted to recover it. While he had developed some skill with
 telekinesis
 , his self-doubt led to his ultimate inability to lift his waterlogged X-wing from the bog, and only with Yoda's assistance was the starfighter moved to solid ground. When Skywalker left the system, he traveled to
@@ -534,9 +408,6 @@ Bespin
 , where he ended up abandoning his X-wing when circumstances compelled him to depart in the
 Millennium Falcon
 .
-[
-12
-]
 Upon reaching Rendezvous Point Delta-Three, everyone aboard the
 Falcon
 found the
@@ -547,13 +418,7 @@ Ellian Zahra
 and her
 Hunter Fleet
 ;
-[
-47
-]
 having been appointed to find the Rebels,
-[
-49
-]
 Zahra was able to track communications between the Fourth
 Division
 and
@@ -569,23 +434,14 @@ Falcon
 eventually led to the Fourth Division successfully escaping to
 Backup Rendezvous Point Gamma-Nine
 .
-[
-47
-]
 Later, Skywalker reclaimed his personal X-wing during a
 mission to Cloud City
 ,
-[
-50
-]
 and several of the Fourth Division's X-wings and
 A-wings
 served together as
 Starlight Squadron
 .
-[
-51
-]
 X-wings assisted Twilight Company in
 Operation Ringbreaker
 , an attempt to divert Imperial forces from
@@ -599,9 +455,6 @@ Sullust
 and on the verge of defeat from the outset, an uprising of the
 Cobalt Laborers' Reformation Front
 liberated a part of the planet.
-[
-46
-]
 In
 4 ABY
 ,
@@ -611,9 +464,6 @@ dogfight in the Hudalla system
 . The small but drawn-out engagement resulted in each side losing a single starfighter, and it set the stage for the
 Battle of Endor
 .
-[
-52
-]
 Two X-wings flee the second Death Star's explosion
 By this time, Luke Skywalker had acquired another X-wing and flew it to
 Tatooine
@@ -630,17 +480,11 @@ DS-2 Death Star II Mobile Battle Station
 , an under-construction Imperial battle station with even more firepower than the original Death Star. Wedge Antilles and
 Lando Calrissian
 , accompanied by a group of Fighter, led an attack run deep within the bowels of the station and fired ordnance at the reactor core, destroying the station.
-[
-16
-]
 Seventeen days after the Battle of Endor, X-wings took part in the
 Battle of Cawa City
 , which expelled Imperial forces from
 Sterdic IV
 .
-[
-53
-]
 X-wings fought Imperial forces at the
 Attack on Fondor
 alongside
@@ -650,39 +494,24 @@ U-wings
 . The battle ultimately ended with a Rebel defeat, and the Empire securing weather control
 satellites
 for Operation Cinder.
-[
-54
-]
 Luke Skywalker flew his X-wing to undertake a
 mission to Pillio
 , where he encountered
 Del Meeko
 .
-[
-54
-]
 X-wings also engaged Imperial TIEs in the
 Battle of Theed
 , which resulted in the destruction of a series of Imperial weather control satellites and the failure of
 Operation: Cinder
 .
-[
-55
-]
 By the end of the Battle of Naboo, the Alliance had reorganized itself into the
 New Republic
 and continued to operate the Alliance's Fighter.
-[
-54
-]
 New Republic X-wings saw action at the
 Battle of Naalol
 and the
 Rebellion on Akiva
 , both victories for the Republic.
-[
-56
-]
 In 5 ABY, the Empire continued to put up resistance against the New Republic's liberation of the galaxy.
 Inferno Squad
 , a former Imperial special forces unit, flew X-wings against their former comrades in a
@@ -690,9 +519,6 @@ skirmish on Takodana
 . Later, Inferno Squad would fly X-wings again in a
 mission to Chinook Station
 .
-[
-54
-]
 X-wings accompanied the
 A/SF-01 B-wing Fighter
 of
@@ -700,29 +526,17 @@ Blade Squadron
 in the
 Battle for Kuat Drive Yards
 , which crippled the Empire's capability to produce starships and walkers.
-[
-57
-]
 The twelve X-wings of
 Phantom Squadron
 took part in the
 liberation of Kashyyyk
 , which deprived the Empire of much of its slave labor.
-[
-58
-]
 Corona Squadron's X-wings fought Imperial forces during the
 Invasions of Naboo
 .
-[
-52
-]
 Shepherd Squadron
 operated X-wings in the
 Battle of Fondor Shipyards
-[
-59
-]
 The
 Galactic Concordance
 treaty was signed in the middle of the Battle of Jakku, which marked the final surrender of the Empire. The Imperial ships that hadn't been destroyed in the fighting began jumping into the
@@ -730,9 +544,6 @@ Unknown Regions
 , and went on to form the nucleus of the
 First Order Navy
 .
-[
-60
-]
 New Republic Era
 [
 ]
@@ -741,9 +552,6 @@ Are those X-wings?
 "
 ―
 Qin
-[
-61
-]
 In
 28 ABY
 , the
@@ -753,17 +561,11 @@ mission to Sibensko
 , the
 Amaxine warrior crisis
 resulted in the formation of the Resistance.
-[
-14
-]
 The
 B-class X-wing
 existed by the time of the New Republic Era and was represented in a model kit owned by a young
 Karr Nuq Sin
 .
-[
-5
-]
 A T-70 X-wing starfighter
 In
 33 ABY
@@ -783,9 +585,6 @@ Poe Dameron
 to launch an unsanctioned mission to recover the ship. The resulting
 skirmish in OR-Kappa-2722
 led Dameron to trouble with the New Republic authorities, and Dameron defected to the Resistance shortly after.
-[
-10
-]
 During the
 hunt for Lor San Tekka
 , the T-70 X-wings of
@@ -793,13 +592,7 @@ Black Squadron
 engaged First Order TIEs in a
 mission to Ovanis
 .
-[
-62
-]
 The dogfight ended in a draw, although Black Squadron shot down several TIEs without suffering any casualties.
-[
-63
-]
 Later on in
 34 ABY
 , during the
@@ -811,32 +604,20 @@ Black One
 , in the cargo compartment of a freighter. After a series of complications required a quick evacuation from the planet, Dameron abandoned the freighter and left in
 Black One
 .
-[
-64
-]
 T-85 X-wing starfighter
 Five Black Squadron Fighters, including four X-wings, engaged the forces of the First Order in a
 battle over a desert planet
 . The engagement led to the death of A-wing pilot
 L'ulo L'ampar
 .
-[
-65
-]
 Black Squadron operated T-70 X-wings in a
 mission to Spalex
 .
-[
-66
-]
 Black Squadron was also involved in a
 mission to Cato Neimoidia
 , in which it faced off against Clone Wars–era
 droid fighter
 .
-[
-67
-]
 The young New Republic pilot later turned Resistance spy by Poe Dameron,
 Kazuda Xiono
 , along with his
@@ -853,20 +634,11 @@ provide
 Poe Dameron with critical intelligence about the First Order by the
 New Republic Command's
 orders.
-[
-68
-]
 Xiono and Dameron flew X-wings on missions together at least twice more in an
 Investigation of a G-class freighter
 and a
 Mission to Station Theta Black
 .
-[
-69
-]
-[
-70
-]
 Zay Versio
 and
 Iden Versio
@@ -877,9 +649,6 @@ Shriv Suurgav
 and Iden flew them to Vardos, where the two fought both First Order and Jinata Security forces in the
 battle of Kestro
 .
-[
-54
-]
 Black One
 was Poe Dameron's personal T-70 X-wing.
 At some point after
@@ -887,28 +656,16 @@ Snoke
 drew
 Ben Solo
 to the dark side of the Force, renaming him Kylo Ren,
-[
-71
-]
 he and the
 Knights of Ren
-[
-72
-]
 killed all of Skywalker's students and burned the
 Jedi temple
 .
-[
-71
-]
 Skywalker went into exile, and went in search of the
 First Jedi Temple
 . Before leaving, he gave half the map to his astromech droid, R2-D2, and the other half to
 Lor San Tekka
 .
-[
-73
-]
 After traveling to
 Ahch-To
 , he landed his X-wing in a shallow inlet, leaving himself stranded on the
@@ -916,9 +673,6 @@ island
 , and cut himself from
 the Force
 .
-[
-71
-]
 Later, Dameron and
 BB-8
 flew a T-70 to
@@ -930,9 +684,6 @@ Map to Skywalker
 , which was eagerly sought by both the First Order and the Resistance. The First Order also tracked down San Tekka and launched an
 attack on Tuanul
 , killing him and all the villagers. Dameron attempted to flee in his X-wing, but the ship was damaged and subsequently destroyed.
-[
-73
-]
 First Order-Resistance war
 [
 ]
@@ -940,9 +691,6 @@ First Order-Resistance war
 That's one hell of a pilot!
 "
 ―Finn, on Poe Dameron's piloting skills
-[
-73
-]
 Resistance X-wings mix it up with First Order TIEs in the skies of Takodana
 Within hours, the First Order's learned that the droid had escaped to
 Takodana Castle
@@ -955,9 +703,6 @@ Chewbacca
 , and Finn were captured, but the X-wings of the
 Starfighter Corps
 intervened and forced the First Order's ground forces to retreat, allowing the trio to escape.
-[
-73
-]
 Upon learning that the First Order planned to destroy the
 Resistance base
 in the
@@ -967,9 +712,6 @@ Battle of Starkiller Base
 . Despite the loss of all but seven X-wings in the offensive, the Resistance managed to destroy the base's
 thermal oscillator
 , resulting in the destruction of the base.
-[
-73
-]
 The First Order soon retaliated, however, with another attack on the Resistance's main base. Dameron led a force of X-wings, A-wings, and
 MG-100 StarFortress SF-17
 bombers into battle to cover the
@@ -982,9 +724,6 @@ Oetchi system
 Raddus
 '
 s hangar.
-[
-71
-]
 Behind the scenes
 [
 ]

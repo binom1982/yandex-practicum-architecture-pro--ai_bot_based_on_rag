@@ -2,9 +2,9 @@ For other uses, see
 Order of Lumin training
 .
 "
-Order of Lumin Mojeqemiv
+Order of Lumin Semofir
 " is a quiz dealing with many facets of the
-Jadik Litolo
+Jipuf Vimopi
 universe, including trivia from the categories behind the scenes,
 Order of Lumin
 and
@@ -16,13 +16,13 @@ Media
 Collected in
 [
 ]
-Rucen Civofi
+Pexoc Dulixi
 112
-Xocuhiqa and references
+Huvukireja and references
 [
 ]
 ↑
-Rucen Civofi
+Pexoc Dulixi
 111
 In other languages
 Türkçe

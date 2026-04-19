@@ -5,9 +5,6 @@ Naboo
 If I grew up here, I don't think I'd ever leave.
 "
 ―Anakin Skywalker, about Naboo
-[
-21
-]
 Naboo
 was a bountiful
 planet
@@ -189,125 +186,59 @@ Yes, it absolutely
 is.
 "
 ―Shara Bey and Leia Organa, about Naboo
-[
-54
-]
 The picturesque planet of Naboo was located in the galaxy's Mid Rim region.
 Naboo was a small pastoral
 world
-[
-55
-]
 in the
 Mid Rim
 ,
-[
-1
-]
 located near the border of the
 Outer Rim Territories
 ,
-[
-14
-]
 34,000
 light-years
 from the
 Core Worlds
 .
-[
-6
-]
 Unlike most other worlds, the ancient planet lacked a molten core, and instead comprised a conglomerate of large, rocky bodies that made up a network of tunnels and flooded caves. The native
 Gungans
 , who built their homes in the
 waters
 of Naboo, so deep that they went right through the planet, which they rarely ventured into the core, fearing the ravenous sea beasts which resided
-[
-1
-]
 in areas such as the
 Caves of Eleuabad
 .
-[
-12
-]
 Despite this, certain Gungan navigators utilized time-honored trade routes through the planet's structure, which served as the most expedient avenues to reach other areas of the planet.
-[
-1
-]
 Naboo's interior was rich with
 plasma
 , a naturally-occurring energy unique to the planet, and this coupled with its lack of molten core gave Naboo a reputation as an enigma to astrophysicists, who regarded the world's structure as an extremely rare phenomenon in
 the galaxy
 .
-[
-12
-]
 With its grassy plains and waterfalls, Naboo was known as an idyllic world.
 Naboo's surface comprised a vast array of different landscapes, from rolling plains and
 grassy
 hills to
 swampy
 lakes
-[
-14
-]
 caused by the water-filled network of deep-sea tunnels.
-[
-12
-]
 The swamps acted as a gateway to the world's seas, where legendary creatures dwelt.
-[
-11
-]
 Beside its natural features, Naboo was considered a world of classical beauty due to the aesthetics of its population centers.
-[
-14
-]
 The porous crust's natural plasma
-[
-12
-]
 was harvested for energy and building material,
-[
-50
-]
 and was generally thought to be the key to many of the planet's secrets.
-[
-12
-]
 While most of Naboo's land animals were peaceful, as exemplified by the gentle
 shaak
 , the planet's
 oceans
 ,
-[
-56
-]
 which held an abundance of life,
-[
-11
-]
 teemed with menacing creatures,
-[
-56
-]
 such as the
 opee sea killer
-[
-38
-]
 , the
 sando aqua monster
-[
-40
-]
 , and the
 colo claw fish
-[
-29
-]
 .
 History
 [
@@ -322,17 +253,11 @@ Gungans were the original inhabitants of Naboo prior to the arrival of offworlde
 Originally, Naboo was home to the
 amphibian
 Gungans.
-[
-1
-]
 The earliest offworlders to arrive were a
 Reptilian
 species known as the
 Elders
 who warred against the Gungans. Eventually, the Elders vanished as mysteriously as they arrived, leaving only stone statues behind.
-[
-7
-]
 Arrival of humanity
 [
 ]
@@ -340,9 +265,6 @@ Arrival of humanity
 Take a moment and look around this glorious city of yours. It wasn't long ago this was all plasma mines. Naboo has indeed come a long way. But as we chart a bold course for the future, let us never forget our past.
 "
 ―Sheev Palpatine
-[
-57
-]
 The Naboo were the descendants of human colonists who migrated from Grizmallt.
 Approximately around
 4000 BBY
@@ -355,29 +277,14 @@ one of their
 principal deities. Naboo quickly became notorious as a vacation spot and as a private hunting preserve amongst big-game hunters across the Mid Rim, although it would be around a century before permanent
 human
 settlement.
-[
-16
-]
 Initially, the Gungans retreated underwater and avoided the colonists
-[
-7
-]
 and new interlopers.
-[
-16
-]
 While the Gungans flourished for thousands of years before, this only lasted until around
 3900 BBY
 . Fleeing a brutal civil war,
-[
-16
-]
 a group of humans from the planet
 Grizmallt
 crash-landed on Naboo and set up a small colony. As they established their own society, they initially kept separate from the Gungans.
-[
-24
-]
 Led by
 Kwilaan
 , the colonists ventured into the
@@ -387,33 +294,23 @@ farming
 community at the
 Dee'ja Peak
 ,
-[
-17
-]
 establishing their presence on the planet and eventually taking its name for themselves. The
 Naboo calendar
 based its epoch around the arrival of Kwilaan.
-[
-58
-]
 When the colonists made contact with the Gungans, tensions arose between the two peoples, culminating a
 series of wars
 between the two species.
-[
-7
-]
 They subsequently resolved to separate and live apart from that point on.
-[
-59
-]
 The Naboo colonists later expanded to other uninhabited planets in the
 Chommell sector
 , such as
 Karlinus
-. Naboo imposed a contract on the colonists of these other planets, wherein Naboo would give the new colonies a loan to cover the start-up costs of colonization. In exchange, the colonies became legally obligated to provide Naboo with any supplies it deemed were necessary if called upon in times of emergency. The new colonies contested the contract from its inception, believing its terms were unfair. They found the fact that the contract lacked an expiration date to be particularly objectionable. Under the contract, Naboo took advantage of every other planet in the Chommell sector from time to time.
-[
-60
-]
+.
+Naboo imposed a contract on the colonists of these other planets, wherein Naboo would give the new colonies a loan to cover the start-up costs of colonization.
+In exchange, the colonies became legally obligated to provide Naboo with any supplies it deemed were necessary if called upon in times of emergency.
+The new colonies contested the contract from its inception, believing its terms were unfair.
+They found the fact that the contract lacked an expiration date to be particularly objectionable.
+Under the contract, Naboo took advantage of every other planet in the Chommell sector from time to time.
 Gungan tribal war
 [
 ]
@@ -421,9 +318,6 @@ Gungan tribal war
 Gungans no dyin' witout a fight. Wesa warriors.
 "
 ―Jar Jar Binks
-[
-13
-]
 The Gungans built their underwater capital of Otoh Gunga following a tribal war.
 Following the wars with humans, the Gungan tribes engaged in
 war
@@ -444,9 +338,6 @@ army
 . Gallo then founded the Gungan capital
 Otoh Gunga
 on Spearhead's foundations.
-[
-16
-]
 Times of Suffering and Peace
 [
 ]
@@ -457,9 +348,6 @@ Struggles give way to peace
 It is an honor to be here for this momentous occasion. The pride I feel for this planet cannot be put into words. 847 years ago, Naboo joined the Republic. And tonight. we celebrate that union.
 "
 ―Sheev Palpatine
-[
-57
-]
 The Naboo had achieved a state of peace and prosperity at the end of a prolonged period of brutal conflict.
 Meanwhile, the
 Naboo
@@ -472,45 +360,27 @@ general
 named
 Jafan
 managed to end the war, uniting the opposing factions through both force of arms and force of will.
-[
-16
-]
 He became
 King
 Jafan,
 ruler
 of all the Naboo,
-[
-12
-]
 and ushered in the
 Great Time of Peace
 .
-[
-16
-]
 In
 867 BBY
 , Naboo joined the
 Galactic Republic
 ,
-[
-61
-]
 the
 democratic
 union that sought to govern the
 galaxy
 .
-[
-62
-]
 The people of Naboo celebrated this event during the
 Festival of Light
 .
-[
-57
-]
 In
 832 BBY
 , under the direction of King Jafan, the
@@ -524,17 +394,11 @@ Theed Royal Palace
 built on the
 Cliffs of Theed
 .
-[
-16
-]
 High Republic Era
 [
 ]
 In
 382 BBY
-[
-63
-]
 during the
 High Republic Era
 , Naboo was under the rule of a
@@ -568,9 +432,6 @@ Eiram
 for the
 wedding of Phan-tu Zenn and Xiri A'lbaran
 that promised to end the war. At least two Gungans attended the celebration.
-[
-64
-]
 Later in the High Republic Era, the former
 Jedi
 Padawan
@@ -587,9 +448,6 @@ Jedi Order
 , Sy became a
 Jedi Knight
 and Talisola's master.
-[
-65
-]
 A
 Jedi temple
 on Naboo, the
@@ -599,13 +457,7 @@ Jedi Knights
 . It was the first posting of
 Elzar Mann
 after being knighted.
-[
-66
-]
 By 232 BBY,
-[
-67
-]
 the scion of the wealthy
 San Tekka clan
 ,
@@ -615,9 +467,6 @@ Marlowe
 , living in a large estate by the
 lakes
 .
-[
-25
-]
 Reign of the Nihil
 [
 ]
@@ -628,9 +477,6 @@ Second occupation of Naboo
 In
 228 BBY
 ,
-[
-68
-]
 with the creation of the
 Stormwall
 by the
@@ -658,22 +504,13 @@ reigning queen
 managed to escape into hiding with help from the
 Royal Security Forces
 .
-[
-69
-]
 Under the supervision of Viess, the Nihil occupation of the planet enacted a widespread forced disarmament, and subsequently took a considerable amount of resources from the richer inhabitants of Naboo as "tribute". Although the quick Nihil victory meant that the occupation on Naboo was less ruthless on the general population than the ones on other planets inside the Occlusion Zone, the initial raid led to some amount of casualties. A joint Jedi-
 Republic Defense Coalition
 assault on Naboo
 was later able to liberate the world.
-[
-69
-]
 By
 232 BBY
 ,
-[
-70
-]
 ,
 Marlaa Jinara
 had been to Naboo, and she experienced difficulty while exploring in the
@@ -684,21 +521,12 @@ Late High Republic Era
 ]
 By
 132 BBY
-[
-71
-]
 and as the light of the High Republic had begun to fade,
-[
-72
-]
 Naboo and the rest of the Chommel sector were represented in the Galactic Senate of the Republic by Senator
 Sahen Idane
 , a longtime ally of the Jedi Order and also someone who enjoyed close ties with Naboo royalty. Queen
 Yovité
 , who by that time had been elected Queen, had gifted a belt sash to Yovité by that year. Yovité also donned fabric sourced from a refinery in Theed.
-[
-73
-]
 Twilight of the Republic
 [
 ]
@@ -715,9 +543,6 @@ Link
 (
 file info
 )
-[
-13
-]
 The fourteen year old
 Padmé Amidala
 was elected to be the new Monarch of Naboo after Queen
@@ -730,14 +555,8 @@ Quarsh Panaka
 , Amidala took on a group of
 Handmaidens
 , whom she quickly befriended, planning her days with them instead of Panaka.
-[
-48
-]
 The capital of Theed fell to the forces of the Trade Federation during the Invasion of Naboo.
 Right as the Naboo summit ended,
-[
-48
-]
 about ten
 years
 before the
@@ -753,9 +572,6 @@ home planet
 through the invasion and sealed a new
 friendship
 with the Gungans.
-[
-74
-]
 In an upsurge of sympathy and solidarity toward the invaded planet, the
 queen
 's emissary in the
@@ -766,13 +582,9 @@ Sheev Palpatine
 , was made
 Supreme Chancellor
 of the Republic.
-[
-13
-]
-Naboo recovered quickly from the invasion under Amidala's remaining years, managing to almost completely restore its harvests and crop yields by the end of her final term. One of Amidala's final projects, which continued under the reign of her successor, was the implementation of an ion pulse in Theed in case of future invasions. The decision to install the pulse, whilst meeting with general approval, was nevertheless controversial as some, such as Quarsh Panaka, favored the idea of more robust and extensive defenses whilst others felt that installing any weapon system was against everything Naboo stood for in terms of peace.
-[
-75
-]
+Naboo recovered quickly from the invasion under Amidala's remaining years, managing to almost completely restore its harvests and crop yields by the end of her final term.
+One of Amidala's final projects, which continued under the reign of her successor, was the implementation of an ion pulse in Theed in case of future invasions.
+The decision to install the pulse, whilst meeting with general approval, was nevertheless controversial as some, such as Quarsh Panaka, favored the idea of more robust and extensive defenses whilst others felt that installing any weapon system was against everything Naboo stood for in terms of peace.
 Clone Wars
 [
 ]
@@ -780,67 +592,34 @@ Clone Wars
 I need you to convince the Senate, or the Jedi Council, or whoever is in charge of this terrible war that we are threatened.
 "
 ―Neeyutnee, to Padmé Amidala
-[
-27
-]
 The government of Naboo remained loyal to the Galactic Republic during the Separatist Crisis and the Clone Wars.
 A
 series of miners strikes
 occurred on the moons of Naboo.
-[
-10
-]
 A
 mudslide disaster
 occurred on
 Naboo's secondary continent
-[
-60
-]
 in
 22 BBY
 .
-[
-76
-]
 Both the Naboo and the Gungans remained loyal to the Republic during the Clone Wars, though many on Naboo were in despair at the idea of a galaxy-wide war. Senator Padmé Amidala and
 Representative
 Jar Jar Binks
 worked together to represent the interests of the Naboo and Gungans respectively in the Galactic Senate.
-[
-21
-]
 During the Clone Wars,
 Neeyutnee
 served as Queen of Naboo.
-[
-27
-]
 Early in the war, Amidala and Skywalker returned to the planet for their
 wedding
-[
-21
-]
 and spent several days on world for a honeymoon.
-[
-60
-]
 When a number of new battles, including the
 Battle of Teth
 , rocked the Outer Rim Territories
-[
-77
-]
 a few months into the war,
-[
-78
-]
 Naboo was put under the protection of several new security measures at the order of Palpatine himself. Amidala wanted to discuss those measures with the Chancellor before learning of the Battle of Teth, which had endangered Skywalker's life and changed her priorities to focusing on the
 Hutt–Republic treaty
 .
-[
-77
-]
 Amidala and Binks, with the help of the Jedi Order and the Gungan
 Peppi Bow
 , discovered the
@@ -852,15 +631,9 @@ secret laboratory
 in the
 Eastern swamps
 .
-[
-27
-]
 They managed to prevent Vindi from releasing stockpiles of the
 Blue Shadow Virus
 into Naboo's surface.
-[
-79
-]
 During the
 Battle of Mon Cala
 , elements of the
@@ -879,9 +652,6 @@ Riff Tamson
 and his
 Quarren
 allies.
-[
-80
-]
 By working together the Naboo and the Gungans prevented a Separatist attack on their shared homeworld.
 Later, the Gungan Boss
 Lyonie
@@ -903,9 +673,6 @@ Anakin Skywalker
 , and General
 Roos Tarpals
 . However, the Naboo and Gungans were forced to release Grievous after Dooku took Skywalker hostage.
-[
-23
-]
 During the Festival of Light, Dooku sent
 Cad Bane
 and his team of
@@ -921,9 +688,6 @@ Rako Hardeen
 , who was really
 Obi-Wan Kenobi
 in disguise. But, Bane planned a diversion in order to lure the Republic forces away while Dooku carried out the kidnapping. This failed, however, when he fought Kenobi and Skywalker.
-[
-57
-]
 The dark times
 [
 ]
@@ -935,9 +699,6 @@ still
 .
 "
 ―Sosha Soruna
-[
-54
-]
 Naboo was in a state of mourning for Padmé Amidala, who died following the rise of the Galactic Empire.
 Following the rise of the
 Galactic Empire
@@ -946,49 +707,22 @@ self-proclamation
 as
 Emperor
 , Naboo hosted one of the new regime's military garrisons.
-[
-51
-]
 Shortly after the end of the Clone Wars, thousands of citizens gathered in the streets of Theed in order to assist to Amidala's
 funeral procession
 .
-[
-81
-]
 At that time, Sio Bibble had finally decided to retire from governorship over Naboo, setting the stage for an election that
 Saché
 was seemingly going to win.
-[
-75
-]
 However, Naboo's internal politics were also interfered with by the new regime; while the people were still permitted to elect their monarchs, those who gained the office had little real power or influence.
-[
-82
-]
 The position of governor was also abolished.
-[
-75
-]
 Instead, all major decisions regarding Naboo were placed firmly in the hands of the sector's
 Moff
 , a position held by
-[
-82
-]
 Palpatine's close ally
-[
-48
-]
 and former Security Forces
 officer
 Quarsh Panaka,
-[
-82
-]
 who was appointed before the election for governor could even happen.
-[
-75
-]
 Some time around
 18 BBY
 ,
@@ -998,9 +732,6 @@ Kleya Marki
 bombed
 Imperial vehicles
 on a Nabooian bridge as an early act of their rebellion.
-[
-83
-]
 Darth Vader on Naboo in 3 ABY
 Though one of the less corrupt Imperial officials, Panaka was
 assassinated
@@ -1009,21 +740,12 @@ Saw Gerrera
 's
 Partisans
 insurgency
-[
-82
-]
 in
 3 BBY
 .
-[
-67
-]
 Due to its status as Palpatine's homeworld, Naboo prospered during the
 Age of the Empire
 . Its economy and environment were regarded to be far healthier than most worlds which had been subject to Imperial rule.
-[
-52
-]
 Nevertheless, the people of Naboo resented the fact that it was their world that brought forth a man like Palpatine. The Empire also demilitarized Naboo and dissolved the
 Royal Naboo Security Forces
 's
@@ -1035,9 +757,6 @@ time
 of the
 Battle of Endor
 .
-[
-84
-]
 Sabé
 , former handmaiden of Padme Amidala, brought Darth Vader to Naboo in
 3 ABY
@@ -1050,9 +769,6 @@ Ric Olié
 and his rebel cell,
 the Amidalans
 , attempted to protect Padmé's tomb from Vader, but were killed in the process. The handmaidens gathered for a final stand. They were unable to prevent Darth Vader from breaching the tomb.
-[
-85
-]
 A new era
 [
 ]
@@ -1073,38 +789,20 @@ new
 government, we hope we may rely on Naboo's support, counsel, and aid.
 "
 ―Leia Organa, to Sosha Soruna
-[
-54
-]
 The death of Galactic Emperor Sheev Palpatine was celebrated on his homeworld of Naboo by humans and Gungans alike.
 When news of Emperor Palpatine's
 death
 during the Battle of Endor—which resulted in
-[
-86
-]
 the apparent
-[
-87
-]
 defeat of the Empire by the
 Alliance to Restore the Republic
 —spread across the galaxy after the battle, an outpouring of joy
 occurred
 on Naboo, the inhabitants of which considered themselves free at last.
-[
-86
-]
 While it quickly became apparent that the war was not over as the Empire survived, even without its Emperor,
-[
-87
-]
 Naboo was liberated from Imperial control. Nonetheless, all equipment stored within Palpatine's small countryside retreat was stripped bare by the time it was explored by the
 New Republic
 , preventing the government from discovering whatever secrets Palpatine had kept within.
-[
-88
-]
 Some twenty
 days
 after the Battle of Endor, the
@@ -1118,24 +816,12 @@ Mon Mothma
 ,
 Chancellor
 of the Alliance,
-[
-54
-]
 which was in the process of reorganizing into the New Republic.
-[
-89
-]
-[
-87
-]
 In the royal palace's throne room, Organa met the then-Queen of Naboo,
 Sosha Soruna
 , and asked for Naboo's support in the establishment of the New Republic and the restoration of the
 Senate
 . The queen heartily accepted Organa's offer, claiming that the Naboo felt great shame over Palpatine's actions.
-[
-54
-]
 Operation: Cinder
 [
 ]
@@ -1155,9 +841,6 @@ scoured
 Gulin
 and
 Lerr Duvat
-[
-54
-]
 Aided by the Rebel Alliance, the Naboo fought to save their world from the Empire during Operation: Cinder.
 During the meeting, gigantic storms suddenly began to rage, and Naboo's orbital
 sensors
@@ -1168,9 +851,6 @@ orbit
 , as ordered by the late Emperor Palpatine. Named
 Operation: Cinder
 , the Empire's plan was to disrupt Naboo's environment and climate, and thus render the planet inhospitable.
-[
-54
-]
 The storms caused
 fires
 and flooding across the world, and many buildings were demolished. Soruna, Organa, and Alliance pilot
@@ -1198,9 +878,6 @@ Lando Calrissian
 and
 Nien Nunb
 soon arrived to take care of the Imperial forces.
-[
-84
-]
 The fleet consisted of members of
 Danger Squadron
 , which arrived in
@@ -1210,18 +887,12 @@ Danger Leader
 Duros
 Shriv Suurgav
 ,
-[
-89
-]
 Nunb in the
 Mellcrawler II
 , and the
 MC80 Star Cruiser
 Restoration
 .
-[
-84
-]
 With their weapons and vehicles disabled by Theed's ion defense, the Imperials were forced to surrender to the Naboo and their Rebel allies.
 Danger Squadron temporarily included former
 Inferno Squad
@@ -1242,9 +913,6 @@ Torment
 . The Alliance forces then gathered upon the ground to immobilize remaining Imperials in the final ground assault to try and take control of Theed. Imperial forces were immobilized by the
 ion pulse
 courtesy of Leia, Del, Shriv and Iden taking the fight from the marketplace, courtyard and all the way to the palace and once they are inside the pulse activates and rendering all of their weapons and vehicles inoperable leading to the surrender of Imperial forces. And Shriv commented that they just won and after all that happened Iden and Del are formally welcomed by Leia into the New Republic.
-[
-89
-]
 Due to the fact that Naboo had been the Emperor's homeworld, the planet became a rallying point for Imperial sympathizers.
 Months
 after the failed Operation: Cinder, the
@@ -1256,9 +924,6 @@ Naboo system
 . However, these attempts were successfully foiled by
 Corona Squadron
 .
-[
-52
-]
 Rise of the First Order
 [
 ]
@@ -1266,9 +931,6 @@ Rise of the First Order
 People of Naboo. This is the Supreme Leader of the First Order. I have commandeered your communications network. I am unimpressed with you. Your focus on events that happened decades ago, your obsession with lineage and superstition…have caused your society to fester. Because you cannot let go…you hold yourself back. Now that will change. All that was will be swept away. Naboo will embrace the future. You have been ruled by queens. You have been ruled by an emperor. Now…I am your king.
 "
 ―Kylo Ren
-[
-90
-]
 During the
 Cold War
 nearly thirty years later between the
@@ -1278,24 +940,15 @@ Resistance
 , Senator
 Thadlé Berenko
 represented Naboo in the reconstituted New Republic Senate,
-[
-91
-]
 and was
 killed
 when the First Order
 destroyed
 Hosnian Prime
 , the home of the Senate at the time.
-[
-92
-]
 By
 35 ABY
 ,
-[
-93
-]
 Naboo's skies were being patrolled by Star Destroyers from the First Order as part of its expansive efforts to establish galactic dominance. At some point later, Naboo engaged in
 open rebellion
 against
@@ -1304,9 +957,6 @@ Bespin
 and
 Coruscant
 leading to the successful overthrow of the entire regime.
-[
-94
-]
 Society and culture
 [
 ]
@@ -1315,43 +965,22 @@ You and the Naboo form a symbiont circle. What happens to one of you will affect
 "
 ―Obi-Wan Kenobi, to
 Rugor Nass
-[
-13
-]
 The commitment to the defense of Naboo brought its human and Gungan inhabitants together when threatened by an external enemy.
 Naboo was inhabited by two societies: an indigenous species of intelligent amphibians called the Gungans and a group of peaceful humans who were referred to as the Naboo.
-[
-14
-]
 In the distant past, a cultural misunderstanding resulted in a serious quarrel between the Gungan and the human colonists. Both sides refused to acknowledge their responsibilities in the rift, and the two groups ostracized each other for the longest time. That situation lasted until the Invasion of Naboo by the Trade Federation forced the humans and Gungans to join forces.
-[
-59
-]
 Naboo culture fostered the artist in every citizen, encouraging children to become musicians, performers, painters, and similar professions. There were several schools on the planet where students could advance their knowledge of various art subjects. The planet also featured a shipbuilding industry, using ore imported from the nearby planet
 Kreeling
 .
-[
-48
-]
 Both the Naboo and Gungans had a close relationship with water.
-[
-12
-]
 Fish
 was an important
 food
 to the people of Naboo.
-[
-48
-]
 Naboo had
 engagement rituals
 during the
 High Republic Era
 intended to be performed between the betrothed individuals.
-[
-95
-]
 Behind the scenes
 [
 ]
@@ -1365,18 +994,12 @@ The Phantom Menace
 Star Wars
 prequel trilogy
 .
-[
-13
-]
 It was later featured in
 2002
 's
 Star Wars
 : Episode II
 Attack of the Clones
-[
-21
-]
 and
 2005
 's
@@ -1384,9 +1007,6 @@ Star Wars
 : Episode III
 Revenge of the Sith
 .
-[
-81
-]
 In the revised
 rough draft
 of the script for
@@ -1394,13 +1014,7 @@ The Phantom Menace
 , Naboo was called
 Utapau
 .
-[
-96
-]
 After many months of general research into where to shoot,
-[
-97
-]
 the real-world shooting locations for Naboo were
 Villa del Balbianello
 and
@@ -1420,37 +1034,22 @@ Turkey
 . On the other hand, the architecture of Naboo was inspired by the domed and scalloped roofs of the
 Marin County Civic Center
 .
-[
-98
-]
 The crew hoped to depict Naboo with classical architecture, thereby establishing the planet's scale and giving the idea of a sophisticated society.
-[
-97
-]
 The exact number of moons in Naboo is currently unknown. In
 Attack of the Clones
 ,
 Mace Windu
 mentions "spice miners on the moons of Naboo."
-[
-21
-]
 However, the
 2016
 reference book
 Star Wars: Complete Locations
 states that Naboo has only one moon.
-[
-12
-]
 The
 2018
 novel
 Thrawn: Alliances
 confirms that Naboo has three moons.
-[
-9
-]
 There is also a discrepancy over the names of the three moons:
 Nexus of Power
 states that the moons where
@@ -1460,9 +1059,6 @@ Rori
 , and a small third moon that has no
 in-universe
 name,
-[
-16
-]
 while
 Rise of the Separatists
 , a sourcebook from
@@ -1474,24 +1070,12 @@ Veruna
 , and
 Ohma-D'un
 .
-[
-7
-]
 However, the novel
 Leia, Princess of Alderaan
 prominently includes the moon
 Onoam
 .
-[
-10
-]
 Rori and Onoam have similar descriptions,
-[
-10
-]
-[
-16
-]
 but as yet there has been no clarification for the discrepancy.
 Appearances
 [

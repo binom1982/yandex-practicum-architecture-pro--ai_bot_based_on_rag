@@ -6,9 +6,6 @@ Oh, I told you it was dangerous here!
 "
 ―
 C-3PO
-[
-11
-]
 Endor
 , designated
 IX3244-A
@@ -66,9 +63,6 @@ Description
 View of Endor from space
 A remote
 moon
-[
-27
-]
 in the
 Endor system
 of the
@@ -86,31 +80,16 @@ Dulok
 Yuzzum
 species
 .
-[
-1
-]
-[
-8
-]
 The semi-sentient
 Gorax
-[
-28
-]
 also dwelled on the moon as well as the
 Wistie
 .
-[
-17
-]
 Some of Endor's
 trees
 reached more than 1,000
 meters
 in height.
-[
-10
-]
 It contained a breathable
 atmosphere
 to
@@ -124,12 +103,6 @@ Endor I
 and
 Endor II
 .
-[
-1
-]
-[
-8
-]
 History
 [
 ]
@@ -142,17 +115,11 @@ Ewok Jerky
 , which was a popular snack across the
 Outer Rim
 .
-[
-8
-]
 During the
 reign
 of the
 Galactic Empire
 , the Empire, deeming Endor to be perfect for its purposes due to how remote the moon was,
-[
-27
-]
 established an outpost on the moon that included a
 shield generator
 complex
@@ -161,21 +128,12 @@ second Death Star
 in
 orbit
 of the moon.
-[
-23
-]
 The Empire
 occupied
 Endor.
-[
-29
-]
 In order to make way for the complex, an Ewok village was razed by Imperial
 troops
 , leading to strained Imperial—Ewok relations.
-[
-23
-]
 As a result of the
 repulsorlift
 field emitted by the
@@ -183,21 +141,12 @@ SLD-26 planetary shield generator
 to keep the Death Star in a stationary orbit, Endor was prone to
 earthquakes
 , tidal imbalances, and other geological disturbances
-[
-1
-]
 that slowly but surely began to break up the small moon.
-[
-30
-]
 The
 Tarkin Initiative
 also established
 Research Station 9
 on the moon.
-[
-17
-]
 The Galactic Empire commenced a naval presence at Endor.
 The moon was later the site of the monumental
 Battle of Endor
@@ -220,38 +169,23 @@ Darth Vader
 , the rebels and Ewoks held a victory celebration on the moon, one of many across
 the galaxy
 .
-[
-11
-]
 Ewoks and rebels celebrating victory on Endor.
 The Rebels set up shields and
 tractor beams
 to protect the moon from debris from the destroyed
 space station
 .
-[
-31
-]
 A field of detritus settled into orbit around the moon in the
 months
 following the battle.
-[
-19
-]
 Additionally, the many
 hyperspace anomalies
 present in the
 Moddell sector
 absorbed the worst of the Death Star debris fallout.
-[
-32
-]
 Despite that, some debris still rained down on the moon for a
 decade
 after the battle, but Endor's ecosystem proved resilient.
-[
-33
-]
 At some point, the
 Ewok Civil War
 brought strife to Endor. The
@@ -262,15 +196,9 @@ Jaxxon T. Tumperakki
 on a
 diplomatic mission to Endor
 .
-[
-34
-]
 During the
 New Republic Era
 , Endor remained remote and rarely-visited.
-[
-7
-]
 In
 35 ABY
 , following the
@@ -289,9 +217,6 @@ Wicket W. Warrick
 and his son,
 Pommet Warrick
 .
-[
-26
-]
 Behind the scenes
 [
 ]
@@ -302,21 +227,9 @@ Star Wars
 : Episode VI
 Return of the Jedi
 . The scenes of the forest moon were filmed in the giant redwood forests of northern California, in particular Tall Trees Redwood Grove and other forests near the remote town of Smith River,
-[
-8
-]
 and at soundstages in England, where the Ewok village scenes were shot.
-[
-29
-]
 During the production of the film, Endor was referred to as the "Green Moon of Endor."
-[
-35
-]
 Some location scenes for Endor were filmed in Stout Grove, part of Jedediah Smith Redwoods State Park, 5 miles east of Crescent City, California, near the Tolowa village Hiouchi. Scenes requiring explosions were shot on private logging company land in the vicinity because the trees were scheduled to be logged and the State Park would not allow damage to their trees.
-[
-36
-]
 Appearances
 [
 ]

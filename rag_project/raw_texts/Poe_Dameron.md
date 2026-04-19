@@ -17,9 +17,6 @@ win.
 In fact in some ways…the Resistance has just begun.
 "
 ―Poe Dameron, to Black Squadron
-[
-13
-]
 Poe Dameron
 was a
 human
@@ -320,19 +317,10 @@ They will not be intimidated by you!
 "
 ―Poe Dameron to
 Kylo Ren
-[
-14
-]
 Three
 years
 prior to
-[
-2
-]
 his
-[
-3
-]
 birth
 , Poe Dameron's voice was heard by
 Padawan
@@ -344,9 +332,6 @@ time
 and
 space
 .
-[
-14
-]
 Early life
 [
 ]
@@ -360,28 +345,16 @@ way
 different than the early R-22's. I mean those were basically just stunt flyers, y'know?
 "
 ―Poe stalling pirates by telling them about his early life
-[
-15
-]
 Baby Poe's hologram
 Born in
 2 ABY
-[
-2
-]
 on the tenth
 day
 of the fifth
 month
-[
-16
-]
 as part of what would later be known as the
 victory kid
 generation,
-[
-17
-]
 Poe Dameron was the son of
 Shara Bey
 and
@@ -393,17 +366,11 @@ Galactic Empire
 during the
 Galactic Civil War
 .
-[
-18
-]
 As an infant, Dameron rarely saw his
 parents
 due to the Alliance's continued operations against the Imperials before and after the
 Battle of Endor
 ,
-[
-1
-]
 as his mother worked as a
 Rebel
 pilot
@@ -412,51 +379,30 @@ Green Squadron
 and his father was a member of the
 Pathfinders
 ,
-[
-19
-]
 and Dameron was thus left in the care of his
 maternal grandfather
 .
-[
-18
-]
 Six months after the Battle of
 Endor
 ,
-[
-7
-]
 after the Imperial remnant put forward
 Operation: Cinder
 ,
-[
-1
-]
 Poe Dameron's parents left Rebel service to reunite with him, settle on
 Yavin 4
 and build a
 house
 in a
 colony
-[
-7
-]
 —close to which they planted a
 Force-sensitive tree
 , a gift from
 Jedi Knight
 Luke Skywalker
 .
-[
-1
-]
 At
 age 6
 ,
-[
-20
-]
 Poe Dameron began to learn how to fly in his mother's old
 RZ-1 A-wing interceptor
 , which was part of his mother's compensation package when she mustered out of the Rebellion. She would take Dameron up in it, and he would sit in her lap, learning how to control the ship from her. Tragedy struck
@@ -464,27 +410,19 @@ his family
 when his mother unexpectedly
 died
 ; at the time, Dameron was only eight years old.
-[
-7
-]
 L'ulo L'ampar
 , Bey's fellow Rebel pilot and friend, helped raise Dameron, and was thus like family to him.
-[
-21
-]
 The Spice Runners of Kijimi
 [
 ]
 In
 18 ABY
 ,
-[
-2
-]
-Dameron flew his mother's A-wing in space, but was being pursued by Yavin Four's Civilian Defense Force. He was shot down and taken to a jail cell. He woke up and was distraught to find out that he had crashed his mother's A-wing beyond repair. An upset Kes met Poe at the police station, resulting in the father and son arguing about Poe always getting into trouble by taking joyrides on ships. Poe stormed off and ran into L'ulo, who spoke to him about Shara and encouraged Poe to never give up flying.
-[
-6
-]
+Dameron flew his mother's A-wing in space, but was being pursued by Yavin Four's Civilian Defense Force.
+He was shot down and taken to a jail cell.
+He woke up and was distraught to find out that he had crashed his mother's A-wing beyond repair.
+An upset Kes met Poe at the police station, resulting in the father and son arguing about Poe always getting into trouble by taking joyrides on ships.
+Poe stormed off and ran into L'ulo, who spoke to him about Shara and encouraged Poe to never give up flying.
 For a brief time in his younger years, Poe Dameron joined with the Spice Runners of Kijimi.
 Poe walked into the
 Gully's
@@ -498,9 +436,6 @@ Zorii Wynn
 and told Poe that she and her crew of smugglers were in need of a pilot after their's died mysteriously. Jumping at the opportunity to finally leave his home planet, he offered to fly them off-world. It wasn't until Poe boarded their ship that he found out they were the
 Spice Runners of Kijimi
 , which he had heard was a contender for the title of most dangerous crime organization in the galaxy. Poe managed to evade the New Republic by faking his own kidnapping and flew them off.
-[
-6
-]
 Over the next few months, Poe cultivated a relationship with Wynn, whose real name was Zorii Bliss, and found a mentor in
 Tomasso
 , Zorii's father-figure. Poe and Zorii were assigned basic grunt work such as cooking, cleaning, and keeping watch. Poe also taught Zorii how to fly. He learned
@@ -508,17 +443,17 @@ hyperspace skipping
 from Tomasso after they escaped capture from a rival spice running gang. After a botched heist, Poe and Zorii became friends with a droid called
 EV-6B6
 .
-[
-6
-]
-Eight months after Poe ran away, he was tracked down by his father and L'ulo. Their reunion was cut short by Zorii, who demanded to know why Kes and L'ulo traveled throughout the galaxy in order to look for Poe. Kes insisted that they were taking Poe with them. However, amphibious aliens with poisonous venom started attacking. Kes was bitten in the torso by one before a Spice Runner cruiser arrived. Poe told L'ulo to get his father off-planet and promised he would one day return home. The leader of the Spice Runners of Kijimi,
+Eight months after Poe ran away, he was tracked down by his father and L'ulo.
+Their reunion was cut short by Zorii, who demanded to know why Kes and L'ulo traveled throughout the galaxy in order to look for Poe.
+Kes insisted that they were taking Poe with them.
+However, amphibious aliens with poisonous venom started attacking.
+Kes was bitten in the torso by one before a Spice Runner cruiser arrived.
+Poe told L'ulo to get his father off-planet and promised he would one day return home.
+The leader of the Spice Runners of Kijimi,
 Zeva Bliss
 , soon disembarked and killed Tomasso, much to Poe's horror, for betraying the Spice Runners of Kijimi. Then she shot EV-6B6 when Poe told her they got her from
 Ledesmar
 's cruiser.
-[
-6
-]
 Zorii Bliss (pictured) offered Poe Dameron the chance to overthrow her mother Zeva and control the Spice Runners at her side.
 Poe and Zorii's friendship was strained after he found out Zeva was Zorii's mother. They finally made it to Kijimi and met with the
 droidsmith
@@ -530,17 +465,12 @@ New Republic Security Bureau
 officer
 Sela Trune
 , who wanted revenge against Zeva for killing her family. Trune died in Poe's arms, telling him that she did not want the Spice Runners of Kijimi to destroy his family like they had destroyed hers.
-[
-6
-]
-Zeva angrily lashed out at Poe, slicing him across the chest and shoulder when he tried to aim his blaster at her before stabbing him in the side as well. Zeva was about to deliver the final killing blow when Zorii shoved her mother away, saving Poe's life. However, Zorii began to offer him the chance to usurp her mother and take control of the Spice Runners with her. Tired of the life of a Spice Runner after everything he had seen, he rejected her offer and, at her urging when she angrily demanded he never return, ran off, escaping to receive medical help from someone who owed him a favor. He went on the run from the Spice Runners of Kijimi for a month before finally leaving the planet in disguise
-[
-6
-]
+Zeva angrily lashed out at Poe, slicing him across the chest and shoulder when he tried to aim his blaster at her before stabbing him in the side as well.
+Zeva was about to deliver the final killing blow when Zorii shoved her mother away, saving Poe's life.
+However, Zorii began to offer him the chance to usurp her mother and take control of the Spice Runners with her.
+Tired of the life of a Spice Runner after everything he had seen, he rejected her offer and, at her urging when she angrily demanded he never return, ran off, escaping to receive medical help from someone who owed him a favor.
+He went on the run from the Spice Runners of Kijimi for a month before finally leaving the planet in disguise
 to return home.
-[
-4
-]
 Serving the New Republic
 [
 ]
@@ -550,27 +480,15 @@ Entering the Navy
 Eventually, Poe Dameron joined the
 New Republic Defense Fleet
 .
-[
-7
-]
 Upon entering the New Republic's service, he was trained by legendary pilot and Rebel veteran,
 Wedge Antilles
 and was considered to be one of Antilles' best students.
-[
-11
-]
 Poe also began to learn the true scope of his mother's heroism, and he himself rose through the ranks, becoming a
 commander
 for the
 New Republic
 .
-[
-7
-]
 Earning a reputation of being extremely skilled,
-[
-22
-]
 Poe would be given command of
 Rapier Squadron
 , a group of
@@ -581,9 +499,6 @@ BB-8
 , who would go onto assist him during his flights as
 Rapier Leader
 and become a steadfast friend from then on.
-[
-7
-]
 Commander of Rapier Squadron
 [
 ]
@@ -591,9 +506,6 @@ Commander of Rapier Squadron
 Rapier Squadron...Punch it!
 "
 ―Commander Poe Dameron
-[
-23
-]
 At one point in his Navy career, Rapier Squadron was deployed to
 Brooksdion
 space station
@@ -603,9 +515,6 @@ whose occupants had just stolen the head of a droid assigned to an admiral. They
 Lost Souls
 asteroid field
 . Dameron ordered his wingmen to hold, but he continued the chase.
-[
-23
-]
 His
 squadron
 was stationed at the
@@ -622,9 +531,6 @@ ships
 from
 piracy
 .
-[
-7
-]
 The
 Yissira Zyde
 [
@@ -639,9 +545,6 @@ If it does, it'll be dealt with then.
 So we do nothing? That's the solution? An emerging threat, and we do nothing?
 "
 ―Poe Dameron and Lonno Desso, discussing the First Order
-[
-7
-]
 After four
 weeks
 of inactivity, Dameron's scanner picked up a
@@ -671,9 +574,6 @@ shuttles
 attacking the
 Zyde
 . Though during the skirmish Dameron fell five enemy ships, and Kun the other three, the squadron lost Muran.
-[
-7
-]
 Dameron engages the First Order near OR-Kappa-2722.
 Afterwards, Dameron tried to convince Desso to contact the
 Resistance
@@ -709,9 +609,6 @@ Leia Organa
 , who requested that he tell her everything about the
 Yissira Zyde
 .
-[
-7
-]
 Pilot of the Resistance
 [
 ]
@@ -725,9 +622,6 @@ I'm a Republic officer, General. I swore an oath to protect the Republic, to—
 No, you misunderstand. I like it. It was rash of you, as I said, it was foolish. But we could use some rash these days, and foolish and passionate are often confused, and passion is something we desperately need.
 "
 ―Poe Dameron and Leia Organa
-[
-7
-]
 Upon ending his account of the skirmish, Organa realized that Dameron reminded her of her brother Luke Skywalker—for being passionate, an outstanding pilot and dedicated to doing what was right—and offered him the opportunity to join the Resistance in its
 conflict
 against the First Order. Dameron immediately accepted, as did Kun and Arana. Retaining the
@@ -737,13 +631,7 @@ wing
 , Dameron was transferred to the
 Echo of Hope
 , and in the next few months, he went onto helping in recruiting efforts to find additional pilots, scouting missions, long-range reconnaissance, and searching for signs of First Order movement and positions.
-[
-7
-]
 In his service to the Resistance, Dameron became one of Organa's most-trusted operatives,
-[
-24
-]
 and quickly rose through the ranks of the understaffed
 Starfighter Corps
 , earning the command of both
@@ -763,13 +651,7 @@ hulled
 T-70 X-wing starfighter
 Black One
 ,
-[
-20
-]
 Dameron was assisted during his flights by BB-8.
-[
-25
-]
 Operation: Sabre Strike
 [
 ]
@@ -777,9 +659,6 @@ Operation: Sabre Strike
 Captain Kun is an exceptional pilot, without question, as is Captain Arana, for that matter. But it's a rare pilot who engages one frigate and two Star Destroyers and lives to tell the tale.
 "
 ―Leia Organa to Poe Dameron
-[
-7
-]
 Dameron, wearing a Resistance
 flight suit
 .
@@ -809,9 +688,6 @@ Irving Boys
 to cover his true allegiance, and forced the senator, his pilot and his servant to go into the
 escape pods
 .
-[
-7
-]
 Dameron then made it to the ship's
 cockpit
 and worked on restarting the droid
@@ -829,9 +705,6 @@ Lor San Tekka
 , whom (according to their findings in the
 Hevurion Grace
 ) the First Order was trying to locate, and whom Organa believed held a clue to her brother's location.
-[
-7
-]
 An unlikely friendship
 [
 ]
@@ -839,9 +712,6 @@ An unlikely friendship
 I thought they'd know where our contact was. Well, it was worth a shot.
 "
 ―Poe Dameron
-[
-26
-]
 A creature attacks Dameron and BB-8.
 At some point, Dameron and BB-8 visited the planet
 Neijaia
@@ -856,9 +726,6 @@ Kori Ong
 saved them, and Dameron responded thanks, but they had an urgent matter to attend to. Ong responded that he knew the swamps better and suggested resting for the night because of the roaming dangerous creatures in the swamps. When the next morning came, Dameron, Ong, and BB-8 were caught in a net by natives, but BB-8 used his
 welding torch
 to escape. During their escape, Ong stayed behind to hold them off when Dameron and BB-8 escaped, but they stayed and helped anyway. The three later headed back to Dameron's T-70 X-wing starfighter, but right before Dameron left, he gave Ong a Resistance trinket.
-[
-26
-]
 Retrieving C-3PO
 [
 ]
@@ -870,9 +737,6 @@ to transmit the location of
 Admiral
 Gial Ackbar
 to the Resistance.
-[
-27
-]
 Forming Black Squadron
 [
 ]
@@ -880,9 +744,6 @@ Forming Black Squadron
 You are my team, you are my friends. We are Black Squadron…and it's an honor.
 "
 ―Poe Dameron, forming Black Squadron
-[
-9
-]
 General Organa tasked Dameron to find her brother.
 Determined to find her brother before the First Order did, Organa tasked Dameron with the
 hunt for Lor San Tekka
@@ -899,9 +760,6 @@ Black Squadron
 . Dameron informed the group that they would be departing on a
 mission
 , but, to L'ampar's disapproval, the purpose of their mission remained classified.
-[
-9
-]
 Except for Muva, Dameron and his squadron departed from D'Qar to
 Ovanis
 where Tekka was last seen. Leaving the rest of his squadron to fly above the surface, he flew
@@ -916,16 +774,10 @@ tracker
 on his ship, which meant the First Order was likely to arrive soon. Not too long afterwards, Kun reported to Dameron that a
 First Order landing platform
 was already on site and deploying a taskforce to the cavernous entrance.
-[
-9
-]
 Striking a deal with the elder, Dameron and BB-8 hid their starfighter before
 Agent
 Terex
 burst into the outpost, and Dameron ordered his squadron to "give him some leverage."
-[
-22
-]
 While they did as ordered and fell the platform, Dameron confronted Terex while BB-8 remained hidden. Although he no longer had air support, Terex ordered his
 flametroopers
 to destroy the
@@ -935,9 +787,6 @@ Ravenous
 from
 orbit
 would launch a counterattack.
-[
-22
-]
 However, in the nick of time, the "
 savior
 " hatched from the
@@ -945,9 +794,6 @@ egg
 and attacked everyone. Dameron used the opportunity to distract Terex with a punch, while BB-8 stole the agent's
 blaster pistol
 . As Dameron and Terex fought over it, the creature's counterpart appeared to save the Crèche and killed the newly-hatched beast. Forced into stalemate, Terex called the attack off, and Dameron took advantage of their momentous peace to speak with the elder again. Grateful, she told Dameron where Tekka had gone after leaving the planet, and then left the planet with the rest of her people and the savior. With them safe, Dameron and his squadron retreated from the planet, letting Terex go.
-[
-28
-]
 Prison Break on Megalox Beta
 [
 ]
@@ -955,9 +801,6 @@ Prison Break on Megalox Beta
 May the worst win.
 "
 ―Terex
-[
-21
-]
 Back on D'Qar, Dameron reported to Organa about the search's next destination and told her of the tracking beacon BB-8 had found attached to his ship. While she put C-3PO on the case to see what he learned through his network, she also paid a generous amount to get Black Squadron inside the privately-owned
 prison
 of
@@ -971,25 +814,23 @@ Jedi
 artifacts. Upon arrival, Dameron and his squadron were greeted by
 Luta
 , who gave them a rundown of the prison's rules, and left her men to escort them to the surface. Although they were left to their own devices, Dameron's team found its way to Grakkus' headquarters. However, Dameron soon found out that Terex was already there and had become aware of Dameron's attempts to find the location of Tekka. Grakkus struck a deal with the two of them: he would provide his information to the one who broke him out of the prison.
-[
-21
-]
 After speaking with Grakkus, Dameron told Black Squadron that Grakkus knew where Tekka was. However, he told them they had break him free out of prison before Terex. "Snap" asked Dameron how Terex got there first. All Dameron knew was that the
 F.O.S.B.
 have ears everywhere. Thus, Dameron and Black Squadron started to plan the escape. He then waited until a group of prisoners started ram the door.
-[
-29
-]
 Dameron and the other members of Black Squadron than defended Grakkus's
 fortress
 against the prisoners under Papa
 Toren
-. Dameron then waited for BB-8 and the other astromechs to disable the prison's gravity field. After BB-8 signaled him, Dameron and the others then turned on their gravity belts. After the prisoners were subdued, Dameron had L'ampar acquire guns. Dameron then went into the fortress and took Grakkus. Dameron then contacted Warden Luta and told him that he knew about his deal with Terex. Dameron was able to convince him to let them return to their fighters and leave with Grakkus on one of Luta's ships. As they left the station, Dameron and the other pilots then engaged with the
+.
+Dameron then waited for BB-8 and the other astromechs to disable the prison's gravity field.
+After BB-8 signaled him, Dameron and the others then turned on their gravity belts.
+After the prisoners were subdued, Dameron had L'ampar acquire guns.
+Dameron then went into the fortress and took Grakkus.
+Dameron then contacted Warden Luta and told him that he knew about his deal with Terex.
+Dameron was able to convince him to let them return to their fighters and leave with Grakkus on one of Luta's ships.
+As they left the station, Dameron and the other pilots then engaged with the
 Carrion Spike
 . Before Grakkus made his escape, Dameron was then given information on Tekka. Dameron then returned to D'Qar, where he gave the information to General Organa. Dameron than asked if he would resume his search for Tekka. Organa told him that she had a more important mission for Dameron; to find out who informed Terex about the prison.
-[
-30
-]
 Meeting Suralinda Javos
 [
 ]
@@ -1008,17 +849,11 @@ Stormsailer
 to make their escape. Dameron was then told by Javos she was working on a story about the First Order, it's violations of the
 Galactic Concordance
 , and increasing its military's power to destroy the New Republic with it's new weapons. Dameron wanted to know more, but Javos wanted to tell General Organa directly.
-[
-31
-]
 Dameron then continued to elude the ships. He and Javos were able to lose in the stormsea. Dameron and Javos then went to a tavern continue their discussion. However, they were then taken by Lieutenant
 Weel
 of the First Order Security Bureau with several hooded
 stormtroopers
 . Dameron then tried to goad the stormtroopers into fighting him. He was then freed when Javos sprayed acid into Weel's face and took the remaining stormtroopers. Dameron then took Javos to D'Qar. However, Javos had lied about the information and told the truth to both Dameron and Organa.
-[
-31
-]
 Mission to Kaddak
 [
 ]
@@ -1026,9 +861,6 @@ Mission to Kaddak
 Yeah. Just another day on Kaddak. We need to find that droid and get out of here. This isn't just another spaceport. It's a bad place.
 "
 ―Poe Dameron
-[
-32
-]
 Following the mission to Pheryon, Dameron worked on his hand-to-hand combat skill. He also chatted with BB-8 and tried to figure out who was traitor in Black squadron. While Dameron regarded L'ampar, Kun, Pava, and Wexley, Dameron was frustrated that he could no longer trust his squadron mates and blamed Terex. After Muva ran a diagnostic on his X-wing
 Black One
 '
@@ -1044,13 +876,7 @@ Kaddak
 Supreme Leader
 Snoke
 .
-[
-33
-]
 The droid had sent a transmission but had been unable to transmit the data. General Organa had ordered C-3PO and Dameron to travel to Kaddak to investigate and if possible to retrieve the operative. To avoid drawing attention, Organa instructed Poe to take C-3PO and another pilot as backup in a shuttle. Since Poe was unable to trust his fellow Black Squadron pilots, he decided to bring Oddy Muva and BB-8 for the mission. The four traveled to Kaddak on an old freighter.
-[
-33
-]
 Poe and C-3PO on the planet Kaddak.
 Dameron, BB-8, 3PO, and Muva landed in
 the Sliver
@@ -1067,26 +893,17 @@ mouse droid
 , who revealed that their spy droid was being held by the
 Ranc Gang
 , a feared criminal syndicated that dominated Kaddak.
-[
-32
-]
 Together, Poe and the group headed to the Ranc Gang's base. Upon arriving, Dameron was
 stunned
 by a reception staff member. While Poe was unconscious, several Ranc gangsters surrounded his companions. However, C-3PO outmaneuvered them by activating several Resistance spy droids, who forced the gangsters to stand down. As Poe awoke, C-3PO grumbled about exposing a good set of operatives. Poe also assured BB-8 he was alright. Oddy also informed Poe that C-3PO had dispatched the Resistance spy droids to search for their asset, who turned out to be the
 BX-series droid commando
 N1-ZX
 ("Nunzix"). Instead of expressing gratitude, Nunzix chided them for taking too long.
-[
-34
-]
 Despite their small victory, Poe and his team ran into a new problem when N1-ZX refused to divulge the information until he had safely been returned to the Resistance base on account of his self-preservation programming. Dameron toyed about giving Nunzix a "Robo-lobotomy" but C-3PO countered that forcibly infiltrating his system would result in a complete
 memory wipe
 . Dameron reluctantly agreed to return to D'Qar. Before they could do so, Lord Terex flew over the Sliver in his starship
 Carrion Spike
 and placed a bounty on Poe's head. Terex had already retaken control of the Ranc Gang. Dameron and his team were attacked by a mob but Poe managed to activate more spy droids to hold the crowd at bay.
-[
-34
-]
 Poe and the droids managed to return to their freighter but were separated from Oddy Muva. Since their freighter was not very spaceworthy, Poe had BB-8 open the freighter's cargo bay, which contained his X-wing
 Black One
 . Poe and the droids departed on the
@@ -1099,78 +916,55 @@ Black One
 . Terex also mustered a fleet of
 "Uglies"
 to hunt down Poe.
-[
-34
-]
 Oddy also stowed aboard the
 Carrion Spike
 , intent on rescuing his wife
 Sowa Chuan
 .
-[
-35
-]
 Showdown with Agent Terex
 [
 ]
 Once in space, Poe got BB-8 to set a course for D'Qar. While traveling through hyperspace, Poe confided in BB-8 and C-3PO his angst about how Terex had been able to keep one step ahead of him. After ruling out the droids, General Organa, and his Black Squadron mates as traitors, Poe realized that their mole was Oddy Muva.
-[
-35
-]
 In fact, Oddy Muva had been blackmailed by Terex into spying on Black Squadron in order to guarantee the well-being of his wife Sowa Chuan.
-[
-36
-]
 Poe also realized that the information Nunzix was carrying was part of a ploy by Terex to undermine the Resistance.
-[
-35
-]
 After exiting hyperspace, Dameron contacted N1-ZX and voiced his suspicion that Terex had planted disinformation. Shortly later, Poe's X-wing was followed by Terex's flagship
 Carrion Spike
 and a fleet of "Uglies." Terex quickly realized that Poe had figured out his plan and ordered the Ranc fighters to destroy his perennial foe. Poe managed to shoot down two enemy "Uglies" before crashlanding on a
 desert planet
 .
-[
-35
-]
 Poe carried C-3PO on his back while being incinerated by several
 Uglies
 .
-Poe and the droids survived the crashlanding but N1-ZX's right arm was severed. While BB-8 guided N1-ZX into a cave, Poe carried C-3PO on his back. The group narrowly escaped being incinerated by several "Uglies." Poe decided to bring the group deeper into the cave. Shortly later, Terex led a landing party into the cave in pursuit of Poe and the droids. BB-8 managed to slow down the Ranc Gang by collapsing an ice stalactite on top of them but was shot down. During the journey, tensions surfaced between Poe and Nunzix, who was only concerned with safeguarding his own well-being. Despite some misgivings, Poe allowed C-3PO to stay behind in an effort to slow down Terex and his gang.
-[
-36
-]
+Poe and the droids survived the crashlanding but N1-ZX's right arm was severed.
+While BB-8 guided N1-ZX into a cave, Poe carried C-3PO on his back.
+The group narrowly escaped being incinerated by several "Uglies." Poe decided to bring the group deeper into the cave.
+Shortly later, Terex led a landing party into the cave in pursuit of Poe and the droids.
+BB-8 managed to slow down the Ranc Gang by collapsing an ice stalactite on top of them but was shot down.
+During the journey, tensions surfaced between Poe and Nunzix, who was only concerned with safeguarding his own well-being.
+Despite some misgivings, Poe allowed C-3PO to stay behind in an effort to slow down Terex and his gang.
 After Terex got passed C-3PO and stole the droid's memory unit, Poe tried to convince N1-ZX to fight but the droid was unwilling to put himself at risk due to his self-preservation software. In frustration, Poe pointed his blaster at N1-ZX but the droid retorted that doing so would give their position away. When all seemed lost, Poe was contacted by his second-in-command Temmin, who reassured him that Black Squadron had come to his aid. Black Squadron then engaged in a dogfight with the
 Carrion Spike
 and Terex's fleet of "Uglies."
-[
-36
-]
 With N1-ZX unwilling to fight, Poe contacted Temmin, who sent him a droid personality template for his late
 B1-series battle droid
 Mister Bones
 . Poe used his
 comlink
 to transmit the template onto N1-ZX, who assumed Mister Bones' identity. Mister Bones quickly killed Terex's henchmen before being shot and beheaded by Terex. When Terex dared Poe to come out of hiding, Poe leapt onto Terex from higher ground and threw him to the ground. Poe then confronted Terex with his blaster and vowed to settle scores with him.
-[
-37
-]
 However, Terex hurled a dagger at Poe. The dagger pierced Poe's right hand, causing him to drop the gun. Terex then prepared to kill Poe with his
 vibroblade
 but was electrocuted by BB-8. Meanwhile, Oddy Muva managed to evacuate his wife and Terex's other slaves in escape pods. Black Squadron provided cover as the escape pods headed to the desert world. During the skirmish, L'ampar was killed when his A-wing was shot down. Still, the Resistance pilots managed to escort Oddy and the escape pods to safety. Terex's fleet was wiped out when First Order forces under Commander
 Malarus
 arrived above the desert planet to chastise Terex for insubordination.
-[
-37
-]
 Terex had disobeyed the Supreme Leader's directive to avoid direct conflict with the New Republic and its aligned forces.
-[
-35
-]
-Poe dragged Terex and C-3PO out of the cave. He was greeted by Commander Malarus and several stormtroopers and TIE fighters. To ward off a First Order attack, Dameron instructed Temmin and the other pilots to do a fly over and record everything that happened. Commander Malarus however was not interested in fighting the Resistance and praised Dameron for his political savvy. She then informed him that she had come to arrest Terex. Poe did not object since Terex was his enemy. Before handing Terex over, Dameron taunted Terex about the destruction of his fleet. When Terex countered that Poe had lost one of his pilots, Dameron responded that he had only lost a friend while Terex had lost everything.
-[
-37
-]
+Poe dragged Terex and C-3PO out of the cave.
+He was greeted by Commander Malarus and several stormtroopers and TIE fighters.
+To ward off a First Order attack, Dameron instructed Temmin and the other pilots to do a fly over and record everything that happened.
+Commander Malarus however was not interested in fighting the Resistance and praised Dameron for his political savvy.
+She then informed him that she had come to arrest Terex.
+Poe did not object since Terex was his enemy.
+Before handing Terex over, Dameron taunted Terex about the destruction of his fleet.
+When Terex countered that Poe had lost one of his pilots, Dameron responded that he had only lost a friend while Terex had lost everything.
 Dameron and the remainder of Black Squadron attended the
 funeral of L'ulo L'ampar
 at the Resistance base. There, Dameron spoke about being more than flesh and bone, but luminous beings according Jedi Masters
@@ -1180,33 +974,15 @@ Yoda
 . He also said that L'ampar was his uncle who raised him since he was a child. Despite being cranky, Dameron considered him one of best pilots he ever met. He said "
 May the Force be with you
 , L'ulo."
-[
-38
-]
 As Dameron and BB-8 worked
 Black One
 , they were approached by General Organa who was surprised that he was not with the rest of Black Squadron at L'ulo's wake. Despite that, Organa asked Dameron to debrief him on Oddy Muva and where he was.
-[
-38
-]
 Dameron told her that they found several escape pods from
 Carrion Spike
 that had several of Terex's slaves.
-[
-37
-]
 The slaves told him that Muva had modified one othe other pods and escaped with another slave, who was his wife. Despite Muva's disappearance,
-[
-38
-]
 Organa was concerned about C-3PO's missing memory unit.
-[
-37
-]
 Dameron was then told that he would be grounded for the time being. Dameron attended L'ulo's wake and was then given a new mission by Organa.
-[
-38
-]
 Fuel mission
 [
 ]
@@ -1216,9 +992,6 @@ Previous encounters with Poe Dameron suggest a 97 percent probability he will de
 ―Terex, to Commander
 Malarus
 about Poe Dameron
-[
-39
-]
 Dameron and the Resistance's leaders discussed their forces lack of supplies; particularly fuel. Dameron and black squadron met up with Captain
 Perrili
 's ship, the
@@ -1231,38 +1004,23 @@ Romary
 s bridge in order to take the fuel to D'Qar. Unfortunately, Dameron and BB-8 discovered there was bomb aboard. Dameron, Pava and the astromechs steered the
 Romary
 through a asteroid field. Dameron learned that the First Order had taken the fuel and decided to launch a mission to retrieve it.
-[
-40
-]
 Dameron and BB-8 were able to fly the
 Romary
 through the asteroids. Despite Black Squadron's objection, Dameron decided to continue with the mission. Dameron contacted Commander Malarus and demanded she give the fuel and leave. Dameron and Black Squadron took to their X-wings, flew towards the hyperspace ring and destroyed. Dameron and his squadron were able to take the
 First Order's tanker
 after the crew abandoned it.
-[
-39
-]
 They were able to take the tanker back to D'Qar.
-[
-41
-]
 Search for Oddy Muva & Spalex
 [
 ]
 Following his return to D'Qar, Dameron was able to convince Organa to allow Javos to join Black Squadron. Dameron and Organa knew they need to gain support, donations and funds for the Resistance from the public. Dameron gave Pava and Javos a antique
 BTL-S3 Y-wing starfighter
 . Despite Pava's concerns, Dameron and Wexley left them with Kun to find Muva.
-[
-41
-]
 Dameron and Wexley found Muva's wife at his
 home
 on
 Abednedo
 . Chuan told Dameron about how Muva was forced to give Terex information on the resistance. Despite Dameron's feelings, he agreed to save her husband from the First Order and take him back to D'Qar.
-[
-42
-]
 Wexley and Poe become prisoners aboard the
 Enshado
 .
@@ -1275,17 +1033,11 @@ Spalex
 . Dameron, with Terex's helped, made contact with Muva. Their cell was opened and made their way back to the fighters. Once back in their X-wings, Dameron shot down Malarus' shuttle and took out the TIEs attacking Pava, Javos, and Kun. Dameron then saw Muva in a TIE fighting alongside them. He watched Muva made a suicide run at the
 Enshado
 and destroyed it. Dameron met up with Pava, Javos, and Kun on Spalex. Javos told him that she lost the footage, but she was able to save footage of Muva's sacrifice.
-[
-43
-]
 Following the mission, Dameron intercepted a distress signal from a transport. En route to the transport, Dameron and BB-8 ran into a
 mine
 field left over from the Empire. Dameron was able to get himself and BB-8 to the transport by detonating the mine field. Once aboard the transport, Dameron found First Order stormtroopers. He and BB-8 were able to take out several stormtroopers and discovered that the transport was heading towards
 Jaelen
 with weapons from Agent Terex. Dameron planted several explosives before and BB-8 made their way towards a escape pod as several stormtroopers came towards him. Dameron sent BB-8 in the escape pod while he took on the stormtroopers alone. Dameron was then saved by Black Squadron. He returned D'Qar and informed Organa that Terex was still alive.
-[
-44
-]
 Dameron was then given a new mission by C-3PO. The mission was to retrieve a archive from
 Mek Nu'Tiv
 that contained blueprints to super weapon. The plan was for Black Squadron to pose as smugglers and fly in antique
@@ -1297,22 +1049,13 @@ Archive of the Great Library of Alderaan
 that had been smuggled off world before
 the Disaster
 . Dameron was surprised that Organa would sell the Archive.
-[
-45
-]
 Mission to Cato Neimoidia
 [
 ]
 Dameron, after fixing his ship, discovered that San Tekka had been arrested on
 Cato Neimoidia
 .
-[
-46
-]
 After some training on D'Qar,
-[
-47
-]
 Dameron was smuggled into the
 Great Vaults of Cato Neimoidia
 by hiding in one Organa's
@@ -1326,9 +1069,6 @@ Black One
 . Unfortunately, Malarus stole
 Black One
 and Terex stole Organa's ship.
-[
-48
-]
 Poe asked Paw Maccon if he could borrow a ship.
 Dameron informed Organa of the theft and was given another ship by
 Baron
@@ -1340,9 +1080,6 @@ Reya
 of
 House Reya
 , Dameron spoke with Organa and Javos, they came to the conclusion that Terex was behind the theft of Organa's ship and assumed he was heading towards a First Order base with Tekka. Fortunately, Organa's wardrobe had a tracker in it.
-[
-49
-]
 Dameron and Black Squadron boarded the
 Raddus
 where and BB-8 examined
@@ -1350,17 +1087,11 @@ Black One
 . Dameron attended a briefing with Organa and Black Squadron to outline their plan to find Terex and rescue Tekka. Dameron and Black Squadron took their fighters to Terex's location. Unfortunately, they could not find Terex until he contacted the
 Raddus
 . Dameron demanded to know Tekka's position, to which Terex gave to both him and the First Order.
-[
-50
-]
 Dameron, Black Squadron, and the Resistance found him near the
 Great Forveen Nebula
 . Dameron and Black Squadron fought off the First Order's TIEs while a shuttle retrieved Tekka. Unfortunately, the First Order destroyed the shuttle and sent several
 First Order jet troopers
 to bring him to the Light cruiser. Dameron lead Black Squadron in attacking the cruiser, where they were able disable the cruiser's shield and itself. Dameron contacted the Resistance for another shuttle after the previous shuttle's crew rescued Tekka.
-[
-51
-]
 Dameron, Organa, Tekka and Black squadron returned to D'Qar. There Dameron and BB-8 repaired
 Black One
 . Dameron then attended
@@ -1368,9 +1099,6 @@ Snap and Karé's wedding
 . After the wedding, Dameron spoke with Tekka about his mission to find information on Skywalker's location and his view on the Force had changed. Tekka left and told Dameron, "
 May the Force of others be with you
 " until they meet again.
-[
-51
-]
 Meeting Kazuda Xiono
 [
 ]
@@ -1385,9 +1113,6 @@ Castilon
 , where Poe showed them around and introduced them to
 Jarek Yeager
 , a former rebel pilot and war veteran, who he appointed as Kazuda's mentor. After a brief conversation with Yeager, Poe returned to the Resistance.
-[
-52
-]
 Rescue of Synara San
 [
 ]
@@ -1413,13 +1138,7 @@ Kowakian ape-lizard
 . Synara and Kazuda were later dropped off on the
 Colossus
 as Poe flew away.
-[
-53
-]
 Poe and Xiono's act of kindness did not go unnoticed. Synara's boss Kragan discovered that Poe and Kaz were Resistance pilots and informed Synara, who intended to question Kaz.
-[
-54
-]
 Synara and Kaz became friends after the two worked together to save the
 Colossus
 during the
@@ -1429,9 +1148,6 @@ Imanuel Doza
 , the leader of the
 Colossus
 .
-[
-55
-]
 Station Theta Black
 [
 ]
@@ -1441,9 +1157,6 @@ Your mission is reconnaissance only. Do not engage the enemy.
 ―General
 Leia Organa
 , to Commander Poe Dameron about his mission to Station Theta Black
-[
-56
-]
 Poe and Kazuda land on Station Theta Black.
 During his spying operations, Kazuda had sent data stolen from the First Order to the Resistance. This data was found to lead to a set of coordinates in the
 Unknown Regions
@@ -1454,29 +1167,17 @@ Fireball
 . Poe and Kazuda visited General Organa, who revealed her findings to them and
 instructed both to find the location
 , though she warned Poe not to directly confront the First Order.
-[
-56
-]
 Eventually, they found the location:
 Station Theta Black
 , an abandoned mining facility built into an asteroid. Inside the station, they found that most of the equipment was defunct as the area was very soon set for demolition. While exploring the station, they were accosted by a
 First Order sentry droid
 , which Poe disabled with his blaster. Despite Xiono and BB-8's objections, Poe insisted on investigating what Station Theta Black was being used for.
-[
-56
-]
 The Resistance operatives soon found another control room where BB-8 downloaded data showing that the First Order had been using Station Theta Black as a
 dedlanite
 mine and processing station. Before they could leave, they were confronted by several of Captain Phasma's First Order stormtroopers. Following a brief skirmish and prolonged pursuit, Poe and his comrades managed to rendezvous with CB-23 and the X-wings, allowing them to escape the station.
-[
-56
-]
 In space, they engaged Major Vonreg and
 his TIE squadron
 in a brief dogfight. After the First Order retreated, Poe and Xiono narrowly escape an explosion caused by the detonation of the station. Poe, Xiono, and the droids returned to General Organa with news that the First Order was building lots of weapons. Telling Leia of their findings, Leia stated that she doubted that this would dissuade any of the New Republic senators sympathetic to the First Order, but hoped more people would start supporting the Resistance due to this.
-[
-56
-]
 Dassal system
 [
 ]
@@ -1492,9 +1193,6 @@ military occupation
 , Poe managed to sneak aboard the refueling platform. After meeting up with Kaz, Yeager, and BB-8, Poe departed with Kaz and BB-8 aboard Kaz's racer
 Fireball
 .
-[
-57
-]
 They then hitched a ride on a departing freighter. During the journey, Kaz updated Poe about his spying activities on the
 Colossus
 including obtaining a
@@ -1504,9 +1202,6 @@ Fireball
 '
 s engines.
 Once they were safely airborne, the group rendezvoused with Poe's X-wing, which was being piloted by CB-23. After Poe boarded his ship, they traveled to the Dassal system.
-[
-57
-]
 Arriving in the Dassal system, Poe and Kaz discovered several
 planetoids
 that had been drilled through including the planet
@@ -1516,15 +1211,9 @@ moon
 , Poe, Kaz, and BB-8 discovered a settlement and evidence of a massacre. They encountered a
 Spider probe droid
 , which deployed several smaller drones. Poe and Kaz managed to destroy the droids but failed to prevent them from alerting the First Order.
-[
-57
-]
 Major Vonreg and his TIE squadron arrived and Poe, Kaz, and BB-8 fled to their starships. Poe and Kaz led Major Vonreg on a pursuit through the Dassal system. Poe and Kaz managed to lose their First Order pursuers by flying their fighters through a
 gravity well
 inside Najra-Va's core. Two of the TIE fighters were destroyed and Poe managed to shoot down two more. Vonreg retreated to fight another day.
-[
-57
-]
 Before departing for a
 mission
 to
@@ -1532,9 +1221,6 @@ Jakku
 , Poe swapped droids with Kaz, retaking his droid BB-8. CB-23 was paired up with Kaz, who returned to the
 Colossus
 . Poe departed with BB-8 into hyperspace.
-[
-57
-]
 Mission to Jakku
 [
 ]
@@ -1542,14 +1228,8 @@ Mission to Jakku
 The Resistance... will not be intimidated by you.
 "
 ―Poe Dameron to Kylo Ren
-[
-3
-]
 Leia Organa sends Poe Dameron to Jakku
 A few months after his adventures with Kazuda, Poe picked up BB-8,
-[
-57
-]
 and at Organa's behest, both went to
 Tuanul
 on
@@ -1568,9 +1248,6 @@ blaster
 bolt in mid-air and immobilized Dameron simultaneously with
 the Force
 . Recognized as Resistance personnel with the jacket he had donned, Ren subsequently took Dameron as prisoner knowing that Tekka gave the map to Dameron, while the rest of the villagers were slaughtered, much to Dameron's horror.
-[
-3
-]
 Kylo Ren was able to telepathically extract information from Dameron's mind.
 Taken aboard the
 Resurgent
@@ -1592,34 +1269,19 @@ system
 , Dameron attempted to return to Jakku to retrieve BB-8 and the map—, their TIE fighter was disabled on General
 Armitage Hux
 's orders, the blast knocking Dameron out.
-[
-3
-]
 Whereas FN-2187, dubbed "Finn" by Dameron, ejected from the TIE shortly before it crashed on the planet's surface,
-[
-3
-]
 Dameron was unable to eject due to his jacket getting caught in the ejector mechanism. With no time left to eject, Dameron piloted the craft as skillfully as he could to a crash landing which threw him clear of the the crash, his jacket falling in another direction.
-[
-58
-]
 Suffering from a concussion and a brief period of memory loss, he moved away from the crash. When he awoke, Dameron found himself alone and set off to find a ship and contact the Resistance, sure that he would be able to reunite with BB-8 with their help. During his journey, he encountered a Jakku native, the
 Blarina
 Naka Iit
 , whom Dameron managed to impress with both his sheer audacity and his piloting skills, such that he agreed to get Dameron to a ship in
 Blowback Town
 that would get him back to the Resistance.
-[
-59
-]
 Dameron hitched a ride from Iit's friend,
 Ohn Gos
 to Yavin 4, where he left
 Black One
 prior to his mission to Jakku.
-[
-60
-]
 First Order/Resistance War
 [
 ]
@@ -1630,9 +1292,6 @@ Battle of Takodana
 Go straight at 'em. Don't let these thugs scare you.
 "
 ―Poe Dameron
-[
-3
-]
 Poe engaging First Order forces on Takodana.
 Following the
 destruction
@@ -1646,25 +1305,16 @@ castle
 on
 Takodana
 .
-[
-3
-]
 Dameron, piloting the
 Black One
 , swooped in dangerously low, attacking at treetop level, and took out parked TIE fighters, clusters of
 troopers
 , and support vehicles, firing repeatedly without wasting a single energy burst.
-[
-59
-]
 The battle ended prematurely when Ren ordered his troops to retreat once he had captured
 Rey
 , a
 scavenger
 who had seen the map to Skywalker's location.
-[
-3
-]
 After returning to base, Dameron was reunited with BB-8 and Finn, who offered to return his jacket. Dameron declined, stating that his jacket suited Finn better. Subsequently, the ex-trooper requested Dameron's help in rescuing his friend Rey, by asking Dameron to take him to meet General Organa. Together, they made it to the conference room, where Finn disclosed what he knew of the First Order
 superweapon
 ,
@@ -1672,9 +1322,6 @@ Starkiller Base
 . After a reconnaissance flight by Wexley, the Resistance command made the plans to attack the base, assigning Dameron to lead the starfighter attack to the weapon's
 thermal oscillator
 .
-[
-3
-]
 Battle of Starkiller Base
 [
 ]
@@ -1682,17 +1329,11 @@ Battle of Starkiller Base
 All right, let's light it up!
 "
 ―Poe Dameron during the attack run on Starkiller Base
-[
-3
-]
 Upon receiving notice that the
 Millennium Falcon
 had landed on Starkiller Base, Organa sent the order to deploy the X-wings. Dameron, in the lead, was aboard
 Black One
 and assisted by BB-8 once again, and departed D'Qar along his fellow pilots.
-[
-59
-]
 Once Finn,
 Han Solo
 and
@@ -1702,40 +1343,22 @@ shields
 , Dameron was given full authorization to
 attack
 , and his team emerged from lightspeed.
-[
-3
-]
 Ordering his fellow pilots to hit the target as many times as possible with as many runs as they could get, he himself let loose his X-wing's full complement of armament,
-[
-59
-]
 but they barely damaged the building before a host of TIE fighters moved to engage the X-wing squadrons, as well as deployed
 seekers
 .
-[
-3
-]
 Dameron flies in and destroys the Starkiller's thermal oscillator.
 The ground team, however, planted
 pyro denton explosives
 to create an opening in the containment center, which Dameron took advantage of—with the assistance of his squadron, he flew through the opening and caused heavy damage inside, starting a chain reaction that would ultimately destroy Starkiller Base. Dameron escaped the explosion, heading for the outer atmosphere,
-[
-3
-]
 yet at the order of General Organa to retreat immediately, Dameron refused to leave their friends in the
 Falcon
 behind. His fellow pilots concurred, and Dameron gave the order to find them.
-[
-59
-]
 After spotting the
 Falcon
 leaving Starkiller Base, Dameron called in his teams in relief and reached D'Qar shortly before the old
 YT-1300 light freighter
 did.
-[
-59
-]
 Like BB-8 and many others, he waited for the
 Falcon
 as it landed on their base. There, sometime later, Dameron was present for a strategic gathering concerning the map to Skywalker's location, when Skywalker's astromech,
@@ -1743,9 +1366,6 @@ R2-D2
 , awoke and revealed his possession of an incomplete
 galactic
 map from the Imperial archives, only completed with BB-8's fragment.
-[
-3
-]
 Evacuation from D'Qar
 [
 ]
@@ -1766,17 +1386,11 @@ Dameron
 Thank you for your support, General. Happy beeps.
 "
 ―BB-8, Poe Dameron and Leia Organa debate about Dameron buying time for the Resistance evacuation
-[
-10
-]
 After the successful attack on Starkiller Base, the Resistance lowered their guard on their base at D'Qar, having initially come to believe that they weren't going to live another day. However, as they resumed their activities, C-3PO called General Organa and the other Resistance members to inform them that the
 First Order Navy
 was regrouping to attack them in retaliation, resulting in Organa ordering Threepio to give the order to evacuate the planet. Concluding that they would not be able to leave the planet before the attack, Dameron proposed a pretty simple distraction idea, which Organa agreed to listen: he would pilot the
 Black One
 and hold the First Order's fleet long enough to give them time for evacuating, considering that the First Order commanders had planet-sized egos would lead them to compete to take him out.
-[
-61
-]
 Though Admiral
 Ushos O. Statura
 informed Dameron that he wasn't going to survive such a maneuver, Dameron replied that he would be a tiny target for the Star Destroyers' large weaponry that would never hit him, assuring that he could even fly close to the Destroyers so to make them cause damage between each other. Convinced that Dameron's tactic would serve, Organa approved his plan and wished
@@ -1786,9 +1400,6 @@ Black One
 had an experimental booster. At that moment, Snap,
 Tallie Lintra
 , Suralinda Javos appeared on scene and Wexley told Dameron that in case he was blown up, they would help to finish the mission, including Pava, telling him that this was a mission for the whole Black Squadron despite Dameron saying that their assistance wasn't part of the plan. However, General Organa came and dismissed their assistance, telling Captain Wexley that she needed them to reach out their New Republic allies and gather help before Snoke consolidated his power across the galaxy.
-[
-61
-]
 Demotion and mutiny against Amilyn Holdo
 [
 ]
@@ -1796,9 +1407,6 @@ Demotion and mutiny against Amilyn Holdo
 COWARD! These transport ships are unarmed, unshielded. We abandon this cruiser, we're done, we don't stand a chance. No, you are not just a coward, you are a traitor.
 "
 ―Dameron yelling at Holdo onboard the Raddus
-[
-10
-]
 Shortly after giving Armitage Hux a message about his
 mother
 , Dameron eliminated the surface cannons onboard the
@@ -1808,13 +1416,7 @@ Cobalt Squadron
 to bomb the dreadnought. While the attack was successful, it also resulted in the destruction of the squadron, and the deaths of turret gunner
 Paige Tico
 and many others. Eventually, Dameron's reckless actions landed him in trouble with his allies, and he was demoted from
-[
-10
-]
 Wing Commander
-[
-62
-]
 to the rank of
 Captain
 by General Organa following the evacuation of D'Qar, as well as a slap to the face from her. However, Organa was heavily injured during the subsequent
@@ -1829,9 +1431,6 @@ Raddus
 , which would have allowed the First Order to eventually blow up the
 flagship
 and kill the remaining Rebels.
-[
-10
-]
 The feud between captain and vice admiral begins
 Sure that Leia wouldn't have approved Holdo's direction, Poe teamed up with
 Lieutenant
@@ -1851,9 +1450,6 @@ DJ
 , the codebreaker they hired to infiltrate aboard the
 Supremacy
 , Poe and his allies started the mutiny against Holdo and her allies, with Poe trying to convince C-3PO to join his cause, although 3PO refused to be part of the mutiny for being unethical. However, Organa recovered by the time of the mutiny and after Holdo managed to escape from Poe's mutineers, the princess arrived on the bridge and fired a stun blast, knocking him out.
-[
-10
-]
 Battle of Crait
 [
 ]
@@ -1861,9 +1457,6 @@ Battle of Crait
 We are the spark that'll light the fire that'll burn the First Order down.
 "
 ―Poe Dameron
-[
-10
-]
 Poe was reunited with BB-8 on Crait.
 Eventually, Organa decided to follow Holdo's plans to abandon ship. Said and done, every member of the Resistance evacuated, leaving Holdo aboard the
 Raddus
@@ -1878,9 +1471,6 @@ mineral
 planet of
 Crait
 .
-[
-10
-]
 Once at Crait, the Rebels entered in the planet's
 outpost
 . During the ensuing
@@ -1888,9 +1478,6 @@ battle
 , Poe commanded the Rebels, but ultimately suffered heavy losses to the First Order's army and TIE fighters. They concluded that they would not be able to escape, but when Poe saw a
 vulptex
 running away through an unknown passageway, the Rebels followed him under Leia's orders to escape. However, the passageway ended in a hole too small for the Rebels to pass. Fortunately, while Luke Skywalker was fighting against Kylo Ren, Rey appeared and moved the rocks with the Force, allowing the Rebels to escape to fight another day. Once safe, Poe met Rey, and took the opportunity to introduce himself to the last Jedi.
-[
-10
-]
 Aboard the
 Falcon
 [
@@ -1907,36 +1494,30 @@ not
 to think about different paths.
 "
 ―Poe Dameron and Rey following the Battle of Crait
-[
-58
-]
-Now safe from the First Order, drinking accompanied by Rey, Finn and BB-8, Poe commented about their past experiences, leading Rey to tell him that she had learned they can't dwell on changing the past, rather concentrate in the present. Poe responded, however, that he just avoided a lot of heartache and that considering all they went through, it was hard to not think about different paths, prompting Finn to comment that had they would have met the scavenger together, perhaps he wouldn't have been knocked to the ground by her.
-As the former stormtrooper said that he believed Poe to have died in the TIE crash, Poe proceeded to state that he walked away from tons of crashes, telling Rey that there were extenuating circumstances to crash as she asked him why he crashed constantly if he was the "best" pilot of the galaxy. After Finn commented that perhaps Rey was the best pilot than him and Poe responded that at least they got away alive, Finn asked him how he survived, as he never explained him in detail how he got off-world from Jakku, leading Poe to recall and tell the story of his miracle survival.
-[
-58
-]
-Poe continued to tell his adventures, even telling his friends how he felt over Takodana, leading Rey to comment that it sounded like he had the Force, but Poe refused and confirmed he was not Force-sensitive. Leia entered into the room and told him that the Force was with him, as it was with all of them. She then departed from the room to rest and asked Dameron to meet her afterwards to talk with him. Finn then left too to see if Rose was better, leaving Poe and Rey alone, both agreeing that Finn was a good person, as he saved their lives. Poe took the opportunity to ask her about her adventure with Luke Skywalker, but one of the porgs that Chewbacca adopted interrupted them, causing Rey to tell him about the small avian creatures.
-[
-63
-]
+Now safe from the First Order, drinking accompanied by Rey, Finn and BB-8, Poe commented about their past experiences, leading Rey to tell him that she had learned they can't dwell on changing the past, rather concentrate in the present.
+Poe responded, however, that he just avoided a lot of heartache and that considering all they went through, it was hard to not think about different paths, prompting Finn to comment that had they would have met the scavenger together, perhaps he wouldn't have been knocked to the ground by her.
+As the former stormtrooper said that he believed Poe to have died in the TIE crash, Poe proceeded to state that he walked away from tons of crashes, telling Rey that there were extenuating circumstances to crash as she asked him why he crashed constantly if he was the "best" pilot of the galaxy.
+After Finn commented that perhaps Rey was the best pilot than him and Poe responded that at least they got away alive, Finn asked him how he survived, as he never explained him in detail how he got off-world from Jakku, leading Poe to recall and tell the story of his miracle survival.
+Poe continued to tell his adventures, even telling his friends how he felt over Takodana, leading Rey to comment that it sounded like he had the Force, but Poe refused and confirmed he was not Force-sensitive.
+Leia entered into the room and told him that the Force was with him, as it was with all of them.
+She then departed from the room to rest and asked Dameron to meet her afterwards to talk with him.
+Finn then left too to see if Rose was better, leaving Poe and Rey alone, both agreeing that Finn was a good person, as he saved their lives.
+Poe took the opportunity to ask her about her adventure with Luke Skywalker, but one of the porgs that Chewbacca adopted interrupted them, causing Rey to tell him about the small avian creatures.
 After commenting his wish of getting another X-Wing following the destruction of the
 Black One
-, Poe told Rey that he regretted the Resistance having deployed too soon from Takodana because they could have saved Kanata's castle from getting destroyed, causing her ask him about Kanata's status, to which Poe informed her that Kanata was alright. Rey then commented him about being tortured by Kylo Ren on his ship, to which Poe told her that Kylo did the same on him, calling themselves "torture buddies." He then proceed to tell her about his initial thoughts about Starkiller Base and his mission to drop Wexley inside a
+, Poe told Rey that he regretted the Resistance having deployed too soon from Takodana because they could have saved Kanata's castle from getting destroyed, causing her ask him about Kanata's status, to which Poe informed her that Kanata was alright.
+Rey then commented him about being tortured by Kylo Ren on his ship, to which Poe told her that Kylo did the same on him, calling themselves "torture buddies." He then proceed to tell her about his initial thoughts about Starkiller Base and his mission to drop Wexley inside a
 recon pod
 in order to let him scan the base, setting stage for the destruction of the base.
-[
-63
-]
 As Poe left to speak with Finn, Rey had Threepio translate one
 book
 of the
 sacred texts
 of the Jedi. Poe met with him, asking him about Rose's status, to which Finn replied that she was asleep and though he believed that it was good, he wasn't sure at all given that he wasn't a
 doctor
-and commented to him that in the First Order, if stormtroopers had the fault of receiving a mortal wound, they were left to die, causing Poe to comment that such idea was insane. He then told his friend that he was sure that Tico would be alright even though he couldn't be sure that she was as he can't be sure if the First Order would lose the war or if the things they needed to happen would ever happen, but that he was sure that he could choose to believe that Tico would recover. After wrapping Rose, Finn asked Poe why they didn't defeated the First Order after Starkiller was destroyed, causing the Resistance to lose almost everything, including its base.
-[
-61
-]
+and commented to him that in the First Order, if stormtroopers had the fault of receiving a mortal wound, they were left to die, causing Poe to comment that such idea was insane.
+He then told his friend that he was sure that Tico would be alright even though he couldn't be sure that she was as he can't be sure if the First Order would lose the war or if the things they needed to happen would ever happen, but that he was sure that he could choose to believe that Tico would recover.
+After wrapping Rose, Finn asked Poe why they didn't defeated the First Order after Starkiller was destroyed, causing the Resistance to lose almost everything, including its base.
 As such, Poe told his friend what exactly happened after Starkiller's destruction, having Finn being unconscious at the
 flexpoly bacta suit
 after his short duel against Ren. After he told him about the evacuation from D'Qar, Finn asked him what happened to the rest of Black Squadron, to which Poe said that from the
@@ -1944,23 +1525,20 @@ distress signal
 they sent from Crait, they received no response, assuming that Wexley and the others didn't had luck in gathering their Republic allies, to which Finn asked him if he would choose to believe that they succeeded, as he previously stated his thoughts about Rose's recovery. Just at that moment, Threepio appeared on scene and told the two men that from one of their
 relay stations
 , they had received a transmission from the Black Squadron, leading Poe to tell Finn that they just needed to have a little faith. Upon his excitement, however, Poe was interrupted by Threepio, who proceeded to inform him that unfortunately, the news were actually far from being good.
-[
-61
-]
 Listening to BB-8's
 hologram
-transmission, Dameron heard how Pava reported that her starfighter was defective, asking Bee-Bee to pause the recording and asking Threepio to not tell him if the recording showed Pava's last words, to which C-3PO responded that the recording ended there and that perhaps the First Order detected the comsat and destroyed it. As Threepio revealed that the incomplete recording took place during the evacuation from D'Qar and that General Organa requested him to see it as one of the few remaining military commanders, Dameron responded that by such incomplete footage, he couldn't be sure whether his teammates were alive or dead.
-[
-64
-]
-Repeating Pava's recording, just as he ordered BB-8 to playback the recording once more, Dameron was informed by the protocol droid, wondering if the First Order had built a second Starkiller Base and blown up ten more planets, that they had now good news, as Black Squadron had send a new message through a secondary encrypted and a bit garbled relay node. Dameron happily thanks Threepio's information and listened to the transmission after playing Pava's recording for a final time. Listening to the message, Pava informed him that Black Squadron had been involved in an
+transmission, Dameron heard how Pava reported that her starfighter was defective, asking Bee-Bee to pause the recording and asking Threepio to not tell him if the recording showed Pava's last words, to which C-3PO responded that the recording ended there and that perhaps the First Order detected the comsat and destroyed it.
+As Threepio revealed that the incomplete recording took place during the evacuation from D'Qar and that General Organa requested him to see it as one of the few remaining military commanders, Dameron responded that by such incomplete footage, he couldn't be sure whether his teammates were alive or dead.
+Repeating Pava's recording, just as he ordered BB-8 to playback the recording once more, Dameron was informed by the protocol droid, wondering if the First Order had built a second Starkiller Base and blown up ten more planets, that they had now good news, as Black Squadron had send a new message through a secondary encrypted and a bit garbled relay node.
+Dameron happily thanks Threepio's information and listened to the transmission after playing Pava's recording for a final time.
+Listening to the message, Pava informed him that Black Squadron had been involved in an
 attack
 on
 Ikkrukk
-, in which they had been fighting First Order forces at the cost of Pava's X-wing, though she survived. She promised Dameron to send another report as soon she can. Just as the recording finished, C-3PO appeared on scene once more and informed Dameron that he had received Pava's promised message, giving it to BB-8 to play it. Unfortunately, the recording showed a bleeding Pava, hiding on a cave, revealing that their attack on the First Order to defend Ikkrukk had gone all wrong, ending the transmission to Dameron's horror.
-[
-65
-]
+, in which they had been fighting First Order forces at the cost of Pava's X-wing, though she survived.
+She promised Dameron to send another report as soon she can.
+Just as the recording finished, C-3PO appeared on scene once more and informed Dameron that he had received Pava's promised message, giving it to BB-8 to play it.
+Unfortunately, the recording showed a bleeding Pava, hiding on a cave, revealing that their attack on the First Order to defend Ikkrukk had gone all wrong, ending the transmission to Dameron's horror.
 Ikkrukk
 [
 ]
@@ -1971,29 +1549,17 @@ Poe Dameron is dead, along with the rest of the Resistance at D'Qar. We have the
 Sorry, Colonel. But your people lied to you. I'm not dead, and neither is the Resistance.
 "
 ―Colonel Barrut and Poe Dameron on his exaggerated death
-[
-13
-]
 Realizing that his friends were in danger, Poe went to see General Organa and begged her to let him to go to Ikkrukk to save his friends, but the General refused, reminding him that the
 First Order military
 was immense. She told him that her future decisions had to be careful, because if she made another mistake, it could be all over for the Resistance, and therefore the
 Falcon
 could not go. Poe tried to convince her that it was necessary to rescue Black Squadron.
-[
-13
-]
 After hearing some good words about his teammates, Poe heard the General doubting the worth of going to Ikkrukk and risking the safety of other members such as Rey or Chewbacca. She told Poe she wanted the squadron to be safe, but knew they couldn't save them and so had to wonder if it was necessary. Poe assured her that in a way Black Squadron
 was
 the Resistance and needed to be saved.
-[
-13
-]
 Knowing that Organa wanted him to lead, he told her that she needed him more than a pilot but that as they said to each other, no one was left behind. Hearing his superior's complaints about herself, Dameron responded that they needed to show the galaxy that if they joined the Resistance, no one would be left behind. Organa understood that Poe was right, so she promoted him back to Wing Commander and wished the Force to accompany him, though she didn't allowed him to take the
 Falcon
 .
-[
-13
-]
 Taking a
 new starfighter
 which once belonged to Grakkus the Hutt, Poe flew to Ikkrukk, destroying one of the
@@ -2019,13 +1585,13 @@ enough time to allow
 Prime Minister
 Grist
 to activate Grail City's defensive systems as the shield went down to destroy the cruiser, killing Barrut and her crew.
-[
-13
-]
-Now reunited, Poe and his friends had a warm reunion. Though they attributed their victory to him, Poe responded that their victory came from all of them, and that they still work together as long as necessary. Before he could inform his teammates of the Resistance's status, they were interrupted by Grist, who thanked Dameron for helping them save not only Grail City, but also Ikkrukk. After promising Snap to join the Resistance as one of their allies, Grist invited the team for a drink, but Dameron and Wexley stood behind to talk a little. As they went to accompany Grist and the rest of the team, Poe promised Snap to tell him the story of what the Resistance did during their absence. That night, Poe reflected on what message he learned, and as he said that it was pivotal to save their galaxy. Knowing that anyone could do anything to make the galaxy better, Poe determined that the Resistance had begun.
-[
-13
-]
+Now reunited, Poe and his friends had a warm reunion.
+Though they attributed their victory to him, Poe responded that their victory came from all of them, and that they still work together as long as necessary.
+Before he could inform his teammates of the Resistance's status, they were interrupted by Grist, who thanked Dameron for helping them save not only Grail City, but also Ikkrukk.
+After promising Snap to join the Resistance as one of their allies, Grist invited the team for a drink, but Dameron and Wexley stood behind to talk a little.
+As they went to accompany Grist and the rest of the team, Poe promised Snap to tell him the story of what the Resistance did during their absence.
+That night, Poe reflected on what message he learned, and as he said that it was pivotal to save their galaxy.
+Knowing that anyone could do anything to make the galaxy better, Poe determined that the Resistance had begun.
 Mission to Minfar
 [
 ]
@@ -2042,9 +1608,6 @@ Minfar
 , prompting them to head over to assist. Upon arriving, they were ambushed by the forces of a First Order
 light cruiser
 , forcing them to take a hard landing on the planet while Dameron manned one of the cannons, shooting down several TIEs.
-[
-66
-]
 After landing, the crew explored the jungle, soon falling into a series of tunnels where the
 Zixon
 live. They were met by
@@ -2060,9 +1623,6 @@ Falcon
 to strafe the camp, while Dameron infiltrated their cruiser the
 Ladara Vex
 and destroy it. Poe stunned Commander Spiftz and destroyed the Echo Horn. A call to the Resistance then allowed for reinforcements to arrive.
-[
-66
-]
 The Final Order
 [
 ]
@@ -2102,15 +1662,19 @@ base
 on
 Ajan Kloss
 . Upon seeing the Falcon on fire, Rey chastised Poe for lightspeed skipping and damaging the Falcon, whereupon Poe on noticing an injury BB-8 had received while Rey was training under Leia as a Jedi chastised her for not being responsible for the droid's safety. Poe finally stated that they needed Rey with them and not on the base, and Finn said that Poe was right about that.
-[
-12
-]
 Mission to Pasaana
 [
 ]
 Rey then decided to journey off and find a
 Sith wayfinder
-, in order to locate Sidious. She wanted to go alone but Poe and Finn insisted on going with Rey. They took BB-8 and C-3PO as well. Their first stop was a desert planet Pasaana, where Luke Skywalker had gone in search of a clue to find the Sith wayfinder. Their arrival coincided with the festival of the ancestors that the local Aki-Aki people were celebrating. In order to avoid any trouble with First Order patrols, they mingled with the crowd. They were eventually apprehended by a stormtrooper but a mysterious figure turned up and saved them. The figure took the group to his quarters, where he revealed himself to be the former Rebellion General
+, in order to locate Sidious.
+She wanted to go alone but Poe and Finn insisted on going with Rey.
+They took BB-8 and C-3PO as well.
+Their first stop was a desert planet Pasaana, where Luke Skywalker had gone in search of a clue to find the Sith wayfinder.
+Their arrival coincided with the festival of the ancestors that the local Aki-Aki people were celebrating.
+In order to avoid any trouble with First Order patrols, they mingled with the crowd.
+They were eventually apprehended by a stormtrooper but a mysterious figure turned up and saved them.
+The figure took the group to his quarters, where he revealed himself to be the former Rebellion General
 Lando Calrissian
 . Lando explained that the clue had been with a
 Sith assassin
@@ -2123,9 +1687,6 @@ Ochi's dagger
 . However, Chewbacca and the
 dagger
 were presumed lost during the mission when a First Order transport he was believed to be on was destroyed by Rey's Force powers during a confrontation with Kylo Ren.
-[
-12
-]
 The end of dictatorship
 [
 ]
@@ -2133,15 +1694,9 @@ The end of dictatorship
 What our mothers and father fought for, we will not let die. Not today. Today we make our last stand, for the galaxy. For Leia. For everyone we've lost.
 "
 ―Poe Dameron to the Resistance before the Battle of Exegol
-[
-10
-]
 With the inscription on the dagger existing only in C-3PO's memory banks, but written in a forbidden language, Dameron suggested they find a black market droid smith he knew to force a translation. They then went to
 Kijimi
 , where they ran into his old spice smuggling partner, Zorii Bliss.
-[
-12
-]
 Rey overpowered the gang, convincing Bliss to help them.
 Babu Frik
 was able to hack 3PO's memory, forcing a translation but wiping the droid. The
@@ -2149,9 +1704,6 @@ Steadfast
 then arrived in orbit, with Chewbacca on board. They agreed to go rescue him, and Bliss passed on a
 First Order Captain's Medallion
 to get on board. They rescued Chewbacca, but were captured and due to be executed when General Hux revealed himself as a spy and freed them.
-[
-12
-]
 The team boarded the
 Falcon
 and picked up Rey from another confrontation with Ren. They continued their journey to the moon of Endor,
@@ -2161,10 +1713,12 @@ wreckage
 from the
 DS-2 Death Star II Mobile Battle Station
 rested. After Rey dueled Ren and departed from them, Dameron's team returned to the Resistance base, where they were greeted with news of General Organa's passing, as she used the Force to reach out to Ren. Dameron was then promoted to acting general.
-[
-12
-]
-Overcome with doubt and unsure how to bear the weight of responsibility, Dameron sat beside Organa’s bed, voicing his concerns and how unprepared he felt. Just then, Calrissian approached him, offering a reassuring word. He reminded Dameron that, during their own rise to prominence in galactic affairs, the Heroes of Yavin had never felt ready either. When Dameron asked how they had managed to defeat the Empire despite their limited resources and uncertainty, Calrissian simply replied that they had each other—and that was how they won. With a newfound sense of resolve, Dameron’s spirits lifted, stronger than before. He set to work crafting a plan for their journey to
+Overcome with doubt and unsure how to bear the weight of responsibility, Dameron sat beside Organa’s bed, voicing his concerns and how unprepared he felt.
+Just then, Calrissian approached him, offering a reassuring word.
+He reminded Dameron that, during their own rise to prominence in galactic affairs, the Heroes of Yavin had never felt ready either.
+When Dameron asked how they had managed to defeat the Empire despite their limited resources and uncertainty, Calrissian simply replied that they had each other—and that was how they won.
+With a newfound sense of resolve, Dameron’s spirits lifted, stronger than before.
+He set to work crafting a plan for their journey to
 Exegol
 . In addition, he promoted Finn to the rank of
 General
@@ -2177,15 +1731,9 @@ Final Order
 . The Resistance fighters followed the trail to Exegol and engaged the
 Sith Eternal forces
 .
-[
-12
-]
 However, their numbers were too few, and took heavy losses. Dameron was despairing, when the
 rallied Free Worlds sent thousands of ships
 , allowing them to win the day. They then returned home, and during the celebrations, Dameron embraced his friends.
-[
-12
-]
 Personality and traits
 [
 ]
@@ -2196,143 +1744,53 @@ Dameron's commitment is absolute. And he's our best pilot. He'll get what we nee
 I've never worried about Poe's commitment. My worry is for what that commitment may cost him.
 "
 ―Caluan Ematt and Leia Organa
-[
-8
-]
 Dameron in civilian attire
 The son of a Rebel pilot and a
 Rebel commando
 , Dameron grew up on stories of Alliance campaigns,
-[
-24
-]
 and while his mother taught him to fly and to love it, his father had taught him that when he committed to doing something, one committed to going all the way or not do it at all.
-[
-7
-]
 Thanks to them, Dameron developed a strong sense of commitment and duty, but had trouble with the line between his commitment to the Resistance and the commitment to his comrades,
-[
-8
-]
 willing to disobey a direct order from his superior, General Organa, to make sure that the
 Millennium Falcon
 safely left Starkiller Base before its imminent destruction.
-[
-59
-]
 Dameron also wore his late mother's wedding ring on a necklace, wanting to eventually share it with the right person.
-[
-67
-]
 Noted to be a "bad liar" by fellow comrades much to his indignation,
-[
-7
-]
 Dameron had a headstrong nature which often led him into trouble,
-[
-24
-]
 and a proud countenance that, those who did not know him, could mistake for arrogance. Confident in his skills and in his mission, he sometimes displayed an impatience that arose only from a desire to fulfill the task at hand.
-[
-59
-]
 While daring with an appetite for risk
-[
-20
-]
 as well as somewhat foolish, Leia Organa once noted that his need to do what was right and "maybe find a little adventure along the way," coupled with his outstanding piloting skills, reminded her of her brother, Luke Skywalker.
-[
-7
-]
 Dameron regarded his fellow pilots Karé Kun, Jess Pava, L'ulo L'ampar, and Temmin Wexley, and the technician Oddy Muva as close friends that he could trust. Poe was also adventurous and willing to risk danger such as when he entered the Cave of the Crèche. Dameron treated his hosts with respect.
-[
-9
-]
 Dameron's selfless and concern for the well-being of others led him to surrender himself to the First Order Agent Terex in an attempt to save the Crèche egg. As a commander, Dameron was a fair-minded and just leader who gave his Black Squadron mates ample room to improvise.
-[
-22
-]
 Poe regarded his astromech droid BB-8 as a close friend who would aid him in combat and someone he could confide with.
-[
-28
-]
-[
-33
-]
 Poe was also magnanimous in victory and allowed Terex and his men to leave following the mission to Ovanis. This was also tempered by Dameron's unwillingness to provoke war between the First Order and the Resistance.
-[
-28
-]
 Dameron and his Black Squadron mates' devotion to the Resistance cause led them to risk life and limb on several occasions including the
 Mission to Megalox Beta
 . Poe and his comrades managed to fight their way to Grakkus'
 fortress
 despite being double-crossed by the prison guards.
-[
-21
-]
 When faced with competition from Terex, Poe showed resilience and ingenuity as a commander. He got BB-8 and the other astromech droids to lower
 Megalox
 prison's gravity shield; eliminating opposition from Terex and convincing Grakkus to accept their rescue offer.
-[
-30
-]
 Dameron's T-70 X-wing fighter,
 Black One
 After learning there was a spy within the Resistance ranks, Dameron found himself unable to trust his Black Squadron mates despite regarding them as friends.
-[
-33
-]
 Poe was also willing to walk into danger in an effort to recover information for the Resistance.
-[
-32
-]
 During a
 Mission to Kaddak
 , Poe was only saved from capture by the efforts of C-3PO. While Poe was able to work well with droids like BB-8 and C-3PO, he found the commando droid "Nunzix" self-serving and irritating due to the droid's strong self-preservation mechanism. Poe was annoyed that the droid refused to disclose the information in his memory banks.
-[
-34
-]
 Poe had little patience with Nunzix and expressed annoyance at the droid commando's unwillingness to fight; overlooking the fact that the droid had lost one of his arms. Poe's irritation with Nunzix was reinforced by his suspicion that the information Nunzix was carrying was a trap set by Terex.
-[
-35
-]
 Poe Dameron trained in
 Shara Bey's A-wing
 Due to their repeated encounters on several missions, Dameron came to regard Terex as a nemesis and blamed him for sowing distrust among his Black Squadron pilots.
-[
-33
-]
 Poe was determined to root out the spy and eventually realized that the spy was Oddy Muva; who had been blackmailed by Terex into spying on the Resistance.
-[
-35
-]
 Despite his hatred for Terex, Dameron did not seek to destroy the First Order agent and instead handed him back to his First Order superiors. While Dameron grieved the loss of one of his pilots L'ampar, he took comfort in the fact that Terex's Ranc Gang fleet had been destroyed.
-[
-37
-]
 By the end of the cold war, Dameron was a courageous hero of the Resistance dedicated to defeating the First Order.
-[
-68
-]
 Though brash, Dameron had great charisma and limitless respect for the founders of the Resistance, particularly Leia Organa,
-[
-10
-]
 a reason for which Organa tried to teach him that being a hero and being a leader wasn't the same thing.
-[
-68
-]
 Organa was sure that Poe would be a great leader one day, but he still had a lot to learn, even though Dameron didn't agree.
-[
-69
-]
 Dameron's fellow pilots joked that if the Resistance had recruitment posters, Dameron would triple their numbers with his dashing bravado alone. Unlike many starfighter pilots, Dameron delighted in
 atmospheric
 missions, soaring through skies and skimming the surfaces of planets.
-[
-20
-]
 Skills and abilities
 [
 ]
@@ -2340,42 +1798,18 @@ Skills and abilities
 That's one helluva pilot!
 "
 ―Finn, on Poe Dameron
-[
-3
-]
 Dameron was a skilled pilot
 Confident in his piloting skills,
-[
-59
-]
 Dameron flew starships since he was six years old, and by the age of 32, he had became the most daring and skilled of the Resistance pilots.
-[
-20
-]
 He was a decorated X-wing pilot who could fly anything,
-[
-24
-]
 managing to familiarize himself with a TIE/sf fighter's controls in a matter of minutes and under pressure,
-[
-3
-]
 as well as with a
 Pinnacle
 -class luxury ship.
-[
-7
-]
 During the Battle on Takodana, he showed to be skilled enough to fire repeatedly without wasting a single energy burst and destroy multiple First Order assets.
-[
-59
-]
 In addition to his piloting skills, Dameron was a capable
 infantryman
 ,
-[
-20
-]
 as he able to kill multiple stormtroopers on Jakku using his
 blaster rifle
 and kill many more using his pistol on the
@@ -2384,43 +1818,16 @@ when rescuing
 Chewbacca
 .
 L'ampar once observed that Dameron trusted his subordinates to figure things out on their own rather than give them bad orders, and saw it as the mark of a good commander.
-[
-22
-]
 Dameron was also skilled in hand to hand combat which he used against the First Order and criminal proxies on several occasions.
-[
-28
-]
-[
-29
-]
 On a few occasions, Dameron was saved from the jaws of death by his indefatigable and loyal droid companion BB-8.
-[
-28
-]
-[
-37
-]
 Dameron was also known to practice unarmed combat during his free time.
-[
-33
-]
 Poe could also fly a rundown freighter, which he once used on an undercover mission.
-[
-32
-]
 A speaker of
 Galactic Basic Standard
 , Dameron also understood
 Binary
 ,
-[
-3
-]
 and thus had no need for reading BB-8's translated speech in a console to understand what the astromech said while plugged into his starfighter.
-[
-7
-]
 Equipment
 [
 ]
@@ -2432,9 +1839,6 @@ Glie-44 blaster pistol
 and the
 EL-16HFE blaster rifle
 .
-[
-20
-]
 When flying, he had two different
 colored
 flight helmets
@@ -2444,23 +1848,11 @@ Rebel Alliance starbirds
 Aurebesh
 inscriptions,
 on the upper rear right that translated to "ROÆHAL,"
-[
-3
-]
 and
 on the lower rear center that translated to "POE".
-[
-70
-]
 Dameron also carried a set of
 TE4.4 field quadnoculars
-[
-3
-]
 that allowed him to see long-distance.
-[
-71
-]
 Behind the scenes
 [
 ]
@@ -2483,55 +1875,31 @@ Poe to the Rescue
 ," the character is voiced by
 Lex Lang
 .
-[
-72
-]
 Isaac's casting in the film was first announced on
 April 29
 ,
 2014
 ,
-[
-73
-]
 and the character was revealed in the first teaser trailer for the film on
 November 28
 , 2014.
-[
-74
-]
 His name was revealed by
 Entertainment Weekly
 in an exclusive trading card.
-[
-75
-]
 Dameron was named after
 J.J. Abrams
 ' production assistant
 Morgan Dameron
 .
-[
-76
-]
 Yavin 4 was made Dameron's homeworld in
 Star Wars: Shattered Empire
 when Isaac realized the planet's shooting location was
 Tikal
 , which is located in the country he was born, Guatemala.
-[
-77
-]
 The character was originally meant to die in
 The Force Awakens
 , but Abrams changed his mind after realizing Isaac was hesitant about accepting the role as he had previously played several characters that were killed soon after being introduced.
-[
-78
-]
 Isaac recounted that after he initially met Abrams, "[He] soon wrote back: 'Never mind. I've figured it out. You're in the whole movie now.' I was like, 'Holy shit! Alright, cool.' Let's say that it was in that conversation that we began to see a way that being in the movie would be worth his time and the audience's."
-[
-79
-]
 On
 March 20
 ,
@@ -2541,24 +1909,15 @@ Star Wars
 : Episode VIII
 The Last Jedi
 , as well.
-[
-80
-]
 The Force Awakens's
 novelization
 includes an additional sequence detailing Dameron's escape from the planet Jakku.
-[
-59
-]
 The sequence was later revisited in the
 twenty-sixth issue
 of the
 Poe Dameron
 comic series
 , with much of the dialogue and exchange between Poe and other characters being revised and changed almost entirely.
-[
-58
-]
 When asked on
 Ellen
 about there being "any romance between these characters" in
@@ -2568,38 +1927,17 @@ I
 was playing romance," to which
 John Boyega
 interjected, "I was." Isaac declined to say with which character he interpreted Poe as having romance with, though "it could be a droid."
-[
-81
-]
 These comments, coupled with the way Isaac had Poe bite his lip while complimenting Finn, prompted speculation that Poe could be an LGBT character.
-[
-82
-]
-[
-83
-]
 Isaac continued to hint at his character's sexuality, commenting that during the Finn and Rose kiss, it was "a little difficult to see [his] man [Finn] kiss somebody else," and later on that he believes Poe "takes his love for Finn very seriously."
-[
-84
-]
-[
-85
-]
 The Last Jedi
 director
 Rian Johnson
 said that he forwent having Poe go with Finn to Canto Bight as it would have been boring ("I knew something was wrong when I looked at their dialogue and realized I could interchange any of the lines," he said.)
-[
-86
-]
 Poe's eventual arc in the film was influenced by war movies like
 Twelve O'Clock High
 and
 The Dawn Patrol
 , which explored the contrast between bravado and true heroism, "which is leadership." He said that Poe's conflict with Amilyn Holdo, a woman, "and not only that, but it's a woman who isn't in a general's outfit but has a real feminine energy, seemed like the toughest thing that Poe could come up against."
-[
-87
-]
 "Finn and Poe Team Up!" features BB-8 on
 D'Qar
 The
@@ -2609,25 +1947,13 @@ flight helmets
 (he wears two in
 The Force Awakens
 ,
-[
-3
-]
 and one in
 The Last Jedi
-[
-10
-]
 and
 The Rise of Skywalker
-[
-12
-]
 ), "ROÆHAL", is a reference to "Ro & Hal", the sons of costume designer
 Glyn Dillon
 .
-[
-88
-]
 The
 novelization of
 The Last Jedi
@@ -2636,33 +1962,18 @@ Poe's Plan
 " depict Dameron getting permission to attack the First Order fleet in the Battle of D'Qar while on the bridge of the
 Raddus
 , shortly after the First Order ships arrive.
-[
-89
-]
-[
-90
-]
 However, this depiction of events was later overruled by
 Poe Dameron
 28
 , in which Dameron presents his plan on the surface before the First Order armada even arrives.
-[
-61
-]
 As
 Poe Dameron
 28 sets up the rest of the
 Poe Dameron
 comic series,
-[
-64
-]
 with the comic's ending arc then setting up the novel
 Resistance Reborn
 ,
-[
-11
-]
 this article follows the version of events depicted in
 Poe Dameron
 28.
@@ -2679,12 +1990,6 @@ Jakku
 , a meeting that
 BB-8
 is present for.
-[
-91
-]
-[
-92
-]
 However,
 Poe Dameron
 26
@@ -2695,12 +2000,6 @@ The Core Problem
 " later established that BB-8 was not present for the meeting, and Dameron had to pick up BB-8 from
 Castilon
 before heading to Jakku.
-[
-58
-]
-[
-57
-]
 This article follows the story given in the later sources.
 Appearances
 [

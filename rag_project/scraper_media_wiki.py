@@ -5,6 +5,8 @@ import random
 import requests
 from pathlib import Path
 from bs4 import BeautifulSoup
+from html import unescape  # Для декодирования &nbsp; &amp; и т.д.
+import shutil
 
 # 🔧 СПИСОК СТРАНИЦ (49 URL)
 TARGET_PAGES = [
@@ -42,25 +44,61 @@ def fetch_page_content(title: str) -> str:
     return data["parse"]["text"]["*"]
 
 def clean_html(html: str) -> str:
-    """Очищает HTML от шума"""
+    """Полная очистка HTML от шума"""
     soup = BeautifulSoup(html, "html.parser")
-    for tag in soup(["script", "style", "nav", "aside", "footer", "header", "table", "form", "img"]):
+    
+    # 1. Удаляем служебные теги
+    for tag in soup(["script", "style", "nav", "aside", "footer", "header", "table", "form", "img", "iframe", "noscript"]):
         tag.decompose()
+    
+    # 2. Находим основной контент
     content = soup.find("div", class_="mw-content-ltr") or soup.find("div", class_="mw-parser-output")
     if not content:
         return ""
+    
+    # 3. Извлекаем текст
     text = content.get_text(separator="\n")
-    text = re.sub(r"\n\s*\n", "\n\n", text)
-    text = re.sub(r"\[edit\]|\[source\]|\^", "", text)
-    text = "\n".join(line.strip() for line in text.split("\n") if line.strip())
-    return text
+    
+    # 4. Декодируем HTML-сущности (&nbsp; &amp; &lt; и т.д.)
+    text = unescape(text)
+    
+    # 5. Удаляем вики-разметку и служебные элементы
+    # 🔧 ИСПРАВЛЕНИЕ: \[\s*\d+\s*\] ловит сноски даже с переносами внутри [ 12 ] или [\n12\n]
+    text = re.sub(r"\[edit\]|\[source\]|\^|\[\s*\d+\s*\]", "", text)
+    text = re.sub(r"\{\{.*?\}\}", "", text, flags=re.DOTALL)     # шаблоны {{...}}
+    text = re.sub(r"\[\[.*?\|?(.*?)\]\]", r"\1", text)           # вики-ссылки [[Text|Label]] → Label
+    text = re.sub(r"__NOTOC__|__NOEDITSECTION__", "", text)      # магические слова MediaWiki
+    
+    # 6. Удаляем языковые переключатели (строки с 3+ языковыми кодами)
+    lang_pattern = r'^(.*?(français|English|한국어|日本語|українська|polski|português|Türkçe|ქართული|עברית|suomi|norsk|magyar|italiano|Deutsch|Español|русский|中文).*?){3,}.*$'
+    text = re.sub(lang_pattern, "", text, flags=re.M | re.I)
+    
+    # 7. Убираем лишние переносы и пробелы
+    text = re.sub(r"\n\s*\n", "\n\n", text)           # множественные переносы → один пустой абзац
+    text = re.sub(r"[ \t]+", " ", text)               # множественные пробелы → один
+    text = "\n".join(line.strip() for line in text.split("\n") if line.strip())  # trim + удаление пустых
+    
+    # 8. Обрезаем слишком длинные строки (опционально, защита от «простыней»)
+    lines = []
+    for line in text.split("\n"):
+        if len(line) > 500:
+            parts = re.split(r'(?<=[.!?])\s+', line)
+            lines.extend(parts)
+        else:
+            lines.append(line)
+    text = "\n".join(lines)
+    
+    return text.strip()
 
 def safe_filename(title: str) -> str:
     return f"{title}.md"
 
 def main():
     out_dir = Path("raw_texts")
-    out_dir.mkdir(exist_ok=True)
+    # 🔥 Очистка папки при каждом запуске
+    if out_dir.exists():
+        shutil.rmtree(out_dir)  # Удаляем папку полностью
+    out_dir.mkdir(parents=True, exist_ok=True)  # Создаём заново
     
     print(f"🌐 Запуск парсера (API). Страниц: {len(TARGET_PAGES)}")
     session = requests.Session()

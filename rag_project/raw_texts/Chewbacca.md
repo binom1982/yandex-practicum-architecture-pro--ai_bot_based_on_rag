@@ -5,9 +5,6 @@ Chewbacca
 I saved him, at least that's what he says, the big fuzzy fool, but really, he saved me. I was on a bad path, and Chewie, he put me straight. Saved my shanks more than once too.
 "
 ―Han Solo, on Chewbacca
-[
-19
-]
 Chewbacca
 , known affectionately to his friends as
 Chewie
@@ -416,9 +413,6 @@ Early life
 Hey, you're the married one. Find me a human girl with Malla's brains and silky hair and maybe I'll consider it.
 "
 ―Han Solo, to Chewbacca
-[
-10
-]
 Chewbacca with his wife Mallatobuck and son Lumpawaroo
 A
 Wookiee
@@ -428,9 +422,6 @@ hailed
 from
 Kashyyyk
 ,
-[
-20
-]
 a peaceful
 planet
 where he was
@@ -440,30 +431,18 @@ city
 of
 Rwookrrorro
 ,
-[
-8
-]
 one hundred and eighty
 years
 before the
 Clone Wars
-[
-21
-]
 to
 Attichitcuk
 and a
 female Wookiee
 .
-[
-8
-]
 during the
 High Republic Era
 .
-[
-22
-]
 He was
 married
 to a female named
@@ -471,19 +450,10 @@ Mallatobuck
 , and had a
 family
 to support,
-[
-10
-]
 including a son named
 Lumpawaroo
 .
-[
-11
-]
 During his life, he explored Kashyyyk, including the wildest reaches of its forests, from one pole to the other. His exploration hardened his footpads.
-[
-8
-]
 The Clone Wars
 [
 ]
@@ -494,9 +464,6 @@ Meeting Ahsoka Tano
 It's a Wookiee!
 "
 ―Ahsoka Tano on first seeing Chewbacca
-[
-23
-]
 Chewbacca hides alongside Ahsoka Tano.
 At some point during the Clone Wars, a
 galaxy-spanning
@@ -505,29 +472,14 @@ Galactic Republic
 and the
 Separatists
 ,
-[
-1
-]
 Chewbacca famously shielded his allies.
-[
-24
-]
 Fighting with courage to defend both Kashyyyk and the Republic,
-[
-25
-]
 he served as a combat
 engineer
 while other Wookiee soldiers led the charge in battle.
-[
-8
-]
 In
 20 BBY
 ,
-[
-26
-]
 he was captured by a
 Trandoshan
 hunting guild led by
@@ -547,21 +499,12 @@ Jinx
 and
 O-Mer
 , also prey of the Trandoshans.
-[
-23
-]
 Chewbacca escaped from the wreckage and followed the trio, with whom he communicated with thanks to Tano's understanding of
 Shyriiwook
 , to their hideout. Using his technical expertise and parts from the crashed transport, he constructed a
 transmitter
 to contact his people on his nearby homeworld; however, it seemingly failed and an impatient Jinx, supported by O-Mer, decided to lure down and hijack a hunting pod and take the base ship. As persuaded by Tano, Chewbacca joined in their endeavor and raided the Trandoshan base, only to be joined by a Wookiee relief force led by
-[
-23
-]
 his old friend
-[
-27
-]
 General
 Tarfful
 —who had received Chewbacca's transmission—as well as
@@ -574,9 +517,6 @@ Jedi Temple
 on
 Coruscant
 , where they parted ways.
-[
-23
-]
 Battle of Kashyyyk
 [
 ]
@@ -590,18 +530,9 @@ Link
 (
 file info
 )
-[
-1
-]
 Clone Commander Gree, Yoda, and Chewbacca on Kashyyyk
 During the last days of the war,
-[
-1
-]
 Lieutenant
-[
-28
-]
 Chewbacca was a major player in the
 Battle of Kashyyyk
 , overseeing the confrontation between the
@@ -628,9 +559,6 @@ clone troopers
 and escape from the planet in a
 Wookiee escape pod
 .
-[
-1
-]
 Rise of the Empire
 [
 ]
@@ -644,61 +572,28 @@ Galactic Empire
 , Chewbacca saw his people sent to work as
 slaves
 ,
-[
-21
-]
 or as
 miners
 in places such as
 Kessel
 ,
-[
-29
-]
 or made to serve as science experiments.
-[
-16
-]
 A year into the
 Empire's reign
 , former Padawan Ahsoka Tano, the very same Force-sensitive Chewbacca had met on Wasskah, pondered what had happened to him after reading updates on the state of Kashyyyk, starting to lose her hope that he remained free.
-[
-30
-]
 Chewbacca is enslaved along with several other Wookiees.
 At some point, while on the run from Imperial forces,
-[
-31
-]
 Chewbacca and several other Wookiees were captured and enslaved by several Trandoshan slavers.
-[
-32
-]
 Like them, he was forced into slavery, working to cut the
 wroshyr trees
 in order to feed the
 Imperial Army
 .
-[
-16
-]
 Chewbacca temporarily escaped but was turned over to the Empire by a
 back-stabbing
-[
-33
-]
 and greedy
-[
-4
-]
 Kowakian monkey-lizard
-[
-33
-]
 bounty hunter.
-[
-4
-]
 Whilst aboard a
 prison
 train
@@ -709,17 +604,8 @@ fellow prisoner
 . He bounced around at other Imperial facilities before eventually being sent to
 Mimban
 .
-[
-33
-]
 Whilst on Mimban, he came to be referred to as "the Beast."
-[
-20
-]
 Chewbacca also learned that the Imperials were trying to sell him off as a pit fighter.
-[
-34
-]
 Meeting Han Solo
 [
 ]
@@ -734,9 +620,6 @@ Chewbacca, son of Attichitcuk.
 All right. Well, you're gonna need a nickname, 'cause I ain't saying that every time.
 "
 ―Han Solo and Chewbacca
-[
-33
-]
 In
 10 BBY
 , after
@@ -748,15 +631,9 @@ imprisonment
 . Following their escape, the pair managed to join a reluctant
 gang
 .
-[
-9
-]
 Chewbacca, grateful for Solo's intervention, proclaimed a
 life debt
 to the outlaw. Chewbacca thereby became Solo's lifelong friend.
-[
-35
-]
 Meeting Lando Calrissian
 [
 ]
@@ -764,9 +641,6 @@ Meeting Lando Calrissian
 Oh, come on, Val. He looks so sincere. Plus, have you ever tried to disinvite a Wookiee to anything? Not a good idea.
 "
 ―Rio Durant, in response to Val's distrust of Han Solo and Chewbacca
-[
-9
-]
 Chewbacca on Vandor, armed with an
 SX-21 pump-action scatter blaster
 .
@@ -792,9 +666,6 @@ Kessel Run
 . Vos sent
 Qi'ra
 , who had become his top lieutenant, with them.
-[
-9
-]
 Knowing they would need a fast ship to transport the coaxium before it degraded and exploded, Qi'ra introduced the pair to
 Lando Calrissian
 . Solo played Calrissian in a game of "
@@ -806,9 +677,6 @@ YT-1300 light freighter
 , the
 Millennium Falcon
 . Solo lost the game, regardless, Calrissian agreed to personally pilot the Falcon for the job in return for a cut of the profits.
-[
-9
-]
 The Kessel Run
 [
 ]
@@ -818,9 +686,6 @@ The Kessel Run
 [Chewbacca growls]
 "You look great!"
 ―Han Solo and Chewbacca
-[
-9
-]
 Chewbacca, Solo, Qi'ra, Calrissian, and Beckett
 stole
 the unrefined coaxium from Kessel during a slave riot instigated by Calrissian's navigational droid,
@@ -834,9 +699,6 @@ Savareen
 in record time, prompting Solo to plot a shorter, and much more dangerous course through the maelstrom that surrounded Kessel and near a gravity well called
 the Maw
 , reducing the typical distance required from 20 to 12 parsecs.
-[
-9
-]
 Savareen
 [
 ]
@@ -844,24 +706,15 @@ Savareen
 Big stuff, you're coming with me.
 "
 ―Tobias Beckett commandeers Chewbacca
-[
-9
-]
 Beckett takes Chewbacca captive.
 Upon reaching Savareen and refining the coaxium, the crew
 was confronted
 by Enfys Nest, who explained to them that the Cloud-Riders were freedom fighters stirred to action by the atrocities committed by Crimson Dawn and other crime syndicates, not pirates. Solo devised a plan to give the coaxium to the Cloud-Riders and give Vos fake coaxium, but Vos was prepared for their betrayal because of information given to him by his double-agent in the crew, Beckett.
-[
-9
-]
 However, Solo had double-crossed Beckett and Vos: the containers he left with the Cloud-Raiders were empty, and Nest dispatched the agents Vos sent to retrieve it. The coaxium Solo, Qi'ra, and Chewbacca brought to Vos was, in fact, genuine. Beckett managed to escape with the coaxium and Chewbacca as a hostage. After Qi'ra betrayed and killed Vos, Solo found and killed Beckett, but could only watch as he and Chewbacca were left behind, while Qi'ra left Savareen in Vos'
 yacht
 to meet Crimson Dawn leader
 Maul
 . Solo and Chewbacca entrusted the coaxium to Nest, who intended to use it to form a rebellion against the Empire.
-[
-9
-]
 The
 Falcon
 [
@@ -872,47 +725,26 @@ Millennium Falcon
 Solo and Chewbacca tracked down Calrissian to
 Numidian Prime
 .
-[
-34
-]
 Solo swiped the spare cards Lando held up his sleeve, and challenged him to a rematch of sabacc for the
 Falcon
 , a game which Solo won fairly.
-[
-9
-]
 The
 Falcon
 instantly became Solo's most prized possession. With their new-found ship and confidence, Solo and Chewbacca began engaging in much more dangerous and risky criminal operations, eventually becoming smugglers.
-[
-36
-]
 Around the same time, Chewbacca likewise hung a pair of
 chance cube
 dice above the freighter's piloting console.
-[
-21
-]
 With the
 Falcon
 as their ship, the two smugglers took on many jobs over the ensuring years.
-[
-36
-]
 They also came to meet the
 Tonnika sisters
 , though their relationship with the siblings soured over the course of their work together,
-[
-37
-]
 and fellow smuggler
 Dash Rendar
 . At some point, Chewbacca also told
 Tivoche Bilure
 about what happened to Kashyyyk after the Clone Wars.
-[
-38
-]
 The Cordaxian Sea
 [
 ]
@@ -923,9 +755,6 @@ now
 "
 ―Han to Chewbacca, after the latter dumps Frax out of the
 Falcon
-[
-39
-]
 At one point, Han Solo and Chewbacca were transporting two tons of
 Cordaxian ore
 on
@@ -937,9 +766,6 @@ Kajain'sa'Nikto
 . They were being pursued by the Empire, and Frax, who was worried about being put in an Imperial prison, pulled a blaster on Han. Chewbacca did a barrel roll with the
 Millennium Falcon
 , knocking Frax out of the ship entirely. They successfully escaped the Empire and Odona, but left Frax behind.
-[
-39
-]
 Bounty hunted
 [
 ]
@@ -957,9 +783,6 @@ planet
 , the
 Falcon
 heavily damaged.
-[
-40
-]
 Making repairs
 [
 ]
@@ -975,9 +798,6 @@ Falcon
 . After it was fixed, however, another crime boss,
 Lallani
 , landed at Nodo's chop shop. Lallani had heard Jabba was there, and wanted to capture him.
-[
-40
-]
 Freeing the prisoners
 [
 ]
@@ -986,9 +806,6 @@ Falcon
 , and on the way they found several barrels of
 rhydonium
 , enough to replace the cargo they'd lost. However, Chewbacca convinced Solo that Odon and the prisoners needed the fuel more, and Solo relented. They gave up the fuel they desperately needed, so that Odon could use the fuel to pay for her and the other prisoners' way home.
-[
-40
-]
 Versus the Mist Hunter
 [
 ]
@@ -996,9 +813,6 @@ Chewbacca fighting Zuckuss
 In
 9 BBY
 ,
-[
-41
-]
 as they were unloading the rhydonium from the
 Falcon
 at
@@ -1021,9 +835,6 @@ Valtos
 , Chewbacca and Solo ejected Beris' barrel into space with a homing beacon to notify his family. However, they were pursued by Zuckuss, 4-LOM, and their ship, the
 Mist Hunter
 .
-[
-42
-]
 Chewbacca manned one of the
 Falcon
 '
@@ -1042,22 +853,13 @@ energy projector
 that was transmitting a
 immobilizer beam
 .
-[
-43
-]
 Working together
 [
 ]
 Solo and Chewbacca climbed the projector, but were confronted by Zuckuss who tossed spears at them. When Chewbacca go to the top, he was able to turn off the beam by destroying it's power source. However, small droids were activated and wanted to destroy them and all organic life in the galaxy.
-[
-43
-]
 The two opposing sides decided that it would be best to work together to escape the droids, and they escaped to the Falcon. Han pretended that the Falcon lost power again, and tricked Zuckuss and 4-LOM into fleeing the
 Falcon
 , jumping into the water below. Solo and Chewbacca left the planet, leaving the two bounty hunters behind.
-[
-44
-]
 Mission to Ushruu
 [
 ]
@@ -1088,9 +890,6 @@ K-2SO
 on an undercover mission for
 Cassian Andor
 . Eventually, the ship pulled out of hyperspace.
-[
-45
-]
 Acquiring the artifact
 [
 ]
@@ -1118,9 +917,6 @@ Enchantress
 Emperor
 Palpatine
 .
-[
-45
-]
 Saving Han
 [
 ]
@@ -1133,9 +929,6 @@ TIE fighters
 to escape Coruscant. Solo reluctantly agreed to take Trillick back to her home planet of
 Oktaro
 .
-[
-45
-]
 Galactic Civil War
 [
 ]
@@ -1146,9 +939,6 @@ Death Star rescue
 It's okay to care about them. They need our help.
 »
 ―Chewbacca, to Han Solo
-[
-10
-]
 Chewbacca and Kenobi discuss a potential business arrangement
 During one of their smuggling attempts at the time of the Galactic Civil War, the
 Millennium Falcon
@@ -1172,29 +962,17 @@ Alderaan
 . Promised 2,000
 credits
 in advance and an additional 15,000 upon arrival to Alderaan, Solo and Chewbacca agreed to the commission.
-[
-3
-]
 In
 Docking Bay 94
 , Solo and Chewbacca found Jabba waiting for them with a crew of hired help.
-[
-46
-]
 One of them, the famous bounty hunter
 Boba Fett
 , kept an
 eye
 on Chewbacca, noting the Wookiee getting ready for a fight as Solo spoke with Jabba. Thus, he moved his arm enough to ensure the Wookiee braids he wore were visible to Chewbacca, which the Wookiee decided to show no reaction to.
-[
-46
-]
 Ultimately, Solo managed to convince Jabba to give him more time. After a brief firefight with stormtroopers, the
 Falcon
 left Tatooine with its new passengers, escaping from Imperial vessels before entering hyperspace.
-[
-3
-]
 During the hyperspace journey, while Kenobi
 trained
 Skywalker in the use of
@@ -1202,9 +980,6 @@ the Force
 , Chewbacca played a game of
 dejarik
 with R2-D2, who made a move that Chewbacca disliked. C-3PO advised that the move was technically fair, and even chided Chewbacca, at which point Solo advised them not to anger the Wookiee because of his species' tendency to pull arms out of their sockets, prompting the two droids to surrender.
-[
-3
-]
 Chewbacca, pretending to be an Imperial prisoner.
 Upon the
 Falcon
@@ -1245,9 +1020,6 @@ secret base
 , just as the Death Star closed in on the
 moon
 .
-[
-3
-]
 Yavin 4
 [
 ]
@@ -1255,17 +1027,8 @@ Yavin 4
 What're you looking at? I know what I'm doing.
 "
 ―Han Solo to Chewbacca
-[
-3
-]
 Skywalker was hopeful that Chewbacca and Solo would join the Rebellion, but Solo was more concerned with receiving his payment in order to pay his debt to Jabba. Though Chewbacca growled in dissatisfaction at this course of action, the two departed, seemingly leaving the Rebel Alliance on its own to deal with the Death Star.
-[
-3
-]
 At Chewbacca's urging, with Solo also feeling that he needed to help Skywalker,
-[
-47
-]
 they would return just in time to protect Skywalker during the
 Battle of Yavin
 from Vader's
@@ -1275,37 +1038,19 @@ battle station
 by firing a
 proton torpedo
 into its exhaust port.
-[
-3
-]
 Chewbacca lets out a triumphant howl after Skywalker and Solo are awarded medals.
 Back on Yavin 4, Luke Skywalker and Han Solo were both awarded
 medals
 by Organa, while Chewbacca howled in delight during the
 ceremony
 .
-[
-3
-]
 The time for celebration was soon over, for Organa asked the Rebels to take a moment of silence to honor and remember all those who had died when Alderaan was destroyed, whereas General
 Dodonna
 announced their need to
 evacuate
 Yavin since the Empire was aware of their location.
-[
-48
-]
 Chewbacca would be also awarded a medal,
-[
-21
-]
-[
-10
-]
 and shared a moment of banter between Organa and Solo, just before they parted ways.
-[
-48
-]
 Cyrkon
 [
 ]
@@ -1316,9 +1061,6 @@ You two play fast and loose.
 It's worked so far.
 "
 ―Caluan Ematt, on Chewbacca and Han Solo's tactics
-[
-21
-]
 However, before they could depart for Tatooine to pay Jabba, Organa would ask Solo to run an errand for the Rebellion, which Chewbacca convinced him to accept—to rescue
 Lieutenant
 Caluan Ematt
@@ -1341,9 +1083,6 @@ ISB
 Commander
 Alecia Beck
 's garrison.
-[
-21
-]
 Chewbacca slipped away with Solo to the
 Miss Fortune
 cantina
@@ -1358,9 +1097,6 @@ Curtis
 's life. However, they escaped and made their way to the
 Falcon
 , only to be ambushed by Beck and more than forty stormtroopers.
-[
-21
-]
 Chewbacca, Solo and Ematt confronted by Alecia Beck.
 Forced to surrender, Chewbacca, Solo and Ematt were taken into custody, with Beck focusing on Ematt and leaving Chewbacca and Solo to the stormtroopers. Unbeknownst to the Imperials, Solo noticed the
 Miss Fortune
@@ -1377,9 +1113,6 @@ Falcon
 to start the
 engines
 while Solo helped Ematt and recovered their weapons.
-[
-21
-]
 Soon in Cyrkon's orbit along with the
 Miss Fortune
 , they found themselves against the
@@ -1401,9 +1134,6 @@ Falcon
 at the price of destroying the city with the tractor beam and turning Cyrkon against the Empire. As she desisted, the
 Falcon
 began its fall to the ground and the two pilots manually restarted the engines, just in time to avoid crashing into the city and escape.
-[
-21
-]
 Andelm IV
 [
 ]
@@ -1420,9 +1150,6 @@ speeder bike
 . The Besalisk, however, refused and tried to betray her to the planet's crime lord,
 Jaum
 . Chewbacca stopped him, though, by having the Besalisk sell him the stabilizer. However, he did not have enough credits to buy it. Subsequently, he went to a cantina and played sabacc, successfully doubling his credits. Chewbacca then noticed the girl from before, and helped her hide from Jaum's men.
-[
-49
-]
 Afterwards, Zarro followed him as he bought the stabilizer and tried to convince into helping her save her father and friends. Unable to delay his mission, Chewbacca repaired his ship, and changed his mind to leave the planet when Zarro mentioned her people had been enslaved by Jaum. Unknown to Chewbacca and Zarro, Jaum was planning to export the
 Andelm beetle
 larvae to the Empire to be processed into
@@ -1430,13 +1157,7 @@ Dedlanite
 , a substance used in the manufacture of
 blasters
 .
-[
-49
-]
 To maximize profits, Jaum also planned to sell his slave workforce to the Empire.
-[
-32
-]
 The following day, Zarro devised a plan to infiltrate Jaum's
 mine
 . She got Chewbacca to search for an open air vent for the slave
@@ -1444,9 +1165,6 @@ miners
 to escape. Meanwhile, Zarro infiltrated the mine by allowing herself to be recaptured. Her plan was to locate a hollowed part of the mine. Keeping in touch by transmitter, Zarro told Chewbacca to find an open air vent. While struggling through the tunnel, the Wookiee was haunted by memories of his enslavement at the hands of the Trandoshans. Zarro's escape plan encountered a problem when she was caught by Jaum and his men. After the miners including Zarro's father
 Arrax
 objected to Jaum's plan, the gangster ordered his men to execute the miners.
-[
-32
-]
 Before Jaum's guards could carry out their execution, Chewbacca snuck up behind them and overpowered them with his
 bowcaster
 . After meeting Zarro's father, Chewbacca joined forces with the miners to fight their way out of the mine. He refashioned a rod from a broken-down
@@ -1458,17 +1176,17 @@ Shistavanen
 enforcer
 Tyvak
 fired on the incendiary larvae with his blaster, igniting an explosion that created a cave-in.
-[
-32
-]
-Despite Tyvak's efforts, Chewbacca and his friends managed to survive the explosion. Part of the Wookiee's left leg was scorched by fire but Zarro managed to douse it. Chewbacca and his friends then narrowly escaped a swarm of Andelm beetles. Chewbacca managed to used his bowcaster to collapse a girder, temporarily delaying the swarm but denying the miners their only way out in the process. While heading to regroup with the other miners in a different section of the mine, Chewbacca encountered the guard he had knocked out with the GNK power droid. Upon recognizing the guard, he dropped the heavy droid chassis on the man, leaving him behind.
-[
-50
-]
-While the miners discussed a way of digging themselves out of the mine, Chewbacca came up with the idea of climbing out vertically through a sinkhole. While skeptical of the Wookiee's chance of success, the miners and Zarro agreed to support his plan. With much effort, Chewbacca managed to climb through the roots of a dead tree and topple it, creating a pit large enough for all the miners to climb up. Chewbacca then lowered a rope for all the miners to evacuate. Once everyone had reached the surface, Chewbacca and Zarro departed under the pretext of repairing his A-wing starfighter.
-[
-50
-]
+Despite Tyvak's efforts, Chewbacca and his friends managed to survive the explosion.
+Part of the Wookiee's left leg was scorched by fire but Zarro managed to douse it.
+Chewbacca and his friends then narrowly escaped a swarm of Andelm beetles.
+Chewbacca managed to used his bowcaster to collapse a girder, temporarily delaying the swarm but denying the miners their only way out in the process.
+While heading to regroup with the other miners in a different section of the mine, Chewbacca encountered the guard he had knocked out with the GNK power droid.
+Upon recognizing the guard, he dropped the heavy droid chassis on the man, leaving him behind.
+While the miners discussed a way of digging themselves out of the mine, Chewbacca came up with the idea of climbing out vertically through a sinkhole.
+While skeptical of the Wookiee's chance of success, the miners and Zarro agreed to support his plan.
+With much effort, Chewbacca managed to climb through the roots of a dead tree and topple it, creating a pit large enough for all the miners to climb up.
+Chewbacca then lowered a rope for all the miners to evacuate.
+Once everyone had reached the surface, Chewbacca and Zarro departed under the pretext of repairing his A-wing starfighter.
 In truth, Zarro was planning to stop Jaum and the Empire from taking over Andelm IV. Enlisting Chewbacca's support, they traveled to the planet's
 spaceport
 . There, they found a bunker that was inhabited by her blind friend
@@ -1477,15 +1195,9 @@ and his
 protocol droid
 I-7
 , who served as the "eyes" of the former. After examining Sevox's junkshop, Chewbacca came up with a plan to sabotage Jaum's plot to export Dedlanite to the Empire.
-[
-50
-]
 this plan involved fitting a decrepit
 R5 repair droid
 with explosives. Sevox thought Chewbacca and Zarro's plan had little chance of success but nonetheless agreed to drop them off at the spaceport. He also offered his bunker as a hiding place for Zarro and her friend.
-[
-51
-]
 After shooing away a group of child beggars, Chewbacca and Jaum infiltrated the spaceport disguised as Jaum's new
 war droid
 and a hooded
@@ -1497,17 +1209,15 @@ AT-ST walker
 . Shortly later, they found Jaum supervising several stormtroopers who were loading crates of dedlanite into an
 Imperial landing craft
 . When Jaum demanded that Zarro take off her helmet, Chewbacca opened fire on the gangster and his stormtroopers. After running out of ammunition, he took out the stormtroopers in hand to hand combat.
-[
-51
-]
 While Chewbacca exchanged fire with Jaum, Zarro managed to bring the rigged R5 droid "
 Boomer
-" aboard the shuttle. Chewbacca then fought with Tyvak but was trapped by the AT-ST walker. The Wookiee however activated a nearby engine which burned Tyvak alive and knocked out the Imperial walker's right cannon, causing it to topple to the ground. Meanwhile, Jaum managed to escape aboard the landing craft with the dedlanite and "Boomer." The two were overjoyed their plot had succeeded. However, their elation was short-lived and they were soon arrested by scout troopers reporting to the Imperial Commander
+" aboard the shuttle.
+Chewbacca then fought with Tyvak but was trapped by the AT-ST walker.
+The Wookiee however activated a nearby engine which burned Tyvak alive and knocked out the Imperial walker's right cannon, causing it to topple to the ground.
+Meanwhile, Jaum managed to escape aboard the landing craft with the dedlanite and "Boomer." The two were overjoyed their plot had succeeded.
+However, their elation was short-lived and they were soon arrested by scout troopers reporting to the Imperial Commander
 Kai
 , the same officer who was interested in Jaum's dedlanite deal.
-[
-51
-]
 Per Commander Kai's orders, Chewbacca and Zarro were transported up to Kai's
 Imperial Star Destroyer
 in orbit above Andelm IV. On the way up, Chewbacca and Zarro managed to overpower their stormtrooper captors aboard the
@@ -1515,9 +1225,6 @@ Imperial shuttle
 . After landing, Chewbacca knocked out an Imperial
 RA-7 protocol droid
 that Kai had sent to negotiate their surrender. After knocking out the remaining stormtroopers clinging to his body, Kai agreed to listen to Zarro.
-[
-52
-]
 Zarro made up a story that Jaum was a fraudster who had come to scam Kai. She also claimed that he was a rebel
 spy
 and that he did not have a mining operation. To back up her story, Zarro told him that Jaum's "droid" "Boomer" was rigged with explosives. Shortly later, Jaum arrived carrying samples of dedlanite. Shortly later, Boomer exploded, destroying the landing craft and damaging the Star Destroyer's force-field. In the meantime, Chewbacca and Zarro managed to escape on a
@@ -1525,9 +1232,6 @@ TIE/sa bomber
 . Despite Zarro accidentally activating a
 thermal detonator
 which destroyed the ship's left-wing, they managed to crash-land the bomber on Andelm IV.
-[
-52
-]
 While Chewbacca turned down Zarro's request to stay behind with her people, he still gave her a hug and awarded her a gold medallion he had received for his services during the
 Battle of Yavin
 . After departing as friends, Chewbacca traveled on his A-wing to his homeworld of Kashyyyk. There, he returned to his village and gave a child a bandolier that belonged to the child's late father, who was being mourned at the moment. Shortly later, Chewbacca departed aboard the
@@ -1535,9 +1239,6 @@ Millennium Falcon
 . Meanwhile, Jaum was imprisoned by Commander Kai, who was disgusted by Jaum's greed and his alleged scam. He had the gangster tortured by his
 IT-O Interrogator
 .
-[
-52
-]
 Cymoon 1
 [
 ]
@@ -1548,9 +1249,6 @@ Chewie, stand down! Do not fire! You take a shot at Darth Vader and the whole fa
 Are you crazy? Chewbacca if you have a shot at Vader I order you to take it! Forget about us! Killing him is more important! Do you hear me Chewie? Take the shot! Now!
 "
 ―Han Solo and Princess Leia Organa
-[
-13
-]
 Chewbacca watches the team from the vantage point.
 Chewbacca took part in an
 assault
@@ -1568,9 +1266,6 @@ how Solo engaged
 Overseer
 Aggadeen
 and entered the facilities.
-[
-13
-]
 Unexpectedly, though, Darth Vader arrived on a
 Lambda
 -class T-4a shuttle, and Chewbacca contacted Solo, telling him to stand down, for firing on the Sith Lord would put the entire moon on alert, but Organa gave the order to take the shot. Chewbacca consented and fired, but Vader sensed danger and deflected the first shot with his lightsaber. He continued shooting, but the
@@ -1578,9 +1273,6 @@ Sith Lord
 had lifted two stormtroopers into the air using the Force and used them as human shields, only for him to topple the building Chewbacca was perched upon. Though it collapsed, the Wookiee escaped from the wreckage. Now being hunted down, Chewbacca lost contact with the team as he made his way to the
 Falcon
 .
-[
-13
-]
 Chewbacca unleashes his rage against the intruding aliens.
 When he arrived, he discovered C-3PO in pieces strapped and the freighter being dismantled by
 tentacled aliens
@@ -1592,9 +1284,6 @@ Falcon
 s damage to pilot it to the team's position, where he extracted them and many of the slaves Skywalker had freed. As they began their retreat from Cymoon 1, Organa took over the controls instead of a delirious Solo, so that Chewbacca could repair the hyperdrive, which he managed to do, so that Organa could make the jump into
 lightspeed
 and escape a blockade of Star Destroyers.
-[
-53
-]
 Nar Shaddaa
 [
 ]
@@ -1604,9 +1293,6 @@ Wookiees
 . But you're really not so tough after all, are y—
 "
 ―Dengar underestimates Chewbacca
-[
-54
-]
 Within two days, the
 Millennium Falcon
 rendezvoused with the
@@ -1618,13 +1304,7 @@ Nebulon-B frigate
 , when the Corellian noted that it had been a miracle that the ship had flown with Chewbacca's rushed repairs, prompting an annoyed reply from the Wookiee, while they strived to repair the
 Falcon
 .
-[
-55
-]
 The need for new parts prompted Solo to go on a mission with Organa, leaving Chewbacca behind with the freighter.
-[
-56
-]
 However, when he heard that Skywalker had been captured by
 Grakkus
 the Hutt on
@@ -1639,9 +1319,6 @@ Gial Ackbar
 of the
 Alliance High Command
 . Taking C-3PO with him,
-[
-57
-]
 Chewbacca took the
 Falcon
 to the moon, wherein the droid did the talking, and the Wookiee used more violent means to interrogate the criminals in search of Skywalker. It was a
@@ -1650,19 +1327,10 @@ bartender
 who told them of Skywalker's location on
 Grakkus's palace
 and his direction, and Chewbacca and C-3PO set out to Skywalker's encounter.
-[
-58
-]
 Just as Chewbacca and C-3PO were planning to break into Grakkus's palace, they were attacked by
 Dengar
 . Chewbacca fought Dengar until Solo and Organa arrived, and Solo shot Dengar in the back.
-[
-54
-]
 With Dengar distracted by Solo, Chewbacca used the opportunity to throw Dengar off the building. Chewbacca, Solo, and Organa then went to save Luke from Grakkus, only to find several stormtroopers in the way. R2-D2 acquired a few lightsabers from Grakkus, and they used them to fight the enemies. After that, they fled Nar Shaddaa.
-[
-59
-]
 Vrogas Vas
 [
 ]
@@ -1684,17 +1352,11 @@ Yes! His name is Chew…Chew something. Chew…bacca?
 RRRRRRWWWWWGGHHHHH!
 "
 ―0-0-0, Doctor Aphra, and Chewbacca
-[
-60
-]
 Later, when Luke Skywalker and Darth Vader
 crash-landed
 on
 Vrogas Vas
 , Organa approached Solo and Chewbacca for help in defeating Vader and saving Luke.
-[
-61
-]
 While Han Solo faced off against Doctor
 Chelli Aphra
 , Chewbacca ripped the arms off of
@@ -1704,23 +1366,11 @@ Mandalorian xenotox
 into Chewbacca, leveling the playing field. But before Triple-0 could kill Chewbacca, Luke came to the rescue, further damaging Triple-Zero. Chewbacca, Luke, Han Solo, and R2-D2 then all fled from
 BT-1
 , a homicidal astromech droid.
-[
-62
-]
 As they all went to save Leia from Vader, they were attacked by
 Krrsantan
 , who was working alongside Aphra. Even though he was feeling the effects of Triple-Zero's poison, Chewbacca started fighting Krrsantan.
-[
-63
-]
 Chewbacca was initially losing the fight, but when R2-D2 injected him with the antidote to the poison, Chewbacca started winning the fight.
-[
-64
-]
 However, Krrsantan was defeated when he attacked C-3PO, who electrocuted Krrsantan. When they returned to the Falcon, they were able to capture Aphra.
-[
-65
-]
 The
 Harbinger
 [
@@ -1731,15 +1381,9 @@ the
 Star Destroyer
 Harbinger
 .
-[
-66
-]
 Chewbacca jettisoned the ship's reactor just before it exploded, creating the illusion that the ship was destroyed. He, along with many other Rebels, worked on keeping the ship afloat while flying it towards
 Tureen VII
 .
-[
-67
-]
 When
 Task Force 99
 infiltrated the Harbinger to stop them from breaking the Empire's
@@ -1747,13 +1391,7 @@ blockade of Tureen VII
 , Chewbacca fought one of the elite stormtroopers,
 Zuke
 .
-[
-68
-]
 Since the fight took place in the engine room, Chewbacca was able to throw Zuke into the engine's machinery, which brought the engine back to full power. When the Rebels broke the Imperial siege above Tureen VII, they all fled except for C-3PO, who was captured by SCAR Squadron.
-[
-69
-]
 Skorii-Lei
 [
 ]
@@ -1766,9 +1404,6 @@ Pash Davane
 . Solo, Skywalker, and Chewbacca helped the two escape in the
 Millennium Falcon
 .
-[
-70
-]
 The Screaming Citadel
 [
 ]
@@ -1781,17 +1416,11 @@ Wookiee
 with us.
 "
 ―Chewbacca and Han Solo
-[
-71
-]
 When Skywalker
 left
 with Aphra for the
 Screaming Citadel
 , and Solo, Organa, and Starros were preparing to go rescue him, Chewbacca attempted to go with them, but wasn't allowed, because the people of Ktath'atn were extremely hostile towards Wookiees.
-[
-71
-]
 The Hutt Run
 [
 ]
@@ -1812,18 +1441,12 @@ Falcon
 s hyperdrive was damaged. Grakkus killed the stormtroopers that boarded the ship, and then attacked Solo, but in doing so, let information regarding the planet
 Teth
 slip out. Solo electrocuted Grakkus, and they continued on to Akiva.
-[
-72
-]
 Odona
 [
 ]
 At one point, Solo and Organa
 were
 on Odona looking for a new spot for a Rebel base. They were attacked by Frax, and Organa was grazed by a blaster bolt. Chewbacca helped her into the Falcon, and they fled.
-[
-39
-]
 Hoth
 [
 ]
@@ -1837,9 +1460,6 @@ Link
 (
 file info
 )
-[
-73
-]
 Chewbacca captured by a wampa.
 Now full-fledged members of the Rebel Alliance, and following a dangerous run-in with bounty hunter on
 Ord Mantell
@@ -1850,15 +1470,15 @@ Echo Base
 , where Chewbacca would be effecting repairs on the
 Millennium Falcon
 to pay their debt to Jabba once and for all.
-[
-73
-]
 While at Echo Base, Chewbacca was assigned to digging corridors by Organa. On one of these assignments, Chewbacca dug into a cave occupied by a
 wampa
-. The beast captured him and held him hostage. After not checking in, Leia and Artoo started looking for him. They found a scared Chewbacca clutched in the hands of the sleeping wampa. Organa's attempted rescue of Chewbacca ended with the wampa waking up. The Wookiee ran to repair the door, which led to the uncovered cave with Artoo, while Leia acted as a distraction. At the last minute, Chewbacca finished his job on the door, and with Organa back inside, he closed it and trapped the woken beast in the cave.
-[
-74
-]
+.
+The beast captured him and held him hostage.
+After not checking in, Leia and Artoo started looking for him.
+They found a scared Chewbacca clutched in the hands of the sleeping wampa.
+Organa's attempted rescue of Chewbacca ended with the wampa waking up.
+The Wookiee ran to repair the door, which led to the uncovered cave with Artoo, while Leia acted as a distraction.
+At the last minute, Chewbacca finished his job on the door, and with Organa back inside, he closed it and trapped the woken beast in the cave.
 Chewbacca on Hoth.
 Chewbacca's repairs on the
 Falcon
@@ -1869,9 +1489,6 @@ assault
 on the planet, forcing Chewbacca, Solo, Organa and C-3PO to flee on the
 Millennium Falcon
 .
-[
-73
-]
 However, with the
 Falcon
 '
@@ -1889,9 +1506,6 @@ on the
 gas giant
 Bespin
 , where they would request help from Calrissian, an old acquaintance of Han's. Unbeknownst to them, they were followed by the bounty hunter Boba Fett.
-[
-73
-]
 Cloud City
 [
 ]
@@ -1905,18 +1519,12 @@ Link
 (
 file info
 )
-[
-73
-]
 Chewbacca worked to reassemble C-3PO while imprisoned.
 Upon arrival to Cloud City, the group was welcomed by Calrissian, and spent a few days until the
 Falcon
 was repaired. However, they grew increasingly suspicious, especially after C-3PO disappeared. Chewbacca took on the task of finding the missing protocol droid, eventually rescuing him from a junk pile. After a scuffle with some
 Ugnaught
 workers, he brought the droid back to Organa and Solo, when Calrissian invited them to enjoy some refreshments. In truth, it was a meeting with Darth Vader, who had arrived to Cloud City before the Rebel team did and forced Calrissian into a deal to have them imprisoned.
-[
-73
-]
 Separated from the others, Chewbacca began to partially reassemble C-3PO, when Solo was escorted back by stormtroopers, having been
 tortured
 by Vader, with Organa. They were eventually brought to Calrissian's
@@ -1927,9 +1535,6 @@ carbonite
 to test it before Skywalker arrived, for Vader desired to encase Skywalker in carbonite and present him to the Emperor. Though Chewbacca tried to fight, wanting to protect his old friend, Solo calmed him down, asking him to save his strength for another day. The Wookiee then relented and allowed himself to be placed in
 stuncuffs
 as Solo was marched off and frozen.
-[
-73
-]
 Chewbacca chokes Lando Calrissian for betraying the group.
 As Chewbacca and Organa being escorted to Vader's ship, Calrissian, who was growing increasingly dissatisfied with Vader's deal, betrayed the Sith Lord and
 freed
@@ -1938,9 +1543,6 @@ Falcon
 to escape the city, briefly returning to save Skywalker, who had fought and lost a
 duel on Cloud City
 with the Sith Lord.
-[
-73
-]
 Rendezvous Point Delta-Three
 [
 ]
@@ -1957,27 +1559,18 @@ Master Chewbacca suggests that we do not actually need to destroy an entire vess
 I understand Shyriiwook, Goldie. I get the idea. Doesn't mean it ain't crazy.
 "
 ―Lando Calrissian, Chewbacca, and C-3PO
-[
-75
-]
 After escaping the Empire, Chewbacca argued with Calrissian about pursuing Solo. The former Baron Administrator refuted Chewbacca’s plan, citing Fett’s involvement, causing the Wookiee to become angry. Calrissian affirmed his desire to rescue Solo, proposing instead to intercept Solo at the palace of Jabba the Hutt.
-[
-75
-]
 Organa, accepting that Solo could not immediately be saved, ordered Chewbacca to set course for the Rebel fleet, overriding Calrissian’s objections and again issuing her companion the command. The Wookiee complied, leading Organa and company to discover rebels under attack by Imperial forces at Rendezvous Point Delta-Three. The princess instructed Chewbacca to create a hole in the blockade before taking to the
 Falcon
 '
 s guns, Calrissian persuaded the Wookiee to reluctantly allow him to take the pilot’s seat.
-[
-75
-]
 Calrissian, questioning the
 Falcon
 '
-s ability to contribute, led Chewbacca to reveal the starship’s ST2 missile launchers which, while effective, could not incapacitate a Star Destroyer. The Wookiee, translated by C-3PO, suggested that they need not destroy an entire ship, just cripple its gun emplacements. Calrissian, acknowledging the plan as crazy, noted a belief that time spent with Solo had made Chewbacca far less rational. Skywalker and Organa destroyed a number of TIE fighters, allowing Calrissian and Chewbacca to make a successful attack run.
-[
-75
-]
+s ability to contribute, led Chewbacca to reveal the starship’s ST2 missile launchers which, while effective, could not incapacitate a Star Destroyer.
+The Wookiee, translated by C-3PO, suggested that they need not destroy an entire ship, just cripple its gun emplacements.
+Calrissian, acknowledging the plan as crazy, noted a belief that time spent with Solo had made Chewbacca far less rational.
+Skywalker and Organa destroyed a number of TIE fighters, allowing Calrissian and Chewbacca to make a successful attack run.
 Return to Tatooine
 [
 ]
@@ -1991,42 +1584,24 @@ HRROK!
 You said it, pal. Not long enough.
 "
 ―Lando Calrissian and Chewbacca
-[
-76
-]
 The crew of the
 Falcon
 escaped to Backup Rendezvous Point Gamma-Nine, meeting up with the Fourth Division of the Alliance Fleet, where Organa ordered Chewbacca not to let Calrissian out of his sight.
-[
-75
-]
 Calrissian pressured Organa to allow him to take the
 Falcon
 to Tatooine to confirm whether Jabba had Solo. Organa agreed, but insisted Chewbacca accompany him. The Wookiee roared, intimidating Calrissian and causing him to restate his submission. Calrissian told Chewbacca it was "time to fly," to which the pair agreed the latter would pilot the
 Falcon
 this time around.
-[
-76
-]
 The group subsequently parted ways—Organa, Skywalker and the droids remained with the fleet, whereas Chewbacca and Calrissian set out to find Fett and Jabba to rescue Solo.
-[
-73
-]
 In orbit of Tatooine, Calrissian and the Wookiee reflected on their distaste at returning to the sand planet before being fired upon by a squadron of TIE fighters, the
 Falcon
 having been identified as a wanted ship. The pair debated the fault of the matter, and the TIEs were ambushed and destroyed by a group of Weequay, who hailed the ship and demanded Han Solo. Chewbacca’s first instinct was to fight, but Calrissian, recognizing that they were outmatched, opted for deception. Calrissian cued the Wookiee to power up the
 Falcon
 '
 s empty missile tubes and talked his way out of combat and into proceeding to his audience with Jabba.
-[
-76
-]
 After the meeting, Calrissian returned to Chewbacca aboard the
 Falcon
 , informing him that Jabba did not yet have Solo. Calrissian requested that Chewbacca drop him off and leave him to his own devices, which the latter refused to do.
-[
-76
-]
 Tarkin's protégé and Operation Starlight
 [
 ]
@@ -2044,31 +1619,13 @@ Chewbacca
 . You'd just be handing the Imperials the new code too.
 "
 ―Lando Calrissian and Chewbacca
-[
-77
-]
 Chewbacca was later present after Skywalker's return from Tempes for the Jedi's unveiling of his new lightsaber,
-[
-78
-]
 and at a briefing after an attack on the fleet by Imperial forces led by Ellian Zhara.
-[
-79
-]
 When Organa revealed the discovery that the Imperials had deciphered the rebels' current encryption codes, Calrissian suggested using another code entirely, leading Chewbacca to voice a concern that whatever new code was used would simply be broken in time as well.
-[
-77
-]
 The Wookiee was later around when the
 Autonomous Translator Module, Mark II
 utilized Lobot's cybernetic implants to communicate with Starlight Squadron, endangering the hybroid.
-[
-80
-]
 Chewbacca later stood alongside Calrissian and their comrades, staring into a bright light as Skywalker reassured Organa that they would recover Solo.
-[
-81
-]
 Return to Nar Shaddaa
 [
 ]
@@ -2092,13 +1649,10 @@ Han Solo
 I get it, Threepio. Of course I'll go.
 "
 ―Chewbacca, C-3PO, and Luke Skywalker
-[
-82
-]
-At some point, Chewbacca put out word of his search for Boba Fett among free Wookiees across the galaxy. The smuggler heard back from Sagwa, a Wookiee he had himself freed from the Spice Mines of Kessel, who reported a sighting of Fett on Nar Shaddaa. Chewbacca subsequently spoke to Skywalker after his lightsaber training in the ship's gym and, with C-3PO translating, requested the Jedi's assistance on a mission to the Smuggler's Moon. Skywalker accepted, though Chewbacca declined his suggestion to bring Calrissian, feeling that Calrissian was untrustworthy and that Solo's reaction to the man would be unpleasant given his betrayal.
-[
-82
-]
+At some point, Chewbacca put out word of his search for Boba Fett among free Wookiees across the galaxy.
+The smuggler heard back from Sagwa, a Wookiee he had himself freed from the Spice Mines of Kessel, who reported a sighting of Fett on Nar Shaddaa.
+Chewbacca subsequently spoke to Skywalker after his lightsaber training in the ship's gym and, with C-3PO translating, requested the Jedi's assistance on a mission to the Smuggler's Moon.
+Skywalker accepted, though Chewbacca declined his suggestion to bring Calrissian, feeling that Calrissian was untrustworthy and that Solo's reaction to the man would be unpleasant given his betrayal.
 A familiar smell
 [
 ]
@@ -2112,39 +1666,22 @@ Thank you…but I don't understand Shyriiwook.
 He said if you truly care about Han Solo, you will trust him to save him. There may come a time when he needs your help…Until then, he asks that you stay out of his way—or he will rip out your cybernetic arms and beat you to death with them. His words, not mine.
 "
 ―Chewbacca, Beilert Valance, and C-3PO
-[
-83
-]
 Chewbacca piloted the
 Falcon
 to Nar Shaddaa while Skywalker sat in the co-pilot's seat, reflecting on their prior encounter there with Grakkus the Hutt.
-[
-82
-]
 The Wookiee traveled to Oruba Square alongside C-3PO, where he convened with a cloaked Mirialan. Chewbacca paid the informant, who then relayed to him that
-[
-83
-]
 his contact,
-[
-82
-]
 Sagwa, would meet his fellow Wookiee at the entrance to the local arena. The Wookiee rebuffed C-3PO's complaints, claiming that Nar Shaddaa was "charming," not dreadful as the protocol droid has proposed, and reflected on his prior traumatic electrocution on the Smuggler's Moon before catching wind of "a familiar smell." Chewbacca barged into the crowd before bumping into an old acquaintance—cyborg bounty hunter Beilert Valance.
-[
-83
-]
-The cyborg recognized Chewbacca as Solo's ally, while Chewbacca remembered Valance's participation a shootout against the two smugglers on Abregado-Rae. The Wookiee hoisted Valance off his feet and growled at him, the bounty hunter claiming the situation to be a misunderstanding. Valance's partner, rival bounty hunter Dengar, watched, while C-3PO flustered about Chewbacca's failure to maintain a low profile against Skywalker's orders. Valance punched Chewbacca, refusing to allow anyone to interfere in his own search for Solo, while trying to defuse the situation. The bounty hunter lowered his palm blasters in deference, providing Chewbacca the opportunity to throw him into a table where Dengar had taken a seat and ordered a drink.
-[
-83
-]
-Chewbacca then grabbed Dengar, the very bounty hunter to electrocute the Wookiee on his last outing to the Smuggler's Moon, C-3PO informing him that the species were notorious for holding grudges. Dengar pulled his blaster and attempted to shoot the Chewbacca, despite an attempt at intervention from Valance, who then kicked the Wookiee's legs out from under him and fashioned a sharpened stick out of a nearby pole. Valance spoke to the events of Abregado-Rae, telling Chewbacca that he did not intend to kill them once he realized Solo was the target, throwing down his weapon and reflecting on his time spent with Solo as Imperial cadets. The bounty hunter concluded that he owed Solo a debt and intended to aid him with or without the Wookiee's permission.
-[
-83
-]
+The cyborg recognized Chewbacca as Solo's ally, while Chewbacca remembered Valance's participation a shootout against the two smugglers on Abregado-Rae.
+The Wookiee hoisted Valance off his feet and growled at him, the bounty hunter claiming the situation to be a misunderstanding.
+Valance's partner, rival bounty hunter Dengar, watched, while C-3PO flustered about Chewbacca's failure to maintain a low profile against Skywalker's orders.
+Valance punched Chewbacca, refusing to allow anyone to interfere in his own search for Solo, while trying to defuse the situation.
+The bounty hunter lowered his palm blasters in deference, providing Chewbacca the opportunity to throw him into a table where Dengar had taken a seat and ordered a drink.
+Chewbacca then grabbed Dengar, the very bounty hunter to electrocute the Wookiee on his last outing to the Smuggler's Moon, C-3PO informing him that the species were notorious for holding grudges.
+Dengar pulled his blaster and attempted to shoot the Chewbacca, despite an attempt at intervention from Valance, who then kicked the Wookiee's legs out from under him and fashioned a sharpened stick out of a nearby pole.
+Valance spoke to the events of Abregado-Rae, telling Chewbacca that he did not intend to kill them once he realized Solo was the target, throwing down his weapon and reflecting on his time spent with Solo as Imperial cadets.
+The bounty hunter concluded that he owed Solo a debt and intended to aid him with or without the Wookiee's permission.
 The fight at its end, Chewbacca offered Valance a hand up. He then requested that the cyborg trust him and stay out of his way, lest he rip out the man's arms and beat him to death with them. C-3PO translated for the bounty hunter, who did not understand Shyriiwook, before departing with the Wookiee.
-[
-83
-]
 Skywalker and Sagwa
 [
 ]
@@ -2165,26 +1702,20 @@ Boba Fett. I think…we might have to find another way to track down Han.
 ARRRGH!
 "
 ―Chewbacca, C-3PO, and Luke Skywalker
-[
-82
-]
-Chewbacca met with Sagwa, embracing him as C-3PO explained their history to Skywalker. Sagwa informed Chewbacca that a new champion had risen in the Garkata arena; a larger than life hologram displayed the fighter, whose Mandalorian armor, Skywalker confirmed, indeed resembled Boba Fett, though the figure was operating under the name Jango. Sagwa, who worked a guard at the arena, led the Chewbacca and his allies to there to check its records for clues to "Jango"'s current location. Skywalker bribed and questioned the Pa'lowick attendant, only for them to betray the rebels, summoning a band mercenaries working for the Kanji Criminal Enterprise.
-[
-82
-]
-Skywalker drew his lightsaber and attempted to talk his way past the criminals, culminating in a fight. Chewbacca joined in the confrontation with his bowcaster, but the group became overwhelmed, leading the Jedi to suggest a retreat. The Wookiee voiced his reluctance to leave without more information, but Skywalker, unable to say for certain whether the arena warrior was indeed Fett, doubled down on the decision to escape. Chewbacca fired off a final round of support fire but left with Skywalker, Sagwa, and 3PO.
-[
-82
-]
+Chewbacca met with Sagwa, embracing him as C-3PO explained their history to Skywalker.
+Sagwa informed Chewbacca that a new champion had risen in the Garkata arena; a larger than life hologram displayed the fighter, whose Mandalorian armor, Skywalker confirmed, indeed resembled Boba Fett, though the figure was operating under the name Jango.
+Sagwa, who worked a guard at the arena, led the Chewbacca and his allies to there to check its records for clues to "Jango"'s current location.
+Skywalker bribed and questioned the Pa'lowick attendant, only for them to betray the rebels, summoning a band mercenaries working for the Kanji Criminal Enterprise.
+Skywalker drew his lightsaber and attempted to talk his way past the criminals, culminating in a fight.
+Chewbacca joined in the confrontation with his bowcaster, but the group became overwhelmed, leading the Jedi to suggest a retreat.
+The Wookiee voiced his reluctance to leave without more information, but Skywalker, unable to say for certain whether the arena warrior was indeed Fett, doubled down on the decision to escape.
+Chewbacca fired off a final round of support fire but left with Skywalker, Sagwa, and 3PO.
 The rebels and Sawga encountered more hired guns. Skywalker, under fire, directed Chewbacca to commandeer a nearby speeder, which the four used to successfully return to the
 Falcon
 . The Wookiee later headed to the
 Falcon
 '
 s cockpit, where he received a transmission from Organa, instructing the ship to return to the Rebel Fleet, as she had received a transmission from a mystery party claiming to be in possession of Solo. Chewbacca, requesting that the Jedi join him, relayed the message to Skywalker via C-3PO.
-[
-82
-]
 Arrival at Jekara
 [
 ]
@@ -2201,15 +1732,14 @@ HRRAGH! HROOO. HRRRRGH!
 If you will allow me to translate, Master Luke…It seems that Crimson Dawn was an extremely powerful criminal organization particularly known for tactics involving savagery and deception. While they have not been active in the galaxy for many years, Chewbacca has had dealings with them in the past. It did not go well. If they have returned and are in possession of Master Solo, it could be a very delicate and dangerous situation indeed.
 "
 ―Chewbacca, Luke Skywalker, and C-3PO
-[
-84
-]
 Organa rendezvoused with the others aboard the
 Falcon
-, declaring it was finally time to save Solo. Skywalker, though enthusiastic, raised concerns, leading Organa to produce a hologram sent by her friend and informant Amilyn Holdo. Organa told Skywalker Hold had informed her that Solo was being held by Crimson Dawn, sending Chewbacca into an agitated state. C-3PO translated Chewbacca for Skywalker, who was unaware of Crimson Dawn, as the Wookiee conveyed the reputation and history of the crime syndicate. The Wookiee also reluctantly suggested involving Calrissian, to which Organa gave the go-ahead. Chewbacca then departed, 3PO accompanying him.
-[
-84
-]
+, declaring it was finally time to save Solo.
+Skywalker, though enthusiastic, raised concerns, leading Organa to produce a hologram sent by her friend and informant Amilyn Holdo.
+Organa told Skywalker Hold had informed her that Solo was being held by Crimson Dawn, sending Chewbacca into an agitated state.
+C-3PO translated Chewbacca for Skywalker, who was unaware of Crimson Dawn, as the Wookiee conveyed the reputation and history of the crime syndicate.
+The Wookiee also reluctantly suggested involving Calrissian, to which Organa gave the go-ahead.
+Chewbacca then departed, 3PO accompanying him.
 Chewbacca spoke to Calrissian aboard the rebel frigate
 Redemption
 , where Calrissian affirmed his willingness to help. The Wookiee later piloted the
@@ -2219,9 +1749,6 @@ Falcon
 suffered a minor collision with a frigate that emerged from hyperspace immediately in front of it. The ship, belonging to the Black Sun, launched its fighters, which fired on and pursued the rebels' craft, leading Chewbacca to take it into Jekara's atmosphere. Navigating the planet's icy terrain, the Wookiee managed a crash landing before emerging from the
 Falcon
 with Organa and the others, the princess claiming that the team was Solo's only hope.
-[
-84
-]
 The auction
 [
 ]
@@ -2245,35 +1772,18 @@ Let's get out of here!
 HRRAGH!
 "
 ―C-3PO, Chewbacca, and Lando Calrissian
-[
-85
-]
-Chewbacca, Calrissian, and Organa infiltrated the auction for Solo, only to encounter Boba Fett, who Organa ordered the Wookiee to take down quietly. Fett taunted Chewbacca with the braids of former Wookiee opponents adorning his armor, causing the hairy rebel to slam the bounty hunter into a wall, blocking Organa's line of sight with her blaster pistol. Calrissian dissuaded Organa from using a blaster and causing a disruption, instead trusting Chewbacca's superiority in hand-to-hand combat. Chewbacca tackled his opponent, but Fett torched the Wookiee with his flamethrower, leading Calrissian to put out the fire with his cape. Fett then left, desiring no further trouble.
-[
-86
-]
+Chewbacca, Calrissian, and Organa infiltrated the auction for Solo, only to encounter Boba Fett, who Organa ordered the Wookiee to take down quietly.
+Fett taunted Chewbacca with the braids of former Wookiee opponents adorning his armor, causing the hairy rebel to slam the bounty hunter into a wall, blocking Organa's line of sight with her blaster pistol.
+Calrissian dissuaded Organa from using a blaster and causing a disruption, instead trusting Chewbacca's superiority in hand-to-hand combat.
+Chewbacca tackled his opponent, but Fett torched the Wookiee with his flamethrower, leading Calrissian to put out the fire with his cape.
+Fett then left, desiring no further trouble.
 Seeing the host of the auction, Lady Qi'ra of Crimson Dawn, beaten by Darth Vader,
-[
-87
-]
 who had earlier arrived unannounced to claim Solo for himself,
-[
-86
-]
 Calrissian observed that the woman probably deserved what was coming to her, causing Chewbacca to object to the sentiment. Calrissian elaborated that Qi'ra's fate had been of her own making; Qi'ra wouldn't sacrifice her life for Calrissian, nor the Wookiee.
-[
-87
-]
 Vader reflected on the Heroes of Yavin, Chewbacca included, as he considered Skywalker.
-[
-88
-]
 Organa signaled Skywalker, but the Jedi was unable to fight Vader, leading Leia to formulate a plan herself. The general rallied Chewbacca, outlining a plan in which she would occupy the Sith Lord with blaster fire from above while the Wookiee engaged him on the ground before Calrissian interrupted. As Organa and Calrissian debated, Skywalker managed to distract Vader by taunting him and fleeing in his X-wing, leading Organa, Calrissian, and Chewbacca to return to the
 Falcon
 . C-3PO, who had repaired the ship along with Lobot, inquired about the Wookiee's odd smell, to which he related the details of his fight with Boba Fett.
-[
-85
-]
 Rebels in space
 [
 ]
@@ -2284,45 +1794,31 @@ Chewbacca says the ship's diagnostic computer is back online, as Lando suggested
 That's wonderful, Chewie.
 "
 ―C-3PO and Leia Organa, to Chewbacca
-[
-89
-]
 The rebels pursued the Imperial shuttle that had taken Solo, utilizing Lobot's implants to disable it. Fett and Beilert Valance, with whom Fett had temporarily partnered, also aimed to capture Solo, and incapacitated the
 Falcon
 with a reduced–intensity seismic charge.
-[
-85
-]
 Dead in space, Chewbacca assisted Calrissian in attempting to repair the ships's systems from the cockpit. The Wookiee observed that Fett's charge had rattled the
 Falcon
 , and Calrissian concurred that it had knocked various systems offline. Chewbacca also observed Hutt starfighters heading towards the Imperial shuttle that was carrying Solo, which Lando attributed to Jabba the Hutt desiring Han for himself.
-[
-89
-]
 The trio went into the bowels of the
 Falcon
-to repair the ship, which proved hazardous as the offline engines caused the reactor conduits to let off a repeating cycle of bursts. Both Organa and Chewbacca volunteered to make the repairs, but Calrissian opted to fix the problem himself, the Wookiee pulling him out at the last minute to prevent him from being fried. Calrissian told Chewbacca that the ship's diagnostic computer should be back online; the Wookiee headed to the cockpit and confirmed as much to C-3PO, who relayed the good news to Organa. Organa offered to help conduct repairs, but Chewbacca believed that she would only get in the way. The Wookiee was subsequently able to restore many of the
+to repair the ship, which proved hazardous as the offline engines caused the reactor conduits to let off a repeating cycle of bursts.
+Both Organa and Chewbacca volunteered to make the repairs, but Calrissian opted to fix the problem himself, the Wookiee pulling him out at the last minute to prevent him from being fried.
+Calrissian told Chewbacca that the ship's diagnostic computer should be back online; the Wookiee headed to the cockpit and confirmed as much to C-3PO, who relayed the good news to Organa.
+Organa offered to help conduct repairs, but Chewbacca believed that she would only get in the way.
+The Wookiee was subsequently able to restore many of the
 Falcon
 '
 s systems.
-[
-89
-]
 The Hutts dispatched fighters to intercept Solo, causing Chewbacca to scream at Calrissian for his role in precipitating the situation as Organa related the situation to Skywalker over the ship's comms. With the repairs made, Calrissian and the Wookiee succeeded in restarting the ships' engines. Organa noted that the point was moot—Solo had already been brought aboard the Super Star Destroyer
 Executor
 —when the
 Falcon
 received a message from the Imperial ship arranged by Qi'ra, inviting them to board.
-[
-90
-]
 Once safely aboard and welcomed by an agent of Crimson Dawn, Chewbacca participated in the rebel attack, downing stormtroopers alongside Organa and Calrissian. The rebels, heaving reached Solo, incapacitated all of the Imperials. Calrissian began trying to figure out how to defrost Solo from carbonite when the group was approached and held at blaster-point by Boba Fett. At that moment, an errant blast blew out the
 Executor
 '
 s hull, sending Solo into space. Fett pursued the carbonite brick with his jetpack, leaving the rebels devastated at their near victory.
-[
-90
-]
 Dawn of a revelation
 [
 ]
@@ -2339,9 +1835,6 @@ It's true, Chewbacca. Jabba has him.
 HRAAAOH!
 "
 ―Leia Organa, Chewbacca, and Qi'ra
-[
-91
-]
 Organa later confided in Chewbacca aboard the
 Falcon
 , sharing a newfound belief that hope was "for suckers," causing the Wookiee to pull her into a comforting embrace. Calrissian and Lobot sought to return the pair to the Alliance but were interrupted by the arrival of the
@@ -2349,13 +1842,7 @@ Vermillion
 , Crimson Dawn's flagship. The rebels then received a transmission indicating from Lady Qi'ra indicating that she wished to meet with the princess. Organa relented, and Qi'ra boarded the
 Falcon
 , the Wookiee keeping his bowcaster trained on her until the women left to talk in private.
-[
-91
-]
 The princess later called Chewbacca to provide her with a pair of binder cuffs, intending to bring Qi'ra before a rebel tribunal. However, Qi'ra provided the revelation that Solo was alive, stunning Organa and causing the Wookiee to cry out and drop the binders. Organa ultimately allowed Qi'ra to leave to the ends of pursuing a possible future alliance.
-[
-91
-]
 Readying for assault
 [
 ]
@@ -2367,21 +1854,12 @@ Han Solo
 .
 "
 ―Leia Organa, to Qi'ra
-[
-92
-]
 Reunited with the fleet, Chewbacca was present at a rebel strategy meeting headed by Senator Mon Mothma and Admiral Gial Ackbar aimed at addressing the Alliance's long–standing secondary objectives, including re-establishing a supply chain and recovering Lieutenant Shara Bay, trapped on the Star Destroyer
 Tarkin's Will
 .
-[
-93
-]
 Lady Qi'ra visited
 Home One
 and wished to visit Chewbacca before her departure. Leia Organa took her to the Wookiee, explaining that he was practicing a simulated assault on Jabba's palace. Chewbacca had programmed remotes to act as Jabba's sentries and vividly visualized the attack in his mind. He desired to rescue Han Solo single-handedly, a course of action Qi'ra described as ill-advised. Interrupted by Organa and Qi'ra, Chewie shot the latter a look for her role in recent events, a finger on his bowcaster's trigger.
-[
-92
-]
 The hunt for Zhara and Unity Day
 [
 ]
@@ -2408,27 +1886,12 @@ HROOAH!
 AAAH!
 "
 ―Commander Ellian Zhara and Chewbacca
-[
-94
-]
 Chewbacca joined Organa in her hunt for Commander Zhara on the planet Panisia, pursuing her into a cave. One of the rebel Pathfinders offered him a knife, only for the Wookiee to reveal that he had brought one himself. The rebels eventually found Zhara, who engaged both the Pathfinders and Chewbacca in melee combat, incapacitating the former and seemingly gaining the upper hand over the latter.
-[
-94
-]
 The Imperial focused her attention on Kes Dameron and consequently turned her back on Chewbacca, who hurled her over a ledge and into a cavern below. Organa, who had been similarly displaced, pursued Zhara while Chewbacca and Dameron caught up, ultimately joining the princess in repelling a giant monster the women had found in the cave. After retrieving a datacard from Zhara, Organa left her to die, leaving the cave alongside the Pathfinder and the Wookiee.
-[
-94
-]
 Chewbacca later co-piloted the
 Millennium Falcon
 in an air raid on an Imperial Unity Day Parade on Bar'leth, the result of which was a major success for the Rebellion. The Wookiee later joined his squadron-mates in toasting to the victory.
-[
-95
-]
 Chewbacca also attended an intelligence briefing led by General Hera Syndulla during which Skywalker interjected, expressing a "good feeling" about point five, a transmission intercepted from two Imperial defectors.
-[
-96
-]
 The death box
 [
 ]
@@ -2445,9 +1908,6 @@ debate
 I understand, Chewbacca. I think we all do. Maybe you did what we couldn't.
 "
 ―Chewbacca, as translated by C-3PO, and Leia Organa
-[
-97
-]
 Skywalker learned of a device that could kill Palpatine, the
 Grim Rose
 , from the Jedi
@@ -2457,9 +1917,6 @@ Living Sea
 of
 Gazian
 . Chewbacca helped to recover the weapon and activated it, though Skywalker subsequently shut it down to prevent it from committing a galaxy–wide genocide in the process.
-[
-97
-]
 Solo's rescue
 [
 ]
@@ -2476,9 +1933,6 @@ Jabba
 At last we have the mighty Chewbacca.
 »
 ―Chewbacca is delivered to Jabba
-[
-15
-]
 Aware of Solo's location on
 Jabba's Palace
 , the team gradually infiltrated the fortress to
@@ -2486,15 +1940,9 @@ rescue
 the Corellian: First, Calrissian infiltrated as a guard, then the droids as Skywalker's "gift," then Leia Organa posing as the bounty hunter
 Boushh
 with Chewbacca as her quarry; she convinced Jabba with a thermal detonator, so the Hutt had Chewbacca imprisoned.
-[
-15
-]
 That night, Organa freed Solo from his encasement at the cost of her freedom, for Jabba had caught her red-handed, and whereas the princess was to remain at the Hutt's side, Solo was thrown in a cell together with Chewbacca, who gave him a passionate embrace, happy to reunite with his old friend, and told him that Skywalker would free them with the skills he had learned as a
 Jedi Knight
 .
-[
-15
-]
 Han, Luke, and Chewbacca are sentenced to death by Jabba the Hutt.
 Skywalker did indeed arrive and requested an audience with Jabba by
 influencing
@@ -2517,9 +1965,6 @@ sail barge
 and returning to the Rebel Fleet aboard the
 Falcon
 .
-[
-15
-]
 Endor
 [
 ]
@@ -2533,9 +1978,6 @@ Link
 (
 file info
 )
-[
-15
-]
 At the meeting to debrief the Alliance on the plan to destroy the
 second Death Star
 , Chewbacca volunteered for a mission to destroy the
@@ -2549,35 +1991,17 @@ Tydirium
 Star Dreadnought
 Executor
 which was overseeing the blockade of the moon, Solo urged the Wookiee to "fly casual," landing only after they were granted access by Darth Vader.
-[
-15
-]
 Chewbacca , on Endor, with the command crew of the Endor strike team.
 On the moon, they advanced through the forest and encountered Imperial
 scouts
 , to whom Solo accidentally reveal their position. Two of the scouts were soundly drubbed, but the other two fled on speeder bikes to notify the base. They were stopped by Organa and Skywalker, who were separated, prompting Chewbacca, Solo, the droids and Skywalker to search for her while the rest of the Rebel team made their way to the generator, to rendezvous with them the next morning.
-[
-15
-]
 During their search, Chewbacca came across a dead animal
-[
-15
-]
 —a
 rodent
 known as a
 verkle
-[
-98
-]
 —on a stake,
-[
-15
-]
 which proved irresistible
-[
-98
-]
 bait to him. He pulled at it, springing a trap that ensnared the entire group, thus resulting in the team being captured by
 Ewoks
 . Chewbacca was forced to surrender his bowcaster and was tied to a large pole, whereas C-3PO was treated like a
@@ -2592,44 +2016,23 @@ him with the Force, which prompted the Ewoks to release them at once. Later that
 Chief
 Chirpa
 declared them all part of their tribe, with one Ewok giving Chewbacca an enthusiastic hug.
-[
-15
-]
 With the tribe's help, they reached the shield generator the next morning, and Wicket told them about a secret door at the back of the facility. Chewbacca accompanied the others and successfully entered the Imperial base. However, Palpatine was aware of their plans, as were the Imperial forces stationed at the moon, who swiftly captured them as the
 assault
 against the Death Star above began. A surprise attack by the Ewoks, however, scattered the Imperial troops, distracting them long enough for Organa and Solo to take positions at the base's door, and for Chewbacca to steal AT-ST
-[
-15
-]
 Tempest Scout 2
-[
-99
-]
 with the help of two Ewoks
-[
-15
-]
 named
 Wunka
 and
 Widdle Warrick
 .
-[
-100
-]
 Using the commandeered walker, they reached the generator's back entrance, where Solo boarded the Imperial transport to broadcast a message to the generator's personnel while posing as an Imperial officer, thereby tricking the installation's crew into opening the door.
-[
-15
-]
 Chewbacca and his companions celebrating the Rebel victory at Endor
 Thanks to the success of Han Solo's ploy, the Rebel forces, Chewbacca among them, stormed the bunker, detonating explosive charges and disabling the shield generator, allowing Calrissian,
 Nien Nunb
 and
 Wedge Antilles
 to destroy the Death Star above. Chewbacca looked to the sky and cheered as he witnessed the final destruction of the battle station and, later that night, he celebrated at Bright Tree Village over a bonfire; Chewbacca danced in triumph along with his friends, old and new.
-[
-15
-]
 During the celebration, Calrissian told Solo and Chewbacca that the
 Falcon
 '
@@ -2642,9 +2045,6 @@ Pathfinders'
 location, to reunite with her husband,
 Kes Dameron
 .
-[
-101
-]
 Shattering the Empire
 [
 ]
@@ -2654,19 +2054,12 @@ assault
 on an Imperial holdout on far side of Endor, the Rebels hitting the base hard and fast, and entering to find their
 computers
 with data that signaled the war was not over yet.
-[
-101
-]
-After Solo proposed to Organa in the days after the Battle of Endor, he made sure to tell Chewbacca. Chewbacca had always suspected Solo would settle down—although Organa retorted that marrying her was the opposite of settling down—and knew his friend would end up marrying Organa, even declaring at one point to Skywalker that he would drop both on a deserted world as a means of getting them to admit their feelings. Chewbacca then attended the party Calrissian threw for Solo in honor of the wedding, taking a particular enjoyment in the food Calrissian had set out, and the
+After Solo proposed to Organa in the days after the Battle of Endor, he made sure to tell Chewbacca.
+Chewbacca had always suspected Solo would settle down—although Organa retorted that marrying her was the opposite of settling down—and knew his friend would end up marrying Organa, even declaring at one point to Skywalker that he would drop both on a deserted world as a means of getting them to admit their feelings.
+Chewbacca then attended the party Calrissian threw for Solo in honor of the wedding, taking a particular enjoyment in the food Calrissian had set out, and the
 wedding
 itself.
-[
-102
-]
 Twenty days or so later,
-[
-103
-]
 Chewbacca participated alongside Solo, C-3PO, Kes Dameron,
 Sakas
 and other Rebel troops on a
@@ -2682,9 +2075,6 @@ Operation: Cinder
 and contacted Calrissian to deploy the Alliance Fleet so as to successfully aid the besieged
 Naboo
 .
-[
-14
-]
 New Republic
 [
 ]
@@ -2698,9 +2088,6 @@ False starts
 C'mon, Chewie. Set new coordinates. It's time to get you home.
 "
 ―Han Solo
-[
-16
-]
 Now agents of the
 New Republic
 , just as Wedge Antilles set out on a
@@ -2716,9 +2103,6 @@ Falcon
 , while Solo investigated on his own; having grown bored, he got to messing around with the ship's navigation system, trying to chase down a glitch that had been screwing up the hyperspace drive. Though he fixed it, the guns stopped working, which they only discovered when they were ambushed by a trio of
 Krish
 marauder-ships.
-[
-16
-]
 However, as they reached Dasoor,
 Imra
 contacted the duo and informed them that they had a window of opportunity—Kashyyyk, still in the Empire's thrall, would have its blockade temporarily lifted for a few days, before its ships were replaced. Seeing Chewbacca's anxiety, Solo told Imra to gather any underworld scoundrel who owed him a favor, anyone who hated the Empire, and others in the false promise that they would obtain full pardons from the Republic, whereas Chewbacca was tasked to contact the Wookiee
@@ -2730,9 +2114,6 @@ Hrrgn
 , and
 Kirratha
 .
-[
-16
-]
 When Han's wife Leia learned about Han Solo's hastily-improvised plan, she tried to advice her husband and Chewbacca not to trust Imra. However, Han and Chewbacca were determined to proceed with their
 campaign
 to liberate Kashyyyk. Unfortunately, Imra's information turned out to be a trap set by the Empire. While Chewbacca attempted to board a gunship captained by Kirratha, they were attacked by two Star Destroyers and several TIE fighters. The Imperials shot out Kirratha's engines, leaving Chewbacca and Kirratha stranded in space. Han managed to escape but Chewbacca was captured and locked inside the automated Imperial prison
@@ -2740,9 +2121,6 @@ Ashmead's Lock
 in the jungles of Kashyyyk. Solo traveled through Wild Space on the
 Millennium Falcon
 in attempt to find a way to free his friend.
-[
-19
-]
 Escaping Ashmead's Lock
 [
 ]
@@ -2766,9 +2144,6 @@ Jas Emari
 , and the New Republic soldier
 Jom Barell
 . Norra and her team had been sent by Princess Leia to rescue Han. Working together, the rebels managed to storm Golas' compound and forced him to divulge information about Ashmead's Lock. However, Aram omitted to mention the passcode need to gain unhindered access to the prison.
-[
-19
-]
 Following a struggle with Ashmead Lock's computer system
 SOL-GDA
 , Solo and Jas managed to disable the prison's power generator, which was fueled by the prisoners who were held in stasis. Solo managed to free Chewbacca and a hundred other prisoners including Norra's husband and Temmin's father
@@ -2778,9 +2153,6 @@ capital
 of
 Chandrila
 .
-[
-19
-]
 Liberation of Kashyyyk
 [
 ]
@@ -2792,18 +2164,12 @@ inhibitor chips
 which he controlled using a control module that he kept on his person. In order to defeat Grand Moff Tolruck, Chewbacca and his rebel allies devoted their time to finding Tolruck's
 island fortress
 . Jas also recruited more Wookiee exiles and smugglers for their planned uprising. During this time, Jom was captured and imprisoned by Tolruck.
-[
-19
-]
 The Liberation of Kashyyyk (a moment of the liberation pictured) finally saw Chewbacca reunited with his family
 While Chewbacca, Han, and the rest of the team infiltrated
 Camp Sardo
 , Sinjir infiltrated Tolruck's palace disguised as an Imperial officer. Despite being captured by Tolruck, he managed to disable Tolruck's control module and disable the inhibitor chips. This set off a mass Wookiee uprising all over Kashyyyk. Meanwhile, Chewbacca and his team fought off a
 Low-altitude Imperial transport
 while Jas destroyed Camp Sardo's deflector shield generator. With the aid of Han's rebel forces, the Wookiees managed to overwhelm the meager Imperial garrison on Kashyyyk.
-[
-19
-]
 After Grand Moff Tolruck summoned the three orbiting Imperial Star Destroyers to bombard Kashyyyk, Chewbacca and his fellow rebels helped usher the liberated Wookiees into underground shelters. In response, Chewbacca along with Han, Sinjir, and Jom Barell traveled aboard the Star Destroyer
 Dominion
 . They managed to storm the
@@ -2815,9 +2181,6 @@ and fought their way to the bridge. However, the rebels were captured by stormtr
 Vice Admiral
 Domm Korgale
 .
-[
-19
-]
 Before Korgale could deal with the prisoners, New Republic reinforcements arrived in the form of Princess Leia aboard the
 Millennium Falcon
 , Captain Wedge Antilles and his
@@ -2838,9 +2201,6 @@ Neutralizer
 capitulated to the New Republic. Following the liberation of Kashyyyk, Chewbacca stayed behind to reunite with his family at the insistence of Han Solo. Solo then left on the
 Millennium Falcon
 to look after his wife and his unborn son Ben Solo.
-[
-19
-]
 Reunion with Waroo
 [
 ]
@@ -2850,9 +2210,6 @@ Dessard
 and several Imperial soldiers preparing to execute an escaped Wookiee slave who turned out to be Chewbacca's son Lumpawaroo. The Wookiees and New Republic soldiers killed Dessard's men and took the officer prisoner. Chewbacca personally restrained Dessard by stepping over the commandant and placing a tree-trunk led on his back, forcing him to the ground. Chewbacca then experienced an emotional reunion with his lost son, who had been forced to work at a child labor camp on the slopes of
 Mount Arayakyak
 .
-[
-11
-]
 Peaceful retirement
 [
 ]
@@ -2860,14 +2217,8 @@ Peaceful retirement
 No. No! You have to stay here. We fought like hell for this and now…this is yours. Okay? All yours. This is home. You got people here and I want you to find them. You hear me? That's my last demand. No arguments.
 "
 ―Han Solo to Chewbacca after liberating Kashyyyk
-[
-19
-]
 Chewbacca during the following years
 Once Kashyyyk was freed from the Imperials, Chewbacca returned to his homeworld and reestablished connections with his family.
-[
-104
-]
 He settled back into a peaceful domestic life on his homeworld but kept in touch with his old friend Han Solo, who had become the business owner of a shipping company and the manager of a series of prestigious piloting championships known as the
 Five Sabers
 . Chewbacca had infrequent contact with Solo's wife Leia Organa, who had become a leading
@@ -2875,33 +2226,18 @@ Populist
 senator in the New Republic's
 Galactic Senate
 .
-[
-17
-]
 During his retirement, Chewbacca was remembered by the galaxy as a hero of the Rebellion and the New Republic.
-[
-105
-]
 Around
 9 ABY
 , former Jedi Knight
 Baylan Skoll
 included Chewbacca by his nickname Chewie on a list of names written in a device on his gauntlet.
-[
-106
-]
 Following the
 Napkin Bombing
 , Chewbacca sent a message via
 hologram
 to Senator Organa to wish her good recovery. After revelations about Leia's true parentage as the daughter of Darth Vader destroyed her political career, Chewbacca along with other former Rebel Alliance veterans like Ackbar, Nunb, Calrissian, and Mothma sent messages of supported to the embattled senator.
-[
-17
-]
 Despite his peaceful retirement, Chewbacca decided to join him when Han Solo resumed his smuggling activities. Fortunately, the strong familial bonds and the extended lifespan of the Wookiees allowed him to spend decades away from his people.
-[
-104
-]
 Smuggler's Run
 [
 ]
@@ -2915,9 +2251,6 @@ What's that?
 They can be very, very quiet when it suits them. Isn't that right, Chewie?
 "
 ―Han Solo and Strater
-[
-21
-]
 Confrontation with bounty hunters in the
 Serendipity
 .
@@ -2939,9 +2272,6 @@ Irving Boys
 , the
 Guavians
 , etc.) that they were not afraid of them, before saying goodbye to Leighton and leaving the bar together.
-[
-21
-]
 Cold war
 [
 ]
@@ -2955,17 +2285,11 @@ Chewie, we're home.
 ―Han Solo upon entering the
 Millennium Falcon
 with Chewbacca after recapturing the freighter
-[
-18
-]
 Han and Chewie are reunited with the
 Millennium Falcon
 once again
 In
 31 ABY
-[
-107
-]
 the
 Millennium Falcon
 was stolen from Han and Chewbacca and they were using a
@@ -2974,9 +2298,6 @@ Baleen
 , the
 Eravana
 , for their smuggling operations.
-[
-108
-]
 They eventually recovered the
 Falcon
 using their freighter's tractor beam after it was found floating in space not far from the planet
@@ -2991,9 +2312,6 @@ Falcon
 . When Rey and Finn explained that they were going to take a droid named
 BB-8
 to the Resistance as he had a map that would reveal Luke's location, Han and Chewbacca agreed to help them.
-[
-18
-]
 Unfortunately, their freighter was boarded by two notorious criminal factions, the Guavian Death Gang and
 Kanjiklub
 , who had hired Solo on previous jobs, which he had failed to complete. Not wanting Rey and Finn to be involved, Han placed both of them in the lower corridors of the freighter while he and Chewbacca went to meet with the criminals, with BB-8 accompanying them. The smuggler tried but failed to convince both parties that he would fix things eventually, with the Guavian Death Gang negotiator,
@@ -3005,9 +2323,6 @@ rathtars
 . Han, Chewbacca, Finn, Rey, and BB-8 managed to escape the gangs and jumped into hyperspace in the
 Falcon
 , though Chewbacca was injured from a blaster shot during the escape.
-[
-18
-]
 Confronting the First Order
 [
 ]
@@ -3023,22 +2338,18 @@ Maz's castle
 T-70 X-wing starfighters
 led by
 Poe Dameron
-arrived to fight the First Order. A fierce dogfight ensued and resulted in the destruction of many First Order TIEs and the deaths of many stormtroopers from X-wing strafing runs. Ren ordered the First Order to pull out, saying they had what they came for. As the battle raged on above the castle, the remaining First Order troops boarded their ships and retreated, taking the captured and unconscious Rey along with them. Despite the First Order being driven off, Han witnessed Kylo Ren carrying Rey away. The remaining
+arrived to fight the First Order.
+A fierce dogfight ensued and resulted in the destruction of many First Order TIEs and the deaths of many stormtroopers from X-wing strafing runs.
+Ren ordered the First Order to pull out, saying they had what they came for.
+As the battle raged on above the castle, the remaining First Order troops boarded their ships and retreated, taking the captured and unconscious Rey along with them.
+Despite the First Order being driven off, Han witnessed Kylo Ren carrying Rey away.
+The remaining
 Falcon
 crew then rendezvoused with the Resistance at their home base.
-[
-18
-]
 There Chewbacca's wounds were treated by Resistance doctor, Major
 Harter Kalonia
 .
-[
-104
-]
 As Starkiller Base prepared to wipe out the world of D'Qar, the site of the Resistance's headquarters, the Resistance planned an attack of their own. Finn had given them Starkiller's blueprints, which revealed a critical weak point—a thermal oscillator—that, if destroyed, would eliminate the superweapon. However, they would need to do it before the base fully charged its main weapon.
-[
-18
-]
 Chewbacca with Han and Finn, en route to Starkiller Base.
 Han Solo piloted the
 Falcon
@@ -3051,13 +2362,15 @@ garbage chute
 . They reunited with Rey, who had already escaped on her own. With the shields down, Blue Squadron and Red Squadron led by Poe Dameron commenced
 their assault
 . They fired on the base's weak point, but failed to destroy it as the First Order sent TIE fighters to stage a counterattack and throw the Resistance into chaos.
-[
-18
-]
-Seeing this, Han, Chewbacca, Finn, and Rey tried to create an opening by planting thermal detonators inside the base. Han then confronted his son, Kylo Ren, named Ben Solo at birth, on a bridge over a large pit, pleading with his son to reject Snoke and return to the light side of the Force. Ben, removing his mask and seeming almost regretful, handed his lightsaber to Solo, and asked for his father's help, in which Solo replied that he would do anything for him. Ben then thrust his weapon through Han's chest. Witnessed by Rey, Finn, and Chewbacca, Han stroked his son's face for the last time, before falling to his death. Howling in fury, Chewbacca fired on Ren with his bowcaster, while Finn and Rey also fired on Ren and the surrounding stormtroopers. Chewbacca managed to land a hit on Ren's waist with his bowcaster, injuring him, but Ren managed to chase them out of the base. Chewbacca then detonated the charges, allowing Poe to fly in and destroy Starkiller's weak point thirty seconds before it drained the sun to charge its main weapon. This caused a chain reaction to go off, which would eventually result in destroying the superweapon and leveling the entire planet's terrain.
-[
-18
-]
+Seeing this, Han, Chewbacca, Finn, and Rey tried to create an opening by planting thermal detonators inside the base.
+Han then confronted his son, Kylo Ren, named Ben Solo at birth, on a bridge over a large pit, pleading with his son to reject Snoke and return to the light side of the Force.
+Ben, removing his mask and seeming almost regretful, handed his lightsaber to Solo, and asked for his father's help, in which Solo replied that he would do anything for him.
+Ben then thrust his weapon through Han's chest.
+Witnessed by Rey, Finn, and Chewbacca, Han stroked his son's face for the last time, before falling to his death.
+Howling in fury, Chewbacca fired on Ren with his bowcaster, while Finn and Rey also fired on Ren and the surrounding stormtroopers.
+Chewbacca managed to land a hit on Ren's waist with his bowcaster, injuring him, but Ren managed to chase them out of the base.
+Chewbacca then detonated the charges, allowing Poe to fly in and destroy Starkiller's weak point thirty seconds before it drained the sun to charge its main weapon.
+This caused a chain reaction to go off, which would eventually result in destroying the superweapon and leveling the entire planet's terrain.
 As Chewbacca made his exit from the base, he briefly debated upon whether to pursue and kill Kylo Ren. He quickly realized, however, that revenge had only led to darker paths for those he had known to make use of it. Thus Chewbacca quickly decided that saving those still alive was the better alternative. He quickly commandeered a snow speeder and headed back to the
 Millennium Falcon
 which was guarded by six Snowtroopers. One by one, Chewbacca took them out and entered the
@@ -3065,23 +2378,14 @@ Falcon
 . The
 Falcon
 then rose from the snow and headed off to find Rey and Finn.
-[
-109
-]
 Shortly afterward, Chewbacca arrived with the
 Millennium Falcon
 to rescue the scavenger and Finn, who was severely wounded by Ren. They and the remainder of the Resistance fleet managed to escape Starkiller Base as it erupted into a star, and entered hyperspace to return to D'Qar.
-[
-18
-]
 The Resistance celebrated their victory while Leia, Chewbacca, and Rey mourned Han's death. R2-D2 suddenly awoke and revealed that he held the map to Luke's location, with the only piece of the map missing being the one BB-8 was given by Poe. Together they completed the map and revealed the location of the planet on which Luke Skywalker was hiding. Using this, Chewbacca, R2-D2, and Rey flew aboard the
 Falcon
 to
 Ahch-To
 , where Luke was exiled.
-[
-18
-]
 Time on Ahch-To
 [
 ]
@@ -3091,9 +2395,6 @@ Millennium Falcon
 when Luke came in to remember all the good times he had in his adventure. Later that evening, Chewbacca caught and roasted two
 porgs
 for dinner, but relented when their brethren approached him, watching sadly before scaring them away.
-[
-110
-]
 During the
 Battle of Crait
 between the remaining forces of the Resistance and a First Order invasion army, Chewbacca piloted the
@@ -3101,9 +2402,6 @@ Millennium Falcon
 , using it to lure the Order's TIE fighters away from a force of Resistance
 ski speeders
 . After the battle, he landed the ship and used it to evacuate the surviving members of the Resistance.
-[
-110
-]
 Adventures after the Battle of Crait
 [
 ]
@@ -3118,9 +2416,6 @@ go
 to
 Mon Cala
 and get help from its inhabitants.
-[
-111
-]
 First Order-Resistance War
 [
 ]
@@ -3162,17 +2457,11 @@ Of course you're better than us.
 That's cheating, that's why we think you're cheating.
 "
 ―Poe Dameron, Finn, and Chewbacca
-[
-112
-]
 Traveling aboard the
 Millennium Falcon
 to the
 Sinta Glacier Colony
 , Finn and Poe Dameron engaged Chewbacca in an intense game of dejarik. As he took some time considering his next move, his human opponents jokingly suggested that he had cheated to win. The implication infuriated Chewbacca, forcing Finn and Poe to calm him. Their game was interrupted by an alarm from the cockpit, and Chewbacca ordered his opponents not to turn off the game as he left to check it, but Finn and Poe agreed that he was cheating and shut off the holochess board.
-[
-112
-]
 The
 Falcon
 arrived at the Sinta Glacier Colony, and Finn opened the docking hatch to meet a Resistance informant,
@@ -3182,9 +2471,6 @@ Falcon
 in the escape, angering Chewbacca, and further infuriated him performing several
 lightspeed skips
 to shake off their pursuers.
-[
-112
-]
 The group returned to the Resistance base on
 Ajan Kloss
 bearing the knowledge they obtained from Boolio. They decoded the information, and Poe stated that Darth Sidious' return was confirmed, and that the
@@ -3203,9 +2489,6 @@ Millennium Falcon
 to
 Pasaana
 , where the original trail went cold.
-[
-112
-]
 Mission to Pasaana
 [
 ]
@@ -3219,9 +2502,6 @@ Force-bond
 and stole a necklace she had received from the Aki-Aki. Rey rushed to warn her comrades that the First Order knew their location and that they needed to find the wayfinder quickly. As they prepared to escape, a lone stormtrooper confronted them before being quickly shot by a mysterious figure. Asking the team to follow him into a
 transport
 , the masked savior revealed himself to be Lando Calrissian, who had seen Chewbacca in the crowd.
-[
-112
-]
 Lando showed them a hologram of a Sith wayfinder and explained that only two were ever created. He further revealed that many years prior, he accompanied Luke went in search of the a Sith loyalist named
 Ochi
 , whom they believed held a key to locating one of the devices, but when they arrived, they found his ship, the
@@ -3231,9 +2511,6 @@ First Order treadspeeders
 , which began a fierce pursuit aided by
 jet troopers
 .
-[
-112
-]
 Chewbacca and his allies begin to sink into the Shifting Mires.
 The troopers proved no match for the Resistance and were swiftly dispatched, though not before sending the stolen speeders crashing into the quicksands of the
 Lurch Canyon
@@ -3242,9 +2519,6 @@ dagger
 , the clue that Lando and Luke sought after. Rey felt a very strong connection to the weapon, but couldn't quite articulate it. C-3PO identified the writing as a Sith language depicting the location of the wayfinder, but revealed that his programming restricted him from translating the script. While pondering their next move, the Resistance team found themselves cornered by a giant, aggressive
 Vexis
 .
-[
-112
-]
 Noticing that the serpent was wounded, Rey approached and used the Force to
 heal
 its injuries, satiating it and providing them an exit out of the tunnels. Chewbacca took possession of the dagger, placing it in his satchel as the group headed to escape the planet in the
@@ -3254,18 +2528,12 @@ Knights of Ren
 had arrived on Pasaana to hunt them down. Sensing Kylo Ren's presence, Rey walked out into the desert to confront him alone, but Chewbacca was captured by the Knights before he could retrieve her. The dagger was taken from him as he boarded a First Order transport. Rey and Kylo both noticed the departure of a transport, and while she used the Force to pull the ship back to the ground, Kylo counteracting her by pushing it away. In her frustration,
 lightning
 blasted from Rey's hand, destroying the transport and sending it crashing to the ground. Horrified at the thought of killing Chewbacca, Rey screamed in despair before boarding Ochi's ship with the rest of her crew.
-[
-112
-]
 Rescue on Kijimi
 [
 ]
 As Ochi's ship hurried away from Pasaana, the Resistance team mourned the apparent loss of Chewbacca and the dagger. C-3PO remorsefully told his companions that the dagger's inscription was only committed to his memory. they plan is made to hack into C-3PO's programming to bypass the restrictions. Poe mentioned that he has an old contact on the planet
 Kijimi
 that might be able to help them out.
-[
-112
-]
 Aboard the Star Destroyer
 Steadfast
 , General Hux presented to Allegiant General Pryde a "valuable prisoner" taken during the fighting: Chewbacca, still alive and safe aboard a different transport. The elder commander, unfazed by the roaring of the Wookiee, ordered he be taken to
@@ -3277,20 +2545,17 @@ Zorii Bliss
 , who brought them to the droidsmith
 Babu Frik
 to override C-3PO's programming to read the Sith language on the dagger, at the cost of his memories.
-[
-112
-]
 Chewbacca and his allies were nearly executed by stormtroopers on the
 Steadfast
 .
 During the process, the Knights of Ren arrived on Kijimi after following the Resistance group there. At the sight of the
 Steadfast
-in the sky, Rey sensed that Chewbacca had survived, and the group staged a rescue mission aboard the Star Destroyer with the help of Zorii. As they boarded, Rey followed the feeling that she needed the dagger, recovering it along with Chewbacca's bowcaster and bandolier. Meanwhile, Poe and Finn rescued Chewbacca, but their rescue attempt failed and resulted in their capture. Pryde ordered Hux to execute the Resistance members, but Hux turned on his troops, revealed himself to be the Resistance spy, and guided the crew to the
+in the sky, Rey sensed that Chewbacca had survived, and the group staged a rescue mission aboard the Star Destroyer with the help of Zorii.
+As they boarded, Rey followed the feeling that she needed the dagger, recovering it along with Chewbacca's bowcaster and bandolier.
+Meanwhile, Poe and Finn rescued Chewbacca, but their rescue attempt failed and resulted in their capture.
+Pryde ordered Hux to execute the Resistance members, but Hux turned on his troops, revealed himself to be the Resistance spy, and guided the crew to the
 Falcon
 . Before departing Kijimi, they rescued Rey from her confrontation with Kylo Ren in the Star Destroyer's hangar bay.
-[
-112
-]
 Loss at Kef Bir
 [
 ]
@@ -3305,9 +2570,6 @@ Falcon
 along with their newfound ally
 Jannah
 and returned to their hidden base on Ajan Kloss. Upon returning, Chewbacca learned of Leia's death and mourned her along with the rest of the Resistance.
-[
-112
-]
 Battle of Exegol
 [
 ]
@@ -3319,17 +2581,8 @@ Falcon
 along with Chewbacca and Wedge Antilles, Lando led a fleet of reinforcements to aid the Resistance. During the battle, Sidious severely damaged the Resistance fleet with a massive burst of
 Force lightning
 . However, with the help of their allies and the final destruction of Sidious, the Resistance was able to defeat the remaining Sith forces and save the galaxy.
-[
-112
-]
 Upon returning to Ajan Kloss, the Resistance celebrated their victory. During the celebration, Maz called Chewbacca over to her and awarded the Wookiee a medal
-[
-112
-]
 which was once worn by Han Solo.
-[
-113
-]
 Personality and traits
 [
 ]
@@ -3343,87 +2596,36 @@ Link
 (
 file info
 )
-[
-15
-]
 Chewbacca crushes a stormtrooper under his foot
 Known for his great strength, bravery, and loyalty, Chewbacca often served as Solo's conscience in their smuggling endeavors,
-[
-10
-]
 which made people trust him more than they did Solo.
-[
-21
-]
 However, he was also known for his stubbornness and dislike of losing.
-[
-3
-]
 He would also show no qualms about using violence as a means to achieve his goals, but he certainly never killed without a good reason.
-[
-58
-]
 As a Wookiee, Chewbacca knew passion and thus, the Rebellion, and would have stood with them from the beginning, if not for Solo and the
 Falcon
 ; he would not abandon them as he was bound to both, as they were to him.
-[
-21
-]
 Few people knew that he had a mushy heart under his warrior exterior.
-[
-10
-]
 He was a kind individual and was good at reading a room.
-[
-114
-]
 Chewbacca enjoyed tinkering with mechanics. Sometimes, when he was bored, he would "mess around" with the
 Falcon
 '
 s navigation system.
-[
-16
-]
 Like Han Solo, he regarded the ship as the epitome of classical design, ignoring the vast majority of observers who called it "junk."
-[
-115
-]
 Chewbacca was fiercely loyal to Han Solo, having sworn a life debt to him.
 When his friend Han Solo briefly went missing while conducting a night time search and rescue mission on the planet Hoth, Chewbacca was visibly upset and worried while he awaited Solo's return. Later, when Solo was to be encased in carbonite in Cloud City, he tried to fight to save him despite the presence of the Sith Lord Darth Vader and an Imperial security detail.
-[
-73
-]
 Chewbacca's desire to free his family and people led him to take part in Han Solo's campaign to liberate Kashyyyk from Imperial rule. He came up with the idea of using webweaver spiders to storm the Star Destroyer
 Dominion
 .
-[
-19
-]
 Chewbacca loved his wife Mallatobuck and son Lumpawaroo, who had been separated from him by the Empire. He and his son experienced an emotional reunion during the liberation of Kashyyyk.
-[
-11
-]
 When Lando Calrissian made a joke about Solo settling down by getting married, Solo remarked he was following Chewbacca's example, which made the Wookiee respond with a proud roar. Chewbacca nodded in agreement and had a smug expression on his face when Calrissian tipped his glass in Malla's honor, calling her a lucky woman.
-[
-102
-]
 Chewbacca enjoyed
 board games
 , including
 dejarik
-[
-3
-]
 and
 saigok
 .
-[
-116
-]
 He was known to become angry when losing such games.
-[
-3
-]
 Skills and abilities
 [
 ]
@@ -3431,56 +2633,29 @@ Skills and abilities
 Chewie is an extrordinarily gifted mechanic and engineer. I've seen him fix ships that were hanging together by one wire.
 "
 ―Lando Calrissian
-[
-114
-]
 Chewbacca was a skilled marksman with his custom bowcaster
 Besides the characteristic strength of his species, Chewbacca possessed exceptional skills in piloting as well as mechanic repairs, from his experience of piloting the
 Millennium Falcon
 , of which he had a great understanding of the temperamental nature of its systems.
-[
-21
-]
 Chewbacca was notably faster at operating the Falcon's controls, a fact he kept hidden from Han to prevent hurting the smuggler's ego.
-[
-109
-]
 Although not particularly meticulous, Chewbacca's technical skill allowed him to understand the inner workings of a great number of devices, including droids
-[
-73
-]
 and transmitters, being able to build one out of a wrecked starship.
-[
-23
-]
 Chewbacca using two lightsabers
 Like many of his people, Chewbacca preferred their native bowcaster as his personal weapon. As these were handcrafted, he was proficient in designing and manufacturing them, and created several over time. The latest known bowcaster that he crafted was during the
 Imperial era
 . It was an unconventional design, as he had used the frame and
 power pack
 of a stormtrooper blaster.
-[
-36
-]
 He is also skilled in using other blaster range weapons like a
 SX-21 pump-action scatter blaster
-[
-9
-]
 and a
 sniper rifle
 .
-[
-13
-]
 While rescuing Luke from
 Grakkus Jahibakti Tingi
 , R2 shot out four lightsabers to Han, Chewbacca, and Leia. Chewbacca caught two of them and used both the blue-blade and green-blade lightsaber to fight off the
 stormtroopers
 Kreel had brought in.
-[
-59
-]
 Behind the scenes
 [
 ]
@@ -3491,9 +2666,6 @@ Appearances
 I sat down on one of the sofas, waiting for George. Door opened, and George walked in with Gary behind him. So, naturally, what did I do? I'm raised in England. Soon as someone comes in through the door, I stand up. George goes 'Hmm...' Virtually turned to Gary, and said 'I think we've found him.'
 "
 ―Peter Mayhew, about his audition
-[
-117
-]
 Early Chewbacca concept art.
 Chewbacca first appeared in
 Star Wars
@@ -3521,25 +2693,16 @@ Peter Mayhew
 Star Wars
 : Episode VII
 The Force Awakens
-[
-118
-]
 and its sequel,
 Star Wars
 : Episode VIII
 The Last Jedi
 .
-[
-119
-]
 Finnish basketball coach and insurance salesman
 Joonas Suotamo
 doubled as Chewbacca for some of the more physical scenes in
 The Force Awakens
 , due to Mayhew's advanced age.
-[
-120
-]
 John Schoenherr's illustration (left) and Ralph McQuarrie's Chewbacca concept art (right)
 Chewbacca was a major character in many stories of the Expanded Universe, the continuity now known as
 Star Wars
@@ -3547,9 +2710,6 @@ Legends
 , but was killed off in the novel
 The New Jedi Order: Vector Prime
 .
-[
-121
-]
 Chewbacca's death in this publication was marked as Number One in the
 2005
 article
@@ -3557,9 +2717,6 @@ article
 , published in the
 Star Wars Insider
 official magazine.
-[
-122
-]
 On
 April 25
 ,
@@ -3571,24 +2728,15 @@ Star Wars: The Clone Wars
 , the
 film
 that launched it, and most material released after that date.
-[
-123
-]
 George Lucas
 placed off-limits the possibility to use Chewbacca in
 The Clone Wars
 when writer
 Henry Gilroy
 was writing the show bible,
-[
-124
-]
 though he later appeared in the third season episode "
 Wookiee Hunt
 ."
-[
-23
-]
 Creating the look
 [
 ]
@@ -3596,9 +2744,6 @@ Creating the look
 I had an Alaskan Malamute when I was writing the film. A very sweet dog, she would always sit next to me when I was writing. And when I'd drive around, she'd sit in the front seat. A Malamute is a very large dog—like a hundred and thirty pounds and bigger than a human being and very long-haired. Having her with me all the time inspired me to give Han Solo a sidekick who was like a big, furry dog. Not quite like a dog, but intelligent.
 "
 ―George Lucas
-[
-125
-]
 George Lucas (left) with Indiana, who inspired Chewbacca's creation
 George Lucas came up with the concept of Chewbacca after people mistook
 Indiana
@@ -3608,15 +2753,9 @@ dog
 owned by Lucas in the
 1970s
 , as a human riding beside him in his car.
-[
-126
-]
 There were many early versions of Chewbacca's appearance (including one concept art that eventually became the basis of the
 Lasat
 ).
-[
-127
-]
 When it was time for
 Ralph McQuarrie
 to make concept art of Chewbacca, Lucas gave him a picture of a
@@ -3628,9 +2767,6 @@ and a dog. Freeburn was influenced by the monkey-man creatures that he recently 
 film
 2001: A Space Odyssey
 .
-[
-126
-]
 Chewbacca's final appearance in the movie is based on a
 1976
 piece of concept art by
@@ -3638,15 +2774,9 @@ Ralph McQuarrie
 , which in turn was based on an illustration by John Schoenherr for George R.R. Martin's novelette "And Seven Times Never Kill a Man," published in the July
 1975
 issue of Analog. The Schoenherr illustration also includes a weapon that became an inspiration for Chewbacca's bowcaster.
-[
-127
-]
 His final appearance became a mix of a dog, cat, lemur, and a
 monkey
 .
-[
-126
-]
 In the original draft of
 A New Hope
 , Chewbacca had a father named Auzituck. He was an eight-
@@ -3656,9 +2786,6 @@ Kaapauku tribe
 . The
 Auzituck anti-slaver gunship
 was named after Auzituck.
-[
-126
-]
 The parts making up the Chewbacca costume.
 For his appearances in the original trilogy, the Chewbacca suit, designed by
 Stuart Freeborn
@@ -3679,50 +2806,26 @@ Ben Burtt
 , sound designer for all nine films. Creating Chewbacca's voice was Burtt's first job for
 A New Hope
 . He mixed together various animal growls for different emotions, including those of walruses, lions, badgers, bears,
-[
-126
-]
 seals, sea lions,
-[
-128
-]
 and sick animals. The most heavily used sound came from
-[
-126
-]
 a
 cinnamon bear
-[
-128
-]
 named
 Pooh
 .
-[
-126
-]
 Burtt also used a
 black bear
 named
 Tarik
 .
-[
-128
-]
 In
 October
 of
 1994
 , Tarik passed away at the age of 16 from a combination of congestive heart failure, liver disease, and cancer.
-[
-129
-]
 Burtt also used
 Petula
 , a walrus that he recorded at the zoo.
-[
-128
-]
 Appearances
 [
 ]

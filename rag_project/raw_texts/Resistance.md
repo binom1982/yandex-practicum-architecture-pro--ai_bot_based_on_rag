@@ -5,9 +5,6 @@ Resistance
 Ignite the Spark. Light the Fire.
 "
 ―Resistance motto
-[
-21
-]
 The
 Resistance
 was a military resistance movement that opposed the secretive
@@ -192,9 +189,6 @@ Formation
 The sun is setting on the New Republic. It's time for the Resistance to rise.
 "
 ―Leia Organa
-[
-19
-]
 The Resistance was founded by General Leia Organa, a hero of the Rebel Alliance, to monitor the actions of the First Order.
 At the end of the
 Galactic Civil War
@@ -207,19 +201,10 @@ Battle of Jakku
 . The Galactic Empire signed a peace treaty with the New Republic called the
 Galactic Concordance
 , which mandated that they keep the peace with the New Republic,
-[
-12
-]
 leaving only fragmented
-[
-22
-]
 remains
 scattered around
 the galaxy
-[
-23
-]
 Other
 remnants
 of the
@@ -238,9 +223,6 @@ Leia Organa
 , who had been one of the leaders of the
 Rebel Alliance
 during the war, argued strongly against the demilitarization policies and said that the New Republic could not trust the Imperial remnants from attacking the New Republic and urged the senate to take the threat seriously, but she was considered a warmonger.
-[
-12
-]
 The Amaxine warrior crisis, which General Organa learned was instigated by the First Order, exposed many weaknesses within the New Republic, both politically and militarily.
 Nonetheless,
 Senator
@@ -249,9 +231,6 @@ New Republic Senate
 , even sitting on the
 Senate Defense Council
 at one time,
-[
-24
-]
 but lost almost all credibility following the public revelation of her
 father
 having been the Imperial enforcer
@@ -274,9 +253,6 @@ Joph Seastriker
 , and
 Temmin Wexley
 , formed a paramilitary outfit called the Resistance.
-[
-19
-]
 In time, Organa learned the enemy she was facing was the First Order and became aware of its leader, the mysterious
 Supreme Leader
 Snoke
@@ -293,13 +269,7 @@ Han Solo
 , resulting in the two splitting apart: while Organa focused on the Resistance, Solo returned to smuggling with their friend
 Chewbacca
 ,
-[
-1
-]
 although he was aware of his wife's efforts.
-[
-25
-]
 Fearing an occupation of their independent
 homeworld
 ,
@@ -307,15 +277,9 @@ Ryloth
 , by the First Order during its rise of power, numerous
 Twi'leks
 pledged their allegiance to Leia Organa and the Resistance.
-[
-9
-]
 The
 actual government of Ryloth
 , however, remained independent from Organa's efforts.
-[
-15
-]
 Rise of the First Order
 [
 ]
@@ -328,80 +292,32 @@ I'm a Republic officer, General. I swore an oath to protect the Republic, to—
 No, you misunderstand. I like it. It was rash of you, as I said, it was foolish. But we could use some rash these days, and foolish and passionate are often confused, and passion is something we desperately need.
 "
 ―Poe Dameron and Leia Organa
-[
-26
-]
 Requiring a hidden base of operations, the Resistance chose D'Qar due to the planet's obscurity.
 To be a check on the designs of the First Order, Organa formed the Resistance with a
 base
 on
 D'Qar
 , making use of an outpost that was once intended as an Alliance base during the war
-[
-12
-]
 and had, for a time, been used as a base by the extremist
 Partisans
 .
-[
-27
-]
 Having been abandoned in haste by the Partisans
-[
-28
-]
 in
 3 BBY
-[
-29
-]
 and only seeing brief use by the Alliance
-[
-12
-]
 as a small outpost
-[
-30
-]
 towards the final phases of the war,
-[
-12
-]
 the Resistance refitted
-[
-31
-]
 the abandoned location to fit their needs, expanding the former rebel outpost into its headquarters. The decisions came from Organa herself, who had remembered the old base and dispatched engineers there for the project.
-[
-30
-]
 The Resistance was a splinter group from the Republic's military and operated wholly independently of the Republic chain of command. The Republic quietly tolerated Organa's activities
-[
-12
-]
 as she pursued evidence that the First Order was violating the Galactic Concordance.
-[
-26
-]
 While some members of the Galactic Senate and other allies secretly supported her actions
-[
-32
-]
 with funding and sympathies,
-[
-26
-]
 most galactic politicians dismissed Organa as a relic of a long-gone war, publicly decriding her as a paranoid warmonger.
-[
-32
-]
 The Resistance went into combat against the First Order on a few occasions and even exposed the New Republic
 senator
 Erudo Ro-Kiintor
 as a First Order agent.
-[
-26
-]
 Lor San Tekka possessed the key to finding the legendary Jedi Master Luke Skywalker.
 Following
 Operation: Sabre Strike
@@ -415,9 +331,6 @@ new generation
 of
 Jedi
 .
-[
-26
-]
 Believing that
 Lor San Tekka
 held the key to finding Skywalker, General Organa sent
@@ -433,9 +346,6 @@ Ovanis
 to question the
 Crèche
 cultists about Tekka's whereabouts.
-[
-33
-]
 Their mission was complicated when the First Order dispatched
 Agent
 Terex
@@ -446,9 +356,6 @@ TIE fighters
 and
 landing platform
 .
-[
-34
-]
 The fighting was complicated when two
 large winged creatures
 hatched from the
@@ -456,9 +363,6 @@ Crèche egg
 and fought. Ultimately, Poe defeated Terex in physical combat and forced the First Order agent to withdraw his forces. Having obtained the information from the
 Crèche elder
 , Poe and Black Squadron departed Ovanis.
-[
-35
-]
 Under General Organa's orders, the Resistance's Black Squadron freed Grakkus the Hutt from a New Republic prison on Megalox Beta, as he held information that could lead them to Lor San Tekka.
 Continuing their search for Lor San Tekka, General Organa bribed
 Warden
@@ -475,9 +379,6 @@ Hutt
 . However, Terex found his way first and managed to bribe Luta into abandoning Black Squadron inside the prison. Despite Terex's tactics, Poe and his fellow pilots managed to reach
 Grakkus' fortress
 . Grakkus then offered to sell the information to whoever got him out of the prison first.
-[
-36
-]
 In response, Poe got
 BB-8
 and the other astromech droids to embark on a mission to disable
@@ -485,24 +386,12 @@ Megalox space station
 's gravity shield. Jess's droid
 O-R10N
 was destroyed by a security droid.
-[
-37
-]
 When Terex hired an army of gangsters to attack Grakkus' fortress, Black Squadron joined Grakkus' posse in fighting off the rival gangs.
-[
-37
-]
 They held out long enough for BB-8 and his team to deactivate the gravity shield. While Terex and the other gangsters were crushed under the weight of Megalox Beta's high gravity, Poe and his fellow pilots were unaffected since they wore gravity belts. After rescuing Grakkus, they convinced Luta to let them go in return for restoring control of the prison. Before escorting Grakkus into hyperspace, Black Squadron stopped Terex's starship
 Carrion Spike
 from attacking the Megalox prison shuttles rushing to evacuate the prisoners. Having extracted the necessary information from Grakkus, Black Squadron allowed him to flee into hyperspace.
-[
-38
-]
 The cold war was a state of hostility that existed between the Resistance and the First Order prior to the New Republic's collapse.
 Despite outsmarting the First Order, Poe and General Organa realized that the First Order had a spy among their ranks and suspended the search for Tekka.
-[
-38
-]
 Poe subsequently embarked on a
 solo mission
 to the Inner Rim gas giant of
@@ -516,9 +405,6 @@ First Order Security Bureau
 Agent
 Weel
 . Javos managed to kill Weel and free Poe. After escaping, Javos experienced a change of heart and decided to join the Resistance.
-[
-39
-]
 The Resistance possessed an intricate droid spy network managed by General Organa's protocol droid, C-3PO.
 At the request of General Organa's spymaster C-3PO, Poe along with BB-8 and the technician
 Oddy Muva
@@ -532,35 +418,20 @@ who had obtained data on the First Order including the location of
 Supreme Leader
 Snoke
 .
-[
-40
-]
 However, Agent Terex had planted the data as part of a rogue mission to destroy the Resistance.
-[
-41
-]
 Terex had retaken control of the
 Ranc Gang
 and was determined to continue his pursuit for Poe. Poe, BB-8, and C-3PO managed to retrieve the spy droid, who turned out to be the
 BX-series droid commando
 N1-ZX
 .
-[
-42
-]
 Resistance and First Order forces combated the Ranc gang, a faction of pirates led by former First Order Agent Terex.
 Poe's mission was complicated further by Oddy Muva embarking on a mission to rescue his wife,
 Sowa Chuan
 , who had been kidnapped by Terex in order to exert leverage against Oddy.
-[
-43
-]
 Terex had forced Oddy to spy on Poe and Black Squadron. Meanwhile, Poe realized that Terex was planning to track him back to the Resistance Base on D'Qar. Poe and the droids crash-landed on a
 desert world
 in an attempt to evade Terex and his Ranc Gang.
-[
-41
-]
 Poe's Black Squadron mates soon arrived and
 fought
 with Terex's "
@@ -569,18 +440,14 @@ Uglies
 Commander
 Malarus
 , who had been sent to chastise the prodigal First Order agent. Poe allowed Malarus to arrest Terex, and the two factions departed peacefully in an effort to avoid open warfare.
-[
-44
-]
 Through operatives like Kazuda Xiono the Resistance learned that the First Order was building up a massive force to invade the New Republic, though any warnings the Resistance directed to the Republic's Senate fell on deaf ears.
 Sometime later General Organa at the height of the galactic tensions released the
 Grace Report
 to the Galactic Senate where she claimed the First Order has violated the
 Galactic Concordance
-and was building hidden shipyards, armories, research-and-development labs, and academies, detailing the fact facilities were working day and night on the massive military buildup, one far larger than the First Order would need to defend its member worlds. It also included accounts of testimony from refugees who fled from First Order space to warn the Resistance of what life is under their rule with stories about property seized, populations relocated, children kidnapped, and dissenters exterminated and accusing the Order cooperation agreements with the neutral systems being enforced by the business end of blasters as well as threatening the neutral worlds in the galactic borderlands. And that the First Order calls to civilize the galactic frontier were all but a story they told to cover their colonization of star systems.
-[
-45
-]
+and was building hidden shipyards, armories, research-and-development labs, and academies, detailing the fact facilities were working day and night on the massive military buildup, one far larger than the First Order would need to defend its member worlds.
+It also included accounts of testimony from refugees who fled from First Order space to warn the Resistance of what life is under their rule with stories about property seized, populations relocated, children kidnapped, and dissenters exterminated and accusing the Order cooperation agreements with the neutral systems being enforced by the business end of blasters as well as threatening the neutral worlds in the galactic borderlands.
+And that the First Order calls to civilize the galactic frontier were all but a story they told to cover their colonization of star systems.
 Although Lor San Tekka provided Resistance Commander Poe Dameron with the map to Luke Skywalker, the First Order would capture Dameron on Jakku, leaving the map to his droid, BB-8.
 Following a series of adventures, Organa
 sent
@@ -609,9 +476,6 @@ Maz Kanata
 on
 Takodana
 , where they were tracked by the First Order.
-[
-1
-]
 A new galactic war
 [
 ]
@@ -622,9 +486,6 @@ Conflict begins
 We are the spark that will light the fire that will burn the First Order down.
 "
 ―Poe Dameron
-[
-5
-]
 Without the New Republic, the Resistance stood alone against the armies of the First Order.
 The Cold War ended with the
 Starkiller crisis
@@ -633,9 +494,6 @@ Hosnian system
 which was destroyed, including
 Hosnian Prime
 and other astronomical bodies of the system as the First Order set out to takeover the galaxy.
-[
-1
-]
 Many Resistance sympathizers within the New Republic perished on Hosnian Prime, further isolating Organa's cause.
 Chancellor
 Lanever Villecham
@@ -645,23 +503,14 @@ Korr Sella
 , countless senators, and all the inhabitants of the Hosnian
 system
 were victims in the destruction of the system.
-[
-1
-]
 In the resulting
 pocket nova
 , Hosnian Prime became a second
 star
 in its system.
-[
-46
-]
 Afterward, singer
 Hevasi Joy
 denounced the First Order and called for people to join the Resistance, but her words resulted in her being imprisoned by the Order.
-[
-15
-]
 Rising from the ashes
 [
 ]
@@ -669,27 +518,12 @@ Rising from the ashes
 People are counting on us! The galaxy is counting on us!
 "
 ―Han Solo, to Finn
-[
-1
-]
 The governing body of the New Republic destroyed, the First Order effortlessly retook control over much of the galaxy, with the Resistance nearly powerless to stop their advance.
 Following the loss of the senate and the Hosnian system,
-[
-11
-]
 the Republic was virtually helpless as the First Order fleet spread across the galaxy as many Republic member worlds surrendered to the First Order without a fight. These events quickly led to the collapse of the New Republic where its surviving senators had dissolved the remaining task forces in a effort to protect their own homeworlds.
-[
-47
-]
 The few Republic military forces that remained were completely outclassed and destroyed by the First Order, convincing many Republic member worlds to surrender to the First Order without a fight, rather than risk defeat and devastation.
-[
-47
-]
 Resistance forces led by Poe Dameron engaged the First Order for the first time in open war during the Battle of Takodana.
 In the immediate aftermath of the Hosnian Cataclysm as open war, the Resistance became a successor to the fallen New Republic, upholding the ideals of democracy and freedom.
-[
-5
-]
 Organa's first command was to send Commander Dameron, who had escaped from the First Order with Finn's help, to
 Maz Kanata
 's
@@ -701,9 +535,6 @@ T-70 X-wing starfighters
 squadrons and
 fought
 the First Order off, though Rey was captured as part of the First Order's quest to find Skywalker as well. The Resistance engaged in a fierce dogfight, resulting in the destruction of many First Order TIEs and the deaths of many stormtroopers. As the battle raged on above the castle, the remaining First Order troops boarded their ships and withdrew, taking the captured and unconscious Rey along with them.
-[
-1
-]
 Using information provided by a rogue stormtrooper, the Resistance infiltrated Starkiller Base, intending to destroy the First Order superweapon.
 Upon arriving on D'Qar, the site of the Resistance's headquarters, they planned a
 counterattack
@@ -712,18 +543,12 @@ sun
 in order to charge its main weapon, and that it required a
 thermal oscillator
 , which sustained the energy on the planet, that, if destroyed, would destabilize the planet's core and implode the base. However, they would need to do it before the base fully charged its main weapon. Finn, Solo, and Chewbacca were to go to Starkiller Base, who also intended to rescue Rey from the base and to disabled the shields protecting a oscillator.
-[
-1
-]
 The Resistance's Inferno Squad were captured by First Order military forces on Vardos, later engaging in battle against them.
 The Resistance however had some early successes with one notable example being able to liberate the
 Colossus
 station on Castilon from the First Order's grip and was able to
 escape
 into deep space while being pursued by the First Order.
-[
-48
-]
 Inferno Squad
 was also able to escape the First Order as large-scale
 fighting
@@ -737,9 +562,6 @@ city
 of
 Vardos
 , as the Order burned the city.
-[
-9
-]
 Meanwhile, Solo piloted the
 Millennium Falcon
 to Starkiller Base accompanied by Chewbacca and Finn and snuck into the main base and captured
@@ -747,32 +569,30 @@ Captain
 Phasma
 , whom they forced to disable the shields before disposing of her in a
 garbage chute
-. They reunited with Rey, who had already escaped on her own. Upon arriving at the junction, Rey quickly went to work. Within a very short span of time she managed to rig the junction properly, leading to a service hatch opening upon the complex Han and Chewie were sneaking within. Han and Chewie then planned a proper strategy to make maximum use of the explosives at their disposal before getting to work. Han confronted Kylo Ren on a bridge over a large pit, pleading with his son to reject Snoke and return to the light side of the Force. However, Ren refused, and killed his father with
+.
+They reunited with Rey, who had already escaped on her own.
+Upon arriving at the junction, Rey quickly went to work.
+Within a very short span of time she managed to rig the junction properly, leading to a service hatch opening upon the complex Han and Chewie were sneaking within.
+Han and Chewie then planned a proper strategy to make maximum use of the explosives at their disposal before getting to work.
+Han confronted Kylo Ren on a bridge over a large pit, pleading with his son to reject Snoke and return to the light side of the Force.
+However, Ren refused, and killed his father with
 his
 lightsaber
 , who with love, stroked Ren's face before he plummeted down a shaft as Finn, Rey, and Chewbacca looked on in horror. Ren then felt weakened and horrified by his actions. Meanwhile Chewbacca was able to injure Ren with his bow-caster and proceeded to shoot down several stormtroopers.
-[
-1
-]
 The First Order's champion and General Organa's own son, Kylo Ren, fought Rey, a scavenger strong with the Force who took up the Resistance cause.
 Chewbacca then detonated explosives on columns supporting an access tunnel that led into the thermal oscillator's conduit. Finn and Rey exited the base into the forest, but were followed by Ren in the forest and knocked out Rey unconscious, then Finn ignited
 the Skywalker family lightsaber
-. Ren, the grandson of Anakin Skywalker, claimed that the lightsaber rightfully belonged to him and dueled over it. All of a sudden, the lightsaber flew out from the snow into Rey's hand and begun her own duel with Ren. With the tunnel open, Dameron, entered it and began a chain reaction of explosions across the planet's surface as it imploded and then exploded. Before Rey could move to finish Ren off, the planet ruptured between where they were standing and they were separated and the stored material from the drained sun then began to expand to create a new star in the planet's place,
-[
-1
-]
+.
+Ren, the grandson of Anakin Skywalker, claimed that the lightsaber rightfully belonged to him and dueled over it.
+All of a sudden, the lightsaber flew out from the snow into Rey's hand and begun her own duel with Ren.
+With the tunnel open, Dameron, entered it and began a chain reaction of explosions across the planet's surface as it imploded and then exploded.
+Before Rey could move to finish Ren off, the planet ruptured between where they were standing and they were separated and the stored material from the drained sun then began to expand to create a new star in the planet's place,
 turning the star system into a binary.
-[
-46
-]
 Rey, Finn, and the rest of the Resistance pilots then returned to the base for a strategic gathering concerning the map to Skywalker's location, though at the cost of Solo and many starfighter pilots. Upon their return, R2-D2 awoke from a years-long slumber and provided the remainder of the map needed to find Skywalker from an incomplete
 galactic
 map from the Imperial archives, only completed with BB-8's fragment. Rey, accompanied by Chewbacca and R2-D2, traveled to the planet
 Ahch-To
 to find Skywalker, but he refused to join the Resistance, overcome with grief and shame over his disastrous failure to train Kylo Ren. Rey eventually left to confront Ren herself, leaving Skywalker behind.
-[
-1
-]
 Organa had a
 funeral
 to be held on D'Qar for Solo and thought that it would provide a chance to inspire
@@ -784,13 +604,7 @@ days
 of the
 Galactic Civil War
 . Organa also took the opportunity to read out the names of the pilots who never made it back from the Starkiller.
-[
-47
-]
 Zay had ordered Suurgav to contact the Resistance and tell them that the war was just beginning.
-[
-9
-]
 Survival
 [
 ]
@@ -798,9 +612,6 @@ Survival
 In every corner of the galaxy, the downtrodden and oppressed know our symbol, and they put their hope in it. We are the spark that will light the fire that will restore the Republic. That spark, this Resistance, must survive. That is our mission.
 "
 ―Amilyn Holdo
-[
-5
-]
 The First Order struck back against the Resistance, destroying their headquarters on D'Qar shortly after the Battle of Starkiller Base.
 While Rey was on Ahch-To, the Resistance moved to hastily evacuate its primary base on D'Qar. The
 destruction
@@ -809,17 +620,8 @@ Resistance navy
 was summoned to help
 evacuate the planet
 and search for a new home base.
-[
-11
-]
 Knowing desperately that they needed aid, Organa dispatched Black Squadron
-[
-49
-]
 and Inferno Squad to gather allies in the Outer Rim.
-[
-9
-]
 The
 First Order fleet
 arrived near the end of the evacuation of the base, using a
@@ -832,9 +634,6 @@ Tallissan Lintra
 destroyed the dreadnought, defying Organa's orders to fall back. Despite the success of the assault, the entire Resistance bomber fleet was lost in the process. For his costly and disobedient action, Organa demoted Dameron to the rank of
 Captain
 .
-[
-5
-]
 A Resistance cell in control of the
 Colossus
 arrived too late to assist with the evacuation of D'Qar.
@@ -856,9 +655,6 @@ spy
 . The senator further warned Kaz that
 bounty hunters
 would be after him.
-[
-50
-]
 After departing, the
 Aces
 who were in need of combat training, the
@@ -868,9 +664,6 @@ ice
 moon
 Celsor 3
 to train.
-[
-51
-]
 After coming out of hyperspace, the Resistance fleet headed to Crait, only to find a fleet of First Order ships, including the
 Mega
 -class Star Dreadnought
@@ -881,19 +674,10 @@ Supremacy
 MC85 Star Cruiser
 Raddus
 , upon sensing his mother's presence. His escorts fired instead, killing the entire bridge crew except for Organa, who survived exposure to the vacuum of space but was rendered unconscious. With Organa out of commission
-[
-5
-]
 and most other senior leadership, including Admiral Ackbar, dead,
-[
-52
-]
 Vice Admiral
 Amilyn Holdo
 was assigned to temporarily replace Organa, remaining passive about the situation, much to Dameron's irritation.
-[
-5
-]
 Without Organa, the Resistance became divided between supporters of Vice Admiral Amilyn Holdo and those who followed Captain Poe Dameron.
 Finn and the maintenance worker
 Rose Tico
@@ -909,9 +693,6 @@ to recruit a codebreaker to help get past the
 Supremacy
 '
 s sensor grid.
-[
-5
-]
 As all but the
 Raddus
 fell to the First Order's guns, Holdo announced her plan to use unarmed transports to evacuate the
@@ -930,17 +711,11 @@ Supremacy
 to spot the fleeing transports and begin firing on them, wiping out all but six of the thirty. Holdo subsequently sacrificed herself to destroy the
 Supremacy
 by ramming the First Order's fleet at light speed.
-[
-5
-]
 During the battle, Rey boarded the
 Supremacy
 and tried to convince Kylo Ren to turn back to the
 light side of the Force
 and join the Resistance. However, Ren refused and later framed her for his murder of Snoke after she fled the Mega-Destroyer.
-[
-5
-]
 Retreating to an abandoned Rebel outpost on Crait, the Resistance was forced to rely on obsolete ski speeders against the First Order war machine.
 The remaining transports arrived on Crait and prepared to send a transmission to the Resistance's allies in the Outer Rim. However, the First Order struck again, with Kylo Ren, now the new Supreme Leader, leading an
 attack
@@ -951,22 +726,20 @@ Millennium Falcon
 , piloted by Rey and Chewbacca, arrived to help, but this still was not enough to slow the First Order's advance. As the battering ram prepared to fire, Dameron ordered
 all speeders
 to fall back as it would be a suicide run. Finn, however, disobeyed and piloted his speeder directly towards the barrel of the cannon. Unwilling to let Finn die, Tico crashed her speeder into his, saving Finn's life but badly injuring herself.
-[
-5
-]
 As the cannon opened fire through the main doors of the base. The Resistance realized that all of the messages sent to their allies had been received, but none had responded. Greatly saddened, Organa gave up all hope and said the spark was out with all seemed lost before Skywalker intervened via a
 Force projection
 . Organa and Skywalker spoke one last time before he went to face Ren.
-[
-5
-]
 Luke Skywalker died saving the Resistance from his fallen nephew Kylo Ren, and in doing so he inspired a new wave of hope across the galaxy.
 Ren ordered all of the walkers to open fire on Skywalker as he appeared outside in a futile attempt to destroy him. However, the Jedi Master was unscathed, Ren then arrived on the surface and confronted Skywalker in an epic
 lightsaber duel
-, Rey meanwhile helped the remaining Resistance members escape. Before his projection faded and he died from exhaustion, Skywalker stated that the Rebellion would be reborn from the last of the Resistance, and that the legacy of the Jedi would endure through Rey. Following a remaining vulptex, having left through a natural exit. Dameron led the surviving Resistance members in search of the exit and escaped on Falcon. Skywalker passed away peacefully and became one with the Force. His passing was felt by Rey and Organa, who both noted that he was content and at peace. What remained of the Resistance retreated, on a quest to build their new Rebellion. Ren had failed to destroy the Jedi Order as the last Jedi, Rey, had survived.
-[
-5
-]
+, Rey meanwhile helped the remaining Resistance members escape.
+Before his projection faded and he died from exhaustion, Skywalker stated that the Rebellion would be reborn from the last of the Resistance, and that the legacy of the Jedi would endure through Rey.
+Following a remaining vulptex, having left through a natural exit.
+Dameron led the surviving Resistance members in search of the exit and escaped on Falcon.
+Skywalker passed away peacefully and became one with the Force.
+His passing was felt by Rey and Organa, who both noted that he was content and at peace.
+What remained of the Resistance retreated, on a quest to build their new Rebellion.
+Ren had failed to destroy the Jedi Order as the last Jedi, Rey, had survived.
 Resistance reborn
 [
 ]
@@ -977,9 +750,6 @@ Ventures directly after Crait
 We have everything we need.
 "
 ―Leia Organa, on rebuilding the Resistance
-[
-5
-]
 In the aftermath of the Battle of Crait, the First Order had reduced the Resistance to a handful of freedom fighters.
 In a rare moment of peace, Dameron, Rey, and Finn all sat together on the
 Millennium Falcon
@@ -988,9 +758,6 @@ sacred Jedi texts
 to Rey in the
 Millennium Falcon
 , BB-8,
-[
-49
-]
 opened a distress call from the Resistance's Black Squadron, who were currently
 aiding
 the struggling
@@ -1002,17 +769,8 @@ Grist
 against the First Order and its
 sympathizers
 .
-[
-53
-]
 After Poe got Leia Organa's permission to help and repromotion to commander, he got a ship loaned from Grakkus, who was supporting the Resistance after the Battle of Crait, and rescued the squadron by shooting down TIE fighters so as to serve as bombs to a Star Destroyer and trick the assaulters by bringing down the shield and using ground cannons to finish the job. This in turn earned the Ikkrukk's alliance with the Resistance,
-[
-54
-]
 but they later retracted from helping them.
-[
-15
-]
 Believing an old friend,
 Ambassador
 Yendor
@@ -1032,13 +790,7 @@ capital
 of
 Lessu
 . Organa continued their current plans, however, and
-[
-15
-]
 Commander
-[
-54
-]
 Dameron, Black Squadron, Inferno Squad, and new allies they had gathered arrived on Ryloth. After launching a
 mission to Bracca
 and a
@@ -1048,9 +800,6 @@ launched an attack
 . The Resistance, including Organa, Yendor, and Rey, escaped the planet and regrouped at a location provided by the
 Collective
 .
-[
-15
-]
 Mon Cala and the Moon of Avedot
 [
 ]
@@ -1063,9 +812,6 @@ camp
 on the garbage planet of
 Anoat
 .
-[
-16
-]
 The Resistance fleet and First Order fighting over Mon Cala.
 Sometime later Dameron
 was tasked to go
@@ -1082,30 +828,18 @@ Chadkol Gee
 , who was fiercely isolationist, and the advisor of General
 Nossor Ri
 ,
-[
-16
-]
 an
 ex
 Separatist,
-[
-55
-]
 but were stopped by
 Aftab Ackbar
 , son of the late Admiral Gial Ackbar, who provided the Resistance with
 starship
 ,
-[
-56
-]
 with
 King
 Ech-Char
 and the Mon Cala joining the Resistance, this led to the First Order to making an example of Mon Cala after learning that the Mon Calamari and Quarren were supporting the Resistance.
-[
-57
-]
 Black Spire Outpost
 [
 ]
@@ -1125,9 +859,6 @@ Black Spire Outpost
 which the Resistance picked largely because it had been ideal for their needs and included a
 DF.12 Com Turret
 for security.
-[
-58
-]
 The pirate
 Hondo Ohnaka
 made a deal with Chewbacca to use the ship, and hired a temporary crew to take part in one of Ohnaka's jobs, where they were tasked with
@@ -1135,13 +866,7 @@ hijacking
 a First Order train containing
 coaxium
 .
-[
-21
-]
 The Resistance also began to locate allies, sanctuary, and firepower. However, two weeks after the arrival of Resistance forces on the planet,
-[
-59
-]
 the First Order's
 709th Legion
 landed on
@@ -1152,31 +877,16 @@ Agnon
 , the forces of the 709th, commonly referred to as the "Red Fury," searched the outpost for Resistance
 spies
 .
-[
-60
-]
 Supreme Leader Ren himself presided over the search and effort
-[
-21
-]
 to
 take over the
 the Outpost, intending to remove the Resistance.
-[
-60
-]
 With their presence discovered, the Resistance elected to evacuate, with a
 Pacara base
 having been established by that time.
-[
-17
-]
 Several Resistance recruits were once scrambled there alongside BB-8 to their fighters, while another a group of recruits departed from the ruins on a mission in an
 transport
 before the vessel's capture and eventual escape from a Star Destroyer.
-[
-61
-]
 Tevel
 [
 ]
@@ -1187,9 +897,6 @@ Tevel
 was liberated from First Order forces and was successfully retaken by the Resistance and the
 Tevellan
 .
-[
-62
-]
 Minfar
 [
 ]
@@ -1202,9 +909,6 @@ Echo Horn
 , a weapon to control the
 Zixon
 but was destroyed by Dameron, Rey, Tico, Resistance members, and sympathizers.
-[
-56
-]
 Lighting the spark
 [
 ]
@@ -1221,9 +925,6 @@ Link
 (
 file info
 )
-[
-5
-]
 At some point, the Resistance set up a
 base
 on
@@ -1269,9 +970,6 @@ base
 on Exegol to attack the free worlds. Rey was joined by Finn, Dameron, Chewbacca, C-3PO, and BB-8 on the
 Millennium Falcon
 .
-[
-4
-]
 A Resistance team arrived on Pasaana on a mission to acquire a wayfinder that could lead them to Exegol.
 The team
 traveled
@@ -1300,9 +998,6 @@ Knights of Ren
 and believed to be dead. On Ochi's ship, BB-8 reactivated Ochi's droid,
 D-O
 , who befriended the group.
-[
-4
-]
 The team then
 traveled
 to the First Order
@@ -1328,9 +1023,6 @@ Steadfast
 , and the team rescued him. However, Rey learned through Kylo Ren that she was Darth Sidious' granddaughter and that they formed a
 dyad in the Force
 .
-[
-4
-]
 The Resistance plotted their course to victory over the First Order and the Sith Eternal on Ajan Kloss.
 The group then
 went
@@ -1360,9 +1052,6 @@ Core Worlds
 on the
 Falcon
 to try and rally the free worlds.
-[
-4
-]
 The Resistance survivors celebrate on Ajan Kloss after defeating the Sith Eternal at Exegol.
 The Resistance, led by Generals Dameron and Finn following General Organa's passing,
 attacked
@@ -1389,9 +1078,6 @@ turbolasers
 against his own ship, destroying it, and with it, the navigation signal. With the remaining Sith Star Destroyers of the Sith fleet trapped on Exegol and destroyed, the Resistance and galaxy fleet retreated back to Ajan Kloss, where they celebrated their victory against Sidious and the Sith Eternal. During their retreat, the Resistance learned that their victory had inspired an
 uprising against the First Order
 by the inhabitants of the galaxy, thereby fulfilling their stated goal of being the spark to light the fire to burn the First Order down.
-[
-4
-]
 Organization
 [
 ]
@@ -1402,9 +1088,6 @@ Leadership
 You are the leader of the Resistance, a critical check on the designs of the First Order. You are a symbol of the Resistance and an inspiration to all soldiers who follow our cause and do their duty in hard times.
 "
 ―PZ-4CO, to Leia Organa
-[
-63
-]
 Resistance High Command consisted of General Leia Organa and other veterans of the Galactic Civil War.
 The Resistance was a band of
 soldiers
@@ -1423,12 +1106,6 @@ Alliance to Restore the Republic
 during the
 Galactic Civil War
 , and reputedly knew the name of every single member in her organization.
-[
-63
-]
-[
-12
-]
 Commanders
 of the Resistance carried out their duties in the belief that they would be able to restore the
 New Republic
@@ -1437,18 +1114,12 @@ the galaxy
 to
 democratic
 rule.
-[
-5
-]
 Other members of
 Resistance High Command
 included
 Major
 Caluan Ematt
 ,
-[
-63
-]
 Admiral
 Statura
 , Admiral
@@ -1456,23 +1127,14 @@ Gial Ackbar
 , and Major
 Taslin Brance
 .
-[
-12
-]
 Organa's
 droids
 C-3PO
 and
 R2-D2
-[
-64
-]
 also served in the Resistance, while
 PZ-4CO
 took command of the control center's operations with the assistance of C-3PO. Many other individuals performed tasks, such as starfighter and droid maintenance, in the Resistance base on D'Qar.
-[
-12
-]
 During the
 Battle of Oetchi
 , most of the Resistance High Command were killed when
@@ -1486,25 +1148,13 @@ Resistance officer
 Vice Admiral
 Amilyn Holdo
 , who served as the acting leader of the Resistance until Organa regained consciousness.
-[
-5
-]
 General Organa remained the leader of the Resistance until her death
-[
-4
-]
 one year later.
-[
-65
-]
 Her final command was making
 Poe Dameron
 acting general of the Resistance. Dameron promoted
 Finn
 to general as well.
-[
-4
-]
 Military
 [
 ]
@@ -1512,22 +1162,22 @@ Overview
 [
 ]
 "
-Just because something doesn't matter to the First Order doesn't mean it lacks value. The Resistance is built on hope. People need something to believe in, a symbol to stand behind. So we go to places where the First Order doesn't have a foothold, win the people over, and create a place where anyone who stands for freedom can find their home—or park their X-wing and wait for orders. By now, you probably know how few people we have left. We lost most of our fleet, tons of our allies. Every bolt-hole we can build to hide and gas up our ships is one more pocket of hope.
+Just because something doesn't matter to the First Order doesn't mean it lacks value.
+The Resistance is built on hope.
+People need something to believe in, a symbol to stand behind.
+So we go to places where the First Order doesn't have a foothold, win the people over, and create a place where anyone who stands for freedom can find their home—or park their X-wing and wait for orders.
+By now, you probably know how few people we have left.
+We lost most of our fleet, tons of our allies.
+Every bolt-hole we can build to hide and gas up our ships is one more pocket of hope.
 "
 ―
 Vi Moradi
 , to
 Archex
-[
-66
-]
 Members of the Resistance were recruited from the ranks of the New Republic military and elsewhere.
 Like its predecessor, the Rebel Alliance, the Resistance utilized hit-and-run tactics against the forces of the First Order, the Resistance's military strategy was to merely delay the movements of the First Order and obtain irrefutable evidence of illegal military incursions into New Republic territory to present to
 Republic Command
 .
-[
-26
-]
 An organized group, the Resistance had a designated
 rank system
 for members in both the
@@ -1535,9 +1185,6 @@ army
 and
 navy
 .
-[
-67
-]
 The ranks were simple but often had variations. The Army used the following ranks in descending order:
 General
 ,
@@ -1559,11 +1206,10 @@ Nien Nunb
 after the
 Battle of Crait
 . Rank badges with rank symbols indicated a soldier, officer, or pilot's rank. Red badges were used by the army while blue ones were used by the navy.
-[
-12
-]
 The ranks Vice Admiral and lieutenant commander did not have a specific badge.
-Militarily, the Resistance was forced to make do with outdated and aging equipment unlike the New Republic, and was so undermanned that most of its personnel were forced to do double duty as scanner technicians, droid programmers, starship mechanics, and regular foot soldiers. Owing to its lessened pool of manpower, the Resistance placed a greater emphasis on treating the wounded and returning them to duty, and as a result finding medical equipment was a high priority. Resistance troopers commonly utilized the
+Militarily, the Resistance was forced to make do with outdated and aging equipment unlike the New Republic, and was so undermanned that most of its personnel were forced to do double duty as scanner technicians, droid programmers, starship mechanics, and regular foot soldiers.
+Owing to its lessened pool of manpower, the Resistance placed a greater emphasis on treating the wounded and returning them to duty, and as a result finding medical equipment was a high priority.
+Resistance troopers commonly utilized the
 BlasTech
 EL-16HFE blaster rifle
 and were ferried into combat on
@@ -1579,9 +1225,6 @@ led
 the Resistance's droid spy network, with
 GA-97
 alerting the Resistance to BB-8's location on Takodana.
-[
-12
-]
 Rank insignia of the Resistance military
 Many members of the Resistance were recruited from the ranks of the New Republic military, such as
 Poe Dameron
@@ -1593,47 +1236,29 @@ Iolo Arana
 Karé Kun
 , and
 Temmin "Snap" Wexley
-, while others were veteran officers and soldiers of the Galactic Civil War who had fought along side and remained loyal to Leia Organa. The upper levels of Resistance command is consisted of veterans of the Galactic Civil War who had remained loyal to Leia Organa. With many skilled commanders left unemployed by the Military Disarmament Act, several old rebels readily rallied to Leia's call to action. Officers, such as Admiral Ackbar were treated with great respect by Resistance personnel, many of whom existed in a generational divide, with most young "
+, while others were veteran officers and soldiers of the Galactic Civil War who had fought along side and remained loyal to Leia Organa.
+The upper levels of Resistance command is consisted of veterans of the Galactic Civil War who had remained loyal to Leia Organa.
+With many skilled commanders left unemployed by the Military Disarmament Act, several old rebels readily rallied to Leia's call to action.
+Officers, such as Admiral Ackbar were treated with great respect by Resistance personnel, many of whom existed in a generational divide, with most young "
 victory kids
 " barely in their twenties having never witnessed the horrors of tyranny firsthand.
-[
-26
-]
 Many of the youngest kids were used to fill out the ranks of the
 Starfighter Corps
 and were recruited from local
 planetary defense forces
 . Spirited and idealistic, many of the pilots formed a close-knit bond and were eager to bring the fight to the First Order.
-[
-11
-]
 All members of the Resistance, including pilots, technicians, and ground crew were given
 infantry
 training.
-[
-45
-]
 As a symbol in their struggle against the First Order, the Resistance adopted the
 starbird
-[
-63
-]
 once used by the Rebel Alliance.
-[
-68
-]
 The symbol adorned the helmets of Resistance starfighter pilots,
-[
-64
-]
 who were known to use
 T-70 X-wing starfighters
 in combat, which were older than the New Republic
 T-85 X-wing
 .
-[
-69
-]
 Owing to New Republic demilitarization efforts, acquiring capital ships was near impossible. Consequently, the Resistance base on D'Qar contained two starfighter wings, code-named Red and Blue.
 Blue Squadron
 served as the primary line of defense for the base, while
@@ -1643,12 +1268,6 @@ Black Leader
 , not as an indication of a special squadron, but to denote his specialized fighter,
 Black One
 .
-[
-70
-]
-[
-12
-]
 Resistance Army
 [
 ]
@@ -1798,9 +1417,6 @@ Resistance transport pod
 Resistance transport
 , the
 Intersystem Transport Ship
-[
-71
-]
 the
 U-55 orbital load-lifter
 ,
@@ -1887,9 +1503,6 @@ Our distress signal's been received at multiple points…but no response.
 They've heard us…but no one's coming.
 "
 ―Kaydel Ko Connix and Larma D'Acy
-[
-5
-]
 A Resistance sympathizer flying a scavenged
 YT-1300 light freighter
 .
@@ -1898,45 +1511,21 @@ New Republic
 , which wanted to avoid war with the First Order even as the Order violated the terms of the
 Galactic Concordance
 . Resistance members, like Leia Organa and Poe Dameron were frustrated with the Galactic Senate's slow decision-making process and unwillingness to take action against the First Order.
-[
-12
-]
-[
-26
-]
 While the
 New Republic Defense Force
 officially tolerated the Resistance,
-[
-12
-]
 some military commanders like
 Major
 Lonno Deso
 disliked the Resistance for allegedly exaggerating the threat posed by the First Order. While the Republic believed that the First Order were a minor but troublesome Imperial remnant that exaggerated their strength and power, the Resistance saw the Order as a threat to the New Republic and the galaxy.
-[
-26
-]
 Some in the New Republic saw the Resistance as extremists,
-[
-72
-]
 and others regarded General Organa, who had been sidelined from the
 political
 process by a new generation of political leaders,
-[
-73
-]
 particularly after the revelation of her father being
 Darth Vader
 ,
-[
-19
-]
 as an alarmist at best and a warmonger at worst.
-[
-12
-]
 Nonetheless, the cash-strapped Resistance relied on the support of some sympathetic
 senators
 who discreetly channeled
@@ -1944,17 +1533,8 @@ credits
 ,
 ships
 , equipment, and recruits to the small, secretive military force.
-[
-74
-]
 Due to its efforts to resist the First Order's advances, the military junta identified the Resistance as one of its main obstacles to galactic domination and tried unsuccessfully to destroy its base on D'Qar with Starkiller Base.
-[
-1
-]
 When the First Order finally managed to destroy the base, the Resistance was able to successfully escape.
-[
-5
-]
 Behind the scenes
 [
 ]
@@ -1969,23 +1549,14 @@ Celebration Anaheim
 in
 April
 2015
-[
-75
-]
 and made its first appearance in the prologues and epilogues of the
 Journey to
 Star Wars: The Force Awakens
 young readers novels
 Moving Target: A Princess Leia Adventure
-[
-63
-]
 and
 The Weapon of a Jedi: A Luke Skywalker Adventure
 .
-[
-64
-]
 Actor
 Oscar Isaac
 , who portrayed Resistance pilot Poe Dameron in the
@@ -1993,9 +1564,6 @@ sequel trilogy
 , compared the Resistance to
 guerrilla
 fighters.
-[
-76
-]
 Appearances
 [
 ]

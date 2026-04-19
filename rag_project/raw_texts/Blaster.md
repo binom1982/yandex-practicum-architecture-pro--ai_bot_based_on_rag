@@ -9,22 +9,13 @@ Han Solo
 , to
 Luke Skywalker
 on the supposed advantages of a blaster over a lightsaber
-[
-1
-]
 Blasters came in many shapes and sizes.
 A
 blaster
 ,
-[
-2
-]
 also called a
 gun
 ,
-[
-3
-]
 was any type of ranged weapon that fired bolts of intense
 plasma
 or
@@ -62,142 +53,67 @@ Besides the fact you're waving a blaster around, Padmé, I'm fine.
 Padmé Amidala
 and
 Anakin Skywalker
-[
-4
-]
 Operating under the same principles as
 laser
 weaponry and firing at least partially by means of magnetic induction, blasters converted energy-rich gas,
-[
-2
-]
 such as
 tibanna
 gas,
-[
-5
-]
 to a glowing particle beam that could pierce and melt through targets.
-[
-2
-]
 The gas was activated by a
 power cell
 and converted to
 plasma
 , released from a magnetic bottle effect which fired through collimating components as a coherent bolt of energy,
-[
-6
-]
 called a "blaster bolt," which carried the shard of energy to the target.
-[
-7
-]
 Blasters came in a variety of sizes and shapes, including
 stun blasters
 ,
-[
-8
-]
 blaster pistols
 ,
 blaster rifles
 ,
-[
-9
-]
 reconfigurable blasters
 ,
-[
-10
-]
 scatterblasters
 ,
-[
-11
-]
 shock blasters
 ,
-[
-6
-]
 ion blasters
 ,
-[
-12
-]
 ion rifles
 ,
-[
-13
-]
 percussive cannons
 ,
-[
-14
-]
 heavy repeater cannons
 ,
-[
-15
-]
 repeating blasters
 ,
-[
-12
-]
 and
 blaster cannons
 .
-[
-16
-]
 Blaster artillery could also be attached on
 droids
-[
-17
-]
 and vehicles.
-[
-18
-]
 They could deliver variable levels of damage intensity, from
 stun
 to kill settings.
-[
-19
-]
 Several blasters like the
 Satine's Lament
-[
-12
-]
 and the
 Glie-44 blaster pistol
 were named after individuals.
-[
-20
-]
 Several blasters were also hybrids with
 melee weapons
 like the
 bo-rifle
 ,
-[
-21
-]
 the
 blaster spear
 ,
-[
-22
-]
 and
 Ketsu's staff
 .
-[
-23
-]
 Mandalorian
 Gar Saxon
 using his
@@ -212,9 +128,6 @@ deflector shields
 . The blade of a
 lightsaber
 could also deflect incoming blaster bolts.
-[
-19
-]
 In the
 Security Forces
 of
@@ -222,105 +135,48 @@ Naboo
 , some blasters were equipped with
 ascension guns
 .
-[
-24
-]
 Some blasters could fire low-powered training bolts characterized by their orange
 color
 .
-[
-25
-]
 Blaster bolts left marks on skin known as blaster burns.
-[
-26
-]
 Dedlanite
 was a material used in the manufacture of blasters.
-[
-27
-]
 BlasTech Industries
 was a major manufacturer of blasters.
-[
-12
-]
 A
 Trandoshan doubler
 or
 tripler
-[
-14
-]
 and an
 actuating module
-[
-8
-]
 increased a blaster's firepower.
 Hair triggers
 allowed faster rates of fire.
-[
-28
-]
 Blasters also had serial numbers on
 them
 .
-[
-14
-]
 Blaster components included a
 stock
 ,
-[
-14
-]
 scope
 ,
-[
-29
-]
 safety
 ,
-[
-14
-]
 cautionary pulser
 ,
-[
-30
-]
 blaster power pack
 ,
-[
-31
-]
 cooling unit
 ,
-[
-32
-]
 barrel
 ,
-[
-14
-]
 barrel-shroud
 ,
-[
-15
-]
 glowrod
 ,
-[
-33
-]
 and
 bayonet
 .
-[
-28
-]
 The red blaster bolts of Imperial blaster weaponry
 Blaster bolts came in different colors. Red was the most common color, and was made from cheaper gas. This color was used by the
 Confederacy of Independent Systems
@@ -329,55 +185,31 @@ Rebel Alliance
 , the
 Galactic Empire
 ,
-[
-34
-]
 and the
 First Order
 .
-[
-35
-]
 Blue was used by the
 Galactic Republic
 , and the
 Resistance
 .
-[
-36
-]
 Green was used by Naboo Security Forces,
-[
-34
-]
 and the
 Umbarans
 , as well as the
 Starfighter Corps
 of the Galactic Empire. This was a more expensive and more powerful type of blaster gas.
-[
-37
-]
 Yellow was used by
 Mandalorians
 .
-[
-34
-]
 Purple was used by the
 Geonosian Starfighters
-[
-38
-]
 and the
 Techno Union
 octuptarra tri-droid
 variant on the planet
 Skako Minor
 .
-[
-39
-]
 Orange was used by the
 Marksman-H training remote
 and training
@@ -389,9 +221,6 @@ clone cadets
 in their
 training
 sessions against training droids.
-[
-40
-]
 Kyber crystals
 were normally used to power lightsabers, but could also be used to power other weapons. People had tried to make kyber
 bombs
@@ -400,16 +229,10 @@ lightsaber rifle
 , of that kind in the
 Jedi Archives
 .
-[
-41
-]
 Slugthrowers
 differed from blasters by firing
 slugs
 , solid projectiles fired at high speed.
-[
-12
-]
 Appearances
 [
 ]

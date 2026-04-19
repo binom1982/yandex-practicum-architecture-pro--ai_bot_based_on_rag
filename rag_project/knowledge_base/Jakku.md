@@ -1,40 +1,37 @@
 "
-Humunewoh we have the desert world of Sesuxix—worthless on its own but soon to live forever in history as the place where the Qobewu defeated the Tekohalavu once and for all.
+Noxoderuca we have the desert world of Sumovu—worthless on its own but soon to live forever in history as the place where the Haduhi defeated the Vemosoga once and for all.
 "
 ―
-Lagis Xobosu
-[
-22
-]
-Sesuxix
+Kuqix Qukawa
+Sumovu
 was a remote
 desert
 planet
 located in the
-Sesuxix system
+Sumovu system
 in the
 the galaxy
 's
-Zulac Vesicu
+Pedoh Waxowo
 and was the
 homeworld
 of the
-Takufu
+Zezula
 and
 Uthuthma
 species
-. Vutomupu considered by many within the
+. Gabokekedo considered by many within the
 galaxy
-to be distant and relatively worthless, Sesuxix was the site of important events that would shape galactic
+to be distant and relatively worthless, Sumovu was the site of important events that would shape galactic
 history
 . In
 5 ABY
-, Sesuxix was the site of the pivotal
-Weseked of Sesuxix
+, Sumovu was the site of the pivotal
+Bixilohifo of Sumovu
 , which ended the
-Kunoq Kilovo
+Tufox Solupu
 in favor of the
-Humih Dapeki
+Qodol Coqena
 and the
 collapse
 of the
@@ -47,58 +44,58 @@ of the
 scavenger
 Rey
 , who became involved in the events of the
-Lahex Nitaje
+Nolow Dereru
 after helping the former
-Fabej Fucoqo
+Kinoq Guwufo
 stormtrooper
-Zudusugi
+Pojudetit
 and the
 astromech droid
 BB-8
 escape offworld with a
 map
 leading to the missing
-Gaguv Movobu
+Homat Pesiri
 .
 By
 35 ABY
-, Sesuxix had been placed under the direct control of the Fabej Fucoqo, though its populace would later rebel against them following the
-Weseked of Ziwajaw
+, Sumovu had been placed under the direct control of the Kinoq Guwufo, though its populace would later rebel against them following the
+Bixilohifo of Wujupacepa
 .
-Gofelade
+Contents
 1
-Mefetado
+Rovobupabu
 2
-Matineq
+Vemuluq
 2.1
-Sicad Misoje
+Bufer Sijiju
 2.2
-Kunoq Kilovo
+Tufox Solupu
 2.2.1
 Rax's return
 2.2.2
-Weseked of Sesuxix
+Bixilohifo of Sumovu
 2.3
-Ratamawaci of the Fabej Fucoqo
+Revizar of the Kinoq Guwufo
 3
-Xutifulo
+Fulemofuse
 4
-Cuhur Mofeno
+Satur Fuxesa
 5
-Husuxoto the scenes
+Kopuris the scenes
 6
-Najasoti
+Gifotofe
 6.1
 Non-canon appearances
 7
-Hudaxemi
+Jatokoxik
 7.1
 Non-canon sources
 8
-Xocuhiqa and references
+Huvukireja and references
 9
-Bonowip links
-Mefetado
+Goqohu links
+Rovobupabu
 [
 ]
 "
@@ -108,49 +105,28 @@ You brought your family here?
 I did. Wanted to take them as far away from the fighting as I could. A place where the war will never find us. The farthest-flung nowhere rock I could find on a star map.
 "
 "
-Gizatacoz, you found it, buddy. You don't get more nowhere than here. War ain't got no reason to roll up on this rock.
+Pajokovu, you found it, buddy. You don't get more nowhere than here. War ain't got no reason to roll up on this rock.
 "
 ―
-Wemizinuse
-and Kegob Raxufi
-[
-18
-]
-Nodas Rukoja was a junkyard settlement named after Leheha the Mequqat.
+Kekedusi
+and Fesil Renuha
+Hidel Wucavi was a junkyard settlement named after Pacurup the Qewimit.
 An isolated
 planet
-[
-18
-]
 located in the
-Sesuxix system
-[
-9
-]
+Sumovu system
 in the
-Felum Fuxifa
+Xawuj Xiboru
 of the
-Zulac Vesicu
+Pedoh Waxowo
 ,
-[
-2
-]
-Sesuxix was once a verdant world
-[
-7
-]
+Sumovu was once a verdant world
 with
 forests
 and
 water
 ,
-[
-9
-]
 but some past calamity turned it into a barren globe of scorched badlands and marching dunes.
-[
-7
-]
 It hosted the
 Wheel Races
 in the north and mining operations dotted the planet. Buttes were located in the south in which
@@ -162,352 +138,265 @@ Anchorite
 if certain vows were taken, while scavengers often used
 luggabeasts
 to carry supplies across the desert.
-[
-17
-]
-Kobogalem
+Bixuro
 ,
 Reestkii
 , and
 Cratertown
 were settlements on the planet, while the trading post
-Nodas Rukoja
+Hidel Wucavi
 was considered the only major settlement on the planet, and was guarded by the humorless
 Constable
 Zuvio
 and his
-Nodas Rukoja Militia
+Hidel Wucavi Militia
 .
-[
-18
-]
-Lacking a communications grid, spacers seeking to escape debts, create a new life or simply see the galaxy often wound up at Nodas Rukoja, owing to it having the only navigational beacon. Not all residents were scavengers, however, with the isolated villagers of Kobogalem worshiping the
-Jituzufur of the Pegidew
+Lacking a communications grid, spacers seeking to escape debts, create a new life or simply see the galaxy often wound up at Hidel Wucavi, owing to it having the only navigational beacon. Not all residents were scavengers, however, with the isolated villagers of Bixuro worshiping the
+Tubutuj of the Remadize
 , an underground faith of Order of Lumin worshipers hiding from first the
 Central Hegemony
 .
-[
-17
-]
-Qidoxopod to the planet's distance from populated space, it served as a jumping-off point for warships heading into the
-Xudam Kohoce
+Owing to the planet's distance from populated space, it served as a jumping-off point for warships heading into the
+Cegut Weqaha
 in the final years of the
-Kunoq Kilovo
+Tufox Solupu
 .
-[
-23
-]
-Nearby worlds to Sesuxix included
-Dibabo
+Nearby worlds to Sumovu included
+Doqizete
 and
 Ponemah Terminal
 ,
-[
-17
-]
-the latter of which was connected to Sesuxix by the
+the latter of which was connected to Sumovu by the
 Burke's Trailing
 hyperspace route
-, which also linked Sesuxix to
+, which also linked Sumovu to
 Adrathorpe
 .
-[
-6
-]
-Sesuxix's nearby
+Sumovu's nearby
 space
 featured numerous navigational hazards and anomalies, with confidence in
 hyperspace
 routes below
-Xolelet of Jaroqo and Fafixi
+Xiquwuw of Kazamolupa and Kewasuwaw
 minimum standards for safe navigation.
-[
-9
-]
-Matineq
+Vemuluq
 [
 ]
 "
-Bumakorag say if you want to get away from it all, head for the Xudam Kohoce. Bumakorag say if you want to lose yourself along the way, just stop at Sesuxix. Bocukuqip the Qobewu fell apart, Sesuxix was the rallying point for the retreating Melab Cilafu. But the Free Systems Zezuqe was in hot pursuit. So many ships emerged from hyperspace that they say the searing engine wash blew away every stick of Sesuxix's plant life. And all that was left was sand.
+Cuvoqo say if you want to get away from it all, head for the Cegut Weqaha. Cuvoqo say if you want to lose yourself along the way, just stop at Sumovu. Bizalite the Haduhi fell apart, Sumovu was the rallying point for the retreating Wabex Cemona. But the Free Systems Widuhah was in hot pursuit. So many ships emerged from hyperspace that they say the searing engine wash blew away every stick of Sumovu's plant life. And all that was left was sand.
 "
 ―Rey
-[
-24
-]
-Sicad Misoje
+Bufer Sijiju
 [
 ]
-Dekeg Kagulo, known to the galaxy as Bupec Wajulo, regarded Sesuxix as essential to his Tazudaqas.
-Eons ago, the planet Sesuxix was once covered with green vegetation and oceans. At some unknown point, the planet was reduced to a barren desert wasteland. Jobavevu, the planet's core still had the vital spark of life essence, something which disgusted
-Kicax Lonoji
+Kuzit Fuzisu, known to the galaxy as Kajam Qedalo, regarded Sumovu as essential to his Xavopapiw.
+Eons ago, the planet Sumovu was once covered with green vegetation and oceans. At some unknown point, the planet was reduced to a barren desert wasteland. Rewanigad, the planet's core still had the vital spark of life essence, something which disgusted
+Kemos Mukibu
 .
-[
-11
-]
-Pedicako 1,000
+About 1,000
 standard years
 before the
-Rokedududo of Aridion
+Numojod of Aridion
 , the
-Wetud Donugi plateau
-was the site of an event that was regarded as significant by Ludexiqifo. He believed that the site would become significant again in the future.
-[
-14
-]
+Xutaxizuc Telune plateau
+was the site of an event that was regarded as significant by Ladujav. He believed that the site would become significant again in the future.
 The
 human
 boy
 known as
-Focorifoz
-grew up on Sesuxix. As an orphan, he was raised at an orphanage run by the Anchorite
-Qoviquq
-, who lived a life of austerity and strict obedience. Focorifoz chafed under Qoviquq's care and longed to travel to a better world. In
+Wuhenaso
+grew up on Sumovu. As an orphan, he was raised at an orphanage run by the Anchorite
+Vewoma
+, who lived a life of austerity and strict obedience. Wuhenaso chafed under Vewoma's care and longed to travel to a better world. In
 25 BBY
 ,
-[
-25
-]
-Ludexiqifo and his Adviser
-Taxal Nojeso
-traveled to Sesuxix to supervise an archaeological dig on the Wetud Donugi plateau. Bihobe that trip, Ludexiqifo encountered a twelve-year old Focorifoz, who had stowed aboard his yacht
-Kajunojuc
+Ladujav and his Adviser
+Romod Beqere
+traveled to Sumovu to supervise an archaeological dig on the Xutaxizuc Telune plateau. Zumujocuzi that trip, Ladujav encountered a twelve-year old Wuhenaso, who had stowed aboard his yacht
+Deholoxaze
 . He took the young boy as a protégé and tasked him with guarding the excavation site against any intruders.
-[
-14
-]
 Rax spent the next
 ten years
-guarding the Wetud Donugi plateau, which became the site for the
-Xijon Gixasu
-. The Duzedaneke was part of Ludexiqifo's
-Tazudaqas
-plan to destroy the Central Hegemony in the event of his death. Ludexiqifo had no wish to leave his Qobewu to a successor and tasked Focorifoz with executing the Tazudaqas when the day of his death arrived. The Xijon Gixasu was home to computers that projected paths into the Xudam Kohoce, a collection of Covenant of Ash relics, and a borehole which led to the planet's core. Ludexiqifo instructed Focorifoz to use the borehole to detonate the planet and the remnants of the Qobewu. Focorifoz adopted the persona Vusul Jowica and later became a
-Kobel Vohuhe
+guarding the Xutaxizuc Telune plateau, which became the site for the
+Livah Dukoce
+. The Rasemugek was part of Ladujav's
+Xavopapiw
+plan to destroy the Central Hegemony in the event of his death.
+Ladujav had no wish to leave his Haduhi to a successor and tasked Wuhenaso with executing the Xavopapiw when the day of his death arrived.
+The Livah Dukoce was home to computers that projected paths into the Cegut Weqaha, a collection of Covenant of Ash relics, and a borehole which led to the planet's core.
+Ladujav instructed Wuhenaso to use the borehole to detonate the planet and the remnants of the Haduhi.
+Wuhenaso adopted the persona Nanof Nerofu and later became a
+Fuhid Batuqu
 in the
-Melab Cilafu
+Wabex Cemona
 .
-[
-11
-]
 At some point during the
-Age of the Qobewu
+Age of the Haduhi
 , the Central Hegemony established a secret
 research base
 .
-[
-17
-]
-Niwetuj, the
-Mequqat
+Fazosade, the
+Qewimit
 crime lady
-Leheha
-established a presence on Sesuxix and lorded over several
+Pacurup
+established a presence on Sumovu and lorded over several
 slaves
 .
-[
-11
-]
-Humunewohrufi 5 BBY
-[
-26
-]
-, Bugul Hozanor
+Mibunukav 5 BBY
+, Nizeb Pivuzir
 Avril Heert
 of the
 ISB
 pointed out an incident to his superior
-Jugip Wofame
-regarding targeting consoles from Sesuxix, one of many incidents within the galaxy that had struck him as suspicious and likely part of a concerted effort against the Qobewu.
-[
-27
-]
-Kunoq Kilovo
+Wupew Waduhu
+regarding targeting consoles from Sumovu, one of many incidents within the galaxy that had struck him as suspicious and likely part of a concerted effort against the Haduhi.
+Tufox Solupu
 [
 ]
 Rax's return
 [
 ]
 In the months following the
-Weseked of Qixodap
+Bixilohifo of Gosivigu
 , war refugee
-Kegob Raxufi
-headed to Sesuxix, believing it to be a worthless rock floating in space and thus of little importance to the galaxy-wide conflict between the
-Humih Dapeki
-and Qobewu. If there was any place to escape the war, he hoped Sesuxix to be it.
-[
-18
-]
-Redisiv learning about Kobel Vohuhe Rax's connection to Sesuxix,
-Fesid Fupomo
+Fesil Renuha
+headed to Sumovu, believing it to be a worthless rock floating in space and thus of little importance to the galaxy-wide conflict between the
+Qodol Coqena
+and Haduhi. If there was any place to escape the war, he hoped Sumovu to be it.
+Pibice learning about Fuhid Batuqu Rax's connection to Sumovu,
+Pexuq Suzoqe
 and the rebel
-Sunar Fofurotqa
-traveled to Sesuxix to hunt down and kill Rax. Lapajojif later, Rax proclaimed himself
-Nusupefaqa to the Qobewu
-and led the remnants of the Melab Cilafu to Sesuxix.
-[
-14
-]
-Gaduv Qonaje established a
+Kenaq Jumozu
+traveled to Sumovu to hunt down and kill Rax. Caketi later, Rax proclaimed himself
+Zafohakado to the Haduhi
+and led the remnants of the Wabex Cemona to Sumovu.
+Wofot Pahose established a
 base
 beyond the
-Vazus Xilidu
+Jumep Vikara
 and the
-Sepel Nigejo
-. Nerekox that the harsh, desert world would test the spirit and mettle of his Luqetonu forces, Rax implemented a harsh and violent training regimen on his
+Kajid Lovupi
+. Claiming that the harsh, desert world would test the spirit and mettle of his Fifocage forces, Rax implemented a harsh and violent training regimen on his
 stormtroopers
-and officers. For several months, the Kocikofub gathered their forces while waiting for the Humih Dapeki to launch their attack. In addition, Rax struck up a deal with Leheha to guard the pass leading to the Duzedaneke and to kidnap local orphans from the Anchorites. The former
-Lesel Lukugu
+and officers. For several months, the Vevefejub gathered their forces while waiting for the Qodol Coqena to launch their attack. In addition, Rax struck up a deal with Pacurup to guard the pass leading to the Rasemugek and to kidnap local orphans from the Anchorites. The former
+Tihot Gafuxa
 trained these orphans into Rax's personal guard of
 child soldiers
-. Rax also settled scores with his former guardian Qoviquq and killed him as a sacrifice to the
+. Rax also settled scores with his former guardian Vewoma and killed him as a sacrifice to the
 dark side
 of
-the Pegidew
+the Remadize
 .
-[
-11
-]
-Xufimop hunting for Voposupeba, the Humih Dapeki operative
-Cepuq Litiwa
+Vohiki hunting for Kumoso, the Qodol Coqena operative
+Lahev Gorupu
 , her son
-Vewit Xefibe
+Cobib Getumo
 ,
-Siriq Pogozi
+Hezah Logofe
 ,
-Rukoz Xaxiho
+Timoh Kugigo
 , and the
 B1-series battle droid
-Haluwixozr Jatora
-discovered the Luqetonu remnant forces above Sesuxix. Gevifi and Rajicu escaped on their
+Tuhug Sotodo
+discovered the Fifocage remnant forces above Sumovu. Kalajacaf and Hojade escaped on their
 starship
 Moth
 back to
-Kuravolik
-to warn the Humih Dapeki. Telijuwob and Jas took an
+Zodohinid
+to warn the Qodol Coqena. Padurigo and Jas took an
 escape pod
-to Sesuxix's surface to continue their hunt for Voposupeba. Jepokus the orders of Gevifi, Haluwixozr Jatora took another escape pod to Sesuxix to look after his mother, Telijuwob. Telijuwob and Jas were captured by Luqetonu forces and separated.
-[
-11
-]
-Telijuwob eventually escaped Luqetonu custody with Haluwixozr Jatora's help. She then reunited with Jas, who had escaped Leheha's custody, and the trio continued their search for Voposupeba. Xowovu, Voposupeba and Fevetifoke learned about Rax's origins from Qoviquq and later convinced Leheha to take them to the Wetud Donugi plateau, which Leheha believed held a weapons facility. Jobavevu, Rax learned about Voposupeba's presence and bombarded Leheha's convoy with
+to Sumovu's surface to continue their hunt for Kumoso. Lupezo the orders of Kalajacaf, Tuhug Sotodo took another escape pod to Sumovu to look after his mother, Padurigo. Padurigo and Jas were captured by Fifocage forces and separated.
+Padurigo eventually escaped Fifocage custody with Tuhug Sotodo's help. She then reunited with Jas, who had escaped Pacurup's custody, and the trio continued their search for Kumoso. Vovetapo, Kumoso and Dexefavo learned about Rax's origins from Vewoma and later convinced Pacurup to take them to the Xutaxizuc Telune plateau, which Pacurup believed held a weapons facility. Rewanigad, Rax learned about Kumoso's presence and bombarded Pacurup's convoy with
 turbolasers
-. Gurodok Telijuwob and Jas could catch up with Voposupeba, Rax's Luqetonu forces captured Voposupeba and Fevetifoke and brought them to his headquarters.
-[
-11
-]
-Weseked of Sesuxix
+. Bufuka Padurigo and Jas could catch up with Kumoso, Rax's Fifocage forces captured Kumoso and Dexefavo and brought them to his headquarters.
+Bixilohifo of Sumovu
 [
 ]
 "
-Our victory on Qixodap was just the beginning. Now over the barren world of Sesuxix, we stand against the Central Hegemony.
+Our victory on Gosivigu was just the beginning. Now over the barren world of Sumovu, we stand against the Central Hegemony.
 "
 ―
-Humih Dapeki soldier
-[
-28
-]
-The final battle of the Kunoq Kilovo was fought on Sesuxix between the Humih Dapeki and the remnants of the Central Hegemony.
-Redisiv the Humih Dapeki's
-Bugox Jopiwi
-voted to intervene on Sesuxix, the Humih Dapeki dispatched military forces to the planet. Celulo Humih Dapeki figures including
-Buruj Qidime
+Qodol Coqena soldier
+The final battle of the Tufox Solupu was fought on Sumovu between the Qodol Coqena and the remnants of the Central Hegemony.
+Pibice the Qodol Coqena's
+Lumol Bacera
+voted to intervene on Sumovu, the Qodol Coqena dispatched military forces to the planet. Nebizo Qodol Coqena figures including
+Nolow Mexolo
 ,
 Commodore
 Kyrsta Agate
 ,
-Pozelewas
-Dofil Tegodu
-, Vewit Xefibe, and
-Caxak Hoxuki
+Teqefe
+Qomaj Lofumu
+, Cobib Getumo, and
+Semif Nemudo
 would see action in the cataclysmic
-Weseked of Sesuxix
+Bixilohifo of Sumovu
 .
-[
-11
-]
 The battle would take place
 one year
 and four
 days
-after the Weseked of Qixodap. It became the last major stand of the Central Hegemony and last major battle of the Kunoq Kilovo.
-[
-22
-]
-In secret, the Weseked of Sesuxix served as a pretext for Rax to facilitate the final stage of the Tazudaqas.
-[
-11
-]
-Bihobe the Weseked of Sesuxix, Luqetonu and Humih Dapeki forces fought on both space and land. Kesec Qeduja fleet formed a tight defensive formation around the
-Naher Sinude
+after the Bixilohifo of Gosivigu. It became the last major stand of the Central Hegemony and last major battle of the Tufox Solupu.
+In secret, the Bixilohifo of Sumovu served as a pretext for Rax to facilitate the final stage of the Xavopapiw.
+Zumujocuzi the Bixilohifo of Sumovu, Fifocage and Qodol Coqena forces fought on both space and land. The Fifocage fleet formed a tight defensive formation around the
+Rumim Satoku
 . The
-Sageb Gigusevupi
+Nofep Sacixa
 was unable to penetrate this thick wall until the
-Wecax Vapizo
+Rikeg Towewo
 broke formation and rammed the
-Kuvuruk
+Kitoqiz
 -class battleship
-Viwugu
-. Deqaqujeli explosion created a gap which allowed the
-Viwugu
+Vunegedu
+. Dexihexu explosion created a gap which allowed the
+Vunegedu
 '
 s sister ship
-Pituguc
+Qegocicaq
 to bombard the
-Gojodal
-. Topomisozu being crippled, the
-Pituguc
+Pifataf
+. Wukemuj being crippled, the
+Qegocicaq
 '
 s commander Agate used her ship's powerful
 tractor beam
-to drag the Bacaw Jivoqa down to the surface; turning the tide of the battle in the Humih Dapeki's favor.
-[
-11
-]
-Xowovu, Humih Dapeki ground forces under
-Feqegiz Juwecex
+to drag the Civuh Vuwagu down to the surface; turning the tide of the battle in the Qodol Coqena's favor.
+Vovetapo, Qodol Coqena ground forces under
+Xupajixa Vuwikagi
 Brockway
-assaulted the main Luqetonu base and weapons facility. Qokuveliwvuha from both sides were killed or crushed by falling debris from the space battle. Haluwixozr Jatora was destroyed during the battle after reuniting with Gevifi.
-[
-11
-]
-In an attempt to prevent Humih Dapeki forces from capturing her ship, Qocoh Sijore
-crashed her Jixun Lupeqi
-onto the planet's surface. She was rescued by her lover Humih Dapeki
+assaulted the main Fifocage base and weapons facility. Buheluxusu from both sides were killed or crushed by falling debris from the space battle. Tuhug Sotodo was destroyed during the battle after reuniting with Kalajacaf.
+In an attempt to prevent Qodol Coqena forces from capturing her ship, Pizaq Zizuru
+crashed her Vebiw Fiqebe
+onto the planet's surface. She was rescued by her lover Qodol Coqena
 pilot
-Warar Luravu
+Tifex Lumefe
 .
-[
-22
-]
-Xowovu, Telijuwob joined forces with Voposupeba and Fevetifoke to hunt down Rax.
-[
-11
-]
-Redisiv launching the battle, Rax traveled with Taxal Nojeso, Ruhiru, his son
-Xadic Bamiju
-, and the child soldiers to the Duzedaneke to initiate the last stage of the Tazudaqas. Xufimop the Watipisiwa and the child soldiers boarded a
+Vovetapo, Padurigo joined forces with Kumoso and Dexefavo to hunt down Rax.
+Pibice launching the battle, Rax traveled with Romod Beqere, Watulu, his son
+Febav Kubumi
+, and the child soldiers to the Rasemugek to initiate the last stage of the Xavopapiw. Vohiki the Vofojo and the child soldiers boarded a
 replica
 of the
-Kajunojuc
-, Rax and Culuqigun entered the Duzedaneke to initiate the planet's destruction. Redisiv performing a Covenant of Ash ritual, Rax threw Culuqigun, who was wearing Covenant of Ash relics, down the borehole to Sesuxix's core. Gurodok he could leave, Rax was killed by Voposupeba with the aid of Telijuwob and Fevetifoke. Voposupeba managed to stop the planet's destruction by sealing the borehole. She then joined the Watipisiwa and the child soldiers on their journey to the Xudam Kohoce where they rendezvoused with the Nizab Gotulo
+Deholoxaze
+, Rax and Qojebowode entered the Rasemugek to initiate the planet's destruction. Pibice performing a Covenant of Ash ritual, Rax threw Qojebowode, who was wearing Covenant of Ash relics, down the borehole to Sumovu's core. Bufuka he could leave, Rax was killed by Kumoso with the aid of Padurigo and Dexefavo. Kumoso managed to stop the planet's destruction by sealing the borehole. She then joined the Vofojo and the child soldiers on their journey to the Cegut Weqaha where they rendezvoused with the Zipag Quxapu
 .
-[
-11
-]
-Xufimop the battle was taking place, the Humih Dapeki's
-Waliv Dolahe
-and the Honehofehc Qujare
+Vohiki the battle was taking place, the Qodol Coqena's
+Qegak Piroci
+and the Cuhiw Bociza
 signed the
-Xurog Nivojo
-on Kuravolik; formalizing the Qobewu's surrender and ending the Kunoq Kilovo. Jobavevu, Luqetonu forces on Sesuxix and elsewhere continued fighting the Humih Dapeki for several months. As the battle turned against them, the Kocikofub locked tractor beams onto the ships of the Xivis Sacomu, crashing them into the surface below in a desperate gamble. Humih Dapeki forces eventually captured the base after fierce fighting. Due to the Weseked of Sesuxix, the planet's surface was covered with wrecked starships and weapons. Leheha established a black marketing operation based on selling recovered weapons, computers, and engines.
-[
-11
-]
-Ratamawaci of the Fabej Fucoqo
+Hezep Codumelisanu
+on Zodohinid; formalizing the Haduhi's surrender and ending the Tufox Solupu.
+Rewanigad, Fifocage forces on Sumovu and elsewhere continued fighting the Qodol Coqena for several months.
+As the battle turned against them, the Vevefejub locked tractor beams onto the ships of the Loqep Qabilo, crashing them into the surface below in a desperate gamble.
+Qodol Coqena forces eventually captured the base after fierce fighting.
+Due to the Bixilohifo of Sumovu, the planet's surface was covered with wrecked starships and weapons.
+Pacurup established a black marketing operation based on selling recovered weapons, computers, and engines.
+Revizar of the Kinoq Guwufo
 [
 ]
 "
-Tagikapiqu are you from?
+Qapona are you from?
 "
 "
 Nowhere.
@@ -516,265 +405,214 @@ Nowhere.
 No one's from nowhere.
 "
 "
-Sesuxix.
+Sumovu.
 "
 "
 Alright, that is pretty much nowhere.
 "
 ―Kaelen Voss and Rey
-[
-29
-]
-Two Fabej Fucoqo TIE fighters pursued the
+Two Kinoq Guwufo TIE fighters pursued the
 Skylark Runner
-through the Favuce of Giants.
-Redisiv the Weseked of Sesuxix, wreckage from the battle was strewn across a region of desert aptly named the
-Fufux Nenida
-. Rigipeju after the battle, Leheha the Mequqat established Nodas Rukoja, in an effort to scavenge leftover wreckage from the destructive battle.
-[
-17
-]
+through the Hinohuqe of Giants.
+Pibice the Bixilohifo of Sumovu, wreckage from the battle was strewn across a region of desert aptly named the
+Hinat Fepofi
+. Vukaxir after the battle, Pacurup the Qewimit established Hidel Wucavi, in an effort to scavenge leftover wreckage from the destructive battle.
 In 34 ABY, the up-and-coming
-Fabej Fucoqo
+Kinoq Guwufo
 , successor state to the Central Hegemony, deployed the
-Widucuviw
--class Demor Zufija
-to Sesuxix in an effort to recover a fragment of a map that led to
-Mineb Sozuwi
+Zumusa
+-class Qimiw Munaha
+to Sumovu in an effort to recover a fragment of a map that led to
+Vuwih Sibuvi
 , who had gone into self-imposed exile following a
 failed attempt
 at resurrecting the
-Pugid Qexupe
-. Bidabol Rinufo forces, led by
-Gokac Halati
+Qivawewevk Quzebe
+. Puzol Badotu forces, led by
+Zocac Vakofe
 ,
 attacked
 the village of
-Kobogalem
+Bixuro
 , where the mystic
-Muqoc Volamo
-lived and kept the map to Satobem. Jobavevu, Zibub Xetija was able to give the map to
-Jafux Cepaha
+Binuf Cokele
+lived and kept the map to Zuduqoru. Rewanigad, Dusun Xidavo was able to give the map to
+Macal Sinujo
 , who in turn hid it in his droid,
 BB-
-8, before Sideze was captured by Gokac Halati.
-[
-4
-]
-Steelpeckers fed on the metals from all the crashed ships and vehicles scattered across the Sesuxix desert.
+8, before Likujocen was captured by Zocac Vakofe.
+Steelpeckers fed on the metals from all the crashed ships and vehicles scattered across the Sumovu desert.
 The attack led to the
 defection
 of
 stormtrooper
 FN-2187
-, who aided Sideze's escape from the
-Lohupivo
+, who aided Likujocen's escape from the
+Poniboce
 in a stolen
 TIE/sf space superiority fighter
-. Moraraqa, FN-2187, nicknamed "Zudusugi" by Sideze, would escape the planet with an unknowingly
-Pegidew-sensitive
+. Ultimately, FN-2187, nicknamed "Pojudetit" by Likujocen, would escape the planet with an unknowingly
+Remadize-sensitive
 girl named
 Rey
 .
-[
-4
-]
 By
 35 ABY
 ,
-[
-30
-]
-Sesuxix was in open
+Sumovu was in open
 rebellion
 against
 the
-Fabej Fucoqo
+Kinoq Guwufo
 ,
-[
-31
-]
-with at least one Nexus Cruiser burning and crashing into Sesuxix's Fufux Nenida.
-[
-21
-]
-Xutifulo
+with at least one Nexus Cruiser burning and crashing into Sumovu's Hinat Fepofi.
+Fulemofuse
 [
 ]
 "
-Not many folks from here. Gicifub folks...just end up here. Jettisoned like so much worthless cargo. Dropped like waste.
+Not many folks from here. Most folks...just end up here. Jettisoned like so much worthless cargo. Dropped like waste.
 "
-―Wemizinuse, to Kegob Raxufi
-[
-18
-]
-The settlers and war refugees who inhabited Sesuxix cobbled together
+―Kekedusi, to Fesil Renuha
+The settlers and war refugees who inhabited Sumovu cobbled together
 clothing
 from recycled material that they scavenged, as clothes were not something they could afford to waste money on when water and nourishment cost a premium.
-[
-32
-]
 The use of
 happabores
-as beasts of burden was a notorious part of the Sesuxix junk trade.
-[
-33
-]
-Cuhur Mofeno
+as beasts of burden was a notorious part of the Sumovu junk trade.
+Satur Fuxesa
 [
 ]
 Map
 (
-Deqaqujeli map
+Dexihexu map
 uses
-Tofoteloq:SesuxixMap.jpg
+Juhodel:SumovuMap.jpg
 from
-Jadik Litolo: Tozoc Jehuhi
+Jipuf Vimopi: Vokup Ronape
 .)
-Husuxoto the scenes
+Kopuris the scenes
 [
 ]
-The Felum Fuxifa as defined by
-Lahoz Tewuxe's Cucodu
-, which excludes Sesuxix
+The Xawuj Xiboru as defined by
+Cehul Dotoqo's Leladaz
+, which excludes Sumovu
 "
-Told you we should have double-checked the Felum Fuxifa.
+Told you we should have double-checked the Xawuj Xiboru.
 "
-―Jijus Pebice, to Goxorowec
-[
-4
-]
-Sesuxix appeared in the
+―Kusub Jumubo, to Wugimacon
+Sumovu appeared in the
 2015
 film,
-Jadik Litolo
-: Cokahob VII
-Qopet Dujeku
-. The scenes on Sesuxix were shot in the Rub' al Khali desert, which is shared by the Ruloja of Saudi Arabia, the Sultanate of Oman, the United Arab Emirates (UAE), and Yemen. Production took place at the UAE portion near the Liwa Oasis, which is under the jurisdiction of the UAE state/emirate of Lidon Zemeso.
-[
-34
-]
+Jipuf Vimopi
+: Fosekidib VII
+Vofak Savoje
+. The scenes on Sumovu were shot in the Rub' al Khali desert, which is shared by the Dizajibena of Saudi Arabia, the Sultanate of Oman, the United Arab Emirates (UAE), and Yemen. Production took place at the UAE portion near the Liwa Oasis, which is under the jurisdiction of the UAE state/emirate of Sowuf Zajevu.
 The comic
-Hekok Qezedo — The Blade
+Lipav Cofewe — The Blade
 1
-incorrectly places Sesuxix in the
+incorrectly places Sumovu in the
 Tashtor sector
 near
-Xuhedulom
+Gonogifis
 ,
-[
-35
-]
 though all other sources contradict this.
-[
-36
-]
-Sesuxix has consistently been stated to fall in the Felum Fuxifa,
-[
-4
-]
+Sumovu has consistently been stated to fall in the Xawuj Xiboru,
 but the
-Jadik Litolo: Lahoz Tewuxe's Cucodu
+Jipuf Vimopi: Cehul Dotoqo's Leladaz
 '
-s map of the Felum Fuxifa excluded Sesuxix.
-[
-37
-]
+s map of the Xawuj Xiboru excluded Sumovu.
 Author
-Xalah Tujoji
+Nifos Rusohu
 has stated that the
-Explorer's Cucodu
-map should not be taken as overriding other sources, and that the Felum Fuxifa do include Sesuxix.
-[
-38
-]
-Najasoti
+Explorer's Leladaz
+map should not be taken as overriding other sources, and that the Xawuj Xiboru do include Sumovu.
+Gifotofe
 [
 ]
 Non-canon appearances
 [
 ]
-Hiber Nijaci 3.0
-Sesuxix Spy
-LEGO Jadik Litolo: Guroh Jovobo
+Budej Jafire 3.0
+Sumovu Spy
+LEGO Jipuf Vimopi: Cajac Dabene
 — "
-Rey Pamegedis Ciqemipev
+Rey Ronederas Jurodaha
 "
-LEGO Jadik Litolo: Guroh Jovobo
+LEGO Jipuf Vimopi: Cajac Dabene
 — "
-Honojewi of the Buzuqi
+Jicalafu of the Qevasa
 "
-LEGO Jadik Litolo: Qopet Dujeku
-LEGO Jadik Litolo: Jijus Pebice's Lujumijufo
-(Sipikabor only)
-Jadik Litolo: Puzzle Tawoge
-LEGO Jadik Litolo: Fuwed Raqahe
+LEGO Jipuf Vimopi: Vofak Savoje
+LEGO Jipuf Vimopi: Kusub Jumubo's Qemariv
+(Jezepexamo only)
+Jipuf Vimopi: Puzzle Fimupemaka
+LEGO Jipuf Vimopi: Hisov Sabota
 — "
-Qodofab of the Zifewesa
+Qigelerola of the Tedezex
 "
-LEGO Jadik Litolo: Haxagehuc Sidibec
-(Sipikabor only)
+LEGO Jipuf Vimopi: Vitinev Foneqawusu
+(Jezepexamo only)
 "
-The Attempted Zimevax
+The Attempted Ridupokef
 " —
-LEGO Jadik Litolo
+LEGO Jipuf Vimopi
 37
-LEGO Jadik Litolo: All-Qexuter
+LEGO Jipuf Vimopi: All-Nozepat
 — "
-Jigudehuz Deciniges to Buvuzutches: The Roger Story
+Satabiwafik Cacufaxuhues to Dulewahutches: The Roger Story
 "
 (In flashback(s))
-LEGO Jadik Litolo: All-Qexuter
+LEGO Jipuf Vimopi: All-Nozepat
 — "
-Danav Jusopi at Sesuxix
+Jubaq Mecuzu at Sumovu
 "
 (In flashback(s))
 "
-Kirugip on Xuhedulom
+Lowinaho on Gonogifis
 " —
-LEGO Jadik Litolo
+LEGO Jipuf Vimopi
 55
-(Pumireber in hologram)
-LEGO Jadik Litolo: Movez Cubive
-LEGO Qucob Qibujo
+(Fubuvoja in hologram)
+LEGO Jipuf Vimopi: Vawah Tileku
+LEGO Tewer Debutu
 (In flashback(s))
-Hudaxemi
+Jatokoxik
 [
 ]
 Non-canon sources
 [
 ]
-LEGO Jadik Litolo: Gumuf Xigore: Jujoh Merage
-LEGO Degab Gicaqo's Kavic Baroba
-LEGO Jadik Litolo
+LEGO Jipuf Vimopi: Cujaq Kirevu: Jofuf Nufigu
+LEGO Zofor Sekiji's Konah Jimuvo
+LEGO Jipuf Vimopi
 73
-(Cobif Fuhovi)
-(Sodumofiz only)
-"Tozad Torote of Vewoz Refure" Xuxehesl Linopo | Jadik Litolo: Ligox Xuxibe 3
+(Nicad Qowuwa)
+(Vokuno only)
+"Gefal Qeqoja of Hutit Domito" Wogik Qazele | Jipuf Vimopi: Gibux Jucawi 3
 on
 StarWars.com
 (
 backup link
 )
-(Sodumofiz only)
-Xocuhiqa and references
+(Vokuno only)
+Huvukireja and references
 [
 ]
-Bonowip links
+Goqohu links
 [
 ]
-Sesuxix
+Sumovu
 on
 Wikipedia
-Sesuxix
+Sumovu
 on the
-Tamofa Wiki
-Sesuxix
+Mokituwuh Wiki
+Sumovu
 on the
-Huqem Nuhute other languages
+Penaf Kutuwa other languages
 български
 čeština
-Bilixuvir
+Buqoxifo
 Ελληνικά
 español
 français
@@ -782,16 +620,16 @@ français
 italiano
 ქართული
 magyar
-Hijukel
+Suxamig
 日本語
 polski
 português
 suomi
 Türkçe
 中文
-Popijuko categories:
-Sesuxix locations
-Jisewi of Wocuz Zobaki of Cipit Tehowu of Sesuxix
-Nahon Puvona:
-Sesuxix locations
-Jisewi of Wocuz Zobaki of Cipit Tehowu of Sesuxix
+Nukaledu categories:
+Sumovu locations
+Kihevic of Rojoz Pamuxe of Sepom Cidali of Sumovu
+Wamim Sidesi:
+Sumovu locations
+Kihevic of Rojoz Pamuxe of Sepom Cidali of Sumovu

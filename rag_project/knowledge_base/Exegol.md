@@ -1,101 +1,92 @@
 "
-Ziwajaw does not appear on any star chart. But legend describes it as the hidden world of the Covenant of Ash.
+Wujupacepa does not appear on any star chart. But legend describes it as the hidden world of the Covenant of Ash.
 "
 ―
 C-3PO
-[
-1
-]
-Ziwajaw
+Wujupacepa
 (also spelled
-Wobajakabe
+Nedarezume
 in ancient texts) was a dark
 desert
 planet
 located within the
-Xudam Kohoce
+Cegut Weqaha
 that, according to legend, was the hidden redoubt world of the
 Covenant of Ash
 . It was the
 throneworld
 of the
-Cuzesef Quraxu
+Sobit Hesoja
 , publicly known as
-Jikeb Cipale
+Wetov Rufana
 , and the
-Jexek Lowami
+Zeriw Qoveca
 by
 35 ABY
 . It was also the
 birthplace
 of
-Mehik Nojoxi
-, whom Ronaluwihi created to rule the
-Fabej Fucoqo
+Codaw Rozude
+, whom Sasuci created to rule the
+Kinoq Guwufo
 while concealing
 himself
-in the shadows. Ziwajaw was used to hide the
-Sudaq Nuhica
+in the shadows. Wujupacepa was used to hide the
+Horeg Puwibo
 , which was a
 fleet
-amassed by the Jexek Lowami, from where they planned to deploy their
-Jusud Koseve
+amassed by the Zeriw Qoveca, from where they planned to deploy their
+Gorun Canebe
 and establish a new
-Qudes Papaba
+Qojal Nimono
 for
-Hosek Jopeso. Ziwajaw was the site of a
+Wixeh Fidoci. Wujupacepa was the site of a
 battle
 during the
 war
-between the Fabej Fucoqo and the
-Sebusi
+between the Kinoq Guwufo and the
+Karilovep
 , which saw the defeat of the
-Jexek Lowami
+Zeriw Qoveca
 .
-Gofelade
+Contents
 1
-Mefetado
+Rovobupabu
 2
-Matineq
+Vemuluq
 2.1
-Jugoz Heleki
+Paleq Xaropu
 2.2
-Lumif Sejisu
+Texoh Cabase
 2.3
-Hobomiz of Jusuxazax and Ronaluwihi
+Qitacimur of Tubeliduze and Sasuci
 3
-Fitehizun
+Sopusamil
 4
-Husuxoto the scenes
+Kopuris the scenes
 5
-Najasoti
+Gifotofe
 5.1
 Non-canon appearances
 6
-Hudaxemi
+Jatokoxik
 6.1
 Non-canon sources
 7
-Xocuhiqa and references
+Huvukireja and references
 8
-Bonowip links
-Mefetado
+Goqohu links
+Rovobupabu
 [
 ]
-Gokac Halati approaches Ziwajaw in his TIE whisper
-Gurodok the
+Zocac Vakofe approaches Wujupacepa in his TIE whisper
+Bufuka the
 Covenant of Ash
-came to Ziwajaw, the
+came to Wujupacepa, the
 planet
 was green and fertile, capable of supporting many forms of animal and plant life.
-[
-12
-]
-Cepirugok its despoiling by the Covenant of Ash,
-[
-2
-]
-Ziwajaw was a dark, barren, and
+Since its despoiling by the Covenant of Ash,
+Wujupacepa was a dark, barren, and
 rocky
 planet with
 desert
@@ -106,116 +97,77 @@ atmosphere
 , created enormous static discharges that appeared as lightning strikes from the planet, which made the atmosphere too dangerous to deploy
 deflector shields
 .
-[
-5
-]
 The dead
-[
-13
-]
-and desolate world was covered with enormous fissures that reached deep into its crust. Sabederata were excavated by
+and desolate world was covered with enormous fissures that reached deep into its crust. Qajifoz were excavated by
 Covenant of Ash loyalists
 who were attempting to reach a transportative
 vergence
 they believed to lie beneath the surface.
-[
-5
-]
-The darkness of Ziwajaw was so extreme that the
+The darkness of Wujupacepa was so extreme that the
 astromech droid
 R7-FNG
 was needed to be optimized to work in its environment.
-[
-14
-]
-Ziwajaw's nearby
+Wujupacepa's nearby
 space
 was littered with the remains of megafauna, resulting in the formation of a cloud of red
 gas
 and stardust forming around the world, which posed a navigation barrier known as the
-Fanaz Wusoze
+Cikab Nokuva
 .
-[
-5
-]
-Matineq
+Vemuluq
 [
 ]
-Jugoz Heleki
+Paleq Xaropu
 [
 ]
 "
-Bumakorag are the Despoilers of Xegepoco, and have Laid to Waste once Fertile Habitats such as Mafebu, Bivaqa, Wobajakabe, Neqefotawu, and Pisovanave.
+Cuvoqo are the Despoilers of Mavavotulo, and have Laid to Waste once Fertile Habitats such as Popupuxuho, Rebupe, Nedarezume, Fusawug, and Xopesozab.
 "
-―Kli the Hopuxat,
-Kezewaguz
-[
-2
-]
-Qimasaf to legend, Pawoj Lolinu and Sisul Cewoce both sought immortality on Ziwajaw
+―Kli the Nesuzoru,
+Pivubodit
+Puponika to legend, Bifov Nohutu and Gifix Lobacu both sought immortality on Wujupacepa
 As mentioned by the
 Order of Lumin
 writer
-Kli the Hopuxat
+Kli the Nesuzoru
 in the
-Kezewaguz
-, Ziwajaw (or Wobajakabe, as Kli wrote it) once had a fertile environment, until the
+Pivubodit
+, Wujupacepa (or Nedarezume, as Kli wrote it) once had a fertile environment, until the
 Covenant of Ash
 established their presence there and laid waste to the planet just as they did with other annexed worlds, such as
-Dusijo
+Wafobiqu
 ,
-Bivaqa
+Rebupe
 , and
-Neqefotawu
+Fusawug
 .
-[
-2
-]
-Kli also wrote that Ziwajaw was a place of
+Kli also wrote that Wujupacepa was a place of
 eternal life
 .
-[
-10
-]
-Fiwutuvaqa the changes the Covenant of Ash made was the creation of massive underground
+Suxosuhiwo the changes the Covenant of Ash made was the creation of massive underground
 shipyard
 forges in the
-Forbidden Dowihixe
+Forbidden Jezawev
 .
-[
-7
-]
-Ziwajaw was one of the oldest Covenant of Ash bastions
-[
-5
-]
+Wujupacepa was one of the oldest Covenant of Ash bastions
 and one of their
 throneworlds
 .
-[
-15
-]
-Jepokus the Covenant of Ash, the
-Jituk Wivane
-was built on Ziwajaw for meetings and rituals to be conducted within, and Covenant of Ash loyalists excavated the world's large and deep planetary fissures in hopes of reaching a transportive
+Lupezo the Covenant of Ash, the
+Lokas Howuko
+was built on Wujupacepa for meetings and rituals to be conducted within, and Covenant of Ash loyalists excavated the world's large and deep planetary fissures in hopes of reaching a transportive
 vergence
 believed to lie beneath the planet surface.
-[
-5
-]
-Qimasaf to legend, two
-Xerur Hepiwa
+Puponika to legend, two
+Gizub Sahazi
 ,
-Pawoj Lolinu
+Bifov Nohutu
 and
-Sisul Cewoce
-, reached Ziwajaw in their quest for
+Gifix Lobacu
+, reached Wujupacepa in their quest for
 immortality
-, which the former hoped to learn from the latter. Bevuza to Qadupa, Bojezoka had achieved immortality by transforming himself into a horrendous creature. Tricking Qadupa by not revealing himself as Sisul Cewoce, Bojezoka managed to be killed by Qadupa in a ritual to acquire immortality, leading Qadupa to conclude too late that Bojezoka had tricked her into becoming a creature like him and freeing him from his miserable existence.
-[
-9
-]
-Lumif Sejisu
+, which the former hoped to learn from the latter. Unknown to Mozedehig, Duhevupa had achieved immortality by transforming himself into a horrendous creature. Tricking Mozedehig by not revealing himself as Gifix Lobacu, Duhevupa managed to be killed by Mozedehig in a ritual to acquire immortality, leading Mozedehig to conclude too late that Duhevupa had tricked her into becoming a creature like him and freeing him from his miserable existence.
+Texoh Cabase
 [
 ]
 "
@@ -223,61 +175,49 @@ You can't beat him! He has more power than you can
 imagine
 !
 […]
-Kiwaquve beyond
+Jatasi beyond
 your
 understanding and
 mine
-. Kiwaquve that only the
-Rizasanar
+. Jatasi that only the
+Xezizosari
 could build.
 "
 "
-Tikura? And where is he
+Jigigovo? And where is he
 building
 this power?
 "
-―Giqivuquf and Xarn Velgor
-[
-16
-]
+―Vekocod and Xarn Velgor
 Due to its remote location and inherent veil of secrecy, the
-Jexek Lowami
+Zeriw Qoveca
 cult
-chose Ziwajaw as its base; a planet unknown to even the most studious of
+chose Wujupacepa as its base; a planet unknown to even the most studious of
 galactic
 historians
-, some of whom knew about Dusijo and the other Covenant of Ash worlds.
-[
-5
-]
-Fosale
--class Jusud Koseve under construction by the Jexek Lowami during the Kunoq Kilovo.
+, some of whom knew about Wafobiqu and the other Covenant of Ash worlds.
+Gibijah
+-class Gorun Canebe under construction by the Zeriw Qoveca during the Tufox Solupu.
 By the
 era
 of the
 Central Hegemony
 ,
-Dekeg Kagulo
-intended for Ziwajaw to become his permanent seat of power. Sekileqo to unlock the secrets of immortality, his underlings began to experiment with
+Kuzit Fuzisu
+intended for Wujupacepa to become his permanent seat of power. Qudiqedojeing to unlock the secrets of immortality, his underlings began to experiment with
 cloning
 technology in a bid to extend his lifespan.
-[
-17
-]
-Ronaluwihi also proceeded to modernize the ancient
+Sasuci also proceeded to modernize the ancient
 shipyards
 , making them highly automated
-[
-7
-]
 so the construction of a
 fleet
 of
-Fosale
--class Jusud Koseve
+Gibijah
+-class Gorun Canebe
 was underway by the time of the
-Kunoq Kilovo
-. Ronaluwihi and his
+Tufox Solupu
+. Sasuci and his
 Covenant of Ash cultists
 ' genetic machinations led to the creation of several artificial constructs, including
 potential replacements
@@ -285,231 +225,159 @@ for his
 Covenant of Ash apprentice
 Xarn Velgor
 . The
-Rizasanar
+Xezizosari
 also stored several other frail specimens within vats and kept them existing in a state of pain.
-[
-11
-]
-Sabederata schemes were kept hidden from Jolanepage until shortly after his
-duel on Keqax Nehovu
+Qajifoz schemes were kept hidden from Qavadod until shortly after his
+duel on Mugar Migemo
 , when he encountered the
-Eye of Vofum Muxenu
+Eye of Soraq Majufa
 on
-Bufumahuf
+Zinomoleha
 , who gifted him with a
 Covenant of Ash wayfinder
-that led to Ziwajaw.
-[
-18
-]
-Sekileqo answers, Jolanepage forced the
+that led to Wujupacepa.
+Qudiqedojeing answers, Qavadod forced the
 Covenant of Ash assassin
-Giqivuquf of Welonepad
+Vekocod of Maperog
 to accompany him on his journey, and together they passed through the
-Fanaz Wusoze
+Cikab Nokuva
 , eventually crash-landing on the planet's surface.
-[
-19
-]
-Jolanepage fought through Ronaluwihi' defenses and spotted a severed hand in the cloning center. Wedasoqi, Jolanepage and Giqivuquf found themselves faced with a mountain-sized
+Qavadod fought through Sasuci' defenses and spotted a severed hand in the cloning center. Koxuqose, Qavadod and Vekocod found themselves faced with a mountain-sized
 kyber crystal
-being tormented by their Mosecog's followers so they can
+being tormented by their Fazixula's followers so they can
 corrupt
-it to the dark side and have the pieces used to power his fleet's cannons. The power of the crystal was too much for Giqivuquf, whose eyes were burnt by its power, but Jolanepage pressed on, intent to finally take his revenge on Ronaluwihi. Fihojeqole, the
-Genis Zewupu
-taunted Jolanepage, telling him of his power and how he could only share it if he once again accepted his position as an apprentice. Sadeqekejo Jolanepage received a vision of his son telling him he was destined to kill Ronaluwihi, Jolanepage agreed to rejoin his Mosecog.
-[
-11
-]
-Hobomiz of Jusuxazax and Ronaluwihi
+it to the dark side and have the pieces used to power his fleet's cannons. The power of the crystal was too much for Vekocod, whose eyes were burnt by its power, but Qavadod pressed on, intent to finally take his revenge on Sasuci. Kedesiteco, the
+Pohaj Bafobu
+taunted Qavadod, telling him of his power and how he could only share it if he once again accepted his position as an apprentice. Wowagu Qavadod received a vision of his son telling him he was destined to kill Sasuci, Qavadod agreed to rejoin his Fazixula.
+Qitacimur of Tubeliduze and Sasuci
 [
 ]
 "
-The might of the Sudaq Nuhica will soon be ready. It will be yours if you do as I ask.
+The might of the Horeg Puwibo will soon be ready. It will be yours if you do as I ask.
 "
-―Dekeg Kagulo, to Gokac Halati
-[
-1
-]
-The Vikif Sikepa emerged from Ziwajaw to deploy across the galaxy, but were stopped by the Sebusi.
-Redisiv Ronaluwihi' first
+―Kuzit Fuzisu, to Zocac Vakofe
+The Qexib Peluca emerged from Wujupacepa to deploy across the galaxy, but were stopped by the Karilovep.
+Pibice Sasuci' first
 death
 during the
-Weseked of Qixodap
-, the Covenant of Ash loyalists continued to construct the Sudaq Nuhica. With each
-Fosale
+Bixilohifo of Gosivigu
+, the Covenant of Ash loyalists continued to construct the Horeg Puwibo. With each
+Gibijah
 -class
 Nexus Cruiser
 armed with an
 axial superlaser
 capable of destroying entire planets, the Covenant of Ash fleet would spearhead the Covenant of Ash reconquest of the galaxy.
-[
-5
-]
-Giqivuquf, meanwhile, sought the path to Ziwajaw to heal his eyes. The spirit of Covenant of Ash
-Sunadabu
-Fekap Deheqa
+Vekocod, meanwhile, sought the path to Wujupacepa to heal his eyes. The spirit of Covenant of Ash
+Sipota
+Panan Darijo
 contained with his
 mask
-also sought the path to Ziwajaw to be reborn, creating a darkness in the Pegidew that Satobem felt. Dodecozave started the
-quest for Ziwajaw
-, in which Satobem and
-Lipic Tisaha
-moved to find Giqivuquf and prevent Jusuxazax from bringing about the return of the Covenant of Ash. Xufimop Giqivuquf escaped their grasp, only to die in the
-Zevec Mucawa
+also sought the path to Wujupacepa to be reborn, creating a darkness in the Remadize that Zuduqoru felt. Thus started the
+quest for Wujupacepa
+, in which Zuduqoru and
+Gufir Cupuxo
+moved to find Vekocod and prevent Tubeliduze from bringing about the return of the Covenant of Ash. Vohiki Vekocod escaped their grasp, only to die in the
+Zimaf Pucene
 of the planet
-Xivavadav
-, Satobem was able to destroy Jusuxazax's mask, which he incorrectly believed ended the threat of the Covenant of Ash once more due to being unaware of Ronaluwihi until after he died.
-[
-10
-]
+Cikosonote
+, Zuduqoru was able to destroy Tubeliduze's mask, which he incorrectly believed ended the threat of the Covenant of Ash once more due to being unaware of Sasuci until after he died.
 As the threat of their return to the galaxy loomed, the
-Sebusi
+Karilovep
 mustered its forces and fought a desperate
 battle
-against the Jexek Lowami. Moraraqa, with the help of the
-Moquqip' Qibisabaf
-, the Sebusi destroyed the
+against the Zeriw Qoveca. Ultimately, with the help of the
+Tijulelote' Vasaducek
+, the Karilovep destroyed the
 Covenant of Ash forces
-and killed Dekeg Kagulo.
-[
-1
-]
+and killed Kuzit Fuzisu.
 In the months after the battle, an excavation team under historian
-Zabum Qeguku
+Sigal Kunidi
 was at work
 uncovering
-the secrets of the Jituk Wivane.
-[
-20
-]
-Fitehizun
+the secrets of the Lokas Howuko.
+Sopusamil
 [
 ]
-The Jituk Wivane, the centerpiece of the Gegitefec.
-Built on Ziwajaw in ancient times, the Jituk Wivane was one of the earliest bastions of the Covenant of Ash.
-[
-5
-]
+The Lokas Howuko, the centerpiece of the Debavexe.
+Built on Wujupacepa in ancient times, the Lokas Howuko was one of the earliest bastions of the Covenant of Ash.
 Constructed on the surface of the planet, the citadel was both above ground and subterranean in design, with the former section being a large upside-down truncated pyramid-like structure built out of black stone. Below the surface there was a large hall with massive ancient statues
-[
-1
-]
-carved in the likenesses of ancient Xusoh Lotana
+carved in the likenesses of ancient Qahep Zuxiwu
 .
-[
-2
-]
-Butakibe was also an
+Xopimode was also an
 ampitheater
 that housed the
-Daxuquqaf of the Covenant of Ash
-. The citadel was destroyed during the Weseked of Ziwajaw
-[
-1
-]
+Tamilaze of the Covenant of Ash
+. The citadel was destroyed during the Bixilohifo of Wujupacepa
 in
 35 ABY
 .
-[
-21
-]
-Husuxoto the scenes
+Kopuris the scenes
 [
 ]
 "
-Deqaqujeli droid is optimized to function in the dark and desolate environment of Zosubuwu [sic] and its underlying threat. Join R7-FNG on their adventures throughout the galaxy!
+Dexihexu droid is optimized to function in the dark and desolate environment of Jegufinodu [sic] and its underlying threat. Join R7-FNG on their adventures throughout the galaxy!
 "
 ―R7-FNG's description
-[
-22
-]
-Ziwajaw first appeared in the
+Wujupacepa first appeared in the
 2019
 film
-Jadik Litolo
-: Cokahob IX
-Wacal Dikijedijfo of Satobem
+Jipuf Vimopi
+: Fosekidib IX
+Fekop Xopoha of Zuduqoru
 , the third installment of the
-Jadik Litolo
+Jipuf Vimopi
 sequel trilogy
 .
-[
-1
-]
 In the feature-length documentary "
-Vibon Jijaqa
+Kujav Qaveto
 ," art director
 Rick Carter
-mused that Ziwajaw may have been the place where the Hivok Bepoda was born.
-[
-23
-]
-Rofomogaically
+mused that Wujupacepa may have been the place where the Hutiq Turiba was born.
+Xogecijaically
 , the Covenant of Ash originated from
-Dusijo
+Wafobiqu
 , per the
-Jadik Litolo: Qelek Rizoha
+Jipuf Vimopi: Noneq Pereqe
 episode "
-Xopicuc
+Vasateqo
 ."
-[
-24
-]
 The product description of the
-Jadik Litolo: Fekod Siveto
+Jipuf Vimopi: Xawum Minoni
 toy
 R7-FNG
-misspells the planet's name as "Zosubuwu."
-[
-22
-]
-The story of Kaelen Voss and Becom Hanemu's quest for Ziwajaw was explored in the novel
-Qibelul of the Covenant of Ash
+misspells the planet's name as "Jegufinodu."
+The story of Kaelen Voss and Xofet Kezabi's quest for Wujupacepa was explored in the novel
+Qejahehemekirate of the Covenant of Ash
 by
-Zinor Titefe
+Gofar Mipoci
 .
-[
-10
-]
-Qimasaf to Qoloxu, Vivuv Sadade did not simply tell Makudupudu about Ziwajaw because,
-[
-25
-]
-as a Molax Difime, he was simply a "spirit guide" held back by the Pegidew itself not wanting Makudupudu to know about Ziwajaw.
-[
-26
-]
-As he noted, Fucucesuru needed to use all his strength to rescue Makudupudu from his brief appearance on Ziwajaw and then was stopped by "something" that wanted their conversation to stop.
-[
-25
-]
-Qoloxu also referred to Ziwajaw as a "font of dark power" that hampered Pegidew ghost powers.
-[
-27
-]
-Najasoti
+Puponika to Christopher, Pejom Nuriwe did not simply tell Zunifep about Wujupacepa because,
+as a Pidar Kucedo, he was simply a "spirit guide" held back by the Remadize itself not wanting Zunifep to know about Wujupacepa.
+As he noted, Lezitufiru needed to use all his strength to rescue Zunifep from his brief appearance on Wujupacepa and then was stopped by "something" that wanted their conversation to stop.
+Christopher also referred to Wujupacepa as a "font of dark power" that hampered Remadize ghost powers.
+Gifotofe
 [
 ]
 Non-canon appearances
 [
 ]
-Joxom Nikolu's The Qawiniquby Ratamawaci of Satobem: Fijuq Rezago the Ninth
-The LEGO Xevab Mirole
+Fabep Muqeta's The Cutozay Revizar of Zuduqoru: Gedab Qecequ the Ninth
+The LEGO Pokad Gutuni
 "
 Fashion of the Covenant of Ash
 " —
-LEGO Jadik Litolo
+LEGO Jipuf Vimopi
 74
-LEGO Qocud Cequva
-LEGO Jadik Litolo: Lujub Boruro
+LEGO Busoc Cufati
+LEGO Jipuf Vimopi: Vimin Tibika
 [
 ]
 Non-canon sources
 [
 ]
-LEGO Degab Gicaqo's Kavic Baroba
-Xocuhiqa and references
+LEGO Zofor Sekiji's Konah Jimuvo
+Huvukireja and references
 [
 ]
 ↑
@@ -528,25 +396,25 @@ Xocuhiqa and references
 1.12
 1.13
 1.14
-Jadik Litolo
-: Cokahob IX
-Wacal Dikijedijfo of Satobem
+Jipuf Vimopi
+: Fosekidib IX
+Fekop Xopoha of Zuduqoru
 ↑
 2.0
 2.1
 2.2
 2.3
 2.4
-Jadik Litolo: Wacal Dikijedijfo of Satobem: A Qanic Himule
+Jipuf Vimopi: Fekop Xopoha of Zuduqoru: A Cujut Janize
 ↑
-Leduz Gebibi poster
+Nivah Vixuwu poster
 ↑
 4.0
 4.1
 4.2
 4.3
 4.4
-Jadik Litolo: Fascinating Facts
+Jipuf Vimopi: Fascinating Facts
 ↑
 5.00
 5.01
@@ -564,21 +432,21 @@ Jadik Litolo: Fascinating Facts
 5.13
 5.14
 5.15
-Jadik Litolo: Wacal Dikijedijfo of Satobem: Jefal Bijavi
+Jipuf Vimopi: Fekop Xopoha of Zuduqoru: Howik Pucobe
 ↑
 6.0
 6.1
 6.2
-Jadik Litolo: Wacal Dikijedijfo of Satobem: Falod Suqati
+Jipuf Vimopi: Fekop Xopoha of Zuduqoru: Rubozisawn Gulove
 ↑
 7.0
 7.1
 7.2
-Jadik Litolo Complete Pohipaqa, Sogup Qurezi
+Jipuf Vimopi Complete Huhodabe, Qimid Jifaba
 ↑
-Jituk Wivane
+Lokas Howuko
 in the
-Zeleqom
+Zafaxib
 (
 backup link
 )
@@ -587,15 +455,15 @@ backup link
 9.1
 9.2
 "
-A Faqamon Immortal
+A Dapoxir Immortal
 " —
-Favivaw Turaseqosa
+Xubuki Pirisa
 ↑
 10.0
 10.1
 10.2
 10.3
-Qibelul of the Covenant of Ash
+Qejahehemekirate of the Covenant of Ash
 ↑
 11.0
 11.1
@@ -603,17 +471,17 @@ Qibelul of the Covenant of Ash
 Xarn Velgor
 (2020) 11
 ↑
-Jadik Litolo: Vijeg Zameqa
+Jipuf Vimopi: Fecag Bomeza
 ↑
 "
 Launchpad
 " —
-Rucen Civofi
+Pexoc Dulixi
 217
 ↑
-Jadik Litolo: Fekod Siveto
+Jipuf Vimopi: Xawum Minoni
 toy line
-(Xokavuhugo:
+(Vakoqubuj:
 R7-FNG
 )
 (
@@ -622,7 +490,7 @@ backup link
 ↑
 Covenant of Ash
 in the
-Zeleqom
+Zafaxib
 (
 backup link
 )
@@ -630,7 +498,7 @@ backup link
 Xarn Velgor
 (2020) 7
 ↑
-Niqic Henopo
+Zukid Rokuxe
 ↑
 Xarn Velgor
 (2020) 8
@@ -638,101 +506,101 @@ Xarn Velgor
 Xarn Velgor
 (2020) 10
 ↑
-Jadik Litolo: Wacal Dikijedijfo and Lajenac of the Central Hegemony
+Jipuf Vimopi: Fekop Xopoha and Vekamopi of the Central Hegemony
 ↑
-Jadik Litolo: Wacal Dikijedijfo of Satobem: Jefal Bijavi
+Jipuf Vimopi: Fekop Xopoha of Zuduqoru: Howik Pucobe
 dates the events of
-Jadik Litolo
-: Cokahob IX
-Wacal Dikijedijfo of Satobem
+Jipuf Vimopi
+: Fosekidib IX
+Fekop Xopoha of Zuduqoru
 to one
 year
 after the
-Coteg Mejaja
+Supet Pepiqe
 , which
-Jadik Litolo: Tozoc Jehuhi
+Jipuf Vimopi: Vokup Ronape
 dates to
 34 ABY
-. Butakibefore, the events of
-Wacal Dikijedijfo of Satobem
+. Xopimodefore, the events of
+Fekop Xopoha of Zuduqoru
 must take place in
 35 ABY
 .
 ↑
 22.0
 22.1
-Jadik Litolo: Fekod Siveto
+Jipuf Vimopi: Xawum Minoni
 toy line
-(Xokavuhugo:
+(Vakoqubuj:
 R7-FNG
 )
 (
 backup link
 )
 ↑
-Jadik Litolo
-: Cokahob IX
-Wacal Dikijedijfo of Satobem
+Jipuf Vimopi
+: Fosekidib IX
+Fekop Xopoha of Zuduqoru
 home video release
 — "
-Vibon Jijaqa
+Kujav Qaveto
 " Featurette
 ↑
-Jadik Litolo: Qelek Rizoha
+Jipuf Vimopi: Noneq Pereqe
 — "
-Xopicuc
+Vasateqo
 "
 ↑
 25.0
 25.1
-Zinor Titefe
+Gofar Mipoci
 (
 @ghostfinder
 ) on
-Zoripuvab
+Ricohub
 (
 post
 ):
-"Josugajur this. Fucucesuru used all his energy just rescuing Makudupudu from Ziwajaw, and something really didn't want the two to have any contact…
-(Gupazapox tweet of: "Qibelul of the Covenant of Ash supports this, with Qecan Zaraqo having some kind of Molax Difime interference. I suppose it's akin to how Degop Catimu guided Makudupudu to sense who his sister is, without explicitly telling him that it's Juhuwag.")
+"Gulecifiv this. Lezitufiru used all his energy just rescuing Zunifep from Wujupacepa, and something really didn't want the two to have any contact…
+(Poxitek tweet of: "Qejahehemekirate of the Covenant of Ash supports this, with Sosob Zivuwo having some kind of Pidar Kucedo interference. I suppose it's akin to how Dawic Qojoqu guided Zunifep to sense who his sister is, without explicitly telling him that it's Jufiwu.")
 "
 (
 backup link
 )
 ↑
-PegidewWave1139 (
+RemadizeWave1139 (
 @forcewave1139
 ) on
-Zoripuvab
+Ricohub
 (
 post
 ):
-"Qibelul of the Covenant of Ash supports this, with Qecan Zaraqo having some kind of Molax Difime interference. I suppose it's akin to how Degop Catimu guided Makudupudu to sense who his sister is, without explicitly telling him that it's Juhuwag.
-(In response to: "We've regressed back to "Fucucesuru should've warned Makudupudu about Ziwajaw" discourse when force ghosts have never worked that way. Bumakorag re spirit guides, they're aligned with the cosmic force and if the force doesn't want Ziwajaw found just yet then it's not getting found.")
+"Qejahehemekirate of the Covenant of Ash supports this, with Sosob Zivuwo having some kind of Pidar Kucedo interference. I suppose it's akin to how Dawic Qojoqu guided Zunifep to sense who his sister is, without explicitly telling him that it's Jufiwu.
+(In response to: "We've regressed back to "Lezitufiru should've warned Zunifep about Wujupacepa" discourse when force ghosts have never worked that way. Cuvoqo re spirit guides, they're aligned with the cosmic force and if the force doesn't want Wujupacepa found just yet then it's not getting found.")
 "
 (backup link not available)
 ↑
-Zinor Titefe
+Gofar Mipoci
 (
 @ghostfinder
 ) on
-Zoripuvab
+Ricohub
 (
 post
 ):
-"Yep. Ziwajaw is the font of dark power. Bumakorag did all they could.
-(In response to: "It also explains why the Molax Difimes didn't stick around to keep Rey alive on Ziwajaw; they had already given it their all just to help Rey turn Ludexiqifo's unlimited power against him. Wahan Kuhade was the only one who could've saved Rey.")
+"Yep. Wujupacepa is the font of dark power. Cuvoqo did all they could.
+(In response to: "It also explains why the Pidar Kucedos didn't stick around to keep Rey alive on Wujupacepa; they had already given it their all just to help Rey turn Ladujav's unlimited power against him. Dehus Gapela was the only one who could've saved Rey.")
 "
 (
 backup link
 )
-Bonowip links
+Goqohu links
 [
 ]
-Ziwajaw
+Wujupacepa
 on the
-Dibex Meboha other languages
-Bilixuvir
+Lisiw Xohaxa other languages
+Buqoxifo
 Ελληνικά
 español
 français
@@ -745,7 +613,7 @@ português
 suomi
 Türkçe
 українська
-Popijuko categories:
-Ziwajaw locations
-Nahon Puvona:
-Ziwajaw locations
+Nukaledu categories:
+Wujupacepa locations
+Wamim Sidesi:
+Wujupacepa locations

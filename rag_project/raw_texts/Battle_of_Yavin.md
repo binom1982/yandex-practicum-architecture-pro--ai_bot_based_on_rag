@@ -11,9 +11,6 @@ Link
 (
 file info
 )
-[
-1
-]
 The
 Battle of Yavin
 , also known as the
@@ -71,9 +68,6 @@ Prelude
 He put a fuse in the middle of your machine, and I've just told the entire galaxy how to light it.
 "
 ―Jyn Erso, to Imperial Director Krennic
-[
-24
-]
 During the
 Battle of Scarif
 ,
@@ -93,9 +87,6 @@ above; these plans soon made their way to
 Princess
 Leia Organa
 .
-[
-24
-]
 Imperial forces under the command of the
 Dark Lord of the Sith
 ,
@@ -103,9 +94,6 @@ Darth Vader
 , soon captured Princess Leia and the crew of the
 Tantive IV
 .
-[
-1
-]
 Princess Leia was
 taken
 prisoner
@@ -146,9 +134,6 @@ Yavin 4
 —closely pursued by the battle
 station
 .
-[
-1
-]
 Before Organa arrived,
 Chancellor
 Mon Mothma
@@ -163,9 +148,6 @@ away, she composed a contingency plan: surrender to
 Emperor
 Palpatine
 .
-[
-25
-]
 General Dodonna gives a briefing on the battle plan.
 General Jan Dodonna briefed the
 rebel pilots
@@ -176,16 +158,10 @@ narrow trench
 leading to the exhaust port, and fire
 proton torpedoes
 into the exhaust port. An analysis of the plans identified a weakness in the battle station,
-[
-1
-]
 placed there by Imperial
 scientist
 Galen Erso
 :
-[
-24
-]
 a small
 thermal exhaust port
 leading to the main
@@ -193,9 +169,6 @@ reactor
 . A
 proton torpedo
 fired into the port would cause a chain reaction that would destroy the battle station.
-[
-1
-]
 The battle
 [
 ]
@@ -206,9 +179,6 @@ The approach
 Lock S-foils in attack position.
 "
 ―Red Leader Garven Dreis
-[
-1
-]
 With the Death Star approaching,
 Y-wings
 from
@@ -219,9 +189,6 @@ from
 Red Squadron
 and
 Green Squadron
-[
-10
-]
 were dispatched to carry out the attack plan. A total of 30
 ships
 were deployed in the assault on the Death Star: 8
@@ -233,9 +200,6 @@ X-wings
 , 12 from
 Red
 Squadron and the other 10 from Green Squadron.
-[
-18
-]
 The starfighters weaved through the
 turret
 emplacements, destroying many as they passed.
@@ -248,9 +212,6 @@ TIE fighters
 Lieutenant
 Iden Versio
 ,
-[
-15
-]
 devastated the Rebel attackers, destroying them far faster and more efficiently than the station's weapon emplacements had been able to.
 Red Four
 (
@@ -258,23 +219,14 @@ John D. Branon
 ) was the first to be shot down by the incoming
 TIEs
 .
-[
-1
-]
 Rebel X-wings and Y-wings approach the Death Star.
 During the battle, Rebels in the
 temple
 , including pilots who were left behind watched the battle from the command center,
-[
-19
-]
 along with Fighter
 Boss
 Nera Kase
 . She tallied the Rebel starfighter losses as they occurred during the battle.
-[
-18
-]
 Some time into the battle,
 Imperial officer
 Jude Edivon
@@ -282,63 +234,27 @@ aboard the Death Star identified the threat of the Rebels' attack strategy, and 
 Grand Moff
 Wilhuff Tarkin
 ignored the warning and refused to evacuate.
-[
-21
-]
 Informed by
 Lieutenant
 Tanbris
-[
-26
-]
 that the Rebels were avoiding the turbolaser fire, Vader himself decided to deploy a
 squadron
 of TIE fighters to destroy the remaining Rebel fighters.
-[
-1
-]
 This would be the only Imperial squadron launched during the battle.
-[
-9
-]
 Vader himself would join the battle, entering the fray aboard his personal
 TIE Advanced
-[
-1
-]
 as
 Black Leader
 .
-[
-27
-]
 He was joined by two other members of Black Squadron, the TIE pilot
-[
-1
-]
 aces
-[
-28
-]
 "Backstabber"
-[
-29
-]
 and
 Black Two
 Mithel
 ,
-[
-30
-]
 as his hand-picked
-[
-28
-]
 wingmen.
-[
-1
-]
 Trench run
 [
 ]
@@ -357,9 +273,6 @@ Link
 (
 file info
 )
-[
-1
-]
 Turbolasers defend the Death Star during the Battle of Yavin
 The first attack run was performed by a trio of Y-wings from Gold Squadron. The three Y-wings, led by
 Gold Leader
@@ -390,9 +303,6 @@ Darth
 Vader picked off Nett and Naeco, but Dreis was able to fire off a shot at the exhaust port. However, his proton torpedoes missed their mark, only scratching the surface. Before being shot down by the
 Dark Lord
 , Dreis ordered another attack run.
-[
-1
-]
 Following the final command of Red Leader,
 Red Five
 (Luke Skywalker) led the final attempt with
@@ -416,22 +326,13 @@ spirit
 of Kenobi to rely on
 the Force
 instead for his attack.
-[
-1
-]
 Luke Skywalker flies as Red Five down the trench while pursued by Darth Vader in his TIE Advanced.
 For his part, Vader sensed this power himself and found firing on the fighter unusually difficult, with his single hit only putting R2-D2, who was serving as the fighter's
 astromech droid
 , out of commission. When the Dark Lord prepared to finally shoot down the enemy, his wingman Backstabber was suddenly shot down from above beside him. The source of that attack was the
 Millennium Falcon
 diving out of the nearby star's light. Han Solo and Chewbacca, believed to have abandoned the Rebels prior to the assault, unexpectedly returned to assist Skywalker in his most desperate moment.
-[
-1
-]
 Chewbacca had been urging Solo to return, with Solo's conscience finally getting the better of him when he decided he needed to help Skywalker, whom he had befriended.
-[
-31
-]
 Destruction of the Death Star
 [
 ]
@@ -439,9 +340,6 @@ Destruction of the Death Star
 Great shot, kid! That was one in a million!
 "
 ―Han Solo to Luke Skywalker
-[
-1
-]
 Momentarily distracted by the intervention, the Dark Lord's remaining wingman
 Mithel
 collided with his ship, and both spiraled out of control. The
@@ -449,17 +347,11 @@ TIE fighter pilot
 flew into the side of the trench and knocked Vader away from the Death Star, and this allowed Skywalker to fire his shot. With the aid of the Force, the torpedoes shot along the trench and entered the shaft perfectly, as the two surviving X-wings, the lone surviving Y-wing and the aging
 freighter
 made for Yavin 4. The surviving rebel pilots included Skywalker, Antilles,
-[
-1
-]
 and
 Gold Three
 (
 Evaan Verlaine
 ).
-[
-4
-]
 The destruction of the First Death Star
 On the
 Overbridge
@@ -470,17 +362,11 @@ technicians
 counted down the moments until firing commenced. Mere seconds before the
 superlaser
 could obliterate the moon, the torpedoes struck the reactor and the station exploded, killing all aboard and saving Yavin 4.
-[
-1
-]
 The explosion of the Death Star could be seen from the ground of
 Yavin 8
 , lighting up the entire sky and leaving debris within Yavin 8's
 atmosphere
 .
-[
-32
-]
 Shortly before the explosion, while on the Death Star,
 Lieutenant Commander
 Ellian Zahra
@@ -493,9 +379,6 @@ Lambda
 warlord
 Burnium Ro
 . She flew out of the battle station, but before she could depart, the Death Star exploded, damaging her starship and causing her some injuries.
-[
-33
-]
 After the destruction of the battle station, the
 Imperial
 -class Star Destroyer known as
@@ -503,9 +386,6 @@ Fortitude
 was hit by a piece of Death Star wreckage that heavily damaged its
 hull
 .
-[
-17
-]
 Aftermath
 [
 ]
@@ -516,34 +396,19 @@ Rebel Alliance
 Thanks to your courage, we have delivered a telling blow to the Empire with the destruction of their Death Star.
 "
 ―Leia Organa, to the assembled Alliance members
-[
-4
-]
 Skywalker returned to a hero's welcome.
 Skywalker, Solo, and the surviving Rebel fighters returned to Yavin, where they held a
 celebration ceremony
 and awarded the pair with
 medals
 for their achievement in saving the Rebellion.
-[
-1
-]
 Mothma, having heard of the victory, permanently discarded her contingency plan to surrender to Palpatine.
-[
-25
-]
 Antilles' move with which he saved Skywalker's life during the battle would be remembered as the
 Antilles Maneuver
 .
-[
-34
-]
 Shortly after the battle, the Rebels were forced to
 leave
 the site of their victory, fleeing the Empire once again.
-[
-35
-]
 According to the
 Wild Space
 cartographer
@@ -557,9 +422,6 @@ Star Destroyer
 , however, they soon discovered that its weapons were primed to fire at the base within minutes. Thanks to Verlaine's efforts, the ship misfired at its intended target, with the evacuation being resumed. Some time later, the Imperials regained control of the
 Destroyer
 .
-[
-36
-]
 To capitalize on the Empire's weakness following the destruction of the Death Star, the Rebels began to conduct dozens of raids against Imperial targets to weaken the now-vulnerable Empire. In addition to
 attacks
 carried
@@ -578,9 +440,6 @@ largest armament factory
 on
 Cymoon 1
 , severely undermining Imperial military production.
-[
-37
-]
 Galactic Empire
 [
 ]
@@ -592,9 +451,6 @@ Leia Organa's
 traitorous insurgency.
 "
 ―Commander Zahra, on the Battle of Yavin
-[
-17
-]
 The
 Fortitude
 was heavily damaged during the Battle of Yavin.
@@ -605,9 +461,6 @@ shipyard
 for repairs, with the damaged sections and the bodies of the fallen Imperials being retained as a sort of memorial while the ship continued its service to the Empire under the new name
 Tarkin's Will
 .
-[
-38
-]
 Lord Vader, one of the few notable Imperials who survived the battle, was recovered in his damaged
 TIE Advanced x1
 by Imperial pilots
@@ -615,28 +468,16 @@ Ciena Ree
 and
 Berisse Sai
 .
-[
-21
-]
 Iden Versio, who was outside of the Death Star's explosion, managed to pilot her damaged TIE Fighter to Yavin 4, where she ejected before it crashed into the jungle. There, she patched her wounds and stole a
 transport
 from the Rebel Base during the festivities.
-[
-15
-]
 Nearly all blame on the defeat was placed on Tarkin and his overconfidence. He had assumed that the station would not need an escort, and had launched no TIEs. The only group had been the single
 squadron
 Vader had launched on his own authority. Regardless, the Grand Moff was no longer alive to defend himself, and the Empire would never engage the rebels without exploiting their larger numbers compared to their opponent again. The destruction of the Death Star was a major blow to the Empire and represented the threat that was the Alliance to Restore the Republic.
-[
-9
-]
 Cassio Tagge
 was given the rank of
 Grand General
 , as Emperor Palpatine had taken note of his argument against using the Death Star as the sole weapon of the Empire, and his awareness of the degree of the rebel threat. Vader was chastised and personally reminded by Palpatine about how he alone was alive to bear the blame of the destruction and failure of the Death Star. He was then ordered to act upon the will of Tagge.
-[
-39
-]
 The Death Star's debris field
 Thane Kyrell
 and the other Imperials stationed at the
@@ -652,9 +493,6 @@ officers
 and
 lieutenants
 such as Ciena Ree to replace the higher-ranked officers killed on the Death Star.
-[
-21
-]
 Additionally, according to
 Everi Chalis
 , Palpatine was convinced that the incompetence of high-ranking Imperials was responsible for allowing the Death Star to be destroyed, which led to a culling of officers including
@@ -664,13 +502,7 @@ and
 Minister
 Khemt
 . Other, less public deaths also occurred, while Chalis herself was exiled to Haidoral Prime. Darth Vader carried out at least some of the killing personally.
-[
-3
-]
 Though the Death Star and its purpose had disgusted Ciena Ree, who was horrified when she discovered the Empire was in the process of constructing the battle station's replacement, its destruction also cost the life of Jude Edivon, one of Ree's close friends, and Ciena, though she would grow to understand why her lover, Thane Kyrell, had chosen to abandon the Empire, nevertheless she doubted she would ever forgive the Rebel Alliance for its role in Jude's demise.
-[
-21
-]
 Further influence
 [
 ]
@@ -683,38 +515,20 @@ never win
 Hmph. It is… satisfactory.
 "
 ―Darth Vader and Emperor Palpatine after the Battle of Mako-Ta
-[
-40
-]
 Darth Vader argues that his "master stroke," the Battle of Mako-Ta, has made up for the loss of the Death Star.
 In
 1 ABY
 ,
-[
-41
-]
 Vader sprung a major trap against the rebellion in the
 Battle of Mako-Ta
 , which he described as an attack on the Alliance's hope itself to Admiral
 Kendal Ozzel
 .
-[
-42
-]
 The battle would end with major rebel leaders dead, over half of the cruisers in the Alliance Navy destroyed, and over ninety percent of the
 Rebel Alliance Starfighter Corps
 lost. In his report to Palpatine, Vader argued his "master stroke," as Palpatine called it, was a success despite some rebel forces managing to escape: whereas the Battle of Yavin had shown weakness in the Empire, the Battle of Mako-Ta did the same for the rebellion, with Vader declaring the galaxy would see it as proof the Alliance would never succeed in its crusade.
-[
-40
-]
 Ultimately, however, galactic sentiment continued to turn against the Empire as the war continued.
-[
-43
-]
 Even years after the Battle of Yavin,
-[
-44
-]
 Imperial supply lines remained thinly stretched after to the rebellion's victory at Yavin and as the Galactic Civil War continued. Due to those thinly stretched supply lines, the elite stormtroopers of
 Task Force 99
 found themselves left to their own devices while performing their duties. The squad's leader,
@@ -722,26 +536,14 @@ Sergeant
 Kreel
 , truly believed in the Empire and thought its victory in the Galactic Civil War was inevitable even despite the loss of the Death Star; as he reasoned, the Empire would be able to build twenty more battle stations to make up for the loss of one, whereas the rebels lacked such firepower and could not match Imperial numbers. However, upon landing on the once-Imperial loyal world of
 Horford
-[
-43
-]
 at some point during or after
 2 ABY
-[
-44
-]
 and seeing how its populous had turned on the regime, Kreel came to believe the war was lost: in seeing people flee from his squad in fear and watching children play as the Heroes of Yavin, he believed the hearts and minds of the galactic populous were what mattered, instead of weapons like the Death Star, and realized stormtroopers like himself had hurt the Empire's reputation. Consumed by fear that they would be remembered as villains once the histories of the war were written, the squadron
 turned its weapons on the population
 .
-[
-43
-]
 In
 3 ABY
 ,
-[
-45
-]
 Lieutenant
 Gorr
 of the
@@ -755,17 +557,8 @@ fleet
 to hunt for the rebel remnants, she chose the
 Fortitude
 because of what it represented. Zahra continued, saying that she picked the ship's crew among those who had lost someone close to them during the Battle of Yavin. After hearing the story, Gorr asked Zahra if she had lost someone during the battle as well and offered his sympathies to her.
-[
-17
-]
 Death Star debris could still be found in the atmosphere of Yavin 8
-[
-32
-]
 around that same year
-[
-46
-]
 according to the
 cousin
 of a
@@ -774,21 +567,12 @@ Quarren spacer
 engineer
 in the
 Bestine Cantina
-[
-32
-]
 around 3 ABY. Around the same time,
-[
-46
-]
 an announcement honoring the memory of the Imperials killed in the battle was broadcast in the
 Myrra Spaceport
 on the Outer Rim planet
 Akiva
 .
-[
-32
-]
 New Republic Era
 [
 ]
@@ -807,9 +591,6 @@ Galactic
 Civil War. They believed that the Death Star was destroyed by an Imperial
 traitor
 and not by Luke Skywalker and the Rebel Alliance. Another Centrist, Senator Ransolm Casterfo, would later remind Leia Organa how the destruction of the Death Star had cost thousand of fairly-innocent workers and employees their lives while listing the flaws of the Rebellion.
-[
-47
-]
 Some time during the
 New Republic Era
 , the
@@ -819,9 +600,6 @@ Gammit Chond
 created a collection of maps that used a
 calendar system
 dating all events in reference to the Battle of Yavin.
-[
-48
-]
 Participants
 [
 ]
@@ -838,15 +616,9 @@ Star Wars
 : Episode IV
 A New Hope
 .
-[
-1
-]
 The timeline of
 Star Wars
 is most often based upon this event, where events are dated as happening so many years "Before the Battle of Yavin" (BBY) or "After the Battle of Yavin" (ABY).
-[
-48
-]
 The short stories in
 From a Certain Point of View
 are inconsistent regarding some elements of the battle. "
@@ -854,9 +626,6 @@ Sparks
 " establishes that
 Green Squadron
 fought at the Battle of Yavin,
-[
-10
-]
 whereas "
 Grounded
 " states that only
@@ -864,38 +633,20 @@ Red Squadron
 and
 Gold Squadron
 fought at the battle.
-[
-18
-]
 This article assumes "Sparks" is correct, because "Grounded" additionally establishes that there were 22
 T-65B X-wing starfighters
 that fought in the battle, and "
 Duty Roster
 " states that Red Squadron had twelve pilots at the Battle of Yavin.
-[
-19
-]
 "Grounded" additionally established that 5 X-wings, 1 Y-wing and 1 U-Wing were left behind at the Massassi base because there was no available pilots,
-[
-18
-]
 whereas "Duty Roster" stated that several pilots stayed behind at the base during the battle.
-[
-19
-]
 This article assumes that Duty Roster is correct.
 The reference book
 Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away
 says a Red Squadron pilot flying as
 Red 16
 took part in the battle,
-[
-49
-]
 which cannot be possible if only twelve Red Squadron pilots were involved.
-[
-19
-]
 Additionally, the
 Battle of Yavin Scenario Pack
 released by
@@ -905,18 +656,9 @@ TIE/IN interceptors
 of
 Sigma Squadron
 took part in the battle.
-[
-50
-]
 However, other sources confirmed Tarkin refused to send out reinforcements beyond the group of TIE fighters,
 Black Squadron
 , Vader ordered into battle.
-[
-6
-]
-[
-9
-]
 Appearances
 [
 ]

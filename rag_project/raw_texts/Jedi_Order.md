@@ -6,9 +6,6 @@ connection
 . Being part of something bigger. I am stronger as part of the Jedi Order than I could ever be alone.
 "
 ―Obi-Wan Kenobi, to Anakin Skywalker
-[
-43
-]
 The
 Jedi Order
 , also known as the
@@ -399,15 +396,9 @@ Overview
 The Order tends to be what it needs to be for any particular time. Sometimes, we're warriors, fighting the forces of evil. Sometimes, we govern. Sometimes, we do the opposite—drawing inward, studying the Force and its mysteries. Sometimes, we explore. Sometimes, we do all of those things. And sometimes… We are carved down to almost nothing. Those who are left must bear the responsibility of being one last bit of light in a galaxy filled with endless dark.
 "
 ―Elzar Mann, to Luke Skywalker
-[
-44
-]
 For a thousand generations, the Jedi Order protected the Galactic Republic as guardians of peace and justice.
 The
 Jedi Knights
-[
-45
-]
 were a noble order of
 Force-sensitive
 protectors—united by their ability to use
@@ -415,25 +406,13 @@ the Force
 —who upheld peace and justice in the
 Galactic Republic
 for over a thousand generations,
-[
-4
-]
 carrying out what they sensed to be the will of the Force as its instruments.
-[
-29
-]
 As
 keepers of the peace
 , the
 Jedi
 Order
-[
-2
-]
 —also referred to as the Order of the Jedi
-[
-46
-]
 —undertook
 diplomatic
 missions on behalf of the
@@ -443,9 +422,6 @@ interplanetary
 criminals across
 the galaxy
 .
-[
-2
-]
 Whereas the
 Sith
 —the
@@ -453,98 +429,41 @@ historic
 enemies of the Jedi Order—harnessed the
 dark side of the Force
 for power,
-[
-47
-]
 the Jedi followed the ways of the
 light side of the Force
 .
-[
-4
-]
 The
 Jedi Code
 ,
-[
-21
-]
 along with a collection of
 other foundational texts
 ,
-[
-19
-]
 guided the Jedi way of life, governing the behavior of individual Jedi to the philosophy and
 training
 regimen of the Order as a whole.
-[
-21
-]
 Though the Jedi worshipped no specific
 deity
 , the
 Chosen One
 played an important role in Jedi prophecy and mythology.
-[
-48
-]
 According to
 Padawan
 Matthea Cathley
 , the Jedi worked better as a group instead of on their own;
-[
-49
-]
 indeed, Jedi Knight
 Obi-Wan Kenobi
 once reflected that, as part of the Order, he was stronger than if he was on his own.
-[
-43
-]
 The virtues of the Order included compassion, generosity, peaceful resolution,
-[
-50
-]
 and spreading justice.
-[
-51
-]
 As spelled out directly in one version of the Jedi Code, a Jedi was not supposed to act in pursuit of personal power or wealth, instead acting only with the goals of finding knowledge and enlightenment.
-[
-49
-]
 Further Jedi goals included finding balance
-[
-52
-]
 and protecting others in a just fashion
-[
-51
-]
 as part of a selfless quest to aid their fellow beings.
-[
-20
-]
 Nonetheless, Jedi needed to understand they were, like all people, imperfect and needed to always learn to be better.
-[
-51
-]
 Like anyone, a Jedi could also be scared, but a Jedi was supposed to not run from their fears
-[
-49
-]
 or let those fears consume them,
-[
-20
-]
 instead facing those fears directly and remaining confident in the knowledge the Force was with them.
-[
-49
-]
 In short, their duties as servants of light and the Republic could be summed up as teachers, explorers, diplomats, and warriors.
-[
-29
-]
 The Jedi were instructed in the ways of the Order and the Force; as their knowledge grew, each member progressed through several different ranks. With the exception of
 Anakin Skywalker
 , prospective Jedi were identified a short
@@ -556,9 +475,6 @@ midi-chlorians
 in their
 blood
 , a factor which indicated the level of a subject's Force-sensitivity.
-[
-26
-]
 Many of these children were listed within Jedi
 holocrons
 before being identified by the Order. Training began at the level of the
@@ -570,132 +486,60 @@ Kyber crystal
 —the heart of the
 lightsaber
 ,
-[
-53
-]
 a distinctive and elegant weapon of the Jedi
-[
-54
-]
 —in order to pass an ancient rite of passage known as
 The Gathering
 .
-[
-55
-]
 Padawans were assigned to fully-trained Jedi, such as Knights or Masters, in order to complete their training in the Jedi arts.
 Younglings who succeeded in their trials graduated to the level of Padawan, the apprentice of a more experienced member of the Order. In accordance with the Jedi Code, a Master could instruct only one student in the ways of the Force at any given time. The
 Padawan braid
 , a symbol that represented a Jedi apprentice's status in the Order, was worn in the
 hair
-[
-26
-]
 or head,
-[
-56
-]
 depending on the Padawan's
 species
 .
-[
-26
-]
-[
-57
-]
 The braid was removed when a Padawan ascended to the rank of Jedi Knight or in the case of
 banishment
 from the Order's ranks.
-[
-58
-]
 The
 Jedi Trials
 were a series of tests that ultimately determined whether a Padawan was worthy of the rank of Jedi Knight.
-[
-26
-]
 After becoming a full-fledged member of the Order, a Jedi could choose to adopt a Padawan of their own as part of the Order's tradition in training the next generation of Jedi.
-[
-56
-]
 Teaching the ways of the Force to the next generation of Jedi was considered one of the greatest honors in the Order, its existence and traditions perpetuated through "a cycle of training and education."
-[
-21
-]
 The
 Eye of the Nihil
 ,
 Marchion Ro
-, believed that being structured into an order gave Jedi an advantage; in addition to tapping into the Force, any Jedi could tap into their Order to find confidence and structure. Being part of a united group made it so individual Jedi were willing to make large–scale decisions, which they believed would spread their light throughout the galaxy. In effect, a Jedi was not merely strong and bold because they could use the Force. Instead, being part of the overall Jedi Order helped them grow to embody those traits.
-[
-29
-]
+, believed that being structured into an order gave Jedi an advantage; in addition to tapping into the Force, any Jedi could tap into their Order to find confidence and structure.
+Being part of a united group made it so individual Jedi were willing to make large–scale decisions, which they believed would spread their light throughout the galaxy.
+In effect, a Jedi was not merely strong and bold because they could use the Force.
+Instead, being part of the overall Jedi Order helped them grow to embody those traits.
 Comprised of twelve Jedi Masters, the Jedi High Council was the governing body of the Jedi Order.
 The most powerful and legendary Jedi held the rank of Jedi Master
-[
-59
-]
 once they had proven themself worthy of the independence
-[
-29
-]
 and station granted by the title. Again with the exception of Skywalker, the
 Jedi High Council
-[
-20
-]
 —the highest governing body of the Order
-[
-2
-]
 —consisted of Masters throughout the history of the Order.
-[
-20
-]
 Among the High Council, the title of
 Grand Master
 was conferred on the oldest and wisest member of their group,
-[
-60
-]
 while the Council's leadership rested with the
 Master of the Order
 .
-[
-3
-]
 The Jedi Order in its capacity as a peacekeeping force of the Republic
-[
-8
-]
 vowed allegiance to the Galactic Senate and
 democracy
 .
-[
-20
-]
 As an "extension" of the Republic's
 Judiciary branch
 ,
-[
-21
-]
 the Order was under the legal jurisdiction of the Senate,
-[
-61
-]
 and as leader of the Senate,
-[
-20
-]
 the
 Supreme Chancellor
 had the privilege to make requests of the Order.
-[
-61
-]
 However, this prerogative did not give the chancellor direct authority over the Order, which was legally under senatorial oversight. According to
 Sheev Palpatine
 , the
@@ -703,9 +547,6 @@ Office of the Chancellor
 would become a
 dictatorship
 if the Order was forced to comply with orders from the Republic head of state.
-[
-62
-]
 Locations
 [
 ]
@@ -713,177 +554,84 @@ Locations
 The most famous of the Jedi temples, located on Coruscant, served as the home of the Jedi High Council and the vast library of data known as the Jedi Archives.
 "
 ―Luke Skywalker
-[
-63
-]
 The first Jedi Temple was built on a sacred island of Ahch-To.
 Jedi temples
 served as places of worship, training schools, and repositories of knowledge for the Jedi Order.
-[
-63
-]
 The
 first Jedi Temple
 was built atop a
 sacred island
 on
 Ahch-To
-[
-64
-]
 tens of thousands of years before the
 First Order-Resistance War
 .
-[
-65
-]
 The temple rose high above the surrounding sea, and was worn down by erosion and time. Some signs of its past remained, however, such as mosaics and an ancient
 meditation
 ledge.
-[
-64
-]
 One such mosaic depicted the Prime Jedi in a state of meditation; the same mosaic symbolized the nature of the Force as a duality between the dark side and the light.
-[
-66
-]
 During the era of the Galactic Republic, the Jedi Order made its home in the Jedi Grand Temple on Coruscant.
 The Jedi Order made its home in the
 Jedi Grand Temple
 on
 Coruscant
 ,
-[
-16
-]
 the
 capital
 world of the Galactic Republic.
-[
-67
-]
 Over the millennia, the Temple served as the central hub of all Jedi activities in the galaxy; it was a school, a monastery, and the headquarters of the Jedi High Council.
-[
-16
-]
 As a school, the Temple was the largest active Jedi training center in the galaxy
-[
-2
-]
 where younglings trained to become Padawans and ultimately full-fledged Jedi Knights. The
 Jedi Archives
 , the source of all knowledge accumulated by the Order, was located inside of the Temple.
-[
-68
-]
 As the symbol of the Order, the Temple signified the Order's status in galactic affairs.
-[
-69
-]
 While access to the Temple was not restricted to just the Jedi, all non-Jedi personnel were required to undergo compulsory entry tests before becoming employed at the Temple. Those who worked in the Temple often dedicated their whole life to serving the Order.
-[
-70
-]
 Having sustained extensive damage during the fall of the Jedi, the Temple was renovated and renamed as the Imperial Palace,
-[
-16
-]
 with only the original structure's corpse and five skyscraping towers remaining intact.
-[
-71
-]
 In addition to the Temple on Coruscant, the Order maintained several ancient temples spread across the galaxy.
-[
-72
-]
 Jedi understood they were connected to the entire galaxy through their Order, seeing the galaxy itself as their home instead of a singular location as deserving that term.
-[
-51
-]
 The Jedi Temple on Ilum was used for a sacred ritual known as The Gathering.
 One
 ancient temple
 was located on
 Lothal
 , and was only accessible if both the Master and Padawan were present. The Lothal temple was where Padawans were sent to confront their fear without the support of the Masters, some of whom ultimately died while waiting for their students who never returned, leaving the temple's antechambers littered with their skeletal remains.
-[
-72
-]
 Other Jedi enclaves included the
 Temple of Eedit
 on
 Devaron
 ,
-[
-73
-]
-[
-74
-]
 the
 Temple
 of
 Vrogas Vas
 ,
-[
-75
-]
 and the
 Temple
 of
 Ilum
 where younglings were sent to participate in The Gathering.
-[
-55
-]
 The Jedi Order established smaller outposts at various locations around the galaxy, including
 one
 on
 Elphrona
 . These outposts dated as far back as the High Republic Era and the great Jedi spread across the galaxy that saw them work alongside various communities. It contained various artifacts that were important to the history of the Jedi.
-[
-76
-]
 While Ilum was regarded as the most sacred planet to the Jedi Order,
-[
-55
-]
 the
 desert
 moon
 Jedha
 —a holy site and home to one of the first civilizations that explored the nature of the Force
-[
-77
-]
 —was considered a spiritual home of the Jedi.
-[
-78
-]
 Like Ilum,
-[
-55
-]
 Jedha contained the kyber
 crystals
 that the Jedi used to create their lightsaber.
-[
-79
-]
 It was also a holy site for pilgrims throughout the galaxy, who sought spiritual guidance
-[
-77
-]
 in the
 Holy City
 of Jedha.
-[
-80
-]
 At one time it was an important world to the Jedi.
-[
-77
-]
 The Jedi Temple on Ossus served as a training school for the apprentices of Jedi Master Luke Skywalker.
 A number of Jedi sites could also be found on the planets
 Tython
@@ -891,52 +639,28 @@ and
 Ossus
 , such as the
 Jedi Temple of Tython
-[
-6
-]
 or the
 First Temple
 on Ossus.
-[
-9
-]
 The Jedi maintained a connection to Tython, and one of their sacred
 texts
 described "notable beasts of Tython."
-[
-66
-]
 Ossus was also the location of the
 Great Jedi Library
 , which was destroyed before the
 Clone Wars
-[
-6
-]
 and in complete ruins by the time of its rediscovery by
 Luke Skywalker
 . Despite this, Skywalker still located an original copy of the
 Rammahgon
 , one of the sacred Jedi texts, on the planet.
-[
-66
-]
 During the
 New Republic Era
 , the
 Jedi Temple of Luke Skywalker
 was constructed on
-[
-81
-]
 Ossus
-[
-82
-]
 with the goal of becoming a "great school" for future generations of students in the restored Jedi Order.
-[
-81
-]
 General perception
 [
 ]
@@ -945,181 +669,74 @@ Different traditions over time
 ]
 Compassion and non-attachment were regarded as essential to members of the Jedi Order
 With the galaxy changing as new threats emerged, the Jedi Order took on many forms and traditions over its life
-[
-44
-]
 in its mission to fight those threats.
-[
-20
-]
 As such, the particular way members of the Jedi Order interpreted the current form of its ideals impacted the way they interacted with the galactic population.
-[
-83
-]
 The High Republic Era was a time of greatly expanded Jedi activity, and the Order had many outposts throughout the galaxy.
-[
-84
-]
 The Galactic Republic relied heavily on their role as guardians of peace and justice, to settle disputes through peaceful ways, to protect planetary leaders and senators.
-[
-26
-]
 With the Republic's rapid expansion and the Order's role in protecting that effort, the Jedi also established many new temples across the Outer Rim, keeping the buildings in line with the planetary cultures they found themselves in.
-[
-29
-]
 With many Jedi living amongst these communities
-[
-85
-]
 through such temples
-[
-29
-]
 or while out on their mission, the Jedi learned local customs
-[
-86
-]
 and truly became part of the cultures
-[
-85
-]
 they protected.
-[
-86
-]
-By the time of the late Republic Era, the Order found itself shifting its focus more onto the galactic scale of the responsibilities required of the Order. In this era, the Jedi were more likely to focus on and spend their time on the galactic astropolitical scene and the bigger questions: stopping menaces, some before they even developed, and saving whole star systems at a time. Knowing that their decisions affected billions of lives, the Jedi Council regularly sent out Knights to report on the state of the various parts of the galaxy. However, as their duties amounted, several Jedi outposts were shut down to direct resources where the Republic needed the Jedi the most, and their withdrawal caused many people to abandon the settlements grown around the presence of the Order.
-[
-87
-]
+By the time of the late Republic Era, the Order found itself shifting its focus more onto the galactic scale of the responsibilities required of the Order.
+In this era, the Jedi were more likely to focus on and spend their time on the galactic astropolitical scene and the bigger questions: stopping menaces, some before they even developed, and saving whole star systems at a time.
+Knowing that their decisions affected billions of lives, the Jedi Council regularly sent out Knights to report on the state of the various parts of the galaxy.
+However, as their duties amounted, several Jedi outposts were shut down to direct resources where the Republic needed the Jedi the most, and their withdrawal caused many people to abandon the settlements grown around the presence of the Order.
 While
 Jedi Sentinels
 still existed and made it their duty to work with the everyday people of the galaxy,
-[
-5
-]
 Jedi Knights found it increasingly difficult to find time for personal interaction with the people of the galaxy, with many young Jedi often forgetting that concerns that seemed small on a galactic level were often huge for the individual. That was despite Master Yoda and other Council members' efforts to teach them to pay attention to the present and where they are. In effect,
-[
-87
-]
 the Jedi Order grew increasingly isolated from the galaxy at large, much to the concern of Jedi Master Qui-Gon Jinn, due to its shrinking number of outposts.
-[
-88
-]
 Focusing on galactic issues instead of remaining on a smaller scale, the Jedi thus were focused more and more on the future of the Republic. Secluded from the galaxy at large due to its headquarters on Coruscant,
-[
-88
-]
 the Jedi Order was left adrift, not only because of its isolation but also how it had become heedless of strange changes within the Force.
-[
-89
-]
 While the Jedi still cared about the galaxy,
-[
-87
-]
 the Jedi stayed locked away
-[
-85
-]
 in their shrinking number of temples,
-[
-87
-]
 instead of remaining a part of local communities as they had in the High Republic Era.
-[
-85
-]
 Jinn and Master Yoda feared that, since many people of the galaxy saw and interacted with Jedi Knights less and less, they might start to believe or could be made to believe that the Order ceased to care about them. What with many of the Order's other outposts being shut down while the Temple on Coruscant remained,
-[
-87
-]
 Jinn pondered if the Order's headquarters sitting on Coruscant was a problem, reasoning it made them look like Republic warriors. While Yoda warned him that the Council would not agree with his concerns about Coruscant, Jinn even feared the Jedi themselves could fall into that viewpoint and lose the true meaning of what it meant to be a Jedi.
-[
-52
-]
 During the High Republic Era, the Order and the Jedi Council enabled Jedi who were drawn to solitary action to become "
 Wayseekers
 "—Jedi who operated outside of the dictates of the Council
-[
-90
-]
 to instead follow the Force on their own terms.
-[
-91
-]
 Such a position was seemingly not permitted in the late Republic Era due to the defiance it showed towards the council.
-[
-92
-]
 Wayseekers were still bound to the values of the Order, so their abilities and skills could not be used in the pursuit of selfish concerns.
-[
-90
-]
 Although they were not eager to be
 soldiers
 ,
-[
-8
-]
 the Jedi many times found that other skills were not enough and so their role was to fight, indeed this was understood in the High Republic as a vital, though unfortunate role of a Jedi. They took military actions against the Sith,
-[
-29
-]
 lead soldiers against the Nihil,
-[
-93
-]
 and in the last years of the Republic reprised this office, became
 generals
 of the
 Republic Military
 and fighting in the Clone Wars.
-[
-20
-]
 Even after the fall of the Order, Jedi like Luke Skywalker and Rey fought the darkness as the edge of the powers that opposed tyranny.
-[
-94
-]
-[
-66
-]
 Letting go
 [
 ]
 "
-Strong passions are something we try to control within ourselves, as emotions can cloud our judgment, especially in stressful situations. They can blind us to the truth, and to the leading of the Force. That said, it would be foolish to suggest that a Jedi has no desires or interests. In fact, I would go so far as to say that it would be dangerous, leading only to complacency. Yes, I have a passion for learning and teaching. It is part of who I am. But I am also prepared to set such things aside at a moment's notice. My 'passions' must never be greater than my mission.
+Strong passions are something we try to control within ourselves, as emotions can cloud our judgment, especially in stressful situations.
+They can blind us to the truth, and to the leading of the Force.
+That said, it would be foolish to suggest that a Jedi has no desires or interests.
+In fact, I would go so far as to say that it would be dangerous, leading only to complacency.
+Yes, I have a passion for learning and teaching.
+It is part of who I am.
+But I am also prepared to set such things aside at a moment's notice.
+My 'passions' must never be greater than my mission.
 "
 ―Master Stellan Gios
-[
-95
-]
 To be a Jedi was to let go: friends would live and pass on, but a Jedi could not allow their connection to give way to uncontrolled grief.
 Jedi Knights of all eras adhered to the Jedi Code, however, there were debates on how to follow its doctrines,
-[
-48
-]
 and many Jedi developed their own personal understanding of them. One major concept was that of avoiding attachments, but different Jedi expressed different understandings of that rule.
-[
-96
-]
 Padawan
 Kevmo Zink
 explained that the overall idea behind avoiding attachments was inspired by the Jedi Order's mission to the Force; if a Jedi was truly expected to work for the good of the entire galaxy, they could not tie themself down with one attachment, such as a romantic relationship with another being.
-[
-97
-]
 If a Jedi did form such an attachment, the Order believed that the Jedi would not be as ready to spread the ideals of the light side across the galaxy because of the relationship, which the Order taught would be a distraction. It was hoped a Jedi Knight would only be bound to the Force and the Jedi Temple.
-[
-97
-]
 High Republic Era Jedi Master
 Stellan Gios
 explained that the Jedi tried to control their strong passions because the emotions one felt for those passions could cloud their judgement, particularly during a stressful moment. Still, he said it was wrong to deny that Jedi like himself had their own interests and desires; the task of a Jedi, he reasoned, was to not let those passions take control of their being.
-[
-95
-]
 As late Republic Era
 Rael Averross
 reasoned, the text of the
@@ -1131,29 +748,14 @@ Qui-Gon Jinn
 , Averross defended himself and pointed out how Jinn had made an actual violation of the Jedi Code in his past via a relationship with an
 individual
 , much to Jinn's pain. Jinn himself maintained fond memories of that past relationship despite having moved on to continue his life as a Jedi.
-[
-98
-]
 During the High Republic Era, according to Master
 Kantam Sy
 's viewpoint, there were many Jedi who twisted the notion non-attachment; to Sy, those who spoke of suppressing emotions, forsaking love and trying to numb themselves to discomfort were twisting Jedi teachings. Jedi like Sy and Grand Master
 Yoda
 taught non-attachment or detachment, just like love, was to let go of something or someone when the time called for it, instead of allowing oneself to be ruled by the need to possess.
-[
-96
-]
 Indeed, close friendships were respected and valued throughout the Jedi Order,
-[
-20
-]
 but a Jedi needed to understand they could lose those they cared for and thus would need to let go,
-[
-96
-]
 instead of letting their grief consume them.
-[
-20
-]
 That belief tied into the Jedi Order's beliefs on death; according to the Jedi, an individual became one with the Force upon death because they transferred into the
 Cosmic Force
 , which, in turn, generated the
@@ -1161,64 +763,21 @@ Living Force
 . As High Republic Era Jedi Master
 Obratuk Glii
 explained, he was still allowed to miss his former apprentices, but he knew they were still with him through the Force, generating a joy within him that his fellows had become part of the Force. Furthermore, he declared it meant he could not be scared of his own mortality.
-[
-99
-]
 As selfless defenders of peace and justice,
-[
-20
-]
 Jedi were also willing to lay down their own lives in defense of others
-[
-100
-]
 and did not fear death. Instead, a Jedi was supposed to always put the needs of other people before their own needs.
-[
-49
-]
 While Glii's commentary argued that Jedi could grieve to a certain degree so long as it did not consume them,
-[
-99
-]
-Padawan Matthea Cathley, who also lived during the High Republic Era, once thought to herself that Jedi did not grieve, but her thought was based in the understanding of not losing oneself to attachment over a deceased individual. Even then, she noted not grieving was hard in practice. Cathley also once claimed that Jedi did not get scared, but she later accepted that, like everyone, Jedi did indeed have fears and they needed to face them; as she put it, there was no shame in admitting when she was scared, but it was her duty to face whatever spawned that fear.
-[
-49
-]
+Padawan Matthea Cathley, who also lived during the High Republic Era, once thought to herself that Jedi did not grieve, but her thought was based in the understanding of not losing oneself to attachment over a deceased individual.
+Even then, she noted not grieving was hard in practice.
+Cathley also once claimed that Jedi did not get scared, but she later accepted that, like everyone, Jedi did indeed have fears and they needed to face them; as she put it, there was no shame in admitting when she was scared, but it was her duty to face whatever spawned that fear.
 The Jedi Order taught its members to move beyond what they feared to lose, ensuring a Jedi did not cling onto the present in an ever-changing galaxy.
 As such, a Jedi needed to be careful with their relationships
-[
-97
-]
 so as to not let attachment, and the naturally ensuing fear of losing those attachments, consume them.
-[
-20
-]
 It was not that a Jedi was not allowed to feel romantic love, as it was understood such feelings were natural, but a Jedi were not supposed to enter into a romantic relationship. It was essential for a Jedi Knight to make the right choice for the Order and not neglect their Jedi duties in the favor of their beloved, even if that would mean the end of the relationship.
-[
-101
-]
-[
-102
-]
 As Zink explained, a Jedi was able to use the Force to direct themselves through the tides of strong emotions and learn what the underlining motivations of those feelings were. With that, a Jedi would not be ruled by their passions, but instead could make tactical decisions with a better understanding of their own mindset.
-[
-97
-]
 For some outsiders, as such, the Jedi teaching on the matter often misinterpreted, believed the Jedi to be distant and seemingly unconcerned about the lives of those they were to protect
-[
-83
-]
 and that "love" was forbidden for a Jedi.
-[
-8
-]
 The actions of some emotionally distant Jedi Knights did little to help that misconception:
-[
-83
-]
-[
-51
-]
 during the days of the High Republic, a Jedi Knight saved the lives of a starship crew, including the young
 Axel Greylark
 , but needed to drag the badly injured boy away from
@@ -1226,56 +785,17 @@ his father
 , trapped under the rubble, thus leaving him behind. The Jedi told him that what happened was the will of the Force, something that left Greylark baffled. Years later, when he recounted the incident to Jedi Knight
 Gella Nattai
 and how the Knight later forgot his face, he concluded that one grieving boy in a galaxy full of them was nothing, but Nattai affirmed to Greylark that one grieving boy was everything.
-[
-51
-]
 Jedi of the High Republic Era displayed a great deal of emotional openness to those grieving
-[
-103
-]
 or upset
-[
-104
-]
 —showing it in actions like offering a hug.
-[
-103
-]
-[
-104
-]
 During the waning decades of the Republic, compassion was still meant to be central to a Jedi's life,
-[
-8
-]
 with the non-attachment rule defined in theory as someone not meant to fearfully grasp on things and beings in a
 universe
 ruled by change.
-[
-8
-]
-[
-101
-]
-[
-105
-]
-[
-106
-]
-[
-20
-]
 However, the actions of a Jedi appearing not to care could damage the entire Order's reputation
-[
-83
-]
 or result in that Jedi failing to help someone who needed support. Jedi Knight
 Iskat Akaris
 found a lack of support amongst the Jedi as she grappled with her insecurities during the late Republic Era.
-[
-107
-]
 During the Clone Wars, amid an
 incident
 on Coruscant in which the Jedi attempted to recapture the
@@ -1289,14 +809,8 @@ Trace
 and
 Rafa Martez
 —became orphans in the incident with the demise of their parents in the crash. The Jedi in question then failed to properly explain herself in a compassionate matter, trying to assure both that she had needed to make a choice but that the Force would still be with them, a phrase that meant nothing to the two girls.
-[
-83
-]
 For Luke Skywalker, surrendering to one's attachments was to forsake the ways of the Jedi Order.
 Luke Skywalker affirmed the Jedi Order's commitment to non-attachment since the early days of his efforts to rebuild it.
-[
-81
-]
 However, he also told his sister,
 Leia Organa
 , that she could still be
@@ -1304,35 +818,17 @@ married
 to
 Han Solo
 if she joined the Order.
-[
-108
-]
 Due to his unorthodox training in the Jedi arts, Skywalker sought to provide the next generation of Jedi with a more conventional path to knighthood.
-[
-63
-]
 As the last Jedi of his era,
-[
-76
-]
 Skywalker found comfort through adherence to the Jedi way, having largely isolated himself from his friends while rebuilding the Order.
-[
-82
-]
 In addition,
 the Armorer
 —a
 Mandalorian
 who was familiar with Jedi history—stated that the Jedi were required to sacrifice personal attachments in order to master the ways of the Force.
-[
-109
-]
 While in the process of training
 Grogu
 , Skywalker informed his apprentice that giving into attachments to those whom he loved was to forsake the way of the Jedi.
-[
-81
-]
 Views on the lightsaber
 [
 ]
@@ -1341,64 +837,24 @@ Indara chose to only draw her lightsaber as a last resort.
 I realized something. Something important. A Jedi isn't his lightsaber. A lightsaber is just a tool. A Jedi is someone who uses the Force to bring light to the galaxy. To protect people and push back darkness. That particular lightsaber… the one I lost… I don't need it. It was my father's… but I'm not sure how I feel about that anymore. I'm going to be a Jedi. Even if I never see that lightsaber again.
 "
 ―Luke Skywalker
-[
-110
-]
 During the history of the Jedi Order, the lightsaber considered to be the Jedi's only true ally in battle.
-[
-111
-]
 Beyond its existence as a weapon,
-[
-8
-]
-however, the lightsaber was a symbol of care to the Jedi; as explained by Jedi Knight Obi-Wan Kenobi, the blade represented the care with which they approached and wielded their gifts, further serving as a message to their opponents and representing something that needed great skill and training to wield. In choosing a rather limited weapon, Kenobi explained, the lightsaber was also the symbol of their role and duty as protectors, not destroyers. Further reasoned by Kenobi to be a tool that showed the Jedi could be more powerful but openly chose not to be, the lightsaber represented a Jedi's duty to stand tall against darkness.
-[
-112
-]
+however, the lightsaber was a symbol of care to the Jedi; as explained by Jedi Knight Obi-Wan Kenobi, the blade represented the care with which they approached and wielded their gifts, further serving as a message to their opponents and representing something that needed great skill and training to wield.
+In choosing a rather limited weapon, Kenobi explained, the lightsaber was also the symbol of their role and duty as protectors, not destroyers.
+Further reasoned by Kenobi to be a tool that showed the Jedi could be more powerful but openly chose not to be, the lightsaber represented a Jedi's duty to stand tall against darkness.
 While the phrase "this weapon is your life" was popular during the late Republic Era,
-[
-8
-]
-[
-113
-]
 a Jedi—as exemplified by the High Republic Era
-[
-114
-]
 and Kenobi's speech
-[
-112
-]
 —needed to be more than their lightsaber.
-[
-114
-]
 Indeed, after the Order's fall, Luke Skywalker came to realize that a Jedi was not their lightsaber and instead the duty he was tasked with was something beyond a single weapon. Faced with either needing to rescue his friend
 Leia Organa
 or continue looking for his lightsaber on
 Cloud City
 , Skywalker came to his decision and left to help his friend.
-[
-110
-]
 The High Republic Era saw a greater variance in lightsaber color than just green and blue lightsabers.
 The High Republic Era would also see a greater variance in lightsaber color
-[
-115
-]
-[
-116
-]
 and hilt design
-[
-117
-]
 than the Jedi of the late Republic. During the late Republic era, Jedi largely wielded blue or green lightsabers with simple silver hilts.
-[
-8
-]
 A shift in lightsaber design could be seen in the High Republic Era: the
 Nihil conflict
 saw the Jedi Order implement the
@@ -1406,29 +862,11 @@ Guardian Protocols
 and prepare for greater conflict, during which the High Council knew Jedi could lose their blade and be forced to quickly replace it. Rather than have Jedi spend time building elaborated hilts, the Council reasoned that speed and effectiveness was of the essence and that a ready supply of lightsabers was something the Order needed. As such, the Council ordered Jedi to only construct
 battle sabers
 , hilts with a simple design
-[
-117
-]
 like those seen in the late Republic Era.
-[
-8
-]
 Even then, Jedi active in the later High Republic Era still had a wider variance in lightsaber color
-[
-116
-]
 than the blue and green-filled Order of the late Republic.
-[
-8
-]
 While each individual Jedi built their own lightsaber as a youngling to their own specifications, allowing for a degree of individuality in hilt design even during the late Republic Era,
-[
-111
-]
 groupings of Jedi of that time were largely defined by cylindrical silver hilts of an overall similar design, with those hilts mainly producing green or blue blades.
-[
-8
-]
 Who gets to join
 [
 ]
@@ -1445,64 +883,34 @@ Then what makes a Jedi?
 That is something only you can answer.
 "
 ―Lohim Nara and Yoda during the High Republic Era
-[
-118
-]
 During the High Republic Era, when the young boy
 Lohim Nara
-spoke to Grand Master Yoda about his life-long desire to join the Order, he confessed that he had faked his Force-sensitivity and midi-chlorian count, but Yoda told the boy of how the Force was not the sole answer to what a Jedi was. Yoda spoke of how the Force existed in all life forms and how, if he wanted to be someone worthy of the name Jedi, he could not dwell on what he did not have. He also told the boy not to worry about being "too old" to become a youngling, stating that he was still learning at over six hundred years old. While Yoda seemed to admit the boy could not be a Jedi Knight due to his age, he noted that other professions helped the Order and offered him a role as a
+spoke to Grand Master Yoda about his life-long desire to join the Order, he confessed that he had faked his Force-sensitivity and midi-chlorian count, but Yoda told the boy of how the Force was not the sole answer to what a Jedi was.
+Yoda spoke of how the Force existed in all life forms and how, if he wanted to be someone worthy of the name Jedi, he could not dwell on what he did not have.
+He also told the boy not to worry about being "too old" to become a youngling, stating that he was still learning at over six hundred years old.
+While Yoda seemed to admit the boy could not be a Jedi Knight due to his age, he noted that other professions helped the Order and offered him a role as a
 guardian of the Temple
 after Nara realized he had a mentor in
 Reina Bilass
 .
-[
-118
-]
 Yoda served as a Jedi Master for centuries and thus was present to watch as the Jedi Order changed with the galaxy.
 However, later in its history, the Order proved reluctant but willing to bend their rules as the death of Jedi Master
 Qui-Gon Jinn
 and return of Sith convinced the Council to allow the young Anakin Skywalker to be trained, despite he was initially deemed too old.
-[
-26
-]
 Decades later, Yoda also chose to take Luke Skywalker as his apprentice after initially pointing out how old he was.
-[
-94
-]
 Alternatively, the Order of the High Republic also became a home for the young Force-sensitive
 Zeen Mrala
 , who did not train as a Jedi but became close to many Padawans and, despite Jedi regulations forbidding its members from engaging in romance, fell in love with Padawan
 Lula Talisola
 .
-[
-96
-]
 Despite not being a Jedi, she was welcomed to train with the Padawans and their masters, with Talisola's master Kantam Sy helping her to control her anger.
-[
-119
-]
 Later, in order to find and save Talisola, Mrala realized that she was willing to join the ranks of the Jedi despite her age, although her realization came from how she figured certain Jedi rules would be bent due to the evolving Nihil conflict.
-[
-96
-]
 The High Republic Era Order also maintained close ties with other Force orders, working as part of the
 Convocation of the Force
 on Jedha.
-[
-97
-]
 Through its ties to other orders, the Jedi brought rescued children who were "too old" to be trained as Jedi to Jedha, where they were taken in by other faiths.
-[
-51
-]
 In the late Republic Era, the Jedi continued to help orphans find new homes, but there were instances where they failed to do so because of local law
-[
-120
-]
 or their own non-attachment rule going so far it blurred the line between non-attachment and apathy, such as when a Jedi of the late Republic Era left Trace and Rafa Martez on their own after the deaths of their parents. Beyond those deaths being an indirect result of the Jedi's own actions, the Jedi's apparent lack of concern and the fact they simply left the two girls on their own created a distaste in both girls towards the Jedi Order, on whom they did not want to depend upon.
-[
-83
-]
 Leaving the Order
 [
 ]
@@ -1527,21 +935,12 @@ It is the weapon of a Jedi.
 Which is why keep it you must. More than a name, a Jedi is. More than a title. Strong in the Force, you are. Guide you, it will. Guide us all, it must.
 "
 ―Dooku speaks to Yoda about his decision
-[
-9
-]
 While Grand Master Yoda once declared in the late Republic Era that a Jedi leaving the Order was a failure on the Order's part to keep that Jedi where they belonged, Jedi were permitted to leave the Jedi Order whenever they so chose without punishment,
-[
-114
-]
 with Yoda accepting that fact, even if a Jedi leaving might sadden him. Should they feel it to be their calling, a former Jedi was even permitted to return to the Order. During the High Republic Era, one of Yoda's Padawans, Kantam Sy, walked away from the Jedi for over a year before returning when they met their soon-to-be Padawan
 Lula Talisola
 , who made Sy believe their place was with the Order. Jedi Master
 Cohmac Vitus
 was surprised Yoda would allow his Padawan to do a walkaway from the Order, but Sy believed Yoda knew it was necessary for them to find their place in the Order, with Sy at the time also thinking Yoda had seen it coming and thus was why he had held off on their Knighting.
-[
-96
-]
 Twenty Jedi Masters who departed the Order became known as the "
 Lost Twenty
 " and were commemorated by busts located in the
@@ -1549,21 +948,9 @@ Jedi Archives
 of the Temple. Yoda believed the Lost needed to be remembered and honored, which enabled the Jedi to learn from the failings that caused them to depart. Still, he advised the Jedi not to live in the past just because prior members had departed. The twentieth of the Lost was
 Dooku
 ,
-[
-121
-]
 a former Padawan of Yoda who departed over issues with the Jedi and Republic. Despite his departure, Dooku was allowed to visit the Temple on Coruscant,
-[
-122
-]
 continued to have access to its Archives,
-[
-123
-]
 and was even allowed to retain possession of his lightsaber, with Yoda reasoning being a Jedi was more than a title and thus the weapon would still be of use to him.
-[
-9
-]
 Public image
 [
 ]
@@ -1582,22 +969,10 @@ celebrities
 , and rightly so.
 "
 ―The Archivist
-[
-124
-]
 The Jedi were committed in their duty as guardians of the Republic, but had no desire to be celebrated as such.
 The Jedi Order was regarded as a mysterious organization throughout its history.
-[
-125
-]
 The Order was ingrained in the public consciousness of the galaxy as a result of its strong ties to the government of the Galactic Republic,
-[
-124
-]
 but was nonetheless inscrutable to the general public. However, those who encountered the Jedi were awed by their Force abilities.
-[
-125
-]
 Nevertheless, the Jedi were celebrities of their time, a status reflected by Jedi-themed
 holodramas
 as well as stories written about the Order.
@@ -1607,139 +982,58 @@ historian
 who studied Jedi lore prior to joining
 Crimson Dawn
 , believed that to most people the Jedi exemplified the moral virtues that were affiliated with the light side of the Force, making them both loved and hated by the galaxy that they served.
-[
-124
-]
 During the High Republic, the Jedi actively worked to be part of local communities
-[
-85
-]
 in addition to helping them.
-[
-86
-]
 However, the
 Path of the Open Hand
 cult spread its influence by claiming all who used the Force were violating the energy field from its freedom, claiming that each use of the Force to solve a problem created an equal or worse problem elsewhere.
-[
-126
-]
 The people of the planet
 E'ronoh
 were divided on the Jedi, with some believing they were miracle workers while others looked down on the Order as a group of Republic-backed outsiders. The arrival of the Path galvanized anti-Jedi sentiment on E'ronoh.
-[
-51
-]
 The Path would, in time, evolve into the militant
 Path of the Closed Fist
 that hoped to war with the Jedi.
-[
-49
-]
 Open Hand-adherent Path members
-[
-114
-]
 and the Path's descendant movement,
-[
-127
-]
 the
 Elders of the Path
 ,
-[
-128
-]
 maintained their
 anti-Jedi sentiment
 .
-[
-114
-]
-[
-128
-]
 Open Hand
 Elder
 Yulon Onning
 abandoned the Closed Fist yet still hoped to see it triumph over the Jedi, whom he continued to see as "filth" and a group whose defeat would be a victory for the Open Hand.
-[
-114
-]
 In the end, the Closed Fist would be succeeded by the
 Nihil
 ,
-[
-49
-]
 a group of marauders who waged war with the Jedi and Republic in their name of securing what they saw as their true freedom.
-[
-29
-]
 In most situations, the Jedi were meant to lead rebuilding efforts after a battle had brought damage. However, the Holy Moon of Jedha presented an interesting case after the
 Battle of Jedha
 :
-[
-49
-]
 in the past, the Jedi had once governed—and, in the opinion of some, "ruled over"—Jedha City
-[
-129
-]
 until the other religions who considered Jedha holy objected, believing that the Jedi were trying to depict themselves as the one true faith. The Jedi agreed to step down from their control,
-[
-49
-]
 but lingering
 anti-Jedi sentiment
 remained,
-[
-129
-]
 with one Jedha citizen once accusing the Jedi of always trying to control their lives.
-[
-130
-]
 That lingering anti-Jedi sentiment was used by the Path of the Open Hand to help bring the Battle of Jedha into being
-[
-49
-]
 in
 382 BBY
 .
-[
-18
-]
 After the battle, it was decided the
 Guardians of the Whills
 would serve as a steadying hand in the rebuilding effort instead of the Jedi because of still-lingering mistrust towards the Order on the part of Jedha citizens.
-[
-49
-]
 Public discontent with the Galactic Senate led to manifestations of anti-Jedi sentiment during the late Republic Era.
-[
-131
-]
 As an extension of the Galactic Republic's
 Judicial Department
 , the Jedi Order was subject to the authority of the Senate,
-[
-21
-]
 and therefore, considered an instrument of the government's will. This belief was held both within the Senate
-[
-132
-]
 and without;
-[
-131
-]
 Senator
 Dagonet
 said that the Jedi served the Senate,
-[
-132
-]
 and
 Semage
 of
@@ -1749,17 +1043,8 @@ Katri
 who was
 killed
 by Semage and his guards.
-[
-131
-]
 Jedi Master Dooku became disenchanted with both the Senate and the Order, claiming that the Jedi served a "corrupt Senate" that had "failed the Republic"
-[
-123
-]
 in contrast to his former belief that the Jedi were servants of the Republic and its people.
-[
-132
-]
 Clone War anti-Jedi views
 [
 ]
@@ -1784,9 +1069,6 @@ you have not
 .
 "
 ―The Archivist
-[
-124
-]
 It is requested that this article section
 be expanded
 .
@@ -1800,91 +1082,53 @@ propaganda
 . This idea was discouraged by Supreme Chancellor Sheev Palpatine, who noted the Jedi's discomfort with their new role as generals in the Republic Military. COMPOR therefore focused its propaganda on the
 clone troopers
 who served under the Jedi's command, and as such the Jedi's contributions to the Republic war effort went largely unnoticed.
-[
-125
-]
 Anti-Jedi sentiment grew as a result of the Order's involvement in the Clone Wars.
 The Jedi Order was vilified during the Clone Wars by elements within both the Republic and the Confederacy. The Separatists
-[
-125
-]
 —while, in total truth, being proponents of slavery at the secret direction of
 Count
 Dooku
-[
-133
-]
 —accused the Jedi of hypocrisy, claiming that the Order supported the Republic's inhumane practice—as portrayed through Separatist propaganda—of using clones as a "
 slave
 army
-." The Separatists' portrayal of the Jedi largely succeeded in maligning their character in the eyes of the public, as few in the Confederacy knew that the Order was not given a choice in the matter. It was the Order's preference to not be used as icons of heroism, having long resisted attempts at romanticizing the Jedi, especially for the purpose of wartime propaganda. The Jedi, therefore, were mostly absent from galactic culture, which allowed anti-Jedi sentiment to grow from preconceptions instead of a genuine rebuttal of the Order's practices. The Separatists were convinced that the Order neglected their worlds, forcing them to secede from the Republic. Separatist civilians conflated the Order with the
+." The Separatists' portrayal of the Jedi largely succeeded in maligning their character in the eyes of the public, as few in the Confederacy knew that the Order was not given a choice in the matter.
+It was the Order's preference to not be used as icons of heroism, having long resisted attempts at romanticizing the Jedi, especially for the purpose of wartime propaganda.
+The Jedi, therefore, were mostly absent from galactic culture, which allowed anti-Jedi sentiment to grow from preconceptions instead of a genuine rebuttal of the Order's practices.
+The Separatists were convinced that the Order neglected their worlds, forcing them to secede from the Republic.
+Separatist civilians conflated the Order with the
 Core Worlds
 ' reputation for cultural elitism, and some even viewed the Jedi as "
 evil
 " and a fanatical sect of "warmongers." The historian
 Janyor
 theorized that such misconceptions of the Jedi could have been averted if the Order had been more engaged with the populace.
-[
-125
-]
 Anti-Jedi sentiment was openly espoused by the Republic's successor, the
 Galactic Empire
 .
-[
-125
-]
 The self-proclaimed
 Galactic Emperor
 Sheev Palpatine accused the entire Order of
 treason
 , maligning the Order's reputation
-[
-50
-]
 after several members of the High Council, having discovered his true identity as a Sith, attempted to
 arrest the chancellor
 .
-[
-20
-]
 Palpatine squarely blamed the Jedi for recent troubles
-[
-134
-]
 and accused them of using their "mystical powers" to cause the Clone War
-[
-124
-]
 in order to secure power.
 Grand Vizier
 Mas Amedda
 publicly
 denounced
 the Order as a symbol of fear and referred to the Order's downfall as the beginning of a new "age of freedom."
-[
-135
-]
 With the exception of individuals like Lyra Erso, the Order was effectively forgotten by the galaxy during the early days of the
 Imperial Era
-[
-50
-]
 as the Empire quickly moved to cover up its existence.
-[
-124
-]
 Despite the
 Alliance to Restore the Republic
 largely having pro-Jedi views,
-[
-136
-]
 its individual members were not immune to the era's bias, with soldier
 Reyé Hollis
 believing stories he heard of the Jedi being ineffective fools who stole glory for themselves.
-[
-137
-]
 Collapse in public opinion
 [
 ]
@@ -1893,36 +1137,21 @@ Aren't you a bit busy with your war to be bothering with the likes of us?
 "
 ―
 Tiggs Leo
-[
-138
-]
 In general, Republic citizens were unaware of the Order's motives for fighting in the Clone Wars. To some individuals,
-[
-125
-]
 such as the Mandalorian
 Duchess
 Satine Kryze
-[
-102
-]
 or the
 Coruscanti
 civilian
 Letta Turmond
 , the Jedi had forsaken their principles as peacekeepers by becoming military leaders and battlefield warriors.
-[
-139
-]
 Tee Watt Kaa
 , the head of a
 Lurmen village
 on
 Maridun
 , rejected the argument that the Jedi were peacekeepers, a function that he believed was incompatible with the Order's participation in the Clone Wars.
-[
-106
-]
 A committed, to the death, pacifist, Kaa was unwilling to compromise his views, refusing to permit the other
 Lurmens
 to defend their village against the
@@ -1934,74 +1163,26 @@ extermination
 by General
 Lok Durd
 .
-[
-140
-]
 When the Jedi became military generals during the last years of the Republic, many took them as warmongers who had abandoned their peacekeeping mission.
 At the height of the Clone Wars, people throughout the galaxy regarded the Jedi as warmongers, particularly in territories controlled by the
 Confederacy of Independent Systems
 . However, most beings did not know that the Order went to war to honor its commitment to protect the Senate, the Republic,
-[
-125
-]
 and the galaxy at large.
-[
-141
-]
 Nevertheless, the Clone Wars caused civilians
-[
-142
-]
 like Turmond
-[
-139
-]
 and the Martez sisters to lose faith in the Order.
-[
-143
-]
 Rafa Martez and her sister, Trace Martez, faulted the Order for the deaths of their parents when a Jedi had redirected a transport from a platform of people, only for it to hit their apartment. With the Jedi seemingly uncompassionate towards their plight, the sisters found themselves left alone and with anger at the Jedi.
-[
-83
-]
 While Separatists were opposed to the Jedi due to their allegiance with the Republic, with many of
 Lux Bonteri
 's friends blaming the Jedi for the bloodshed of the Clone Wars,
-[
-144
-]
 the citizens of the Republic would turn on the Jedi due to losing faith in their Order. To the public, the Jedi looked like a force who seemed more interested in playing politics
-[
-142
-]
 or waging war
-[
-138
-]
 than helping those in danger
-[
-142
-]
 or need.
-[
-145
-]
 Indeed, in focusing on the Clone Wars, the Jedi had less time to aid the people of the Republic they were meant to protect.
-[
-138
-]
 Trace Martez thought of the Jedi as a police force who started the war and had forgotten about the less well off citizens of Coruscant.
-[
-145
-]
 While a concern about the political ramifications of their actions could be seen in the late High Republic Era,
-[
-146
-]
 former Jedi Ahsoka Tano believed that the Jedi of the Clone Wars era had overwhelmingly tied themselves to the Republic's political state, with Tano herself only regaining her faith in the Jedi when she was reminded of how important the Order could be when it helped those in need. Even then, she made sure to criticize what she regarded as political chess playing on the Order's part when again confronted by it.
-[
-142
-]
 Late Republic pro-Jedi views
 [
 ]
@@ -2012,30 +1193,22 @@ But at what cost? It's like you once said. Many lives get caught between the Rep
 I did say that once, but after watching the heroics and selflessness of the Jedi, I do believe the Republic is the right side to be on.
 "
 ―Ahsoka Tano and Lux Bonteri
-[
-147
-]
 Lyra Erso was a spiritual woman who supported the Jedi Order out of reverence of the Force.
 Prior to the Clone Wars, the people of the Galactic Republic kept faith with the Jedi Order
-[
-148
-]
 that had acquitted itself through a thousand years of loyal service.
-[
-21
-]
 Lyra Erso
 , the
 wife
 of
 Doctor
 Galen Walton Erso
-, supported the Order's views on charity, compassion, and peace. Erso's support for the Order was rooted in her faith in the Force, which evolved from her lifelong love of nature, and her belief in the concepts of good and evil. The Force, as Erso viewed it, was the epitome of perfection and good. During the Clone Wars, Erso believed that the Order was the Republic's best defense against the "powers of evil." Erso also admired the Jedi Temple on Coruscant for its elegance and location on a Force nexus. She often exercised on the Temple grounds prior to the Clone Wars; after the conflict began, however, Erso noticed a changed atmosphere at the now heavily patrolled
+, supported the Order's views on charity, compassion, and peace.
+Erso's support for the Order was rooted in her faith in the Force, which evolved from her lifelong love of nature, and her belief in the concepts of good and evil.
+The Force, as Erso viewed it, was the epitome of perfection and good.
+During the Clone Wars, Erso believed that the Order was the Republic's best defense against the "powers of evil." Erso also admired the Jedi Temple on Coruscant for its elegance and location on a Force nexus.
+She often exercised on the Temple grounds prior to the Clone Wars; after the conflict began, however, Erso noticed a changed atmosphere at the now heavily patrolled
 temple district
 , which made the area virtually inaccessible to the public with the exception of individuals who carried high security clearance.
-[
-50
-]
 Erso's
 pregnancy
 was the closest she felt to experiencing the Force in the way that she imagined the Jedi's connection to it—an incomprehensible and "profound connection with life." She recognized the Force as the source of the Jedi's power, granting them abilities that far exceeded Erso's strengths and intuition. However, she comforted herself with the belief that while she could not use the Force as the Jedi could, she was able to sense it nonetheless. In the aftermath of the
@@ -2045,25 +1218,13 @@ Great Jedi Purge
 , refusing to believe that the Jedi betrayed the Republic. Whereas the public generally accepted the deaths of thousands of Jedi, largely out of relief over the end of the Clone Wars, Erso was heartbroken by the Order's destruction and cried for
 hours
 as a result, an experience she likened to the loss of a family member. Despite the eradication of the Order, Erso continued to believe in the Jedi whose principles influenced her sense of morality.
-[
-50
-]
 Though a former Separatist, Lux Bonteri grew to see the Jedi as heroes for their role in the liberation of Onderon.
 In addition to Erso,
-[
-50
-]
 the Jedi's deeds won the respect and admiration of individuals who worked closely with the Order, such as
 Cham Syndulla
-[
-149
-]
 and
 Lux Bonteri
 .
-[
-147
-]
 During the
 Battle of Ryloth
 of the Clone War, Syndulla was initially hesitant to accept the Order's offer of an alliance between the
@@ -2073,9 +1234,6 @@ Twi'lek Resistance
 , knowing that the Republic would occupy
 Ryloth
 in the battle's aftermath.
-[
-150
-]
 Ultimately, though, Syndulla developed a newfound respect of the Jedi for their role in the liberation of his homeworld, particularly
 Jedi General
 Mace Windu
@@ -2084,15 +1242,9 @@ Twi'leks
 honored in songs dedicated to the liberation of their
 homeworld
 .
-[
-149
-]
 Bonteri worked with the Order during the
 Onderonian Civil War
 ,
-[
-147
-]
 having joined the
 Onderon rebels
 after his
@@ -2103,15 +1255,9 @@ Mina Bonteri
 , was
 assassinated
 at the behest of Count Dooku.
-[
-151
-]
 By training and fighting alongside the Onderon rebels, the Jedi changed Bonteri's views on the Republic and the Order. Inspired by the selflessness and heroism of the Order, Bonteri vowed to restore the union between
 Onderon
 and the Republic.
-[
-147
-]
 History
 [
 ]
@@ -2122,38 +1268,20 @@ Ancient times
 For over a thousand generations the Jedi Knights were the guardians of peace and justice in the Old Republic. Before the dark times. Before the Empire.
 "
 ―Obi-Wan Kenobi
-[
-45
-]
 The Jedi Order began with the Prime Jedi a thousand generations before the Battle of Yavin.
 The precursors of the Jedi were the
 Dai Bendu
 ,
-[
-152
-]
 but the Jedi Order itself was founded in the distant past on planet Ahch-To by the Prime Jedi
-[
-14
-]
 in
 25,025 BBY
 .
-[
-15
-]
 According to the legend,
 Force-imbued swords
 were used prior to invention of the lightsaber by the earlier Force adepts and the Jedi Order.
-[
-153
-]
 At the dawn of their order, the Jedi came into possession of Ilum, an ancient planet encased in
 ice
 and littered with kyber crystals, the heart of the Jedi lightsaber. Considered the Jedi Order's most sacred world, its ancient Temple would eventually host the Gathering, a tradition that would continue up until the fall of the Order.
-[
-55
-]
 As the Jedi were spread throughout the galaxy, they acquired a vessel called the
 Crucible
 that would ferry students to Ilum so that they could perform the Gathering. It would become the base of the
@@ -2164,28 +1292,13 @@ Huyang
 , for over a thousand
 years
 as he instructed on lightsaber designs and kept records of every single Jedi weapon created.
-[
-34
-]
-[
-154
-]
 During this early period, the Order also established itself on Ossus, Jedha,
 Xenxiar
 , and other worlds.
-[
-155
-]
 Later, some Jedi
 scholars
 argued that a number of locations could be considered the birthplace of the Order. The scholars argued that Coruscant, Jedha, and Ossus as well as worlds shrouded in myth, such as Tython and Ahch-To could all be considered candidate worlds for the Order's birth and the location of the first Jedi temple.
-[
-6
-]
 The Jedi religion, as it was called by Luke Skywalker,
-[
-19
-]
 was based around eight "sacred texts" that "describe tenets, history, and specific guidance to those studying the path of the Jedi." These texts included the
 Rammahgon
 and the
@@ -2201,19 +1314,10 @@ Odan-Urr
 , annotated even the sacred texts. Much was added to the Jedi canon over time, giving rise to the belief that the
 Aionomicum II
 doubled in size during its compilation.
-[
-66
-]
 The fortunes of the Jedi waxed and waned over the centuries; multiple times throughout its long history, the Order had been reduced to a mere handful of adherents.
-[
-29
-]
 At some point prior to around
 20,000 BBY
 ,
-[
-156
-]
 a Jedi sect known as the
 Ordu Aspectu
 broke off from the Jedi Order. Led by the enigmatic
@@ -2227,76 +1331,37 @@ peace treaty
 . The treaty allowed the Ordu Aspectu to continue their research but under Jedi scrutiny. During his experimentation, Rur attempted to copy his intellect into his
 citadel's
 computer core, only to accidentally transfer his very sentience as well. When the Jedi sought to investigate the computer closer
-[
-12
-]
 around 20,000 BBY,
-[
-156
-]
 the computer activated the citadel's security droids,
 killing all members
 of the Ordu Aspectu and Jedi alike; but not before it was deactivated by Rur and Amon before they died themselves, thus ending the Ordu Aspectu.
-[
-12
-]
 The Hundred-Year Darkness saw a schism within the Jedi Order, with the followers of the dark side becoming known as the Sith.
 The Sith and the Jedi were once considered "brothers" in the Force prior to the
 Hundred-Year Darkness
 , from which the Sith Order was born.
-[
-75
-]
 A
 rogue Jedi
 had come to believe that the true power of the Force lay not in contemplation and passivity,
-[
-13
-]
 and instead sought abandon and strength through the dark side of the Force.
-[
-157
-]
 The Jedi High Council at the time balked at this new direction, and the fallen Jedi was cast out of the Order's ranks. In spite of his banishment, the outcast gained followers to his new order. The power-hungry
-[
-13
-]
 Sith sought to control the galaxy and opposed the Jedi, against whom they waged a series of wars which brought destruction to many worlds, including the Sith homeworld of
 Moraband
 , which the Sith were eventually forced to abandon.
-[
-158
-]
 On another occasion, the Jedi Order and the Sith fought a
 battle
 on the planet
 Takodana
 .
-[
-159
-]
 These wars also saw the construction of ancient
 superweapons
 powered by giant kyber crystals which possessed the power to destroy entire planets. These weapons, along with the crystals, were destroyed and a thousand years later believed by many Jedi to be merely legends.
-[
-160
-]
 About five-thousand years before the
 Battle of Yavin
 ,
-[
-71
-]
 the Order eventually came to be headquartered at Coruscant, wherein they built a Temple that would pose as their main hub for thousands of generations.
-[
-161
-]
 Underneath the structure lay buried an ancient
 Sith shrine
 , the inherent power of which was believed by the contemporary Jedi to have been neutralized and successfully capped. In truth, that power had seeped upward and outward since its entombment, infiltrating the hallways and rooms above, and weakening the Jedi Order for millennia without their knowledge.
-[
-71
-]
 The Jedi Knights protected the galaxy as the guardians of peace and justice since the time of the Old Republic.
 It was during this time that the Jedi Order came into the service of what would be later called the Old Republic. Promising to uphold its ideals, the Jedi fought to maintain peace and freedom. When the Old Republic outlawed slavery, the Jedi set about to free those held, notably under the
 Zygerrian Slave Empire
@@ -2305,15 +1370,6 @@ Zygerrians
 , whose economic success had resulted from enslaving beings from all corners of the galaxy before selling them at auctions. The Jedi Order managed to put an end to their practices, destroying their empire and exiling them to their homeworld,
 Zygerria
 . The Zygerrians developed a fierce hatred for the Jedi as a result.
-[
-133
-]
-[
-162
-]
-[
-163
-]
 Conflicts
 also arose between the Jedi and the inhabitants of the world of
 Mandalore
@@ -2322,16 +1378,10 @@ Pre Vizsla
 's ancestors stole the
 Darksaber
 .
-[
-30
-]
 Though defeated by the Jedi, the Sith would survive for centuries as a result of Darth Bane's reforms.
 Prior to
 1032 BBY
 ,
-[
-164
-]
 the galaxy entered an era known as the
 Dark Age
 . During this time the
@@ -2341,59 +1391,26 @@ attacked
 and captured Coruscant and with it the Jedi Temple. Towards the end of the war the Jedi reclaimed the Republic capital and their temple during the
 liberation of Coruscant
 .
-[
-125
-]
 Even as the Old Republic collapsed, the Jedi emerged victorious from their wars with the Sith.
-[
-125
-]
 In their constant thirst for power, the Sith had weakened themselves through infighting,
-[
-158
-]
 which allowed the Jedi to defeat the weakened Sith.
-[
-165
-]
 Unbeknownst to the Jedi at the time,
 Darth Bane
 remained as the sole surviving
 Dark Lord of the Sith
 . As a result of the infighting that weakened the Sith,
-[
-158
-]
 Jedi Knights
-[
-166
-]
 were able to
 defeat
 the Sith at
-[
-71
-]
 the
 Mid Rim
 planet
-[
-167
-]
 Ruusan
-[
-168
-]
 This confrontation nearly destroyed the ancient Sith Order,
-[
-165
-]
 and forced the Sith to go into
 hiding
 .
-[
-71
-]
 After this, Bane established the
 Rule of Two
 , declaring that the Sith thenceforth would consist of a
@@ -2401,23 +1418,11 @@ Sith Master
 and a
 Sith apprentice
 .
-[
-165
-]
 Bane's Rule of Two was discovered by the Jedi,
-[
-169
-]
 but, as recounted by an imprint of later Jedi
 Elzar Mann
 , the Jedi Order believed they ended Bane's rule.
-[
-170
-]
 His death falsely convinced his enemies that the Sith had truly died out.
-[
-169
-]
 Keepers of the peace
 [
 ]
@@ -2434,52 +1439,28 @@ I just didn't realize the Jedi ever had an official presence so far from the Cor
 It's probably High Republic Era. It was a time of greatly expanded Jedi activity throughout the galaxy.
 "
 ―Luke Skywalker and Lor San Tekka
-[
-76
-]
 The Jedi Order reached its zenith of power in the High Republic Era.
 The formation of the modern Galactic Republic heralded a new era of democracy, peace, and prosperity under the Galactic Senate and its elected leader, the Supreme Chancellor.
-[
-125
-]
 Due to the Galactic Republic's demilitarization, the Jedi Order fully embraced their responsibilities as peacekeepers and rejected their roles as soldiers. Assisted by the Republic
 Judicials
 , the Jedi were responsible for maintaining law and order, namely by mediating conflicts to bring about peaceful solutions between various rival factions and planets,
-[
-71
-]
 as well as serving as interplanetary law enforcement by pursuing wanted and dangerous criminals,
 pirates
 , and
 smugglers
 . While they ultimately collapsed, the Galactic Republic and the Jedi Order were able to preside over a thousand years of peace sustained without major warfare.
-[
-2
-]
 One of their philosophical sayings was "
 the simplest gesture of kindness can fill a galaxy with hope.
 "
-[
-171
-]
 In approximately
 319 BBY
 ,
-[
-172
-]
 a copy of a third volume of the
 Aionomica
 was put forth. Though the existence of
 Aionomicum III
 had been rumored, this volume was later found to have been forged, causing a scandal.
-[
-66
-]
 The Republic reached the zenith of its power and influence in a time remembered as the High Republic Era. During that time, the Republic relied heavily on the Jedi Order to render aid and settle disputes through peaceful methods.
-[
-21
-]
 The Jedi worked alongside the Republic in its effort to expand into the
 Outer Rim Territories
 , believing it also presented a chance to meet new groups and let them know they could rely on the Jedi for help. However, an
@@ -2489,19 +1470,10 @@ Rod of Seasons
 brought the Jedi into conflict with the Path of the Open Hand cult, which sought to use members of the
 Nameless
 species against Force users in the name of "freeing" the Force.
-[
-97
-]
 The Jedi Order fought in
-[
-129
-]
 the
 Republic-Togruta conflict
 .
-[
-95
-]
 Defeating the Path
 [
 ]
@@ -2511,9 +1483,6 @@ The Night of Sorrow is over, but the brave warriors who fell will not be forgott
 As stars are born and die, so does time move forward. Relentlessly so. And yet we fight. We will never stop fighting for the light and life in this galaxy.
 "
 ―Master Creighton Sun speaks after the Battle of Dalna
-[
-114
-]
 Padawan
 Sav Malagán
 fought alongside
@@ -2522,70 +1491,34 @@ Maz Kanata
 's crew during the
 Battle of Jedha
 ,
-[
-173
-]
 a conflict instigated by the Path. Several Jedi teams investigating the Path converged on Dalna, where the
 Battle of Dalna
 exploded into being. The conflict had such a high death count it would devolve
-[
-114
-]
 into massacre arguably caused by Republic and Jedi's close connection.
-[
-174
-]
 All the same, much of the death was caused by the Path, which reformed into the war-like Path of the Closed Fist. During the battle, they also released Nameless that proved highly effective against the Jedi.
-[
-114
-]
 Nonetheless, many
 Dalnans
 held the Jedi responsible for the massacre they remembered as the "Night of Sorrow."
-[
-175
-]
 At the time, however, the defeat of the Path was seen as proof of the benefits of Jedi-Republic partnership; as reasoned by former Supreme Chancellor
 Kyong Greylark
 , current Chancellor
 Orlen Mollo
 , and Master Yoda, the Path's defeat was only possible thanks to the work between both organizations, with their alliance a strength they believed the galaxy could call on for centuries to come.
-[
-114
-]
 After the battle, Yoda and Jedi Master
 Creighton Sun
 also agreed to cover up all information on the Nameless, including keep details on the creatures out of the Jedi Archives, until they learned more about the mysterious threat.
-[
-114
-]
 However, one Jedi who encountered the effects of the Nameless,
-[
-176
-]
 Azlin Rell
 , abandoned the Order and attempted to learn more about the creatures. Driven mad from his fear and falling to the dark side, Rell still heard the song
 Shrii ka rai ka rai
-[
-117
-]
 from his encounter with the Nameless on Dalna
-[
-176
-]
 and kept the secrets he learned tucked away, yet still lost due to his insanity, in his mind.
-[
-117
-]
 Conflict with the Nihil
 [
 ]
 Even though some of its members would come to question whether it was right to do so, with Jedi like
 Cohmac Vitus
 remembering the massacre on Dalna as proof that the Republic and Jedi could not always act as one force,
-[
-174
-]
 the Jedi continued to work closely with the Republic, with each organization respecting the strengths of the other. Thus, the Jedi aided the
 Republic Defense Coalition
 and—through their outposts built to explore and help people in the wild portions of the Outer Rim—became the only group upholding justice in the Outer Rim Territories before the
@@ -2593,9 +1526,6 @@ dedication of the Starlight Beacon
 . During the era, the Order's understanding of the Force was expanded thanks to the actions of Jedi Knight
 Elzar Mann
 , who liked to "experiment" with his Force techniques in ways that sometimes failed. Even though he never attempted such actions when lives were at stake, his experiments often meant he worked alone.
-[
-29
-]
 Despite the High Republic's supposed peace, the Jedi were suddenly faced with a crisis during the
 Great Hyperspace Disaster
 in the
@@ -2617,40 +1547,19 @@ Nihil
 family
 , and an
 artifact
-[
-29
-]
 that controlled a being known as the
 Great Leveler
 ,
-[
-95
-]
 which was a member of the Nameless species
-[
-177
-]
 and thus could overwhelm Jedi and other Force-sensitives.
-[
-95
-]
 The Nihil disrupted the peace of the High Republic Era by waging a conflict with the Jedi Order and the Galactic Republic.
 While Ro was not one to share details on what had exactly happened,
-[
-95
-]
 his ancestors,
 Yana Ro
 and
 Marda Ro
 , had been part of the Path,
-[
-49
-]
 who were remembered as "the faithful" by later Ros. As the Ros later remembered, the Path fought the Jedi because of their differing opinions on "balance" and believed the Jedi were leading the galaxy towards its destruction. However, the Path was beaten back, with their religion mostly falling out of favor as time went by.
-[
-95
-]
 Inheriting the family goal of revenge and the title of "Eye" after his father
 Asgar
 was murdered, Ro plotted to reform the Nihil raiders into a unified force he could use for his ends and to beat back the expanding Republic. Additionally, the remains of the
@@ -2663,9 +1572,6 @@ hyperspace routes
 and making the Jedi Council realize the Jedi would be needed in the Outer Rim more than normal. In time, the Order began to battle the Nihil, only for Ro to cement his control over the raiders after the
 Battle of Kur
 .
-[
-29
-]
 The Republic underestimated the Nihil until the massive
 attack on Valo
 , where the raiders cut down Jedi and civilian alike amid the
@@ -2675,32 +1581,21 @@ Battle of Grizal
 , Ro unleashed the Great Leveler, which petrified Jedi Master
 Loden Greatstorm
 ,
-[
-95
-]
 leaving the Jedi to realize their enemy had a weapon they did not yet understand.
-[
-178
-]
-The Republic and Jedi Order grew closer during the Nihil conflict, with Soh and her aides even continually trying to become part of the Jedi High Council's meetings. As debate on how involved with the Republic they needed to become spread across the Order, many Jedi expressed worry that the Order's focus was at risk of moving to politics and war. Vitus was one such Jedi who questioned how much the Order actually owed the Republic, even though he agreed the Nihil were a serious threat, while his Padawan
+The Republic and Jedi Order grew closer during the Nihil conflict, with Soh and her aides even continually trying to become part of the Jedi High Council's meetings.
+As debate on how involved with the Republic they needed to become spread across the Order, many Jedi expressed worry that the Order's focus was at risk of moving to politics and war.
+Vitus was one such Jedi who questioned how much the Order actually owed the Republic, even though he agreed the Nihil were a serious threat, while his Padawan
 Reath Silas
 saw both sides to the debate.
-[
-174
-]
 Starlight Beacon was destroyed during the conflict between the Jedi Order and the Nihil.
-As the conflict and bloodshed carried on across the Galactic Frontier, more and more Jedi fell in battle against the Nihil, who the Jedi came to see were ruthless enemies who lacked any form of honor. Many Jedi had trouble adapting to the newly war-torn Outer Rim they needed to serve in. With it even coming to seem like acting only as peacekeepers was a recipe for defeat, Vitus came to believed the galaxy had grown to become a different place than the type the Jedi Order was made for and refused to finch in battle.
-[
-96
-]
+As the conflict and bloodshed carried on across the Galactic Frontier, more and more Jedi fell in battle against the Nihil, who the Jedi came to see were ruthless enemies who lacked any form of honor.
+Many Jedi had trouble adapting to the newly war-torn Outer Rim they needed to serve in.
+With it even coming to seem like acting only as peacekeepers was a recipe for defeat, Vitus came to believed the galaxy had grown to become a different place than the type the Jedi Order was made for and refused to finch in battle.
 After Ro unleashed more Nameless during the
 destruction of Starlight Beacon
 , the Jedi Order's reputation took a hit when it ordered a mass recall of its members back to Coruscant; while Grand Master
 Pra-Tre Veter
 argued the Jedi needed to retreat until they could learn how to fight the Nameless, some Republic officials took it as the Jedi running away in fear.
-[
-179
-]
 Beginning of the end
 [
 ]
@@ -2712,22 +1607,13 @@ Do you think the Jedi will truly keep peace if they continue to take everything 
 Dooku
 and
 Mace Windu
-[
-131
-]
 Premonitions of a galactic conflict caused Jedi Master Sifo-Dyas to commission the creation of a clone army.
 Prior to the
 Invasion of Naboo
 , Jedi Master
 Sifo-Dyas
 served on the Jedi High Council until he was removed from its ranks for advocating the mobilization of a Republic Military to defend the galaxy.
-[
-180
-]
 Through the Force, Sifo-Dyas predicted a galactic conflict but the High Council at the time considered his views radical.
-[
-181
-]
 Certain in the accuracy of his
 Force visions
 , Sifo-Dyas secretly commissioned the inhabitants of
@@ -2735,19 +1621,10 @@ Kamino
 to
 grow
 an army of clone soldiers
-[
-180
-]
 —
 genetically engineered
 for growth acceleration and increased docility
-[
-8
-]
 —for the Republic. Unbeknownst to Sifo-Dyas, however, his plan factored into the designs of the Sith.
-[
-180
-]
 For a
 millennium
 , generations of
@@ -2759,13 +1636,7 @@ Darth Plagueis
 , was the culmination of the
 Grand Plan
 that would see the Sith returned to a position of dominance over the galaxy.
-[
-169
-]
 After serving as an unwitting pawn for the Sith, Sifo-Dyas was betrayed by his childhood friend,
-[
-9
-]
 the Jedi Master
 Count
 Dooku, who had him
@@ -2773,26 +1644,14 @@ assassinated
 by the
 Pyke Syndicate
 at the behest of Sidious.
-[
-180
-]
 Disillusioned with the Jedi Order, yet also ambitious for power, Dooku rejected the light side and became a Sith Lord, adopting the moniker of Darth Tyranus,
-[
-182
-]
 and replacing
 Darth Maul
 as the Sith apprentice of Darth Sidious.
-[
-183
-]
 From the shadows, the Sith controlled the creation of the clone army.
 The Sith guided the creation of the clone
 troopers
 after Sifo-Dyas' death, covertly taking control of the army
-[
-180
-]
 and its
 Kaminoan
 developers. Tyranus maintained secret contact with two officials of the
@@ -2807,36 +1666,15 @@ Nala Se
 , who were supplied with
 behavioral modification biochips
 to ensure the clones' compliance with their
-[
-184
-]
 Sith programming.
-[
-185
-]
 The chips were implanted in the
 brain
 of every clone trooper during the early stage of their development;
-[
-186
-]
 Sifo-Dyas, who originally thought of the chip, intended for it to be a safeguard against rogue Jedi, but Tyranus and Sidious retooled the chip. Tyranus deceived the Kaminoans into believing Sifo-Dyas' intention.
-[
-184
-]
 However, the biochip's true purpose was to guarantee that the clones would carry out Order 66,
-[
-187
-]
 a
 secret protocol
-[
-186
-]
 that was integral to the destruction of the Jedi Order.
-[
-188
-]
 Invasion of Naboo
 [
 ]
@@ -2852,16 +1690,10 @@ Link
 (
 file info
 )
-[
-26
-]
 Anakin Skywalker was the Chosen One discovered by the Jedi in the late Republic Era.
 In
 32 BBY
 ,
-[
-41
-]
 Supreme Chancellor
 Finis Valorum
 requested the Jedi Order's assistance in negotiating a dispute that resulted in the
@@ -2892,9 +1724,6 @@ ship
 was damaged in the escape, causing them to land on the desert planet of
 Tatooine
 .
-[
-26
-]
 After a thousand years in hiding, the Sith revealed themselves to the Jedi during the Invasion of Naboo.
 While stranded on Tatooine, the two Jedi discovered a young slave named
 Anakin Skywalker
@@ -2904,27 +1733,19 @@ Boonta Eve Classic
 Queen's ship
 to reach Coruscant. It was after this that Jinn was
 attacked
-by Darth Maul, apprentice to Darth Sidious, who had dispatched Maul to kill the Jedi. As the Jedi had believed the Sith to be extinct, Jinn was at first unsure of who Maul was except that he had been trained in lightsaber combat. Arriving at the Jedi Temple on Coruscant, the Council refused to induct Skywalker into the Order because, according to the the Code, he was too old. The Council then ordered Jinn and Kenobi to protect Queen Amidala on her return to Theed. At the same time, Amidala was deceived by Palpatine into calling for a
+by Darth Maul, apprentice to Darth Sidious, who had dispatched Maul to kill the Jedi.
+As the Jedi had believed the Sith to be extinct, Jinn was at first unsure of who Maul was except that he had been trained in lightsaber combat.
+Arriving at the Jedi Temple on Coruscant, the Council refused to induct Skywalker into the Order because, according to the the Code, he was too old.
+The Council then ordered Jinn and Kenobi to protect Queen Amidala on her return to Theed.
+At the same time, Amidala was deceived by Palpatine into calling for a
 Vote of No Confidence
 in Chancellor Valorum, which would eventually lead to the election of Palpatine to the chancellorship. Jinn and Kenobi then assisted Amidala and her forces during the ensuing
 battle
 against the Trade Federation, when Maul killed Jinn in
 combat
 , only for the Sith to be defeated by Kenobi. Given the status of Jedi Knight afterward, Kenobi took Skywalker as his apprentice, despite Yoda's reluctance,
-[
-26
-]
 and the Jedi Order was left in the dark as to what the Sith's actions were for ten years.
-[
-41
-]
-[
-8
-]
 The Jedi were left unaware that they were being deceived by Palpatine, who was using his double identity to eventually complete the Sith's revenge by destroying the Jedi and taking over the Republic.
-[
-20
-]
 Separatist Crisis
 [
 ]
@@ -2937,14 +1758,8 @@ I will not let this Republic that has stood for a thousand years be split in two
 If they do, you must realize that there aren't enough Jedi to protect the Republic. We're keepers of the peace, not soldiers.
 "
 ―Sheev Palpatine and Mace Windu
-[
-8
-]
 The Separatist Crisis threatened to end the era of peace established by the Republic and the Jedi.
 Having broken all ties to the Jedi Order, secretly replacing Maul as Sidious' apprentice, Dooku was believed to be a mere "political idealist" by his peers at the Jedi Order.
-[
-8
-]
 For eight years, Dooku was scarcely heard about until he staged a theatrical return to public life by delivering a rousing speech that condemned the Republic and essentially set the stage for the
 Separatist Crisis
 . At the same time, he fomented political turmoil in many worlds, including Ryloth,
@@ -2954,13 +1769,7 @@ Sullust
 , and Onderon, or tried to convince their leaders to leave the Republic, as in
 Eriadu
 's case.
-[
-71
-]
 Soon enough, Dooku became the face of the Confederacy of Independent Systems, convincing several thousand systems to leave the Republic.
-[
-8
-]
 Jedi Knight Obi-Wan Kenobi journeyed to Kamino where he discovered the creation of a clone army.
 The Jedi Order was unable to ensure the Republic's safety in the event of a war due to its limited numbers. The Republic lacked a standing army, while the mandate of the Jedi was to maintain order as peacekeepers instead of soldiers. Concerned by the growing number of star systems seceding from the Republic, the Senate debated the
 Military Creation Act
@@ -2973,9 +1782,6 @@ tracked
 the
 assassin
 to the planet Kamino.
-[
-8
-]
 After discovering the Kaminoans' creation of the clone army at the behest of the late Jedi Master Sifo-Dyas, Kenobi deduced that the army's clone template, the
 bounty hunter
 Jango Fett
@@ -2990,9 +1796,6 @@ Geonosis
 where he discovered the
 Separatist Droid Army
 , prompting the Senate to empower Chancellor Palpatine to unilaterally create the Grand Army of the Republic.
-[
-8
-]
 Clone Wars
 [
 ]
@@ -3008,9 +1811,6 @@ I have to admit that without the clones, it would not have been a victory.
 Victory? Victory, you say? Master Obi-Wan, not victory. The shroud of the dark side has fallen. Begun the Clone War has.
 "
 ―Obi-Wan Kenobi and Yoda
-[
-8
-]
 As the Republic prepared for war, Jedi Master Mace Windu led a
 Jedi assault team
 to rescue Kenobi on Geonosis. The Jedi confronted the Separatists in the
@@ -3019,26 +1819,14 @@ Petranaki Arena
 , destroying many
 battle droids
 but also sustaining a large number of casualties,
-[
-8
-]
 including
 Tan Yuster
 ,
-[
-189
-]
 Sar Labooda
 ,
-[
-2
-]
 and
 Coleman Trebor
 . The remaining Jedi were evacuated from the arena by the Republic clone army that arrived on Geonosis under the command of Grand Master Yoda.
-[
-8
-]
 Through the combined efforts of Jedi and clones, the Republic defeated the Separatists in the first battle of the Clone Wars.
 Along with the requisite
 LAAT
@@ -3049,17 +1837,8 @@ walkers
 , over eighty
 regiments
 of clone troopers
-[
-6
-]
 engaged the droid army with the Jedi leading the charge.
-[
-8
-]
 Although the Jedi had not yet received a formal commission in the newly formed Grand Army,
-[
-6
-]
 the clones nonetheless complied with their orders. Windu,
 Kit Fisto
 ,
@@ -3069,23 +1848,11 @@ troops
 on the battlefield while Yoda was occupied with overseeing the Republic army's strategy from the
 forward command center
 . The Republic attack caught the Separatist leaders by surprise; despite their initial efforts to organize an effective counterattack, the Separatists ultimately retreated from Geonosis
-[
-8
-]
 as the clones achieved ground and air supremacy under the skilled leadership of the Jedi High Council.
-[
-6
-]
 Although the
 First Battle of Geonosis
 concluded as a victory for the Republic, Yoda lamented its outcome as the beginning of the Clone Wars.
-[
-8
-]
 The outbreak of the conflict alone was enough to shift the Force's balance.
-[
-190
-]
 Jedi of the Republic
 [
 ]
@@ -3093,92 +1860,50 @@ Jedi of the Republic
 We do what we have trained our whole lives to do. Trust in the Force. Believe in the path that is set out before us. Stand in defense of all peoples, not just of the Republic, but across the galaxy. We do what any Jedi would when staring into the face of evil. We fight.
 "
 ―Mace Windu
-[
-141
-]
 The advent of the Clone Wars forced the Jedi to lead the Grand Army of the Republic and Republic Navy.
 The aftermath of the battle on Geonosis saw the Jedi commissioned as
 officers
 of the Republic Military, with the
 military rank
 of Jedi General bestowed to Knights and Masters,
-[
-191
-]
 and the rank of
 Jedi Commander
 to Padawans.
-[
-56
-]
 The
 Jedi Military Integration Act
 formallized this and offically made the Jedi Order a part of the Republic Military.
-[
-192
-]
 The Jedi were not of a single mind regarding participation in the war. Some Jedi felt they have lost something by becoming the Republic's warriors, but, on the other hand, other Jedi believed that returning to monasticism and contemplation would mean ignoring the suffering going on in the galaxy.
-[
-193
-]
 Mace Windu believed that the Jedi should strive to serve as an example by leading the Republic's soldiers on the battlefield, although he was nonetheless affected by the loss of Jedi lives early in the conflict. Windu was troubled by the prospect of more Jedi dying as a result of the Order's decision to fight in the Clone Wars, but Yoda counseled his colleague to set aside his doubts and trust in the Force, acknowledging Windu for his wisdom and capable leadership.
-[
-191
-]
 Jedi Master
 Prosset Dibs
 , meanwhile, opposed Jedi involvement in the war and disliked needing to be involved in battle at all. While still able to fight as a skilled warrior, he felt the Force shudder due to the conflict and remained steadfast in his belief that war was no place for a Jedi.
-[
-191
-]
 Dibs and Windu's opposing views came to a head during a
 mission to counter Separatist operations
 on the planet
 Hissrich
 , where Dibs was horrified by the civilian cost of war and came to believe the High Council was more interested in the world's resources than protecting its people. Dibs attacked Windu
-[
-194
-]
-but was ultimately defeated, with the master standing trial before the High Council after the mission. However, Windu called on the High Council to grant clemency to Dibs, who had stood by his actions and wanted to be put to death to prove that the High Council were nothing more than warmongers. Despite his personal reservations, Windu's experience on Hissrich reminded him of the Jedi Order's commitment to safeguarding the lives of others. With his newfound resolve, Windu affirmed his belief that the Order had a moral responsibility to defend the citizens of the Republic as well as all beings throughout the galaxy.
-[
-141
-]
+but was ultimately defeated, with the master standing trial before the High Council after the mission.
+However, Windu called on the High Council to grant clemency to Dibs, who had stood by his actions and wanted to be put to death to prove that the High Council were nothing more than warmongers.
+Despite his personal reservations, Windu's experience on Hissrich reminded him of the Jedi Order's commitment to safeguarding the lives of others.
+With his newfound resolve, Windu affirmed his belief that the Order had a moral responsibility to defend the citizens of the Republic as well as all beings throughout the galaxy.
 During the Clone Wars, the Jedi were victorious on battlefronts across the galaxy, including
 Christophsis
 ,
-[
-56
-]
 Ryloth,
-[
-150
-]
 and
 Umbara
 .
-[
-195
-]
 In their capacity as leaders of the Grand Army of the Republic, the Jedi came to be seen as great warriors. Jedi Knight Anakin Skywalker, for example, was considered by some to be the greatest warrior of the Jedi Order
-[
-37
-]
 and became known as the "
 Hero With No Fear
 " to the
 HoloNet
 .
-[
-192
-]
 Believing the Order was not political, one Separatist fighter,
 Poan of Riek
 , believed the war would end quickly because he thought the Jedi would, soon enough, intervene against the Republic. However, Poan then came face-to-face against a Jedi during a
 Mission on Leyoye Prime
 , in which the Jedi singlehandedly wiped out most of his unit.
-[
-196
-]
 The Battle of Christophsis was an early victory for the Jedi-led forces of the Galactic Republic.
 During the
 Battle of Christophsis
@@ -3198,9 +1923,6 @@ and
 Clone Captain
 Rex
 —questioned Slick's motives, noting how he betrayed the Republic for money and that his actions endangered clone lives. Although Slick succeeded in sabotaging much of the Republic's military equipment,
-[
-197
-]
 Jedi Generals Obi-Wan Kenobi and Anakin Skywalker successfully led their
 battalions
 , respectively the
@@ -3210,37 +1932,22 @@ and the
 , to victory over the Separatists on the
 Christophsian
 homeworld.
-[
-56
-]
 The Jedi's forces won the Battle of Ryloth with the support of the Twi'lek Resistance.
 The Battle of Ryloth was a coordinated effort by the Republic to liberate the Twi'leks' homeworld from Separatist occupation. With the Jedi in command, the clone troopers mainly relied on using
 blaster rifles
 and
 Electro Magnetic Pulse grenades
 to reduce the level of destruction on Ryloth. Whereas the Separatists used the Twi'leks as living shields to deter a direct Republic attack, the Jedi and their clones were careful to avoid causing civilian casualties.
-[
-198
-]
 During the final phase of the invasion, General Windu endeavored to take the capital city of
 Lessu
 with the support of the Twi'lek Resistance led by Cham Syndulla.
-[
-150
-]
 Setting aside his dislike for politics,
-[
-21
-]
 Windu used diplomacy to win the freedom fighter's help, convincing the rivals Syndulla and Senator
 Orn Free Taa
 to work together in common cause. The combined forces of Jedi, Republic, and Twi-leks captured the capital along with the Separatist
 Emir of Ryloth
 Wat Tambor
 .
-[
-150
-]
 The Jedi successfully invaded Geonosis and destroyed the primary battle droid foundry.
 The
 Second Battle of Geonosis
@@ -3253,9 +1960,6 @@ Ki-Adi-Mundi
 , Obi-Wan Kenobi,
 Luminara Unduli
 , and Anakin Skywalker.
-[
-199
-]
 After the generals' forces converged at the
 Point Rain
 staging area
@@ -3267,20 +1971,11 @@ Barriss Offee
 and
 Ahsoka Tano
 .
-[
-200
-]
 The capture of
 Archduke
 Poggle the Lesser
 subsequently ended Separatist control of Geonosis,
-[
-201
-]
 thereby depriving the Confederacy military of further support against the Republic from Geonosis.
-[
-202
-]
 Rogue Jedi
 [
 ]
@@ -3288,23 +1983,14 @@ Rogue Jedi
 I did it because I've come to realize what many people in the Republic have come to realize, that the Jedi are the ones responsible for this war, that we've so lost our way that we have become villains in this conflict, that we are the ones that should be put on trial, all of us! And my attack on the Temple was an attack on what the Jedi have become, an army fighting for the dark side, fallen from the light that we once held so dear. This Republic is failing! It's only a matter of time.
 "
 ―Barriss Offee, admitting to the bombing of the Jedi Temple hangar
-[
-57
-]
 By the time of the
 Alderaan Refugee Conference
 , Padmé Amidala stated that over one hundred Jedi had been killed in the war.
-[
-203
-]
 More Jedi were killed as the war continued; Jedi Master
 Even Piell
 died at the
 Battle of Lola Sayu
 ;
-[
-204
-]
 during the
 assault
 on
@@ -3312,86 +1998,41 @@ Vizsla Keep 09
 , Count Dooku killed Jedi Master
 Tiplee
 .
-[
-205
-]
 In addition to the casualties of war, the Jedi Order lost a few of its members to the dark side of the Force, such as Jedi Master
 Pong Krell
-[
-195
-]
 and Padawan Barriss Offee.
-[
-57
-]
 Jedi General Pong Krell assumed command of the 501st Legion during the Battle of Umbara.
 Krell served in the Clone Wars as a successful Jedi General whose record reflected numerous victories for the Grand Army of the Republic.
-[
-206
-]
 His command style resulted in high levels of clone trooper casualties; nevertheless, Krell was an acclaimed war hero by the time of the
 Battle of Umbara
 ,
-[
-207
-]
 during which he temporarily assumed command of the 501st
 Legion
 after Anakin Skywalker returned to Coruscant at the behest of the Jedi High Council and Chancellor Palpatine.
-[
-208
-]
 Though originally a Republic
 loyalist
 world at the onset of the Clone Wars,
-[
-3
-]
 Umbara defected to the Separatists in the wake of Senator
 Mee Deechi
 's assassination. The Republic therefore invaded the
 Umbaran
 homeworld, precipitating the Battle of Umbara.
-[
-208
-]
 By then, Krell had foreseen the rise of a
 New Order
 in the aftermath of the Clone Wars. Convinced that the Jedi Order would be defeated, Krell secretly turned against both the Order and the Republic. He sought to prove his new loyalties to Count Dooku by undermining the Republic's efforts to retake Umbara. However, Krell's plans ended when the 501st mutinied against the general's command. Krell was taken into custody after killing multiple clones while resisting arrest. Ultimately, the fallen Jedi Master was executed by
-[
-195
-]
 one of his strongest supporters,
 Dogma
 ,
-[
-209
-]
 after admitting his betrayal of the Republic.
-[
-195
-]
 Barriss Offee was arrested for perpetrating of an attack on the Jedi Temple and conspiring to incriminate Ahsoka Tano.
 Barriss Offee believed the Jedi had deviated from their course as peacekeepers and so arranged a
 bombing
 at the Jedi Temple, for which framed fellow Padawan Ahsoka Tano. Tano, in turn, left the Jedi Order unable to trust the Council after turning its back on her during her
 trial
 .
-[
-57
-]
 Eventually, the High Council came to be aware of Dooku's hand in the creation of the clone army, and of the lies and mistrust that surrounded them, both inside the Temple and the Senate.
-[
-210
-]
 Grand Master Yoda even (as it turned out correctly) foresaw that the Jedi might not win the Clone Wars,
-[
-158
-]
 just as public support for the Jedi weakened due to their management of the conflict.
-[
-70
-]
 The last stand
 [
 ]
@@ -3405,15 +2046,9 @@ Are you threatening me, Master Jedi?
 The Senate will decide your fate.
 "
 ―Mace Windu and Sheev Palpatine
-[
-20
-]
 The High Council moved to arrest Supreme Chancellor Sheev Palpatine, revealed to be the Sith Lord Darth Sidious.
 The war would come to an end in
 19 BBY
-[
-41
-]
 after Sidious betrayed and orchestrated Tyranus' death in the
 Battle of Coruscant
 in order to lure Skywalker to the dark side. The Jedi calculated a decisive Republic victory through the destruction of General
@@ -3431,9 +2066,6 @@ Palpatine's office
 as Windu and the chancellor fought, arriving moments after the Jedi champion disarmed the Sith Lord. Before Windu could kill Sidious, Skywalker betrayed him by severing his hand, which led to the Jedi Master's death. Believing Sidious had the power to save his
 secret wife
 , Padmé Amidala, Skywalker betrayed the Jedi and became Sidious' apprentice, and was given the name of Darth Vader.
-[
-20
-]
 The purge
 [
 ]
@@ -3445,9 +2077,6 @@ Great Jedi Purge
 A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi Knights. He betrayed and murdered your father. Now the Jedi are all but extinct.
 "
 ―Obi-Wan Kenobi, to Luke Skywalker
-[
-45
-]
 Converted to the dark side, Anakin Skywalker led the Great Jedi Purge as the Sith Lord Darth Vader.
 Branding Windu's actions as treason, Palpatine declared the Jedi to be enemies of the Republic and sent Vader to oversee the
 siege of the Jedi Temple
@@ -3462,62 +2091,26 @@ Stass Allie
 on
 Saleucami
 ,
-[
-20
-]
 Depa Billaba
 on
 Kaller
 ,
-[
-211
-]
 and
 Jaro Tapal
 above
 Bracca
 .
-[
-212
-]
 Out of an estimated number of ten-thousand Jedi,
-[
-72
-]
-[
-71
-]
-[
-213
-]
-[
-214
-]
 just a few survived to see the
 proclamation of the New Order
 , marking the inception of the Galactic Empire and the rise of Palpatine as its
 Emperor
 .
-[
-20
-]
 Survivors included Yoda,
-[
-94
-]
 Obi-Wan Kenobi,
-[
-45
-]
 Ahsoka Tano,
-[
-215
-]
 Caleb Dume
 ,
-[
-213
-]
 Cal Kestis
 ,
 Cere Junda
@@ -3526,38 +2119,20 @@ Trilla Suduri
 ,
 Taron Malicos
 ,
-[
-212
-]
 and at least initially,
 Uvell
 ,
-[
-216
-]
 Luminara Unduli,
-[
-217
-]
 Oppo Rancisis
 ,
 Eeth Koth
 ,
 Coleman Kcaj
 ,
-[
-218
-]
 Jocasta Nu
 ,
-[
-219
-]
 Kirak Infil'a
 ,
-[
-27
-]
 Selrahc Eluos
 ,
 Ka-Moon Kholi
@@ -3574,9 +2149,6 @@ Ferren Barr
 , and possibly
 Quinlan Vos
 .
-[
-219
-]
 During their self-imposed exile, Kenobi and Yoda, along with Senator
 Bail Organa
 , hid Vader's newborn children, the Force-sensitive
@@ -3584,17 +2156,8 @@ twins
 Luke Skywalker and
 Leia Organa
 , from the Sith, hoping that in time they would become the key to the Jedi Order's future to stop the dark side.
-[
-158
-]
-[
-20
-]
 The Galactic Empire hunted the few remaining Jedi who survived the initial execution of Order 66.
 Word about the supposed Jedi rebellion and the Order's destruction spread throughout the galactic population, and clone troopers were ordered to hunt down any Jedi survivors.
-[
-211
-]
 According to Imperial Admiral
 Rae Sloane
 , the Jedi that had survived Order 66 made a
@@ -3610,90 +2173,39 @@ Madar
 or
 Morad
 .
-[
-220
-]
 Palpatine squarely blamed the Jedi for the galaxy's recent crises
-[
-134
-]
 and painted them as warmongers whose planned coup
-[
-124
-]
 involved creating the Separatist Alliance
-[
-135
-]
 and Clone Wars in the first place.
-[
-124
-]
 Relieved to see the bloody war over at last and eager for any sense of normalcy to resume, the populous embraced Palpatine's empire, with most of the galaxy blasting the Jedi for their alleged betrayal or even simply because they had failed to prevent, or effectively win, the war.
-[
-196
-]
 In addition to the Empire's suppression of all information relating to the Jedi, it was considered treasonous to be a Jedi or render assistance to a Jedi. Imperial laws also prohibited the use or study of the Force, resulting in the banning of educational studies concerning the Jedi. As a consequence, instructors who specialized in Jedi history lost their positions,
-[
-124
-]
 including
 Sava
 Korin Pers
-[
-221
-]
 and Sava Madelin Sun from the
 University of Bar'leth
 .
-[
-124
-]
 Within five years of the Order's destruction,
-[
-71
-]
 the Jedi were effectively erased from the collective consciousness in the galaxy due to the
 Great Jedi Purge
 ,
-[
-124
-]
 which also involved the systematic destruction of their temples
-[
-72
-]
 and the unceasing, extensive hunts carried out by the
 Inquisitorius
 .
-[
-222
-]
 Jedi survivors that were captured were taken to
 Mustafar
 for interrogation and execution,
-[
-223
-]
-[
-215
-]
 as well as the
 Spire
 on
 Stygeon Prime
 , wherein the body of Luminara Unduli was preserved to lure out any surviving Jedi.
-[
-217
-]
 Among the last reservoirs of knowledge of the Order were
 Antron Bach
 's vault in an abandoned
 colony
 , created at Uvell's behest,
-[
-216
-]
 and
 Grakkus
 the
@@ -3701,27 +2213,12 @@ Hutt
 's private collection on
 Nar Shaddaa
 .
-[
-75
-]
-[
-224
-]
 Safeguarding holocrons, lightsabers, journals, archives, and other artifacts, they partially preserved the teachings of the fallen Order.
-[
-216
-]
-[
-75
-]
 The surviving Jedi
 Nedriss Narr
 and
 Vanzell Mar-Klar
 attempted to train new younglings in a secret temple.
-[
-225
-]
 Dark times
 [
 ]
@@ -3751,17 +2248,14 @@ The Jedi deserve justice… or at least a decent funeral.
 "
 ―Mon Mothma, to
 Soujen Vak-Nhalis
-[
-196
-]
 For nearly twenty years, the Empire was able to expand without opposition of a disbanded Jedi Order. A few of its former members, however survived and stayed true to their code of honor and continued to fight the Empire's injustice, albeit in different ways. Though former Padawan Ahsoka Tano had become disillusioned by the Council's actions and no longer identified as a Jedi, she came into contact with Bail Organa from
 Alderaan
 , with whom she worked to coordinate the efforts of a rebellion under the codename "Fulcrum," fifteen years after the fall of the Republic.
-[
-215
-]
 Having survived the execution of Order 66, Padawan Cal Kestis endeavored to resurrect the fallen Jedi Order.
-Five years after the rise of the Empire and the destruction of the Jedi Order, there was an attempt to bring the Order back. Padawan Cal Kestis, who had been hiding on Bracca since Order 66, was recruited by the former Jedi Knight Cere Junda, who believed that the return of the Jedi Order was the best option to defeat the Empire. Having spent so long in hiding due to the persecution of the Jedi, Kestis did not trust Junda at first, suspecting that she might have come to him out of interest in the rewards offered by the Empire. Despite this, he joined her in her
+Five years after the rise of the Empire and the destruction of the Jedi Order, there was an attempt to bring the Order back.
+Padawan Cal Kestis, who had been hiding on Bracca since Order 66, was recruited by the former Jedi Knight Cere Junda, who believed that the return of the Jedi Order was the best option to defeat the Empire.
+Having spent so long in hiding due to the persecution of the Jedi, Kestis did not trust Junda at first, suspecting that she might have come to him out of interest in the rewards offered by the Empire.
+Despite this, he joined her in her
 mission to rebuild the Order
 . To accomplish this, they sought to recover a
 holocron
@@ -3770,9 +2264,6 @@ Bogano
 by Jedi Master
 Eno Cordova
 . This holocron contained a list of the locations of Force-sensitive children across the galaxy.
-[
-212
-]
 After scouring ancient ruins for clues left behind by the extinct
 Zeffo civilization
 , Kestis succeeded in unlocking the
@@ -3790,9 +2281,6 @@ Nur
 . They succeeded in retrieving the holocron from the Second Sister, who was executed by Darth Vader. The Dark Lord overpowered both Jedi, wounded Kestis for refusing to surrender the holocron, and goaded Junda to embrace the dark side. Ultimately, though, Kestis and Junda managed to escape from Vader with their
 allies'
 help. Despite Kestis' commitment to the restoration of the Jedi Order, the young Jedi Knight destroyed the holocron to protect the Force-sensitive younglings, entrusting their fate to the will of the Force.
-[
-212
-]
 Along with other survivors, Jedi Knight Tensu Run aimed to restore the Jedi Order.
 Jedi Knight
 Tensu Run
@@ -3805,29 +2293,17 @@ death
 became one of the Inquisitorius' highest priorities, with
 the Grand Inquisitor
 ,
-[
-226
-]
 the
 Fifth Brother
 ,
-[
-227
-]
 the
 Seventh Sister
 and the
 Ninth Sister
 ,
-[
-228
-]
 all participating in the
 hunt
 . The Inquisitors were defeated more than once by the Jedi Knight, who, along with other survivors of Order 66, sought to restore the Jedi Order. Due to the Inquisitors' failures, Darth Vader led the four Inquisitors in a final confrontation with the Jedi, which resulted in Run's death by the hands of the Sith Lord, as well as the other Jedi, who were killed by the Inquisitors.
-[
-229
-]
 Rediscovery of an abandoned world
 [
 ]
@@ -3835,9 +2311,6 @@ Rediscovery of an abandoned world
 Tanalorr's a fortress. We should use it for the Hidden Path. Gather allies. Train. They'd never see us coming.
 "
 ―Cal Kestis
-[
-230
-]
 Hidden in the deadly Koboh Abyss nebula, Tanalorr was a world that was abandoned by the Jedi Order and could have proven to be its future.
 Over the five years following the holocron's destruction, Kestis had become an extremely important target for the Empire, having attracted the attention of not only the Inquisitorius but also the
 Imperial Security Bureau
@@ -3856,18 +2329,12 @@ attack
 by the
 Nihil
 . Gera, who had fallen to the dark side, bled the kyber crystal from his lightsaber and began a duel with Kestis.
-[
-230
-]
 Dagan escaped with the help of his old ally, the
 Gen'Dai
 Rayvis
 , and intended to return to Tanalorr and create an army led by Force users trained by himself to fight the Empire. However, due to the clouded view of Gera by the dark side, Kestis opposed his plan. Along with
 Bode Akuna
 , Kestis killed Dagan and obtained the compass that would guide them to Tanalorr, a place that Kestis intended to transform into a refuge for those persecuted by the Empire.
-[
-230
-]
 Cere Junda's death left Jedi Cal Kestis determined to build something that would outlast the Empire.
 However, the compass was stolen by Akuna, who was another survivor of the Jedi Purge and had begun working with the ISB as a spy to survive. Akuna intended to flee to Tanalorr with he daughter so that they could live free from the Empire forever, which, in he opinion, Kestis' intentions for Tanalorr jeopardized. Kestis followed Akuna to Tanalorr, and along with his ally, the
 Nightsister
@@ -3877,9 +2344,6 @@ Jedi Archives
 and were killed due to Akuna stealing the compass. With the compass in their possession, Kestis and his allies began to prepare Tanalorr for use in the
 Hidden Path
 's operations. Kestis also intended to use Tanalorr as a location to continue Cere's work of gathering knowledge from the Jedi Archives.
-[
-230
-]
 Rebellion and war
 [
 ]
@@ -3890,24 +2354,15 @@ Things are getting worse, just as they did when I was your age. But back then, t
 There's just you and me.
 "
 ―Kanan Jarrus and Ezra Bridger
-[
-214
-]
 The Jedi Kanan Jarrus and Ezra Bridger supported the early Rebellion against the Empire.
 Eight years after the end of the Clone Wars, Caleb Dume, who had assumed the identity of Kanan Jarrus, joined forces with the Twi'lek rebel fighter
 Hera Syndulla
 .
-[
-213
-]
 Together, the two established a
 small rebel cell
 based on the starship
 Ghost
 .
-[
-231
-]
 Fifteen years into the
 Imperial Era
 , a number of inaccurate tales about the Jedi started to appear. For example, the bounty hunter duo
@@ -3917,15 +2372,9 @@ Fiscal
 were under the impression that Jedi aged backward, were able to fly, and had unusually dense
 bones
 .
-[
-232
-]
 About five years before the Battle of Yavin, Jarrus took on a Force-sensitive teenager named
 Ezra Bridger
 as his apprentice.
-[
-231
-]
 Jarrus'
 decision to ignite
 his lightsaber
@@ -3934,17 +2383,8 @@ Kessel
 drew the attention of
 the Grand Inquisitor
 , whom Vader had tasked with hunting down Jedi and recruiting the "children of the Force."
-[
-231
-]
 Under Jarrus' tutelage, Bridger trained as a Jedi while evading the Grand Inquisitor and other Imperial agents.
-[
-233
-]
 Bridger completed his Jedi Trials at the Lothal Jedi Temple under the guidance of Master Yoda, who also counseled Jarrus to continue training Bridger.
-[
-72
-]
 At the instigation of
 Grand Moff
 Wilhuff Tarkin
@@ -3956,9 +2396,6 @@ trap
 that captured Jarrus. However, Bridger and the other rebels mounted a
 mission
 to rescue Jarrus and killed the Grand Inquisitor. In the process, they encountered other members of the rebellion including the former Padawan Ahsoka Tano, who had become a key rebel leader.
-[
-215
-]
 Return of the Jedi
 [
 ]
@@ -3966,26 +2403,14 @@ Return of the Jedi
 You failed, your Highness. I am a Jedi, like my father before me.
 "
 ―Luke Skywalker, to Darth Sidious
-[
-36
-]
 During a mission, they inspired not only the people of Lothal to fight the Empire, but also the early "Alliance" to finally organize and to bring several Rebel cells together, paving the way for the Alliance to Restore the Republic.
-[
-215
-]
 An underground faith known as the
 Church of the Force
 emerged in support of the Jedi and their ideals, believing that only their return could restore balance to the Force.
-[
-159
-]
 The galaxy found a new hope in Anakin Skywalker's son, Luke Skywalker, who became a Jedi like his father before him.
 In
 1 BBY
 ,
-[
-234
-]
 Obi-Wan Kenobi emerged from his exile on Tatooine, not only to help
 deliver
 the
@@ -3993,59 +2418,29 @@ plans
 of the
 Death Star
 to the Rebel Alliance as requested by Rebel leader Princess Leia Organa but to begin training Luke Skywalker to become a Jedi Knight,
-[
-45
-]
 in the hopes that Skywalker would be able to defeat both Vader and the Emperor.
-[
-36
-]
 Through Skywalker, with Kenobi's
 guidance
 , the Rebel Alliance achieved a significant victory in the Battle of Yavin, which meant a turning point for the Alliance in the
 Galactic Civil War
 , though at the cost of Kenobi who sacrificed himself to save Skywalker.
-[
-45
-]
 In
 3 ABY
 ,
-[
-41
-]
 Skywalker received training from Yoda on
 Dagobah
 .
-[
-94
-]
 Hailed as "the last of the Jedi," Skywalker was told by Yoda to pass on what he had learned so that the legacy of the Jedi Order could go on, before passing.
-[
-36
-]
 Forced to duel Vader while Sidious watched during the
 Battle of Endor
 , Skywalker briefly gave into anger and fear and cut off his father's hand. Satisfied, Sidious betrayed Vader by ordering Luke to take his place on Sidious' side, but Skywalker rejected his anger and proclaimed he would always remain a Jedi, which led to him being
 tortured
 by the furious Emperor. In agony, he begged his father to save him, convincing the former Anakin Skywalker to save his son, leading to the redeemed Jedi Knight to destroy his master. By destroying his master and the Sith,
-[
-36
-]
 Anakin brought balance to the Force for the time being,
-[
-235
-]
 ultimately fulfilling his role as the Chosen One. While the injuries he sustained in the process of destroying Sidious, led to his death shortly after, Anakin made peace with Luke before passing and becoming a
 Force ghost
 alongside Yoda and Obi-Wan,
-[
-36
-]
 who assured him that his son likely had a bright future ahead.
-[
-236
-]
 After the
 Battle of Jakku
 , the Empire officially
@@ -4055,9 +2450,6 @@ New Republic
 by way of the
 Galactic Concordance
 , which put strict provisions on the rump state.
-[
-159
-]
 In the
 Unknown Regions
 , however, fleeing
@@ -4069,23 +2461,11 @@ fleets
 , culminating in the rise of the hermetic
 First Order
 .
-[
-39
-]
 In the meantime, Skywalker gained a new ally in an individual named
 Lor San Tekka
 , a member of the Church of the Force during the dark times,
-[
-159
-]
 who believed the return of the Jedi was necessary to have balance in the Force
-[
-39
-]
 and aided Skywalker in retrieving lost Jedi lore.
-[
-237
-]
 An order reborn
 [
 ]
@@ -4096,73 +2476,34 @@ Stumbled Beginnings
 After the Empire fell and the Sith Lords were vanquished, I had great hope for the future of the Jedi. I came to believe that if a single Jedi could help bring balance back to the Force, then perhaps a restored Jedi Order could maintain that peace and prevent the dark side from ever regaining its hold on the galaxy.
 "
 ―Luke Skywalker
-[
-63
-]
 As the last Jedi, Skywalker carried the mandate of restoring the Jedi Order.
 Following the Battle of Endor, the Alliance General Han Solo and the former
 Princess
 of Alderaan, Leia Organa, were
 married
-[
-220
-]
 and after the final defeat of the Empire at
 Jakku
 , they had a son named
 Ben Solo
 .
-[
-7
-]
 Ben was Luke Skywalker's nephew,
-[
-39
-]
 as Organa was his twin sister, a fact Skywalker only learned from the Force spirit of Obi-Wan Kenobi following Yoda's death.
-[
-36
-]
 Before her wedding, Skywalker had spoken to Organa about training her and affirmed that she did not need to give up her marriage to Solo if she went down the Jedi path. While at first she still feared she would nevertheless have to choose between her marriage or that path,
-[
-108
-]
 she would agree to become her brother's pupil. On
 Ajan Kloss
 , Skywalker trained Organa in the ways of the Jedi as his first student.
-[
-66
-]
 She even constructed
 her own lightsaber
 , but after seeing a vision of her son's death as the culmination of her Jedi training, Organa declined to progress further. She then directed her focus to the future of the New Republic.
-[
-235
-]
 Around
 five years
 after the Battle of Endor, Skywalker helped rescue Grogu, a mysterious child of the same species as Yoda, survivor of the siege of the Jedi Temple and who had performed great feats in the Force. Skywalker expressed his desire to train the child in the ways of the Force and took Grogu in with the approval of the child's protector, the Mandalorian
 Din Djarin
 .
-[
-238
-]
 With Ahsoka Tano helping to oversee the effort,
-[
-81
-]
 the Jedi Temple of Luke Skywalker was founded as a training center when Skywalker attempted to restore the Jedi Order,
-[
-19
-]
 with Grogu becoming Skywalker's first student. After Tano parted ways with them for the time being, Skywalker gave Grogu a choice; he could remain with his new Jedi Order or return to Din Djarin.
-[
-81
-]
 Grogu chose to return to Djarin, ending his Jedi training and having Skywalker send R2-D2 to pilot Grogu to Tatooine to reunite him with Djarin.
-[
-239
-]
 A new generation
 [
 ]
@@ -4172,21 +2513,9 @@ Han
 about it, but… Leia trusted me with her son. I took him and a dozen students, and began a training temple.
 "
 ―Luke Skywalker, to Rey
-[
-19
-]
 Although Skywalker regarded Kenobi and Yoda as the greatest masters in Jedi history, he knew that his training was unorthodox. As a Jedi Master, Skywalker aimed to provide his apprentices with a more traditional approach to the Jedi arts, and as such, his Padawans followed a training regime similar to the one that existed during the Republic Era.
-[
-63
-]
 The New Jedi Order began as a class of Force-sensitive younglings, beginning with Skywalker's nephew, Ben Solo,
-[
-240
-]
 whom he agreed to train in the ways of the Force at his sister's behest. In many ways, Solo reminded his parents of his grandfather, Darth Vader, therefore Organa wanted him to train with his uncle in the hope that he would not turn to the dark side as well.
-[
-39
-]
 Skywalker founded a temple where he could train a new generation of Jedi apprentices, including his nephew Ben Solo.
 In addition to Solo, Skywalker recruited several other students including
 Hennix
@@ -4194,19 +2523,10 @@ Hennix
 Tai
 , and
 Voe
-[
-241
-]
 during his visits to many worlds over two
 decades
 .
-[
-14
-]
 During this time, Solo was trained in lightsaber combat and became skilled with the Jedi weapon.
-[
-159
-]
 In
 19 ABY,
 Skywalker traveled with his nephew and Lor San Tekka to the Jedi outpost on Elphrona seeking Jedi artifacts. The trio were accosted by a dark side sect known as the
@@ -4214,23 +2534,14 @@ Knights of Ren
 . Master Skywalker used his Force powers to defeat the Knights. Before leaving, the Knights' leader
 Ren
 told Solo to contact the Knights should he ever consider exploring the dark side further.
-[
-76
-]
 By
 21 ABY
 ,
-[
-242
-]
 the new Jedi Order had grown to the point where it already had senior pupils on top of a new class of younglings in training. Around this time, Luke Skywalker experienced visions that distracted him from some of his basic duties at the academy, leaving some of his senior students to take over for him on this duties. A Twi'lek woman named
 Enyo
 served as an instructor on lightsaber combat, running a class of younglings through a series of exercises with
 training blades
 . When Skywalker went on a mission with Lor San Tekka that distanced him from his temple, Ben Solo, who had also taken the duties of running training exercises on the younger students, stayed to oversee the academy.
-[
-82
-]
 The temple's destruction
 [
 ]
@@ -4243,54 +2554,35 @@ Jedi
 did. Skywalker.
 "
 ―Ben Solo and Snoke
-[
-241
-]
 The confrontation between Skywalker and his nephew had fateful consequences for the New Jedi Order.
 Solo's family would ultimately learn that he was gradually seduced to the ways of the dark side through the machinations of the First Order's ruler,
 Supreme Leader
 Snoke
 .
-[
-243
-]
 Organa blamed Snoke as the sole cause of her son's descent into darkness, culminating in the
 destruction of the Jedi Temple
 , but Skywalker felt responsible for his nephew's fate. Sensing the dark side's influence within Solo, Skywalker probed his nephew's mind and beheld visions of the dark warrior that he was becoming. Skywalker instinctively raised
 his lightsaber
 to kill his nephew while he slept, believing Solo would destroy all that he loved; however, he stopped himself from killing his sister's son, and was overcome by shame. He then saw that Solo had awoken. He saw fear in the eyes of his young nephew, and in that moment Skywalker felt he had failed as a Jedi Master.
-[
-19
-]
 Solo reached for his blade and razed the hut using the Force, collapsing it in on his uncle.
-[
-19
-]
-As Solo struggled to comprehend the situation and lost control of his emotions, the Jedi Temple was destroyed by a powerful lightning storm, killing most of Skywalker's other students. Shortly later, Hennix, Tai, and Voe returned from an offworld trip. They confronted Ben Solo, who told them that Skywalker had tried to murder him. Skeptical, they tried to detain him but Solo fled following a brief skirmish and sought Snoke. Hennix, Tai, and Voe resolved to find Solo and investigate what had happened. Meanwhile, Solo sought out Snoke and the two decided to seek out the Knights of Ren.
-[
-241
-]
+As Solo struggled to comprehend the situation and lost control of his emotions, the Jedi Temple was destroyed by a powerful lightning storm, killing most of Skywalker's other students.
+Shortly later, Hennix, Tai, and Voe returned from an offworld trip.
+They confronted Ben Solo, who told them that Skywalker had tried to murder him.
+Skeptical, they tried to detain him but Solo fled following a brief skirmish and sought Snoke.
+Hennix, Tai, and Voe resolved to find Solo and investigate what had happened.
+Meanwhile, Solo sought out Snoke and the two decided to seek out the Knights of Ren.
 With his temple destroyed, Skywalker exiled himself to Ahch-To, vowing to never train another student.
 Skywalker regained consciousness in the rubble of his nephew's hut too late to prevent Solo's destruction of the Jedi temple and the deaths of the students inside. Solo had already fled, and Skywalker could only witness his temple still burning alongside his
 astromech droid
 ,
 R2-D2
 .
-[
-19
-]
 Skywalker felt responsible for the ordeal and decided to exile himself, although those closest to him learned that he was also searching for the first Jedi Temple. Skywalker only left traces of his location in a single star
 map
 , with the remaining data being present in old Imperial records. Skywalker eventually found the first Jedi temple on the aquatic world of Ahch-To, where he took up refuge and lived in exile as a
 hermit
 .
-[
-39
-]
 Skywalker vowed to never attempt another rebirth of the Jedi Order, and therefore resolved to die as the last Jedi.
-[
-19
-]
 The Jedi Killer
 [
 ]
@@ -4298,20 +2590,11 @@ The Jedi Killer
 Now you will be who you are. Who you were always meant to be.
 "
 ―Darth Sidious, to Ben Solo
-[
-244
-]
 Rejecting the Jedi and his family, Ben Solo adopted the identity of Kylo Ren.
 Traveling to the Jedi outpost on Elphrona, Solo contacted Ren, who told him to find the Knights of Ren on Varnak. However, Hennix, Tai and Voe caught up with the fugitive Solo.
-[
-76
-]
 Though Tai preferred to reason with Solo, Voe and Hennix
 fought
 him, believing that he had a role in destroying the Jedi Temple and killing their brethren. Solo killed Hennix in self-defense before fleeing to Varnak. However, Ren was still unsatisfied that Solo was worthy to become a Knight of Ren but took him on a trial run.
-[
-240
-]
 To test Solo's worthiness for the dark side, the Knights of Ren enlisted his services in obtaining a Force relic called the
 Mindsplinter
 from a group of
@@ -4325,33 +2608,15 @@ master of the Knights of Ren
 , adopting the name "Kylo Ren" and
 bleeding
 his kyber crystal.
-[
-244
-]
 Solo turned to the dark side of the Force and became an apprentice of
 Snoke
 , joining the First Order and the Knights of Ren in the process and taking on the new identity of Kylo Ren.
-[
-39
-]
 By the time of the outbreak of the First Order/Resistance War, Ren had gained a reputation of a "Jedi killer" due to Ren's skills with
 his lightsaber
 and his role in destroying Skywalker's new Jedi and his hopes of fully restoring the Jedi Order.
-[
-159
-]
 Ren was determined to live up to the legacy of his grandfather,
-[
-39
-]
 whom he considered to be Darth Vader
-[
-245
-]
 instead of Anakin Skywalker.
-[
-243
-]
 An awakening
 [
 ]
@@ -4361,25 +2626,10 @@ rise
 .
 "
 ―Snoke
-[
-39
-]
 As Luke Skywalker's efforts to rebuild the Jedi Order had seemingly failed,
-[
-159
-]
 the Jedi Master's fabled return became a symbol of hope for those who believed in him and the Jedi. For others, he remained a myth, but he also posed a threat for those who feared his reappearance, such as Supreme Leader Snoke and the First Order, who believed Skywalker's return would also mean the rise of the new Jedi. It was by this time that an awakening occurred within the Force. Snoke and Ren both sensed it;
-[
-39
-]
 Snoke was certain that as his apprentice grew stronger with the dark side, his counterpart in the light would rise as well. Convinced that it was Skywalker,
-[
-19
-]
 Snoke directed Ren to seek out and destroy his former master.
-[
-39
-]
 Ren hunted Skywalker across the galaxy, searching for clues to the whereabouts of his old master.
 While Skywalker's location was unknown to the galaxy at large, his old ally, Lor San Tekka, came into possession of a piece of a
 star map
@@ -4414,9 +2664,6 @@ Wookiee
 partner,
 Chewbacca
 , in a journey to return BB-8 to the Resistance.
-[
-39
-]
 During the search for Skywalker, Ren discovered Rey, a Force-sensitive scavenger with a mysterious past.
 After a
 devastating attack
@@ -4427,9 +2674,6 @@ destroy
 the First Order superweapon. Once there, Han Solo attempted to turn his son back to the light, but he was killed by Ren instead, who was attempting to fully commit to Snoke and the dark side. Rey subsequently defeated Ren in a
 lightsaber duel
 and Starkiller Base was destroyed, after which the Resistance finally pieced together the map to Skywalker with help from R2-D2. Organa, relieved to finally find her brother, sought to bring him home. She sent Rey, along with Chewbacca and R2-D2, to Ahch-To, where the young girl found Skywalker among the refuge of the first Jedi temple.
-[
-39
-]
 There, Rey presented the Jedi Master with his
 father's lightsaber
 —which
@@ -4437,13 +2681,7 @@ he had lost
 on
 Cloud City
 decades prior—
-[
-94
-]
 as a symbol of the only hope the galaxy had left in defeating Kylo Ren, Snoke, the First Order and Knights of Ren by bringing about the return of the Jedi Order.
-[
-39
-]
 Last of the Jedi
 [
 ]
@@ -4451,14 +2689,8 @@ Last of the Jedi
 The rebellion is reborn today, the war is just beginning, and I will not be the last Jedi.
 "
 ―Luke Skywalker
-[
-19
-]
 Rey sought out Skywalker, but the Jedi Master was unwilling to train her or help the Resistance.
 Rey was surprised to find that Luke Skywalker, the last Jedi, instead rejected her plea for help, tossing his father's lightsaber over his shoulder and confining himself within his hut near the first Jedi Temple. Undeterred, in part thanks to her past as a Jakku scavenger,
-[
-246
-]
 Rey followed Skywalker as he carried on his daily routine despite Skywalker telling her and Chewbacca that he would not face down the First Order. Skywalker was intrigued by Rey, however, when she felt voices calling her through the Force to an
 uneti tree
 containing the sacred Jedi texts. After sneaking aboard the
@@ -4466,24 +2698,18 @@ Millennium Falcon
 and being shown a
 hologram
 of his sister's call for help to Jedi General Obi-Wan Kenobi decades earlier by R2-D2, however, Skywalker changed his mind and agreed to teach Rey the ways of the Jedi—and why, in his mind, it was time for the Jedi to end.
-[
-19
-]
 The bond between Kylo Ren and Rey allowed them to communicate with each other through the Force.
 Meanwhile, however, a
 Force-bond
-had opened up between Rey and Kylo Ren, something that Rey decided not to tell her new master. When Skywalker discovered this, he abruptly ended his training of Rey, telling her to leave. After a brief duel, Skywalker finally confessed to Rey the truth of the night his nephew destroyed his fledgling New Jedi Order. Rey, who had grown sympathetic to Ren's conflict over their shared feelings of abandonment, decided to leave Skywalker in an attempt to redeem Ren in the light side, as Skywalker had done to his father decades earlier.
-[
-19
-]
+had opened up between Rey and Kylo Ren, something that Rey decided not to tell her new master.
+When Skywalker discovered this, he abruptly ended his training of Rey, telling her to leave.
+After a brief duel, Skywalker finally confessed to Rey the truth of the night his nephew destroyed his fledgling New Jedi Order.
+Rey, who had grown sympathetic to Ren's conflict over their shared feelings of abandonment, decided to leave Skywalker in an attempt to redeem Ren in the light side, as Skywalker had done to his father decades earlier.
 Rey traveled to the
 Supremacy
 , where Ren took her before his dark side master, Supreme Leader Snoke. Snoke proceeded to use the Force to tortuously probe Rey's mind, finding Skywalker's location. Snoke vowed to obliterate the last Jedi after dealing with the Resistance. Rey defied Snoke, trying to lash out at him; deeming her to have "the spirit of a true Jedi," he commanded Ren to execute Rey. Instead, however, Ren used his grandfather's lightsaber to bisect the Supreme Leader. Ren and Rey then fought Snoke's
 Elite Praetorian Guard
 , defeating them. However, Ren did not turn back to the light side as Rey believed, rather he usurped his master, fully engrossed in the dark side. Ren offered Rey the chance to rule the galaxy by his side, but instead, the two fought over Skywalker's lightsaber, eventually breaking it in half using the Force, knocking both unconscious.
-[
-19
-]
 Although Skywalker sacrificed himself for the Resistance, his death did not mark the end of the Jedi.
 After regaining consciousness, Rey escaped the
 Supremacy
@@ -4497,10 +2723,9 @@ First Order Army
 projecting
 himself across the galaxy from Ahch-To, buying time for the Resistance's survivors to escape. By the time Ren realized this, it was too late; the remaining survivors of the Resistance, including Poe Dameron, Finn, and Leia Organa, had escaped aboard the
 Millennium Falcon
-with Chewbacca and Rey, who Skywalker acknowledged as a Jedi. Skywalker's projection disappeared and back at the first Jedi Temple, Skywalker, having exerted a great amount of energy, passed away, becoming one with the Force before the twin suns of Ahch-To. Rey, meanwhile, had recovered Skywalker's lightsaber and began working with the Resistance on the process of building a rebellion against the First Order, while Skywalker's heroic tale spread across the galaxy, inspiring others as the First Order rose to power.
-[
-19
-]
+with Chewbacca and Rey, who Skywalker acknowledged as a Jedi.
+Skywalker's projection disappeared and back at the first Jedi Temple, Skywalker, having exerted a great amount of energy, passed away, becoming one with the Force before the twin suns of Ahch-To.
+Rey, meanwhile, had recovered Skywalker's lightsaber and began working with the Resistance on the process of building a rebellion against the First Order, while Skywalker's heroic tale spread across the galaxy, inspiring others as the First Order rose to power.
 Return and Demise of the Sith Order
 [
 ]
@@ -4513,9 +2738,6 @@ the Sith!
 And I… I'm all the Jedi.
 "
 ―Darth Sidious and Rey
-[
-235
-]
 Darth Sidious returned after his first death to herald the rebirth of the Sith and the ultimate destruction of the Jedi Order.
 In the
 year
@@ -4539,9 +2761,6 @@ Xyston
 , the
 Final Order
 , if he killed Rey, the last Jedi and the granddaughter of Sidious.
-[
-235
-]
 After traveling to
 Pasaana
 and
@@ -4565,9 +2784,6 @@ starfighter
 out of the Ahch-To seas with the Force, allowing her to use Ren's
 wayfinder
 to travel to Exegol. Rey charted her path through hyperspace and transmitted the coordinates to the Resistance, allowing them to travel to Exegol as well.
-[
-235
-]
 During the Battle of Exegol, Ben Solo and Rey stood together as Jedi against the Sith Emperor.
 The
 Battle of Exegol
@@ -4580,33 +2796,18 @@ mother
 killed by sacrificing him as part of a
 ritual
 , allowing the Sith to reborn and ending the Jedi. However, a redeemed Ben Solo, who had renounced the dark side and shed his identity as Kylo Ren, arrived to help Rey. Solo defeated the Knights of Ren, but he and Rey were caught by the Dark Lord of the Sith, who learned that the two were a
-[
-235
-]
 prophesied
-[
-66
-]
 Force dyad
 . Sidious used their bond to heal himself, drawing on their combined life force to restore his body before tossing Solo into a nearby abyss to take his revenge on the
 Skywalker family
 for killing him years earlier at the Battle of Endor. The Sith Lord then unleashed his Force lightning on the Resistance and their
 Citizens' Fleet
 above. However, Rey was able to reach out to the past Jedi.
-[
-235
-]
 The Jedi Order was gone, but their strength remained.
-[
-4
-]
 The Emperor was destroyed by his granddaughter Rey, who was strengthened by the spirits of the Jedi.
 Upon hearing their voices call to her, Rey was strengthened and rose to face her grandfather. Sidious redirected his Force lightning towards Rey, who defended herself with the lightsabers of her masters. As Sidious boasted that he was all the Sith, Rey responded that she was all the Jedi, and she deflected Sidious's lightning back towards him, causing the Sith Lord to disintegrate and be destroyed at last, preventing the rebirth of the Sith. A massive explosion burst out and erupted, causing the
 Sith Citadel
 beneath Exegol to collapse and crumble on the Sith Eternal cultists. Rey sacrificed herself to stop the Emperor, and Solo sacrificed his life in turn to resurrect Rey. With his death, the Skywalker bloodline became extinct.
-[
-235
-]
 The destruction of the Sith marked a new era in galactic history, to be shaped by the Force in ways as yet unknown.
 Some time later, Rey buried her mentor's lightsabers at the
 Lars moisture farm
@@ -4615,13 +2816,7 @@ lightsaber
 . When a
 local elderly woman
 stumbled upon Rey using her lightsaber, she asked the scavenger her name. Seeing the spirits of Luke and Leia in the distance, Rey responded that she was "Rey Skywalker."
-[
-235
-]
 In the aftermath of the First Order/Resistance War, Rey eventually gained the status of Jedi Master while fighting to restore galactic peace. As Master, Rey started to work on rebuilding the Jedi Order.
-[
-21
-]
 Legacy
 [
 ]
@@ -4638,28 +2833,13 @@ At the height of their powers, they allowed Darth Sidious to rise, create the Em
 And a Jedi who saved him.
 "
 ―Luke Skywalker and Rey
-[
-19
-]
 The Jedi Order was mythologized after its extinction, surviving in memory as a symbol of hope in the galaxy.
 After the fall of the Empire, the Jedi Order's memory was rehabilitated and mythologized. The Jedi were romanticized during the New Republic Era, becoming deified symbols of a bygone era. Despite the Order's extinction, Supreme Leader Snoke endeavored to eradicate all traces of its past, believing that the Jedi inspired hope in the enemies of the First Order.
-[
-19
-]
 Luke Skywalker, a legendary Jedi Master, devoted years to rediscovering the Order’s history which he chronicled in the book ‘’
 The Secrets of the Jedi
 ‘’. Although Skywalker held individual Jedi, such as Mace Windu, Yoda, or Qui-Gon Jinn, in high esteem,
-[
-63
-]
 he became disillusioned by the Order’s failure toward the end of its history prior to the rise of the Empire. He faulted the Order for not thwarting the machinations of Darth Sidious, causing the extinction of the Jedi. Skywalker also believed that his old mentor, Obi-Wan Kenobi, was responsible for his father’s transformation into Darth Vader. Later, to Rey, Skywalker admitted that he was wrong and encouraged her to keep the Jedi way and fight Sidious.
-[
-155
-]
 After his faith in the Jedi was restored by Rey and Yoda, Skywalker’s final stand allowed the legend of the Jedi to spread once more, bringing hope to the galaxy.
-[
-19
-]
 Behind the scenes
 [
 ]
@@ -4695,13 +2875,7 @@ Edo period
 of Japanese history, when
 samurai
 were still in activity.
-[
-247
-]
 The word "Jedi" is a singular plural.
-[
-248
-]
 The Jedi Order originated in the rough draft of
 Star Wars
 as the Galactic Emperor's
@@ -4709,17 +2883,11 @@ bodyguard
 . They became affiliated with the
 Republica Galactica
 in the second draft.
-[
-249
-]
 Later, when composing background information for licensees in
 1977
 ,
 George Lucas
 described the Jedi Order as being "several hundred thousand" strong before the Purge.
-[
-250
-]
 Prequel trilogy and
 The Clone Wars
 [
@@ -4727,17 +2895,8 @@ The Clone Wars
 Ahead of release, George Lucas claimed that
 The Phantom Menace
 depicted "the heyday of the Jedi," during which time there were thousands of Jedi and they acted as the "guardians of peace and justice in the galaxy, sort of like the old marshals out West."
-[
-251
-]
 Lucas felt he needed "to establish Jedi as what they were, which is sort of peacekeepers who moved through the galaxy to settle disputes."
-[
-252
-]
 He described the Jedi as "warrior-monks who keep peace in the universe without resorting to violence."
-[
-253
-]
 In the overall story of
 Star Wars
 , however,
@@ -4745,95 +2904,32 @@ The Phantom Menace
 kicks off the
 prequel trilogy
 , which depicts the downfall of the Jedi Order.
-[
-20
-]
 Within
 Star Wars
 Legends
-[
-254
-]
-[
-255
-]
 and canon, the prequel era overall represents a time in which the Jedi were losing their way,
-[
-16
-]
-[
-87
-]
-[
-57
-]
 with Episode II supporting that by featuring Yoda reflect on the increasing arrogance of even elder Jedi.
-[
-8
-]
 The Jedi Order accepts a place of military leadership during the Clone Wars
 Rather than being "superheroes," Lucas noted how the Jedi Knights brought peace into the galaxy by "being ambassadors and trouble-shooters," who had the "moral authority" to keep the governments of the planets from becoming tyrannical or start wars. In that capacity, he said they had the power to "send the whole force of the Republic, which is 100,000 systems, so if you don't behave they can bring you up in front of the Senate" to "cut you off at the knees, politically."
-[
-253
-]
 However, Episode II depicts the Jedi compromising their morals by taking up a military position in the newly formed Republic Military,
-[
-8
-]
 challenging the Order's philosophy of peacekeeping.
-[
-102
-]
 As acknowledged by Lucas, such means the audience couldn't see much of how Jedi Knights were supposed to operate, as the story quickly becomes the story of the Clone Wars.
-[
-256
-]
 As Lucas explained, "It's one of the conundrums of which there's a bunch of in my movies. You have to think it through. Are they going to stick with their moral rules and all be killed, which makes it irrelevant, or do they help save the Republic? They have good intentions, but they have been manipulated which was their downfall."
-[
-253
-]
 The
 Star Wars: The Clone Wars
 animated series produced under Lucas continued to study the themes of the Jedi Order and the road to its downfall.
-[
-57
-]
 The Clone Wars
 Supervising director
 Dave Filoni
 once noted that, in his mind at least, one of the story elements of the prequels was showing how the Jedi "almost forgot to care" and "[lacked] compassion" for Anakin Skywalker's situation, which leads to his fall to the dark side
-[
-257
-]
 and the destruction of their Order.
-[
-20
-]
 Filoni also pointed to Yoda's quote about Jedi arrogance in
 Attack of the Clones
 , saying Yoda “criticizes the Jedi in Episode II and says that they’ve become arrogant” and that “because they’ve become arrogant and very sure of themselves” they lack love and compassion.
-[
-252
-]
-[
-258
-]
 Lucas, however, has said that Yoda was simply reminding Obi-Wan Kenobi that "arrogance exists in the older Jedi too, which is a way of warning Obi-Wan that he may be suffering the same hubris [as Anakin]."
-[
-259
-]
 Lucas also once stated that some people "didn't seem to understand the fact that Anakin is simply greedy"
-[
-260
-]
 as the Jedi are "trained more than anything else to understand the transitional nature of life, that things are constantly changing and you can’t hold on to anything. You can love things but you can't be attached to them," which allows one to be "compassionate and loving and caring, but not be possessive and grabbing and holding on to things and trying to keep things the way they are."
-[
-253
-]
 Anakin's issues are stemming not from some kind of failure of the Jedi, but from the fact that he started his training late in life, since if he would've been raised by the Jedi from a very early age, "he’d have been trained to love people but not to become attached to them."
-[
-259
-]
 Sequel trilogy
 [
 ]
@@ -4844,38 +2940,20 @@ Star Wars
 : Episode VII
 The Force Awakens
 ,
-[
-39
-]
 along with the film's
 novelization
-[
-243
-]
 and
 junior novelization
 .
-[
-261
-]
 Further background details about the Jedi and their massacre, which saw the end of Luke's students, can be found in the reference book
 Star Wars: The Force Awakens: The Visual Dictionary
 by
 Pablo Hidalgo
 .
-[
-159
-]
 On the contrary to what happened in the final films, George Lucas planned the Jedi Order to be restored by Luke Skywalker, who raised a new generation of Knights with the help of the surviving Jedi masters.
-[
-253
-]
 Even then, however, Lucas's own plans for the sequel trilogy would have featured Skywalker in a dark state of mind, something of "a
 Colonel Kurtz
 type."
-[
-262
-]
 The High Republic
 [
 ]
@@ -4889,22 +2967,13 @@ The High Republic
 , at its heart, is an attempt to show an Order, and a Republic, at their strongest point. We've been hearing about what the Jedi meant to the galaxy for a thousand generations—we wanted to show it, and I think we succeeded.
 "
 ―Charles Soule
-[
-263
-]
 Writer
 Cavan Scott
 explained a theme of the
 Star Wars: The High Republic
 is seeing the Jedi live out amongst local communities, instead of being, comparatively, "locked away in their temples.
-[
-85
-]
 Charles Soule
 also explained, "The thing to know about The High Republic's Jedi is that the rules that exist in the prequel trilogy still exists. They still take the same vows, they still have the same feelings about it, but their understanding of the strength of the Order and flexibility within the Order and the interpretation of those rules ... they're more diffuse, I would say."
-[
-264
-]
 According to actor
 Charlie Barnett
 , the High Republic Era-set series
@@ -4912,9 +2981,6 @@ Star Wars: The Acolyte
 explores the theme of the Jedi Order having an ego due to it being their golden age, at which the Order was at its height. According to Barnett, this ego began to take control of the Jedi during the time of
 The Acolyte
 , paving the way for the Order's downfall.
-[
-265
-]
 Appearances
 [
 ]

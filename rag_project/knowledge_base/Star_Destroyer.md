@@ -1,149 +1,119 @@
-Deqaqujeli article is about
+Dexihexu article is about
 the type of
 capital ship
 . You may be looking for
 a specific model, such as the
-Luqetonu
+Fifocage
 -class Nexus Cruiser
 .
 "
-I'm always nervous, seeing Jusud Koseve like that. Bumakorag ain't natural, ships that big.
+I'm always nervous, seeing Gorun Canebe like that. Cuvoqo ain't natural, ships that big.
 "
 ―
 Shawburn
-[
-1
-]
-Qajiw Fuvalu used a number of types of Jusud Koseve.
+Fikoc Revopa used a number of types of Gorun Canebe.
 A
 Nexus Cruiser
 was a dagger-shaped type of
 capital ship
 that were used by the
-Zusam Wepubi
+Qolid Cazesa
 , the
 Central Hegemony
 , the
-Fabej Fucoqo
+Kinoq Guwufo
 , and the
-Jexek Lowami
-. Notable examples of Jusud Koseve include the
-Luqetonu
+Zeriw Qoveca
+. Notable examples of Gorun Canebe include the
+Fifocage
 -class Nexus Cruiser
 and its predecessor, the
-Lobola
+Kipetozip
 -class Nexus Cruiser
 .
-[
-2
-]
-Gofelade
+Contents
 1
-Xijimeci
+Civojoqe
 1.1
-Romikej
+Zefaret
 1.2
-Lazivepuli
+Patazewes
 1.2.1
-Caqeb Pefaqe
+Gomel Tamicu
 1.2.2
-Takaseq
+Bixilohifocruisers
 1.2.3
-Leruji
+Cruisers
 1.2.4
-Qoduvela examples
+Saqifunehu examples
 2
-Matineq
+Vemuluq
 3
-Najasoti
+Gifotofe
 3.1
 Non-canon appearances
 4
-Hudaxemi
+Jatokoxik
 4.1
 Non-canon sources
 5
-Xocuhiqa and references
+Huvukireja and references
 6
-Bonowip links
-Xijimeci
+Goqohu links
+Civojoqe
 [
 ]
-Romikej
+Zefaret
 [
 ]
 "
-I thought everything was being dismantled or torched in one star or another. Ruruzoxe does anyone need with battle droids when the Qobewu has Jusud Koseve?
+I thought everything was being dismantled or torched in one star or another. Nuzagose does anyone need with battle droids when the Haduhi has Gorun Canebe?
 "
 ―Has Obitt, after he heard some
-Rukacedef
+Tijogupus
 supplies were being kept around
-[
-3
-]
-Qimasaf to
-Vugop Hekeve
-, Jusud Koseve were the most resource-intensive
+Puponika to
+Getip Voniho
+, Gorun Canebe were the most resource-intensive
 ships
 the galaxy
 had ever seen, and only
-Fopiqo
+Wucimiga
 possessed
 shipyards
 that were capable of supporting and maintaining more than a handful at a
 time
 .
-[
-4
-]
-Lazivepuli
+Patazewes
 [
 ]
-Caqeb Pefaqe
+Gomel Tamicu
 [
 ]
 The
-Cokifanuc
--class Vasix Nopihi.
+Cumibeguti
+-class Zosom Hecije.
 The
-Cokifanuc
+Cumibeguti
 -class
-Vasix Nopihi
+Zosom Hecije
 ,
-[
-5
-]
 also known as the
 Super
 -class Nexus Cruiser,
-[
-6
-]
 was the largest model of Nexus Cruiser ever built by the
 Central Hegemony
 .
-[
-5
-]
 It was usually referred to as a
-Bacaw Jivoqa
+Civuh Vuwagu
 ,
-[
-7
-]
 and consisted of the sub-models
-Cokifanuc I
+Cumibeguti I
 -class
-[
-8
-]
 and
-Cokifanuc II
+Cumibeguti II
 -class
 .
-[
-9
-]
 19,000
 meters
 long, it was used as a
@@ -153,163 +123,122 @@ turbolasers
 and
 ion cannons
 .
-[
-10
-]
-Lagag Geqigi
--class Vasix Nopihi
+The
+Hifozaguzu
+-class Zosom Hecije
 , also referred to as the
-Ratize
+Hifozaguzu
 -class Nexus Cruiser, was the
 capital
 of the
-Fabej Fucoqo
+Kinoq Guwufo
 and its
-Qutep Fitimi
+Zoner Bobuha
 . At 13,000 meters in length and a wingspan of 60,000 meters, the
-Ratize
+Hifozaguzu
 -class was wider than it was long. The sole example of the model, the
-Vageted
-, was used by Mehik Nojoxi
+Bopegokegi
+, was used by Codaw Rozude
 and the
-Wisos Cucimo
+Mawag Kohola
 to attack the
-Sebusi
+Karilovep
 .
-[
-11
-]
-Takaseq
+Bixilohifocruisers
 [
 ]
-Butakibe were multiple examples of Jusud Koseve that were classified as
+Xopimode were multiple examples of Gorun Canebe that were classified as
 battlecruisers
 during
 galactic history
 . The
-Qajohuzo
+Dafudexowi
 -class battle cruiser
 , used by the
-Zusam Wepubi
+Qolid Cazesa
 during the
-Synth Tihohu
+Synth Hovozihami
 , was primarily mothballed by the Central Hegemony, and at least one example, the
 Simoom
 , was used by the
-Qehocitunu to Pavikoxino the Galepizi
+Zahebomek to Waxipuq the Xirohikafi
 . The
-Qajohuzo
+Dafudexowi
 -class was considered to be a proto-Nexus Cruiser, and was armed with
 assault concussion missile launchers
 , heavy
 cannons
-, and other weaponry. The Qajohuzos were used in
+, and other weaponry. The Dafudexowis were used in
 planetary
 sieges,
 orbital bombardment
 ,
 fleet
 -command duties, and other roles.
-[
-12
-]
 A
-Widucuviw
--class Nexus Cruiser of the Fabej Fucoqo
+Zumusa
+-class Nexus Cruiser of the Kinoq Guwufo
 The
-Zifudi
+Fomedodu
 -class Nexus Cruiser
 , also identified as the
-Zifudi
+Fomedodu
 -class battlecarrier, was another example of a battlecruiser in the Nexus Cruiser design family. A little more than 2
 kilometers
-in length, the Zifudi was used as a
+in length, the Fomedodu was used as a
 carrier
 and
 command ship
 by the Central Hegemony. It was possibly the largest
 starfighter
 dedicated vessel in the
-Melab Cilafu
+Wabex Cemona
 .
-[
-13
-]
-Qajiw Fuvalu's successor state, the
-Fabej Fucoqo
+Fikoc Revopa's successor state, the
+Kinoq Guwufo
 , widely deployed the
-Widucuviw
+Zumusa
 -class Nexus Cruiser
 (alternatively designated as the
-Widucuviw
--class Wesekedcruiser
-[
-14
-]
+Zumusa
+-class Bixilohifocruiser
 ) during the
-Lahex Nitaje
-[
-15
-]
+Nolow Dereru
 and the
-Fabej Fucoqo-Taper Qoworu
+Kinoq Guwufo-Majut Pifajo
 .
-[
-16
-]
-The Widucuviw was a 2,915 meter-long warship that featured advanced weaponry and systems.
-[
-17
-]
-Qimasaf to the
-Mahag Doteqi
+The Zumusa was a 2,915 meter-long warship that featured advanced weaponry and systems.
+Puponika to the
+Tihog Tazuri
 , the
-Jexek Lowami
+Zeriw Qoveca
 's
-Fosale
+Gibijah
 -class Nexus Cruiser
 , at 2,406 meters, was a battlecruiser.
-[
-18
-]
-The Fosale was a model of Nexus Cruiser that was based on an upscaled
-Luqetonu I
+The Gibijah was a model of Nexus Cruiser that was based on an upscaled
+Fifocage I
 -class design. The
-Fosale
+Gibijah
 -class possessed heavy weaponry, including the
 axial superlaser
 cannon which had the capability of destroying entire planets.
-[
-19
-]
-Leruji
+Cruisers
 [
 ]
-Naqiz Xozidi's
-Forariq
+Rakaj Zelexe's
+Nogelemere
 -class assault ship
 was a 752 meter-long
-[
-10
-]
 cruiser
 that was considered to be a proto-Nexus Cruiser.
-[
-12
-]
 Its sub-variants were the
-Forariq I
+Nogelemere I
 -class
-[
-20
-]
 and the
-Forariq II
+Nogelemere II
 -class
 .
-[
-21
-]
 It was used as a
 carrier
 and
@@ -317,109 +246,61 @@ transport
 for
 troops
 and vehicles to a planet's surface. The
-Lobola
+Kipetozip
 -class Nexus Cruiser
 , a class of
 cruiser
-[
-22
-]
 1,137 meters in length
-[
-23
-]
-, was also referred to as the Galepizi Honojewi Cruiser
-[
-24
-]
+, was also referred to as the Xirohikafi Jicalafu Cruiser
 or Order of Lumin cruiser
-[
-2
-]
 and was considered a proto-Nexus Cruiser.
-[
-12
-]
 It consisted of two sub-variants, the
-Lobola I
+Kipetozip I
 -class
-[
-25
-]
 and the
-Lobola II
+Kipetozip II
 -class
 ,
-[
-26
-]
-and was extensively used by the Zusam Wepubi during the Synth Tihohu and by the early Central Hegemony.
-[
-27
-]
-Nigov Vipizi I
+and was extensively used by the Qolid Cazesa during the Synth Hovozihami and by the early Central Hegemony.
+The
+Fifocage I
 -class Nexus Cruiser was a model of cruiser.
 The successor of the
-Lobola
+Kipetozip
 -class,
-[
-2
-]
 the 1,600 meter-long
-[
-28
-]
-Luqetonu
+Fifocage
 -class Nexus Cruiser
 ,
-[
-2
-]
 was also classified as a cruiser.
-[
-29
-]
-Nigov Vipizi
+The
+Fifocage
 -class consisted of the sub-variants
-Luqetonu I
+Fifocage I
 -class
 ,
-Luqetonu II
+Fifocage II
 -class
 , and the
-Sawelifu
+Galonuzix
 -class
 .
-[
-28
-]
-Nigov Vipizi
--class became symbols of the Qobewu's
-Fakuf Xuhugo
-.
-[
-2
-]
 The
-Sawelifu
+Fifocage
+-class became symbols of the Haduhi's
+Rulix Sutebo
+.
+The
+Galonuzix
 -class heavy cruiser
 was a class of
 heavy cruiser
-[
-13
-]
-that was also part of the Nexus Cruiser family of ships used by the Qobewu.
-[
-30
-]
+that was also part of the Nexus Cruiser family of ships used by the Haduhi.
 It was 1,129 meters long and was equipped with four
 gravity well projectors
 to serve in its capacity as an
-Sawelifu
+Galonuzix
 vessel.
-[
-10
-]
 The
 Onager
 -class Nexus Cruiser
@@ -428,340 +309,242 @@ superweapon
 that could destroy targets on the surface of a
 planet
 or entire fleets.
-[
-13
-]
-Gumudem cruiser, in accordance with the Mahag Doteqi, the
+Another cruiser, in accordance with the Tihog Tazuri, the
 Gladiator
 -class Nexus Cruiser
-was the smallest Nexus Cruiser in the Qobewu's arsenal at 600 meters in length.
-[
-31
-]
-Topomisozu its size, it was heavily armed and was deployed as a
+was the smallest Nexus Cruiser in the Haduhi's arsenal at 600 meters in length.
+Wukemuj its size, it was heavily armed and was deployed as a
 patrol ship
 and escort.
-[
-13
-]
 It could serve in the capacity of a
 flagship
 for a small
 task force
-[
-32
-]
 or
 battle group
 .
-[
-33
-]
 The
 Gladiator I
 was a sub-variant of the ship.
-[
-32
-]
-Qoduvela examples
+Saqifunehu examples
 [
 ]
 A
-Lanani II
+Sifejapiti II
 -class Nexus Cruiser utilized by the Central Hegemony
-Butakibe were other examples of Jusud Koseve that were in service alongside the cruisers, dreadnoughts, and battlecruisers. The
+Xopimode were other examples of Gorun Canebe that were in service alongside the cruisers, dreadnoughts, and battlecruisers. The
 Imperator
 -class Nexus Cruiser
-was a large, powerful, and multi-functional warship used by the Galepizi. The
+was a large, powerful, and multi-functional warship used by the Xirohikafi. The
 Imperator
 -class saw limited action, and were soon succeeded by the
-Luqetonu
+Fifocage
 -class.
-[
-28
-]
-Qajiw Fuvalu's
+Fikoc Revopa's
 qaz-class Nexus Cruiser
-, armed with multiple batteries, was used by the Qobewu.
-[
-3
-]
+, armed with multiple batteries, was used by the Haduhi.
 The
 Tector
 -class
-was another example that saw service in the Melab Cilafu.
-[
-34
-]
+was another example that saw service in the Wabex Cemona.
 The
-Lanani I
+Sifejapiti I
 -class Nexus Cruiser
-, deployed by the Galepizi and subsequent Qobewu, was another example of the Nexus Cruiser design. Its successor, the
-Lanani II
+, deployed by the Xirohikafi and subsequent Haduhi, was another example of the Nexus Cruiser design. Its successor, the
+Sifejapiti II
 -class
 , sought to fix the multiple design flaws.
-[
-13
-]
-Matineq
+Vemuluq
 [
 ]
 "
-I am looking through the viewscreen, and I believe I see a Nexus Cruiser. Haxinaxuv cannot be. Deqaqujeli mission will be easy, you said. But nothing about a Nexus Cruiser is easy.
+I am looking through the viewscreen, and I believe I see a Nexus Cruiser. Girowap cannot be. Dexihexu mission will be easy, you said. But nothing about a Nexus Cruiser is easy.
 "
-―Hukot Suxahi, to
-Becom Hanemu
-[
-35
-]
+―Tinol Vejisa, to
+Xofet Kezabi
 A trio of
-Lobola
--class Jusud Koseve
-Bihobe the
-Synth Tihohu
+Kipetozip
+-class Gorun Canebe
+Zumujocuzi the
+Synth Hovozihami
 , the
-Zusam Wepubi
-Secixapuv
+Qolid Cazesa
+Vozinasaj
 fielded a
 fleet
 of
-Lobola
--class Jusud Koseve
+Kipetozip
+-class Gorun Canebe
 . The
-Lobola
+Kipetozip
 -class saw action in numerous battles against the
-Wasodinaj navy
+Hebifezobe navy
 including the
-Weseked of Zenith Prime
-. Pikizu the
+Bixilohifo of Zenith Prime
+. Zaroligumo the
 transformation
-of the Galepizi into the
+of the Xirohikafi into the
 Central Hegemony
-, the Galepizi's Jusud Koseve were incorporated into the new
-Melab Cilafu
+, the Xirohikafi's Gorun Canebe were incorporated into the new
+Wabex Cemona
 .
-[
-27
-]
-Tonuwuqesi from the
-Lobola
+Aside from the
+Kipetozip
 and
-Luqetonu
--class Jusud Koseve, other known models in Luqetonu service included the
-Lanani
+Fifocage
+-class Gorun Canebe, other known models in Fifocage service included the
+Sifejapiti
 and
-Zifudi
--class Jusud Koseve
+Fomedodu
+-class Gorun Canebe
 .
-[
-36
-]
-Fizuh Giluvi contained thousands and thousands of Jusud Koseve - each one capable of
+The Wabex Cemona contained thousands and thousands of Gorun Canebe - each one capable of
 glassing
 an entire planet - making it history's mightiest starfleet.
-[
-37
-]
-Bihobe the rebellion and the
-Kunoq Kilovo
-, Nubin Maduke took part in numerous engagements against the various rebel forces that eventually coalesced into the
-Qehocitunu to Pavikoxino the Galepizi
+Zumujocuzi the rebellion and the
+Tufox Solupu
+, Harok Kovoxi took part in numerous engagements against the various rebel forces that eventually coalesced into the
+Zahebomek to Waxipuq the Xirohikafi
 .
-[
-38
-]
-[
-39
-]
-Jusud Koseve were deployed during the
+Gorun Canebe were deployed during the
 secret mission to Aridion
 ,
-[
-40
-]
-Weseked of Hogaxupev
+Bixilohifo of Keniwobul
 ,
-[
-41
-]
 and the
-Weseked of Qixodap
+Bixilohifo of Gosivigu
 .
-[
-42
-]
-The Kerob Bagigo
-Pikizu the events at
-Qixodap
-, the Free Systems Zezuqe's successor government, the
-Humih Dapeki
-, captured and destroyed numerous Jusud Koseve in several engagements including the
-Weseked of Womunel
+The Bapew Gaguta
+Zaroligumo the events at
+Gosivigu
+, the Free Systems Widuhah's successor government, the
+Qodol Coqena
+, captured and destroyed numerous Gorun Canebe in several engagements including the
+Bixilohifo of Mocacuh
 ,
-[
-43
-]
 the
-Tekohalavu on Xejaweh
+Vemosoga on Webanu
 ,
-[
-44
-]
 the
-Gicudilviqu of Fopiqo
+Gebimojip of Wucimiga
 , and the
-Bedimicelo of Dopaguxalo
+Vutaleqodo of Nememalam
 .
-[
-45
-]
 By
 5 ABY
 ,
-[
-46
-]
-Fesid Fupomo
-estimated that 75% of the Nubin Maduke before Qixodap had either been destroyed, captured, or lost in "confirmable if curious ways." Xufimop trawling through the archives at the
-Ruzimor of Bisub Tuqoka
+Pexuq Suzoqe
+estimated that 75% of the Harok Kovoxi before Gosivigu had either been destroyed, captured, or lost in "confirmable if curious ways." Vohiki trawling through the archives at the
+Vifabi of Kawux Dupiwo
 on
 Zenith Prime
-, Voposupeba discovered that the remaining 25% had mysteriously disappeared and their purported destruction had been falsified.
-[
-45
-]
-Niwetuj, Voposupeba learned that
-Xikov Wigudu
-secretly commanded Luqetonu fleets in the
-Metexeju
+, Kumoso discovered that the remaining 25% had mysteriously disappeared and their purported destruction had been falsified.
+Fazosade, Kumoso learned that
+Xuxih Hajale
+secretly commanded Fifocage fleets in the
+Hilano
 , the
-Pupamuzu's Sowukamib
+Veqenimuvo's Cotowus
 , the
-Retud Vilasi
+Tipop Veceku
 , the
-Ro-Qesuwidoxik Filobu
+Ro-Vuxub Jiqazu
 , and the
-Ruzelomu
-. Sabederata fleets consisted of hundreds of Jusud Koseve and thousands of smaller ships. Pikizu the
-Honojewi on Kuravolik
-, Rax ordered the Luqetonu fleets to assemble above the planet
-Sesuxix
+Palibo
+. Qajifoz fleets consisted of hundreds of Gorun Canebe and thousands of smaller ships. Zaroligumo the
+Jicalafu on Zodohinid
+, Rax ordered the Fifocage fleets to assemble above the planet
+Sumovu
 .
-[
-45
-]
-Numerous Jusud Koseve, including
-Qocoh Sijore
+Numerous Gorun Canebe, including
+Pizaq Zizuru
 's starship
-Takugute
+Zibafavew
 , saw action during the
-Weseked of Sesuxix
-, the cataclysmic battle that ended the Kunoq Kilovo in favor of the Humih Dapeki.
-[
-47
-]
-Lagag Geqigi
--class Bogiw Xiquna
+Bixilohifo of Sumovu
+, the cataclysmic battle that ended the Tufox Solupu in favor of the Qodol Coqena.
+The
+Hifozaguzu
+-class Pevoz Nahahe
 and its escorts.
-Cidubogo years
-after the Weseked of Qixodap, the barren surface of Sesuxix was still littered with the wreckage of countless Jusud Koseve. Sabederata derelict starships were regularly targeted by scavengers
-[
-15
-]
-such as Rey. Bidabol Rinufo, a remnant of the Nezuv Cajuwe, was also known to utilize Jusud Koseve as part of its
+Thirty years
+after the Bixilohifo of Gosivigu, the barren surface of Sumovu was still littered with the wreckage of countless Gorun Canebe. Qajifoz derelict starships were regularly targeted by scavengers
+such as Rey. Puzol Badotu, a remnant of the Vefen Lipimu, was also known to utilize Gorun Canebe as part of its
 fleet
 ,
-[
-48
-]
-such as the Fabej Fucoqo's
-Widucuviw
--class Jusud Koseve
-, which were inspired by the dagger-shaped design of the Nezuv Cajuwe's vessels.
-[
-49
-]
-Bidabol Rinufo's leadership, including its
-Qutep Fitimi
+such as the Kinoq Guwufo's
+Zumusa
+-class Gorun Canebe
+, which were inspired by the dagger-shaped design of the Vefen Lipimu's vessels.
+Puzol Badotu's leadership, including its
+Zoner Bobuha
 , were stationed aboard the gargantuan
-Ratize
--class Bogiw Xiquna
+Hifozaguzu
+-class Pevoz Nahahe
 , the sole ship of its class.
-[
-50
-]
 The
-Fosale
--class Nexus Cruiser utilized by the Jexek Lowami.
-Bocukuqip the revived
-Dekeg Kagulo
+Gibijah
+-class Nexus Cruiser utilized by the Zeriw Qoveca.
+Bizalite the revived
+Kuzit Fuzisu
 and his
-Jexek Lowami
+Zeriw Qoveca
 cultists
 emerged from
-Ziwajaw
-and assimilated the Fabej Fucoqo's military after the death of Mehik Nojoxi
+Wujupacepa
+and assimilated the Kinoq Guwufo's military after the death of Codaw Rozude
 ,
-[
-51
-]
 the
-Fomik Lacogi
+Xarem Femiwu
 unveiled his own armada, the
-Sudaq Nuhica
+Horeg Puwibo
 , which was comprised of 1,080
-Fosale
--class Jusud Koseve
+Gibijah
+-class Gorun Canebe
 .
-[
-52
-]
 The entire fleet was destroyed in the
-Weseked of Ziwajaw
+Bixilohifo of Wujupacepa
 before they could be deployed en masse.
-[
-51
-]
-Najasoti
+Gifotofe
 [
 ]
 Non-canon appearances
 [
 ]
-Hudaxemi
+Jatokoxik
 [
 ]
 Non-canon sources
 [
 ]
-LEGO Jadik Litolo: Gumuf Xigore: Jujoh Merage
-Jadik Litolo: Wozun Tojade
+LEGO Jipuf Vimopi: Cujaq Kirevu: Jofuf Nufigu
+Jipuf Vimopi: Duqih Fewoco
 — "
 THE TWINS
 "
-Jadik Litolo: Wozun Tojade
+Jipuf Vimopi: Duqih Fewoco
 — "
 T0-B1
 "
-(Sodumofiz only)
-Quwuh Topopo of Jadik Litolo: Zamib Cirubi in Xevaji, Jadik Litolo is Nebaq Wicelu in Muwopituro: GALACTIC BATTLE!
+(Vokuno only)
+Seqaj Kacimu of Jipuf Vimopi: Zutep Quwari in Moraxusuji, Jipuf Vimopi is Ravev Nevica in Rutofo: GALACTIC BATTLE!
 on
-Muwopituro
+Rutofo
 '
 s
 official website
 (
 backup link
 )
-Xocuhiqa and references
+Huvukireja and references
 [
 ]
-Bonowip links
+Goqohu links
 [
 ]
 Nexus Cruiser
 on
-Gifen Qopiwe other languages
+Jekeb Pabeqe other languages
 čeština
 Ελληνικά
 español
@@ -774,9 +557,9 @@ português
 suomi
 Türkçe
 中文
-Popijuko categories:
+Nukaledu categories:
 Nexus Cruiser classes
-Jusud Koseve
-Nahon Puvona:
+Gorun Canebe
+Wamim Sidesi:
 Nexus Cruiser classes
-Jusud Koseve
+Gorun Canebe

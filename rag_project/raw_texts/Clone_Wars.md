@@ -5,9 +5,6 @@ Clone Wars
 Designed by the Dark Lord of the Sith, this web is. For now, play his game, we must.
 "
 ―Jedi Grand Master Yoda
-[
-61
-]
 The
 Clone Wars
 (
@@ -347,18 +344,12 @@ Link
 (
 file info
 )
-[
-62
-]
 The Old Republic collapsed amidst the conflict between the Jedi Order and the Sith Order.
 The origins of the Clone Wars dated back to the
 time
 of the
 Old Republic
 ,
-[
-63
-]
 which reigned over a
 millennium
 prior to the war. That era marked a
@@ -366,9 +357,6 @@ dark age
 in
 galactic
 history,
-[
-1
-]
 as the
 Sith
 battled their ancient enemies, the
@@ -376,17 +364,8 @@ Jedi
 , for control of
 the galaxy
 .
-[
-64
-]
 The Sith suffered from infighting,
-[
-65
-]
 which ultimately led to their defeat at the hands of the Jedi, but although the Jedi believed they had vanquished their foes,
-[
-62
-]
 the Sith had merely retreated into hiding.
 Darth Bane
 , the last surviving
@@ -398,15 +377,9 @@ master
 and an
 apprentice
 .
-[
-65
-]
 Operating in the shadows, the Sith accumulated power and influence in preparation for the endgame of their
 grand plan
 : galactic domination and revenge against the Jedi.
-[
-8
-]
 From the remnants of the Old Republic, a modern Galactic Republic was formed. For the first time, a
 Galactic Senate
 afforded
@@ -416,21 +389,12 @@ worlds
 and
 star systems
 . The Old Republic's armed forces were disbanded,
-[
-1
-]
 leading the
 Jedi Order
 to assume a peacekeeping role within the Republic, serving at the behest of the Senate and its
 Supreme Chancellor
 .
-[
-62
-]
 Over time, the Senate incurred notoriety for its stagnant bureaucracy and corruption,
-[
-66
-]
 and rifts emerged as the central
 Core Worlds
 —including the Republic's capital,
@@ -438,9 +402,6 @@ Coruscant
 —became reputed for their willingness to exploit the resources of the outlying
 Outer Rim Territories
 .
-[
-1
-]
 Adding to the morass of bureaucracy and inaction was the fact that corporate blocs such as the
 Trade Federation
 , the
@@ -448,13 +409,7 @@ InterGalactic Banking Clan
 , and the
 Techno Union
 were granted Senate representation alongside the Republic's member worlds.
-[
-55
-]
 Nearly a thousand years into the Republic's reign,
-[
-15
-]
 Darth Sidious
 became the ruling Dark
 Lord
@@ -480,9 +435,6 @@ Padmé Amidala
 of Naboo into calling for a
 Vote of No Confidence
 in Valorum's leadership.
-[
-62
-]
 After the Jedi nearly eradicated them, the Sith withdrew into the shadows, plotting their revenge.
 The Senate thereafter elected Palpatine as Valorum's successor, and the Jedi Order aided the
 Royal Naboo Security Forces
@@ -497,13 +449,9 @@ Jedi High Council
 to suspect the existence of a second
 Sith Lord
 .
-[
-62
-]
-Now the Supreme Chancellor, Palpatine was seen as a crusading reformer in the face of the Republic's failings, while three of those major failings—the maze of bureaucracy, the lack of any formal military, and weak central power—were showcased to the galaxy at large. Additionally, thanks to the Invasion of Naboo, Palpatine was able to vilify galactic corporations, which helped lead to the Separatist government. Though an open war was still ten years away, the fight for Naboo had served as the first spark of the Clone Wars in a number of ways.
-[
-52
-]
+Now the Supreme Chancellor, Palpatine was seen as a crusading reformer in the face of the Republic's failings, while three of those major failings—the maze of bureaucracy, the lack of any formal military, and weak central power—were showcased to the galaxy at large.
+Additionally, thanks to the Invasion of Naboo, Palpatine was able to vilify galactic corporations, which helped lead to the Separatist government.
+Though an open war was still ten years away, the fight for Naboo had served as the first spark of the Clone Wars in a number of ways.
 The creation of the clone army
 [
 ]
@@ -517,9 +465,6 @@ Tell me, Prime Minister, when my Master first contacted you about the army, did�
 Of course he did. This army is for the Republic.
 "
 ―Lama Su and Obi-Wan Kenobi on Sifo-Dyas's role in creating the clone army
-[
-15
-]
 Jedi Master Sifo-Dyas became a pawn in the Sith's plan to create a clone army for the Galactic Republic.
 Sidious found a replacement for Maul in
 Count Dooku
@@ -534,19 +479,10 @@ army
 of
 soldiers
 ,
-[
-15
-]
 who would eventually serve as their executioners. Furthermore, the conflict would destabilize the Republic and render it vulnerable to the Sith takeover.
-[
-8
-]
 Prior to the Invasion of Naboo, the Jedi High Council dismissed one of its members, Master
 Sifo-Dyas
 , due to his unorthodox belief that the Republic would need to raise an army for a full-scale conflict that he had foreseen.
-[
-61
-]
 Undeterred, Sifo-Dyas contacted the
 Kaminoans
 , a
@@ -554,9 +490,6 @@ species
 reputed for its
 cloning
 industry, and ordered the production of a clone army on behalf of the Republic. In so doing, Sifo-Dyas circumvented both the Senate and the High Council, purporting to have the support of the former.
-[
-15
-]
 When the Sith discovered the existence of the clone army, they went to extreme lengths to hijack the project. At the time, then-Chancellor Valorum asked Sifo-Dyas to oversee
 confidential negotiations
 between the Republic and the
@@ -568,9 +501,6 @@ Coruscant Underworld
 . Unaware of Valorum's request, the High Council separately dispatched Sifo-Dyas to resolve a tribal dispute on the planet
 Felucia
 .
-[
-61
-]
 Sifo-Dyas never reached Felucia, and the resulting events became enmeshed in a web of subterfuge that took the Jedi Order many years to unravel. Dooku, as Tyranus, betrayed his friend by hiring the
 Pykes
 to
@@ -585,9 +515,6 @@ Oba Diah
 attaché
 Silman
 , who had accompanied him on the mission, survived the attack. The Pykes delivered Sifo-Dyas's corpse to Tyranus, but covertly kept Silman hostage as potential leverage in the future. The Jedi Order, meanwhile, believed Sifo-Dyas to have died on Felucia after he failed to negotiate peace between the local tribes.
-[
-61
-]
 Jango Fett was chosen by the Sith to become the genetic template of the clone army.
 After seizing control of the cloning project, the Sith selected the renowned
 bounty hunter
@@ -595,15 +522,9 @@ Jango Fett
 as the
 genetic template
 for their army.
-[
-15
-]
 Chief Medical Scientist
 Nala Se
 served as one of the project's main engineers.
-[
-38
-]
 On the Kaminoan home-world of
 Kamino
 , Fett provided both genetic samples and training for his so-called
@@ -615,9 +536,6 @@ troops
 was ready within a
 decade
 of Sifo-Dyas's original order.
-[
-15
-]
 Sifo-Dyas wanted an
 inhibitor chip
 implanted in the
@@ -625,25 +543,13 @@ brain
 of each Clone, as a safeguard against rogue Jedi. However, Dooku and Sidious retooled the chips in order to ensure the Jedi's destruction. Posing as a Jedi, Dooku presented the chip to the Kaminoan
 scientists
 and deceived them into believing the chips were designed to preclude aggression within each subject, as well as that Sifo-Dyas had ordered the installation of the chips
-[
-67
-]
 as a countermeasure against betrayal from rogue Jedi.
-[
-38
-]
 In truth, the chips would force each clone to comply with
 Protocol 66
 , a directive for the soldiers to execute their Jedi
 commanders
 for being perceived traitors to the Republic.
-[
-67
-]
 Thus, the Sith would be able to massacre the entire Jedi Order via its subordinate soldiers.
-[
-8
-]
 Separatist Crisis
 [
 ]
@@ -654,9 +560,6 @@ I will not let this Republic that has stood for a thousand years be split in two
 If they do, you must realize there aren't enough Jedi to protect the Republic. We're keepers of the peace, not soldiers.
 "
 ―Sheev Palpatine and Mace Windu
-[
-15
-]
 Main article:
 Separatist Crisis
 Count Dooku recruited the majority of the galaxy's trade guilds to join the Confederacy of Independent Systems.
@@ -669,71 +572,29 @@ HoloNet relay
 station in the
 Raxus system
 and berated the Republic with condemning rhetoric. Over the next two years,
-[
-1
-]
 a
 Separatist Crisis
 arose when thousands of
 star
 systems seceded from the Republic and flocked to the Confederacy.
-[
-66
-]
-[
-68
-]
 The Separatist Crisis sent the Republic into a frenzy, particularly as Dooku repeatedly spurned Palpatine's public requests for negotiation.
-[
-1
-]
 The Republic Senate soon became divided over the passage of a
 Military Creation Act
 . Advocates of the bill argued that the Republic required a military force to defend itself from the Separatists, whereas others such as now-Senator Padmé Amidala believed that the measure would provoke full-scale civil war between the Republic and the Confederacy. Such a war became increasingly inevitable,
-[
-15
-]
 with the Sith Lords poised to lead both sides of the approaching conflict that would tear the galaxy asunder.
-[
-8
-]
 Fearful that such meetings would grant the CIS state legitimacy, the Republic Senate also declared it illegal under
-[
-55
-]
 the
 Republic Senate non-communication law
-[
-40
-]
 for Republic representatives to meet with Separatists in formal talks.
-[
-55
-]
 By 22 BBY,
-[
-12
-]
 the Sith had nearly completed preparations for open conflict between the Republic and the Confederacy. Nominally the Confederacy functioned as a democracy,
-[
-68
-]
 and delegates from its myriad member worlds formed a
 Separatist Senate
 ,
-[
-55
-]
 though in truth it was ruled by the Sith.
-[
-8
-]
 At the same time, the galaxy's major corporations pledged their support and resources to the Confederacy, and their leaders thereby earned seats on Dooku's
 Separatist Council
 .
-[
-15
-]
 Its members included
 Chairman
 San Hill
@@ -764,12 +625,6 @@ Tikkes
 of
 Mon Cala
 .
-[
-69
-]
-[
-14
-]
 Nute Gunray's condition for joining the Separatist Council was that Amidala be killed in revenge for her humiliating defeat of him at the Battle of Naboo. Jango Fett and his associate,
 Zam Wesell
 , undertook the
@@ -797,9 +652,6 @@ Rishi Maze
 , and traveled there as part of his
 investigation
 into Amidala's assailant.
-[
-15
-]
 Obi-Wan Kenobi's discovery of the clone army on Kamino precipitated the opening battle of the Clone Wars.
 When Kenobi arrived at Kamino's capital of
 Tipoca City
@@ -815,15 +667,9 @@ City
 with his son, an unaltered clone whom he named
 Boba
 , and fled to
-[
-15
-]
 the Confederate capital of
 Geonosis
 .
-[
-70
-]
 Kenobi tracked the Fetts and, after engaging in a
 starfighter dogfight
 that led them to believe him dead, followed them to the planetary surface. There, he discovered that the
@@ -835,23 +681,14 @@ droid foundries
 . He also witnessed a meeting between Dooku and the Separatist Council, discovering that they were preparing to merge their resources into a
 Separatist Droid Army
 . The Geonosians thereafter captured Kenobi, though not before he sent a message to Skywalker.
-[
-15
-]
 Skywalker was with Amidala on the nearby world of
 Tatooine
 and relayed Kenobi's message to Coruscant, where Palpatine and the High Council heard the news that the commerce guilds had joined the Confederacy. Against the Council's orders, Amidala and Skywalker rushed to rescue Kenobi on Geonosis. While Kenobi was in his
 custody
 , Dooku claimed that the entire Republic was under the sway of a Dark Lord of the Sith named Darth Sidious, and tried to persuade Kenobi to help him destroy the Sith. Kenobi refused, and after Amidala and Skywalker were similarly captured, the Geonosians sentenced all three of them to execution in
-[
-15
-]
 the
 Petranaki Arena
 .
-[
-14
-]
 Despite Kenobi's report that the Confederacy was raising an army, Senator
 Bail Organa
 of
@@ -862,30 +699,15 @@ Jar Jar Binks
 of Naboo motioned that the Senate grant emergency powers to Palpatine, who could then use his newfound authority to formally approve the creation of a
 Grand Army of the Republic
 . Though Palpatine promised to relinquish his emergency powers once the crisis had passed,
-[
-15
-]
 that was never to be the case.
-[
-8
-]
 While Master Yoda traveled to Kamino to marshal the clone troopers for the Grand Army, Master
 Mace Windu
 assembled an
 assault team
-[
-15
-]
 of 212 Jedi,
-[
-71
-]
 drawn from the Masters of the High Council and the Order's ranks of Knights and Padawans, to save Kenobi from
 imprisonment
 on Geonosis. The galaxy teetered on the brink of civil war.
-[
-15
-]
 The war
 [
 ]
@@ -899,17 +721,11 @@ First Battle of Geonosis
 This is just the beginning!
 "
 ―Dooku
-[
-15
-]
 Main article:
 First Battle of Geonosis
 Mace Windu and his allies held out long enough for Yoda to arrive with the clone troopers of the Grand Army.
 The
 Battle of Geonosis
-[
-23
-]
 commenced when Windu and his Jedi strike team infiltrated the Petranaki arena to save Amidala, Kenobi, and Skywalker from gladiatorial combat with three beasts: an
 acklay
 , a
@@ -925,30 +741,15 @@ B2 super battle droids
 , and
 droidekas
 against the Jedi. During the ensuing ground battle,
-[
-15
-]
 Council member
 Coleman Trebor
-[
-72
-]
 came within
 seconds
 of ending the conflict when he nearly managed to kill Dooku, but Jango Fett gunned him down before he could do so. Windu thereafter beheaded Fett, an act that would earn him the ire of his son, Boba. Within a short span, only Amidala, Kenobi, Skywalker, Windu, and a fraction of their Jedi allies were still standing. With his battle
 droids
 encircling the ring of survivors, Dooku demanded their unconditional surrender, but Windu refused to allow himself and his comrades to become hostages.
-[
-15
-]
 Just as Windu and the other survivors were about to be executed, Yoda swept in with reinforcements, the Grand Army of the Republic:
-[
-15
-]
 192,000 clone troopers
-[
-70
-]
 aboard
 Acclamator
 -class transgalactic military assault ships
@@ -967,31 +768,16 @@ Kit Fisto
 , and many others immediately accepted command positions and led the clone troopers into battle against the Separatist Droid Army, working to decimate the enemy infantry and prevent the Techno Union's
 Hardcell transports
 from escaping. While Yoda proceeded to the Republic's forward command center, Windu oversaw an assembly area,
-[
-15
-]
 where Clone Commander
 Ponds
-[
-73
-]
-[
-74
-]
 handed him command of five special
 commando
 units.
-[
-15
-]
 Colonel
 Meebur Gascon
 and other top strategists from
 Republic High Command
 advised the Grand Army on its battlefield tactics.
-[
-75
-]
 A frenetic offensive ensued, as the Republic's
 All Terrain Tactical Enforcers
 went head-to-head with the Separatists'
@@ -1019,9 +805,6 @@ was docked. En route to the hangar, Dooku crossed paths with Amidala, Kenobi, an
 Nantex
 -class territorial defense starfighters
 retaliated, Amidala was dislodged from the gunship, while Kenobi and Skywalker pursued the Count.
-[
-15
-]
 Beginning on Geonosis, the Clone Wars soon spread to countless worlds across the galaxy.
 When Kenobi and Skywalker reached the hangar, Dooku defeated them in a
 lightsaber duel
@@ -1032,13 +815,7 @@ squad
 of clone troopers were unable to shoot down Dooku's
 solar sailer
 . Although Dooku and the Separatist Council had escaped with their forces, the Republic declared victory in the Battle of Geonosis.
-[
-15
-]
 The beginning of the Clone Wars shifted the balance of the Force itself.
-[
-76
-]
 Dooku secretly traveled to Coruscant, where he met with Darth Sidious and reported that the intergalactic conflict which they had worked to instigate was finally underway. Though Kenobi believed that the clone troopers had been instrumental to the Republic's victory on Geonosis, Yoda knew that it was not a victory: The Clone Wars had begun. From Coruscant, the Republic deployed tens of thousands of clone troopers and a
 fleet
 of
@@ -1046,21 +823,12 @@ warships
 and assault craft, which formed the
 Republic Navy
 , as part of its war machine.
-[
-15
-]
 The Confederacy, meanwhile, moved its capital from Geonosis
-[
-70
-]
 to the planet
 Raxus Secundus
 , which served as the
 headquarters
 of the Separatist Senate.
-[
-55
-]
 Conflict spreads
 [
 ]
@@ -1071,110 +839,47 @@ I have to admit that without the clones, it would not have been a victory.
 Victory? Victory, you say, Master Obi-Wan? Not victory. The shroud of the dark side has fallen. Begun, the Clone War has.
 "
 ―Obi-Wan Kenobi and Yoda, following the Battle of Geonosis
-[
-15
-]
 The Grand Army became the backbone of the Republic's growing war effort against the Confederacy.
 As the Clone Wars engulfed world after world across the galaxy
-[
-77
-]
 incredibly quickly, Amidala's
 handmaiden
 Dormé
 suspected the Confederacy had its forces lying in wait on the impression the events on Geonosis would end in a Separatist triumph, only for the Republic's own forces to be able to confront the CIS.
-[
-78
-]
 Windu also suspected the Separatists were moving to establish a foothold in the Outer Rim and then move inwards to the Core, eventually having enough strength to strike at Coruscant itself. As such, the Republic was forced to move forces into the Rim to prevent the Confederacy from completing a foothold that they could push in with.
-[
-79
-]
 Furthermore, in practice, the Separatists knew that they would not have to win every battle; instead, they understood victory could be achieved by making the conflict too costly—in both financial
-[
-13
-]
 and personnel terms
-[
-23
-]
 —for the Republic to continue it.
-[
-13
-]
 The Confederacy's corporate sponsors began an economic strangulation of the Republic,
-[
-17
-]
 just as
 Governor
 Wilhuff Tarkin
 of the planet
 Eriadu
 had foreseen,
-[
-1
-]
 but the CIS's corporate backers also publicly distanced themselves from the new power. Claiming themselves neutral,
-[
-17
-]
 they continued their business with the Republic in the name of war profiteering from both sides.
-[
-80
-]
 In total truth, corporations like the Trade Federation and Techno Union—thanks to their actions during the war—were almost entirely open in their support of the Separatist cause, yet the neutrality claim managed to stand throughout the war.
-[
-17
-]
 The Jedi were forced to relinquish their traditional roles as peacekeepers
-[
-77
-]
 in favor of military commands within the Grand Army of the Republic. Knights and Masters accepted the new rank of
 Jedi General
 . Even Padawans contributed to the Republic's war effort, serving as
 Jedi Commanders
 on the battlefield
-[
-23
-]
 at the suggestion of Palpatine.
-[
-81
-]
 Among the newly promoted Jedi Generals was Anakin Skywalker, whom the Jedi High Council elevated to Knighthood.
-[
-23
-]
 Unbeknownst to his colleagues, Skywalker had secretly
 married Padmé Amidala
 following the Battle of Geonosis,
-[
-15
-]
 a relationship that would have repercussions for the entire war.
-[
-8
-]
 Amidala and Skywalker were also involved in a
 mission to Nooroyo
 between the Battle of Geonosis and their wedding, during which they escaped Gunray's forces when the Viceroy arrived for in person negotiations over
 Nooroyo
 's spice export.
-[
-78
-]
 To satisfy the Republic's increased demand for troops, Kamino continued its production and training of clone troopers. In turn, the Republic Navy blockaded Kamino,
-[
-82
-]
 and the Grand Army established a network of
 listening posts
 to monitor Separatist activity in the vicinity.
-[
-83
-]
 Due to the death of Jango Fett, the Kaminoan scientists stretched the preexisting samples of his
 DNA
 in order to
@@ -1190,23 +895,11 @@ Bric
 and
 El-Les
 to help supervise the clones' combat instruction.
-[
-82
-]
 The clones quickly started to show signs of individuality, which only improved their effectiveness.
-[
-78
-]
 General Grievous and Asajj Ventress served as Dooku's primary agents and assassins.
 The Republic attracted both internal and external criticism for its use of clone troopers, whom some viewed as
 slaves
 to the Jedi.
-[
-21
-]
-[
-84
-]
 One trooper deserted from the Grand Army after the Confederacy
 annihilated
 his unit; he fled to the planet
@@ -1214,23 +907,14 @@ Saleucami
 , where he took the name
 Cut Lawquane
 with a family.
-[
-85
-]
 On the other hand, the Separatist citizenry took pride in the fact that
 officers
 in the
 Confederacy military
 were willing participants, while its armed forces mainly sacrificed expendable battle droids for their cause.
-[
-21
-]
 At the same time, the Confederate populace was insulated from reports of war crimes that were committed in its name. The primary cause of the carnage was General
 Grievous
 ,
-[
-86
-]
 a
 warlord
 -turned-
@@ -1238,41 +922,20 @@ cyborg
 from
 Kalee
 who oversaw the Droid Army
-[
-14
-]
 and would lead its numbers to many victories over the course of the war.
-[
-87
-]
 In addition to Grievous, Dooku recruited another agent as his
 lieutenant
 and
 emissary
 :
-[
-88
-]
 Asajj Ventress
 , a slave-turned-Jedi from
 Dathomir
 who fell to the
 dark side of the Force
 and became Dooku's apprentice.
-[
-31
-]
 Though Grievous and Ventress developed a long-standing rivalry,
-[
-30
-]
 both were motivated by a deep-seated hatred for the Jedi Order.
-[
-21
-]
-[
-29
-]
 Grievous and Ventress made a habit of claiming as trophies the
 lightsabers
 of their fallen Jedi victims, and Dooku collected the pilfered weapons in his
@@ -1284,9 +947,6 @@ Tholme
 , whom she bested in combat during a
 major campaign
 . She elected to slay Tholme rather than accept his surrender.
-[
-21
-]
 The outbreak of the Clone Wars shifted the balance of power on numerous worlds. Since the Separatist Crisis, a
 schism
 had fractured the
@@ -1306,30 +966,18 @@ Koorivar
 ,
 Gossams
 , and other Confederate-allied species immigrated to Antar 4. The resulting political crisis on the moon gave rise to one of the Republic's first resistance cells. Gotal and Koorivar loyalists executed numerous acts of sabotage against the Separatist regime, with the Republic covertly sponsoring their guerrilla campaign. Despite their efforts, the Confederacy retained control of Antar 4 throughout the war.
-[
-1
-]
 The Confederacy captured the planet Lola Sayu early in the war.
 Early in the Clone Wars,
-[
-89
-]
 the Confederacy
 seized
 the Outer Rim world of
 Lola Sayu
 ,
-[
-14
-]
 the site of the infamous Republic prison known as the
 Citadel
 . The Citadel had been constructed five
 centuries
 earlier to hold Jedi who turned against the Republic. The Separatists converted the facility into a prisoner-of-war camp, using it to house Republic captives.
-[
-89
-]
 The Separatists also invaded
 Millius Prime
 , one of the thousand moons of the remote planet
@@ -1341,9 +989,6 @@ asteroid field
 with a
 security grid
 of laser emitters that trapped its residents on the surface.
-[
-90
-]
 Various battles
 [
 ]
@@ -1358,21 +1003,9 @@ Omega
 asking
 Tech
 about the war
-[
-91
-]
 With the war spread across the galaxy, many planets and parts of space were left to become battlegrounds,
-[
-92
-]
 creating numerous fronts.
-[
-91
-]
 With the conflict's nature as a galaxy-wide war, many such fronts could all be active at the same time.
-[
-92
-]
 Over the course of the Clone Wars, planets swept up in the conflict included
 Akiva
 , where a Confederate
@@ -1380,9 +1013,6 @@ droid factory
 turned the planet into a
 battlefield
 between the Jedi and the Separatists;
-[
-93
-]
 and
 Sedratis
 , which hosted the
@@ -1394,29 +1024,17 @@ Huulik
 proved instrumental in securing a Republic victory over the Confederacy's
 droid starfighter
 forces.
-[
-94
-]
 During the war, a number of manufacturers converted
 freighters
 and
 transports
 into combat vessels. New vehicles loaded with weapons were also made.
-[
-14
-]
 During the conflict, because repair facilities were often heavily damaged during battles,
 Nomad
 starships would arrive in star systems after the fleets had departed and the fighting was over. The Nomads would help the local population with repairs to compensate for the damaged facilities.
-[
-95
-]
 The
 Wookiees
 fought for the Republic in several systems.
-[
-96
-]
 Battle droids under General Grievous clash with Republic clone troopers on one of the war's many battlefronts.
 At one point, a
 battle
@@ -1430,9 +1048,6 @@ collided with a
 Munificent
 -class star frigate
 .
-[
-97
-]
 One Confederate officer
 , the
 husband
@@ -1445,17 +1060,11 @@ new base
 on the planet
 Aargonar
 from Republic forces.
-[
-55
-]
 During a space battle at one point, clone pilot
 Sicko
 piloted a LAAT/i gunship towards a force of
 vulture droid starfighters
 , allowing the gunship's crew to take out many of the droids.
-[
-98
-]
 Under the command of General
 Darrus Jeht
 , the
@@ -1468,9 +1077,6 @@ Battle of Kromus
 and later the
 Battle of Cularin
 .
-[
-99
-]
 The
 Humbarine sector
 saw heavy fighting during the war, with its capital planet
@@ -1478,9 +1084,6 @@ Humbarine
 suffering a
 Separatist bombardment
 that completely seared the world's surface.
-[
-100
-]
 Back and forth of Christophsis
 [
 ]
@@ -1490,37 +1093,19 @@ failure
 . The people of Christophsis and her resources shall join the Separatist Alliance.
 "
 ―Admiral Trench, in a message to his Republic opponents
-[
-56
-]
 Main article:
 Battle of Christophsis
 In the immediate aftermath of the Battle of Geonosis, Grievous and the Separatist Droid Army wrested control of the galaxy's major
 hyperspace lanes
 , isolating the Republic from the bulk of its Grand Army.
-[
-23
-]
 Encircled by the Confederacy
-[
-50
-]
 and with their forces spread thin, the Jedi Generals were unable to gain traction in the Outer Rim Territories, especially as worlds continued to flock to the Confederacy.
-[
-23
-]
 As the next phase of the Clone Wars began,
-[
-50
-]
 the
 Hutt Clan
 —which controlled
 Hutt Space
 with its network of supply routes reaching to the Outer Rim—became a coveted ally for both the Republic and the Confederacy.
-[
-23
-]
 Anakin Skywalker's and Trench's fleets exchange heavy fire over Christophsis.
 In a bid to secure the Hutts' supply routes for the Separatists, Dooku hatched a plot to kidnap
 Rotta
@@ -1532,15 +1117,9 @@ Ziro
 , who hoped to depose his nephew as leader of the Hutt Clan. The first stage of Dooku's plan required that the Jedi's attention be diverted elsewhere; to that end, Dooku ordered his forces to conquer
 Christophsis
 ,
-[
-23
-]
 a
 crystalline
 Outer Rim world valued for its location and resources,
-[
-101
-]
 and also the site of a Republic relief effort overseen by Senator Bail Organa. The Confederate
 Admiral
 Trench
@@ -1548,15 +1127,9 @@ blockaded
 Christophsis with a massive detachment from the
 Confederacy navy
 , while Separatist ground forces subjugated the planet's inhabitants.
-[
-56
-]
 After a number of native
 Christophsians
 mounted a futile defense of their homeworld, they requested aid from the Jedi High Council.
-[
-84
-]
 Jedi Generals Obi-Wan Kenobi and Anakin Skywalker, alongside Admiral
 Wullf Yularen
 , were dispatched with a task force to
@@ -1570,23 +1143,11 @@ to outmaneuver Trench and obliterate his
 flagship
 , the
 Invincible
-[
-56
-]
 (although Trench narrowly survived his
 dreadnought's
 vaporization and later returned to active duty
-[
-102
-]
 ). Having broken through the blockade, Skywalker and Yularen delivered the much-needed relief supplies to Organa's refugee camp on the surface, while Kenobi exploited the hole in the Confederate armada to overwhelm the opposing fleet
-[
-56
-]
 long enough to land a Republic invasion force on the planet. The Separatists likewise fortified their ground troops with reinforcements, concealing their true numbers from the Republic.
-[
-84
-]
 By this time, Dooku had dispatched Asajj Ventress to Christophsis to further hamper the Republic's progress. As Kenobi and Skywalker planned to ambush the battle droid forces in a major city plaza, a
 spy
 within the Republic ranks,
@@ -1603,41 +1164,20 @@ Rex
 personally launched an investigation into the source of the intelligence leak. After they exposed Slick as the spy, he bombed the Republic's weapons depot, leading Rex and Cody to mobilize a swift manhunt. They arrested Slick and sent him to lock-up, though the damage was already done. Most of the Republic's arsenal was reduced to wreckage, with only a quartet of
 AV-7 Anti-vehicle Artillery Cannons
 surviving his sabotage.
-[
-84
-]
 At the
 Confederate headquarters
 , Kenobi and Skywalker encountered Ventress and engaged her in a lightsaber duel,
-[
-23
-]
 which she used to buy time for Slick's sabotage.
-[
-103
-]
 Both Jedi halted their attack once they witnessed the sheer size of the Separatists' landing force. After Kenobi and Skywalker escaped back to their base, General
 Whorm Loathsom
 assumed command of the droid infantry and commenced an assault on the city, while Ventress left to execute the next phase of Dooku's plan:
-[
-84
-]
 for everything that the world had been able to offer the Confederacy,
-[
-56
-]
 Dooku elected to turn the battle for Christophsis into little more than a distraction, ordering Ventress to depart to carry out the kidnapping Rotta the Huttlet while Loathsom's forces distracted the Republic via the continued Christophsian campaign. She traveled to Tatooine aboard her personal
 starship
 , the
 Trident
 , and spirited Rotta away from his homeworld.
-[
-23
-]
 In addition to Slick's sabotage of their weapons depot,
-[
-84
-]
 the Republic forces lost their
 naval
 support when the Separatists'
@@ -1651,9 +1191,6 @@ Armored Assault Tanks
 . Meanwhile, believing that renegades had kidnapped Rotta, Jabba contacted Sheev Palpatine to request the Republic's assistance in rescuing his son. Since Kenobi and Skywalker were the only Jedi available for such a task, Yoda dispatched a messenger to Christophsis to recall the two Jedi Generals from the battlefront. The messenger was Skywalker's new Padawan learner,
 Ahsoka Tano
 .
-[
-23
-]
 Yoda arrives on Christophsis to relay new orders to Obi-Wan Kenobi, Anakin Skywalker, and Ahsoka Tano.
 Yularen briefly returned to Christophsis aboard his flagship, the
 Resolute
@@ -1662,21 +1199,12 @@ shuttle
 , then withdrew to rendezvous with reinforcements from the Republic Navy. Tano reached Kenobi and Skywalker just as they were preparing defenses for the next droid attack. Due to the continued lack of support from the Republic Navy, Kenobi and Skywalker remained trapped on-world with their troops, unable to comply with Yoda's order to return to Coruscant. Loathsom mounted another strike on the Republic forces, this time utilizing a mobile
 deflector shield
 to maintain a perimeter just beyond his advancing droid troops. The shield rendered the AV-7 Anti-vehicle Cannons useless, forcing the Jedi and clones to devise another strategy.
-[
-23
-]
 While Kenobi and Rex scrambled their men in a last-ditch defense of the city, and Kenobi feigned surrender to buy time for Skywalker and Tano to infiltrate the Separatist lines and destroy the
 shield generator
 , exposing droids to renewed barrages from the AV-7 Anti-Vehicle Cannons, and forcing Loathsom to capitulate. The Republic victory coincided with the arrival of naval reinforcements led by Yularen and Yoda, who smashed the Separatist blockade and drove it into retreat. Even as Yularen's fleet deployed infantry reinforcements to aid the invasion force in securing Christophsis, much of the planet remained in ruins.
-[
-23
-]
 The Republic, meanwhile, imprisoned Loathsom on Coruscant for
 treason
 .
-[
-14
-]
 Alliance with the Hutt Clan
 [
 ]
@@ -1693,16 +1221,10 @@ Link
 (
 file info
 )
-[
-23
-]
 Main article:
 Battle of Teth
 Torrent Company wages a vertical assault to reach the B'omarr Order Monastery on Teth.
 All while a number of new battles rocked the Outer Rim,
-[
-23
-]
 Ventress brought the captive Rotta to an abandoned
 B'omarr Order Monastery
 on the
@@ -1710,9 +1232,6 @@ jungle
 planet
 Teth
 ,
-[
-14
-]
 located in
 Wild Space
 , and fortified the site with two full
@@ -1724,44 +1243,33 @@ Advanced Recon Force Scout Troopers
 tracked Rotta to Teth, Skywalker and Tano proceeded there with
 Captain
 Rex and
-[
-23
-]
 Torrent Company
 ,
-[
-104
-]
 Rex's command
 unit
 within the Grand Army's famed
 501st Legion
 ,
-[
-105
-]
 to rescue the Huttlet. Kenobi, meanwhile, entered into negotiations with Jabba, who granted the Republic a single
 planetary rotation
 to save Rotta and return him safely to Tatooine.
-[
-23
-]
 As the monastery sat perched atop a cliff, Skywalker, Tano, and Torrent Company were forced to mount a
 vertical assault
 , relying on
 ascension cables
-and a pair of AT-TE walkers to reach the fortress at the summit. Though they lost one of their AT-TE walkers and endured numerous casualties, the Jedi and clones broke through the Separatist droid defenses and retrieved Rotta from the monastery's detention level. However, Tano discovered that Rotta was severely ill, jeopardizing their chances of delivering him to Tatooine alive. Skywalker suspected Dooku's involvement in the kidnapping, given that both the Republic and the Confederacy sought an alliance with the Hutt Clan.
-[
-23
-]
+and a pair of AT-TE walkers to reach the fortress at the summit.
+Though they lost one of their AT-TE walkers and endured numerous casualties, the Jedi and clones broke through the Separatist droid defenses and retrieved Rotta from the monastery's detention level.
+However, Tano discovered that Rotta was severely ill, jeopardizing their chances of delivering him to Tatooine alive.
+Skywalker suspected Dooku's involvement in the kidnapping, given that both the Republic and the Confederacy sought an alliance with the Hutt Clan.
 Unbeknownst to the Jedi, Ventress used the
 protocol droid
 4-A7 to record Skywalker and Tano as they retrieved Rotta. Ventress transmitted the
 holorecording
-to Dooku, who presented it to Jabba as evidence that the Jedi were responsible for Rotta's abduction. After persuading Jabba to consider joining the Confederacy, Dooku ordered Ventress to recover Rotta so that they could claim credit for his rescue. Marshaling her assault force of battle droids, Ventress mounted a counter-strike on the monastery, swiftly crushing the Republic's last AT-TE walker and remaining assault craft. With no means of escape, Rex, Skywalker, and Tano barricaded themselves inside the monastery's antechamber with Rotta and Torrent Company. While Rex remained behind with Torrent Company to hold off Ventress and her droid infantry, Skywalker and Tano departed with Rotta to find a secondary exit from the monastery.
-[
-23
-]
+to Dooku, who presented it to Jabba as evidence that the Jedi were responsible for Rotta's abduction.
+After persuading Jabba to consider joining the Confederacy, Dooku ordered Ventress to recover Rotta so that they could claim credit for his rescue.
+Marshaling her assault force of battle droids, Ventress mounted a counter-strike on the monastery, swiftly crushing the Republic's last AT-TE walker and remaining assault craft.
+With no means of escape, Rex, Skywalker, and Tano barricaded themselves inside the monastery's antechamber with Rotta and Torrent Company.
+While Rex remained behind with Torrent Company to hold off Ventress and her droid infantry, Skywalker and Tano departed with Rotta to find a secondary exit from the monastery.
 Despite their best efforts, Rex and his men were vastly outnumbered, and the battle droids slew all of them save for Rex and five other troopers. The droids held the clone survivors prisoner in the compound's eastern courtyard. Nonetheless, it was not long before Kenobi arrived at Teth with
 Commander
 Cody and a detachment of reinforcements. After punching through the Separatists' aerial
@@ -1773,9 +1281,6 @@ freighter
 called the
 Twilight
 .
-[
-23
-]
 Asajj Ventress duels Obi-Wan Kenobi on Teth.
 When Kenobi entered the monastery in search of Skywalker, he instead crossed lightsabers with Ventress. Upon learning that Skywalker had escaped with Rotta, Ventress broke off from her duel with Kenobi and fled the battlefield. Meanwhile, Skywalker and Tano piloted the
 Twilight
@@ -1790,9 +1295,6 @@ cruiser
 's main hangar. Unable to dock with Yularen's flagship, Skywalker and Tano headed directly to Tatooine aboard the
 Twilight
 .
-[
-23
-]
 Cementing an alliance
 [
 ]
@@ -1805,15 +1307,13 @@ Jabba's Palace
 to personally kill Rotta, which would ensure he was never reunited with his
 father
 . All the while, Palpatine used the sudden eruption of the Battle of Teth, along with the several other concurrent engagements in the Rim, to justify a series of new security measures on Naboo.
-[
-23
-]
 On Coruscant, Padmé Amidala—having wanted to meet with Palpatine to discuss Naboo's new security measures—received word of the Jedi's ongoing efforts to return Rotta to Tatooine. Concerned for her husband's safety after learning Jabba blamed him for the kidnapping, she became determined to convince Jabba of the truth and broker the Republic's treaty with the Hutt Clan. Because Jabba was refusing all communication with the Republic, Amidala visited Ziro the Hutt, who lived in a
 palace
-on Coruscant. After Ziro rebuffed her attempt to reopen dialogue between the Hutts and the Republic, Amidala lingered around the palace and witnessed Ziro contact Dooku via hologram. Dooku informed Ziro that thanks to the Sith's web of deceit, Jabba would kill the Jedi when they arrived at his palace on Tatooine, after which the Republic would be forced to arrest Jabba. Accordingly, Ziro would be able to seize his nephew's control of the Hutt Clan. However, Ziro discovered Amidala eavesdropping on the conversation, and on Dooku's advice, he incarcerated Amidala within his palace.
-[
-23
-]
+on Coruscant.
+After Ziro rebuffed her attempt to reopen dialogue between the Hutts and the Republic, Amidala lingered around the palace and witnessed Ziro contact Dooku via hologram.
+Dooku informed Ziro that thanks to the Sith's web of deceit, Jabba would kill the Jedi when they arrived at his palace on Tatooine, after which the Republic would be forced to arrest Jabba.
+Accordingly, Ziro would be able to seize his nephew's control of the Hutt Clan.
+However, Ziro discovered Amidala eavesdropping on the conversation, and on Dooku's advice, he incarcerated Amidala within his palace.
 As Skywalker and Tano arrived over Tatooine with Rotta aboard the
 Twilight
 , a pair of Confederate
@@ -1828,23 +1328,14 @@ intercepted her outside the compound. Skywalker abandoned his confrontation with
 astromech droid
 R2-D2
 , Tano defeated her MagnaGuard assailants and reunited Rotta with his father. In spite of the Jedi's efforts, Jabba remained determined to execute Skywalker and Tano, and he ordered his bounty hunters to do so.
-[
-23
-]
 Padmé Amidala convinces Jabba Desilijic Tiure of the truth, paving the way for a Hutt Clan–Republic treaty.
 Back on Coruscant, Amidala was able to send word of her capture to the Republic via her
 protocol droid
 ,
 C-3PO
 .
-[
-23
-]
 Clone Commander
 Fox
-[
-106
-]
 immediately responded with a squad of
 clone shock troopers
 from the
@@ -1856,39 +1347,15 @@ holoprojector
 to contact Jabba, who received her message just as he was about to have Skywalker and Tano killed. Jabba was incensed to learn of Dooku and Ziro's conspiracy to unseat him, but he agreed to end all hostilities with the Jedi. Jabba subsequently signed a
 treaty
 with the Republic and granted the Grand Army its exclusive, long-awaited access to Hutt Space's supply routes. At the same time, Kenobi finished securing the Republic's victory on Teth and headed to Tatooine with Yoda, so that they could formalize the treaty with Jabba.
-[
-23
-]
 The Republic's alliance with the Hutt Clan resulted in a major setback for the Confederacy. Yet, Darth Sidious remained unconcerned, downplaying the impact of the Jedi's victory after Dooku apprised him of the news.
-[
-23
-]
 Nonetheless, the treaty also posed problems for the Republic, as making formal treaties with the Hutts ended up legitimizing their businesses,
-[
-107
-]
 which the treaty also allowed to spread into the Mid Rim.
-[
-108
-]
 Beyond the cartel lawyers masterfully editing the proposed treaties to give the Hutts unmitigated access to Republic intel,
-[
-107
-]
 the treaty also saw the Hutts confirm that their organizations would stay out of the war and only work as non-combatants, while the Republic was forced to promise it would not bring the fighting into Hutt territory despite having secured their cooperation
-[
-108
-]
 and hyperlanes.
-[
-23
-]
 The Republic incarcerated Ziro within the
 Judiciary Central Detention Center
 on Coruscant, and his lengthy sentence caused him to develop a deep resentment toward Amidala.
-[
-4
-]
 The war reaches Ryloth
 [
 ]
@@ -1900,22 +1367,13 @@ will
 die if no aid comes to them.
 "
 ―Orn Free Taa, the senator of Ryloth, appeals to Toydaria's King Katuunko for aid
-[
-109
-]
 Jedi General Ima-Gun Di was the last survivor of the Republic's initial battle group on Ryloth.
 The
 Twi'lek
 homeworld of
 Ryloth
 became the next major battlefront of the Clone Wars when the Techno Union invaded the planet,
-[
-24
-]
 aiming to pillage its wealth and resources.
-[
-46
-]
 The Separatist navy installed a
 blockade
 of
@@ -1925,14 +1383,8 @@ food
 and relief supplies and thus began to starve. In response, political activist
 Cham Syndulla
 founded
-[
-109
-]
 a
 Twi'lek Resistance
-[
-110
-]
 to combat the Confederate occupation. Jedi General
 Ima-Gun Di
 , Clone Captain
@@ -1944,9 +1396,6 @@ Dao
 's Republic
 fleet
 , severing the Republic's supply lines to Ryloth and trapping Di, Syndulla, and their men in a canyon alongside many Twi'lek families.
-[
-109
-]
 With Ryloth in dire need of aid, the Jedi High Council prepared a shipment of food and medical supplies for the Twi'leks. Yet, because the Republic's
 Pelta
 -class frigates
@@ -1960,30 +1409,23 @@ Katuunko
 , the monarch of the
 Toydarians
 .
-[
-109
-]
 Thanks to Dod's intervention, Katuunko publicly
 declined
-to have Toydaria sponsor the Republic's humanitarian shipment to Ryloth. However, Katuunko privately agreed to let Organa transfer his supplies from Toydaria to Ryloth. To prevent the Trade Federation from learning of the subterfuge, Binks distracted Dod and his staff at a formal banquet that night, while Organa oversaw the shipment's departure from Toydaria. By that time, the Separatist Droid Army had nearly overrun the Republic's defenses on Ryloth. Di, Keeli, and their men sacrificed their lives so that Syndulla and his comrades could escape from the canyon with their families. Shortly thereafter, the Republic's trio of
+to have Toydaria sponsor the Republic's humanitarian shipment to Ryloth.
+However, Katuunko privately agreed to let Organa transfer his supplies from Toydaria to Ryloth.
+To prevent the Trade Federation from learning of the subterfuge, Binks distracted Dod and his staff at a formal banquet that night, while Organa oversaw the shipment's departure from Toydaria.
+By that time, the Separatist Droid Army had nearly overrun the Republic's defenses on Ryloth.
+Di, Keeli, and their men sacrificed their lives so that Syndulla and his comrades could escape from the canyon with their families.
+Shortly thereafter, the Republic's trio of
 Pelta
 -class
 frigates
 penetrated the Confederate blockade and deployed their relief supplies to the Twi'leks. Nevertheless, the Grand Army's inability to provide further military support to the Twi'lek Resistance eroded Syndulla's faith in the Republic.
-[
-109
-]
 Without reinforcements from the Republic, only Syndulla and his Twi'lek Resistance stood against the Separatist occupation of Ryloth. The Twi'leks suffered heavily in a confrontation with the Droid Army, and the Separatists forced the freedom fighters to surrender and disarm themselves. Still, the droid infantry continued to massacre the Twi'lek fighters, leading them to carve out hideouts in the shells of downed Confederate
 C-9979 landing craft
 . Syndulla and his rebels resorted to executing a guerrilla campaign, periodically eliminating battle droid patrols in the region. For the time being, the Twi'leks were left to wage the ongoing Battle of Ryloth on their own.
-[
-46
-]
 King Katuunko aligned Toydaria with the Republic after Yoda defeated Asajj Ventress on Rugosa.
 Organa and Binks's determination to help the Twi'leks of Ryloth convinced Katuunko to consider bringing Toydaria into the Republic.
-[
-109
-]
 Since the Jedi Order hoped to establish a supply base in the
 Toydaria system
 , Master Yoda sought a
@@ -2007,13 +1449,11 @@ Jek
 and
 Rys
 .
-[
-88
-]
-To circumvent a political debate with Yoda, Ventress proposed a contest. She would send her best troops to capture Yoda, who would face the challenge of evading apprehension. Katuunko, accordingly, would consider aligning Toydaria with the side of the victor. Although Katuunko was loath to subject Yoda to such a trial, Yoda accepted Ventress's terms and promised to arrive at their location by nightfall. Though they gravely lacked an advantage in numbers, Yoda and his troopers prevailed over Ventress's battalion of battle droids, even after she reneged on her agreement with Katuunko—first by ordering her droids to shoot to kill, and later by deploying droidekas as reinforcements.
-[
-88
-]
+To circumvent a political debate with Yoda, Ventress proposed a contest.
+She would send her best troops to capture Yoda, who would face the challenge of evading apprehension.
+Katuunko, accordingly, would consider aligning Toydaria with the side of the victor.
+Although Katuunko was loath to subject Yoda to such a trial, Yoda accepted Ventress's terms and promised to arrive at their location by nightfall.
+Though they gravely lacked an advantage in numbers, Yoda and his troopers prevailed over Ventress's battalion of battle droids, even after she reneged on her agreement with Katuunko—first by ordering her droids to shoot to kill, and later by deploying droidekas as reinforcements.
 When Katuunko informed Dooku of his desire to join the Republic, Dooku commanded his apprentice to assassinate Katuunko. Yoda and his men arrived just in time to save Katuunko, with Yoda using
 the Force
 to halt Ventress's
@@ -2023,9 +1463,6 @@ centimeters
 from Katuunko's throat. Instead of surrendering, Ventress distracted Yoda by detonating pre-planted explosives near Katuunko's starship, the
 Thief's Eye
 . While Yoda's focus was consumed with telekinetically redirecting the incoming rubble, Ventress took the opportunity to escape aboard her solar sailer. In the wake of Yoda's victory, Katuunko formally pledged Toydaria's support to the Republic and agreed to host a base in his system. He and his delegation thereafter departed from Rugosa alongside Yoda and his soldiers.
-[
-88
-]
 Rise of the
 Malevolence
 [
@@ -2037,9 +1474,6 @@ This mystery weapon has struck in a dozen systems, and disappeared without a tra
 We cannot afford to lose any more ships, my friends.
 "
 ―Mace Windu and Sheev Palpatine
-[
-25
-]
 Main article:
 Malevolence Campaign
 Grievous's flagship, the
@@ -2048,15 +1482,9 @@ Malevolence
 The Confederacy military wasted no time in developing new projects for its war machine. One result was the
 Malevolence
 ,
-[
-25
-]
 a colossal
 Subjugator
 -class heavy cruiser
-[
-14
-]
 that became the prized flagship of General Grievous. The
 Malevolence
 '
@@ -2069,9 +1497,6 @@ turbolaser
 fire. Because the
 Malevolence
 left behind no witnesses, the Republic citizenry dubbed the unidentified threat Grievous's "mystery weapon," sowing fear throughout the Republic.
-[
-25
-]
 The Jedi High Council soon sent one of its members, General
 Plo Koon
 , to hunt down Grievous's weapon. Koon and his
@@ -2094,9 +1519,6 @@ aboard
 Droch
 -class boarding ships
 after them.
-[
-25
-]
 Both Chancellor Palpatine and the Jedi Council were reluctant to spare resources on a search for survivors of Koon's fleet. However, Anakin Skywalker and Ahsoka Tano—whose fleet was stationed in the nearby
 Bith system
 —took it upon themselves to do so. When they reached the Abregado system aboard the
@@ -2115,9 +1537,6 @@ Twilight
 Malevolence
 '
 s next victims. Dooku was greatly displeased by Grievous's failure to prevent their escape.
-[
-25
-]
 With the veil over Grievous's mystery weapon lifted, the Senate commissioned Skywalker and the Republic Navy's
 Shadow Squadron
 of
@@ -2157,9 +1576,6 @@ Naboo
 . Yet, they were unable to clear out all of the patients before the
 Malevolence
 completed its targeting cycle.
-[
-111
-]
 Shadow Squadron intercepts the
 Malevolence
 before it can destroy the Kaliida Shoals Medical Center.
@@ -2181,21 +1597,12 @@ Malevolence
 to retreat, setting course for Confederate
 space
 .
-[
-111
-]
 The Separatists dispatched a fleet of reinforcements to aid the beleaguered
 Malevolence
 , but Jedi General
 Luminara Unduli
-[
-112
-]
 and
 her own fleet
-[
-113
-]
 intercepted
 them before they could reach the Kaliida Nebula. Even without those reinforcements, the
 Malevolence
@@ -2210,9 +1617,6 @@ Malevolence
 . The tactic worked as Dooku had predicted, with Skywalker ordering the Republic fleet's
 gunnery
 teams to stand down in order to protect his wife.
-[
-112
-]
 While Koon, Tano, and Yularen remained behind to command the fleet, Skywalker and Kenobi mounted a rescue mission to save Amidala. After using the
 Twilight
 to dock with the
@@ -2229,9 +1633,6 @@ Malevolence
 aboard the
 Twilight
 , but Grievous pursued with a squadron of vulture droids.
-[
-112
-]
 It was not long before Skywalker's sabotage came to light. Instead of jumping to hyperspace, the
 Malevolence
 collided with a nearby moon. Disgraced, Grievous fled from the battlefield aboard his personal
@@ -2239,31 +1640,16 @@ starship
 ,
 Soulless One
 . Thanks to that turn of events, the Republic claimed victory in
-[
-112
-]
 the Battle of the Kaliida Nebula,
-[
-14
-]
 ending the threat of the
 Malevolence
 .
-[
-112
-]
 A few months later, Unduli would come face-to-face with Grievous on
 Nadiem
 out in the Outer Rim.
-[
-113
-]
 In the mean time, however, Grievous would largely manage to stay out of the Republic's sight, being spotted in the
 Balmorra system
 but then remaining off the Republic's radar for weeks.
-[
-83
-]
 War for resources
 [
 ]
@@ -2277,31 +1663,13 @@ Attack on Atraken
 I just received word, Sim—the clones have those clankers surrounded. This latest Separatist incursion will be contained within hours! Once they're done mopping up here, our boys can advance all the way to Ukio. Maybe in time to reopen the old kern route before the harvest. That would be a right boon.
 "
 ―Fond Dachris, to Sim Aloo
-[
-114
-]
 As the conflict ground on, it became apparent the Clone Wars was also a war for resources, given the economic toll using clone troopers and battle droids was. As such, economically important worlds became home to multiple battles.
-[
-115
-]
 The planet of
 Ukio
 had left the Republic during the Separatist Crisis,
-[
-50
-]
 but it was
-[
-115
-]
 ultimately taken back
-[
-50
-]
 by the Republic at some point; due to its usefulness as a granary, Ukio was of interest to both sides.
-[
-115
-]
 The farmer
 Fond Dachris
 had hope that the Grand Army would claim Ukio shortly after its victory on his own argiworld,
@@ -2311,50 +1679,23 @@ Separatist incursion
 . Noomis Riga suffered several such incursions during the war, with Dachris' fellow farmer
 Sim Aloo
 taking advantage of the carnage by making himself a notable ally of the Republic military. He reported the Republic-loyal Dachris as a Separatist sympathizer and murdered him as part of his plan to claim his neighbor's farm and expand his power.
-[
-114
-]
 The Confederacy also cut off agricultural trade routes leading to Coruscant, leaving to entire levels suffering from starvation and, in the minds of the Republic citizenry, justifying their government in striking back against the Confederacy.
-[
-17
-]
 Atraken
 and
 Khorm
 were also sought by the Republic and CIS, as they both were home to natural mineral resources.
-[
-115
-]
 The
 Battle of Khorm
 was fought at some point after the Battle of Abregado.
-[
-14
-]
 General Skywalker and Clone Commander Wolffe led the Republic in the battle,
-[
-116
-]
 while Asajj Ventress was present for the Separatists. During a close encounter between the two,
-[
-117
-]
 Wolffe lost his right eye to Ventress,
-[
-116
-]
 which forced him to wear a
 cybernetic
 replacement.
-[
-14
-]
 Atraken, meanwhile, would eventually suffer an
 brutal attack
 as the war dragged on. The battle technically ended as a Republic victory, but millions were killed in the fighting, and the whole world was left uninhabitable.
-[
-118
-]
 Battle over Rishi Station
 [
 ]
@@ -2371,19 +1712,10 @@ Link
 (
 file info
 )
-[
-83
-]
 Main article:
 Defense of Rishi Station
 Concurrent to a period of escalation for the conflict in the Outer Rim, which forced the Republic to rush out new formations of clones before their training was truly complete and assign them out-of-the-way tracking station jobs, the intelligence-gathering arms of the Republic
-[
-83
-]
 and Confederate war machines became sources of contention
-[
-26
-]
 over the following
 weeks
 . When Grievous targeted Kamino, he knew that the Grand Army's system of listening posts in the vicinity could impede his efforts. To that end, Grievous dispatched a stealth team of
@@ -2409,22 +1741,13 @@ separate campaign
 on the planet
 Mimban
 .
-[
-83
-]
 Commander Cody, Hevy, and Fives defend Rishi Station from Grievous's second wave of droid infantry.
 In the aftermath of the Separatists' takeover of Rishi Station, Commander Cody and Captain Rex arrived there on a scheduled inspection of the base and were warned of the danger by a flare used by the remaining Clones. After the droid commandos destroyed their
 shuttle
 ,
-[
-83
-]
 the
 Obex
 ,
-[
-119
-]
 Cody and Rex fled from the outpost. They soon encountered the remaining survivors of the earlier attack: troopers
 Echo
 ,
@@ -2432,32 +1755,17 @@ Hevy
 , and
 Fives
 . Though the rookie soldiers had barely seen any combat action, Cody and Rex rallied them to retake Rishi Station, and they managed to overpower the squad of droid commandos. Yet, their victory was short-lived. Upon losing contact with the droid commandos, Grievous deployed troop reinforcements to ensure that Rishi Station remained under his control.
-[
-83
-]
 With time running out, Rex decided that instead of trying to disable the all-clear signal, they should destroy Rishi Station. Though Rex's plan was the nuclear option, the cessation of the beacon would alert the Republic fleet to Grievous's invasion. To destroy Rishi Station, Echo suggested the idea of using the outpost's supply of liquid
 tibanna
 , a highly explosive
 fuel
 that served as a heat source during the moon's long winter. While Cody, Fives, and Hevy defended the station's main entrance from the incoming battle droids, Rex and Echo linked a trio of
-[
-83
-]
 PLNK-series power droids
 ,
-[
-70
-]
 which contained the liquid tibanna, to a detonation system. When Rex encountered problems with the detonator's handset, Hevy remained behind to repair it, while his comrades escaped to the crags beneath the station. However, Hevy was unable to repair the remote, so he chose to manually activate the explosives.
-[
-83
-]
 Thanks to Hevy's
 sacrifice
 , the destruction of Rishi Station disabled the alert beacon. Anakin Skywalker, Obi-Wan Kenobi, and Wullf Yularen subsequently arrived in the Rishi system with a Republic fleet. Knowing his armada lacked the tactical advantage, Grievous conceded defeat and withdrew his forces from the system. After the battle, Kenobi and Skywalker honored Echo and Fives for their efforts, as well as the late Hevy for his sacrifice. Furthermore, Rex inducted Echo and Fives into the 501st Legion.
-[
-83
-]
 Intelligence and counterintelligence
 [
 ]
@@ -2478,9 +1786,6 @@ Kenobi
 Split up your squadrons, Anakin. Find that base and destroy it.
 "
 ―Obi-Wan Kenobi, Ahsoka Tano, and Anakin Skywalker
-[
-26
-]
 Main article:
 Skytop Station campaign
 Though the Republic won the Battle of Bothawui, the loss of R2-D2 posed a major threat to its intelligence system.
@@ -2489,9 +1794,6 @@ Skytop Station
 , a core ship that they converted into a listening post in the
 Ruusan system
 . Skytop Station plagued the Republic's intelligence network by intercepting various transmissions and acquiring vital data for the Confederacy military.
-[
-120
-]
 In the midst of this subterfuge, Grievous achieved a
 series of victories
 that jeopardized the Republic's foothold in the Outer Rim. He
@@ -2501,25 +1803,13 @@ Falleen
 on his way to conquer
 Bothawui
 , a strategic world
-[
-26
-]
 in the
 Mid Rim
 .
-[
-121
-]
 Rex, Skywalker, and Ahsoka Tano thereafter mobilized a Republic task force in defense of Bothawui.
-[
-26
-]
 During the ensuing
 Battle of Bothawui
 ,
-[
-122
-]
 Rex outflanked Grievous's flotilla using a squad of AT-TE walkers that he had hidden within Bothawui's
 asteroid field
 . Skywalker and
@@ -2531,9 +1821,6 @@ Soulless One
 , Skywalker instead lost his personal astromech droid, R2-D2, after debris hit his
 Delta-7B interceptor
 . In spite of Grievous's escape, the Republic forces nonetheless emerged victorious at Bothawui.
-[
-26
-]
 The loss of R2-D2 had potentially catastrophic consequences for the Republic. Since Skywalker had never
 wiped
 R2-D2's
@@ -2542,25 +1829,13 @@ memory
 scavenger
 Gha Nachkt
 found R2-D2 and promised the droid to Grievous. When Skywalker and Tano searched Nachkt's freighter,
-[
-26
-]
 the
 Vulture's Claw
 ,
-[
-123
-]
 they failed to find R2-D2 amidst Nachkt's wares. Adding to Skywalker's problems was the fact that his replacement astromech,
 R3-S6
 ,
-[
-26
-]
 was a spy droid for Grievous.
-[
-124
-]
 Once the Republic's intelligence confirmed the existence of the Confederacy's new listening post, Skywalker received orders from Kenobi to find and eliminate the base. While his fleet scoured a targeted region of space, Skywalker elected to undertake a solo
 scouting mission
 to sweep the area's outer corridor. Yet, once Skywalker and R3-S6 were alone in the former's
@@ -2572,23 +1847,14 @@ homing beacon
 , leading Grievous and a pair of warships directly to their location. It was only due to the timely intervention of Rex and Tano, who hurriedly assembled a squad of soldiers and arrived aboard the
 Twilight
 , that Skywalker narrowly escaped demise at Grievous's hands.
-[
-26
-]
 As Nachkt brought R2-D2 to Skytop Station, the
 Twilight
 intercepted a transmission from the missing droid. Rex tracked the signal to Skytop Station's location in the upper
 atmosphere
 of
-[
-124
-]
 one of the planet
 Ruusan
 's three moons.
-[
-120
-]
 Although Kenobi ordered him to eradicate Skytop Station without rescuing R2-D2, Skywalker made retrieving his droid one of the
 mission's
 top priorities. While Rex, Tano, and their strike team planted
@@ -2596,31 +1862,16 @@ thermal detonators
 at the facility's
 reactor
 , Skywalker recovered R2-D2 before Grievous's IG-100 MagnaGuards could abscond with the droid. However, R3-S6 delayed Rex, Tano, and their squad of troopers at the reactor room long enough for Skytop Station's security patrols to confront them.
-[
-124
-]
 Aboard Skytop Station, Ahsoka Tano saves Captain Rex from General Grievous.
 Though Tano and her allies repelled the battle droids, their troubles were far from over. Grievous ambushed them, murdering most of the clone troopers in the process. Tano subsequently engaged Grievous in a lightsaber duel so that Rex and the other surviving soldier,
-[
-124
-]
 Denal
 ,
-[
-120
-]
 could finish installing the explosives at the reactor. Once they had done so, Denal and Rex rendezvoused with Skywalker, R2-D2, and the
 Twilight
 in Skytop Station's main hangar. There, R3-S6 revealed his true allegiances by sealing the exits and activating a trio of vulture droids, thus preventing Rex and Skywalker from aiding Tano in her confrontation with Grievous.
-[
-124
-]
 At Skywalker's behest, Rex activated the explosives at the reactor, plunging Skytop Station on a descent into the moon's lower atmosphere. Once R2-D2 opened the hangar door from an exterior terminal, Tano arrived—having broken off from her duel with Grievous—and escaped with Denal, Rex, and Skywalker aboard the
 Twilight
 . Before they left the Ruusan system, Skywalker personally retrieved R2-D2, who had eliminated R3-S6. Grievous also escaped, though the loss of Skytop Station became yet another blemish on his career.
-[
-124
-]
 Separatist leadership targeted
 [
 ]
@@ -2637,13 +1888,7 @@ Link
 (
 file info
 )
-[
-125
-]
 As the Clone Wars entered a stalemate,
-[
-126
-]
 several important members of the Confederacy found themselves in the Republic's crosshairs. One such leader was Nute Gunray, who entered into a brief alliance with Senator
 Onaconda Farr
 of
@@ -2655,9 +1900,6 @@ pirate
 attacks demolished Rodia's inbound supply ships. Consequently, Farr lost faith in the Republic and accepted Gunray's offer to distribute relief supplies to Rodia. In return, Farr helped Gunray capture Padmé Amidala, against whom Gunray still held a grudge, when she came to Rodia on a
 diplomatic visit
 . Though Farr was conflicted about betraying Amidala, he incarcerated his old friend in a local detention tower until Gunray's arrival. However, when Gunray came to collect Amidala, Farr was shocked to learn that Gunray intended to execute her.
-[
-27
-]
 Padmé Amidala and Onaconda Farr arrested Nute Gunray on Rodia, but the Republic's success did not last.
 Although Amidala escaped from the detention tower, complications arose when Gunray's battle droids targeted both her and Jar Jar Binks, who had accompanied her to Rodia. Binks enlisted the aid of a
 large Kwazel Maw
@@ -2665,28 +1907,16 @@ large Kwazel Maw
 Sheathipede
 -class transport shuttle
 . Moreover, Gunray's indifference to the Rodians' suffering, as well as his brutal treatment of Amidala, convinced Farr that joining the Confederacy was a mistake. Farr aided Amidala in arresting Gunray on behalf of the Republic, concluding Rodia's dalliance with the Separatists. Sheev Palpatine thereafter sent the Rodians a convoy of much-needed supplies.
-[
-27
-]
 Under the command of Clone Commander
 Gree
 ,
-[
-27
-]
 the
 41st Elite Corps
-[
-14
-]
 arrived on Rodia to take Gunray into Republic custody. The Jedi High Council dispatched Jedi General Luminara Unduli, alongside Ahsoka Tano, to provide further security for Gunray's transfer to Coruscant, where the viceroy would stand trial. Since Darth Sidious believed that Gunray would not be able to withstand the Jedi's interrogation, Dooku tasked Asajj Ventress with rescuing Gunray. Dooku also paid off Captain
 Faro Argyus
 , the leader of the
 Senate Commando
 detail that had been assigned to Gunray's transfer, to assist in the operation.
-[
-125
-]
 Ventress launched her
 assault
 just as Argyus, Gree, Tano, and Unduli were leaving Rodia with Gunray aboard the Star Destroyer
@@ -2704,36 +1934,21 @@ Green Company
 Tranquility
 '
 s detention level, where she engaged in a brief rematch with Tano,
-[
-125
-]
 since the two had previously crossed blades during the Battle of Teth.
-[
-23
-]
 Though Argyus, Gree, and Unduli came to Tano's aid and prevented Ventress from escaping with Gunray, Ventress used a cache of explosives that she had planted in the
 Tranquility
 '
 s
 engine
 room to disrupt all of the cruiser's onboard systems. When Unduli pursued Ventress to the engine room, Ventress nearly overwhelmed her, and it was only thanks to Tano's assistance that Unduli was able to continue their lightsaber duel.
-[
-125
-]
 As Ventress continued to occupy the Jedi's attention, she signaled Argyus to make his move. Argyus gunned down two of his fellow Senate Commandos who were guarding Gunray, then liberated Gunray from his prison cell. Argyus and Gunray resisted Gree's attempts to stop them and commandeered the
 Consular
 -class frigate that had transferred Gunray to the
 Tranquility
 . Similarly, Ventress stole an escape pod and joined them aboard their frigate, though she executed Argyus when he insinuated that he would take full credit for the operation's success. Nevertheless, Unduli was able to transmit the tracking data for Gunray's frigate to fellow Jedi General Kit Fisto, whose fleet was close to Gunray's last known position.
-[
-125
-]
 Nahdar Vebb and Kit Fisto spearhead an effort to detain Grievous at his private fortress on Vassek's third moon.
 Since Fisto was leading the hunt to recapture Gunray, Dooku saw an opportunity to test one of his agents. Because Grievous's recent defeats had undermined Dooku's faith in him, Dooku arranged a test for his best general. Using the homing beacon from Gunray's frigate, Dooku lured Fisto and his forces to Grievous's personal
 fortress
-[
-126
-]
 on the
 third moon
 of
@@ -2742,38 +1957,33 @@ Vassek
 Outer Rim Command Center
 also monitored Clone Commander
 Fil
-[
-127
-]
 and Jedi Knight
 Nahdar Vebb
 , Fisto's former Padawan, who led a team of troopers to assist in the search for Gunray. Grievous remained unaware of Dooku's plan to reevaluate his performance.
-[
-126
-]
 Fisto, Vebb, and their soldiers
 infiltrated
-Grievous's fortress and eliminated a security detail of battle droids that they incorrectly assumed were protecting Gunray. In lieu of the viceroy, Dooku holographically contacted Fisto and Vebb and offered them an alternative prize. Once they realized that the fortress belonged to Grievous, Fisto and Vebb resolved to capture the elusive general, since Grievous's arrest would be pivotal for the Republic's war effort. Yet, when Grievous returned to his fortress, he proved to be far from easy prey. Grievous temporarily evaded the intruders in his lair, but he was forced to undergo repairs from his
+Grievous's fortress and eliminated a security detail of battle droids that they incorrectly assumed were protecting Gunray.
+In lieu of the viceroy, Dooku holographically contacted Fisto and Vebb and offered them an alternative prize.
+Once they realized that the fortress belonged to Grievous, Fisto and Vebb resolved to capture the elusive general, since Grievous's arrest would be pivotal for the Republic's war effort.
+Yet, when Grievous returned to his fortress, he proved to be far from easy prey.
+Grievous temporarily evaded the intruders in his lair, but he was forced to undergo repairs from his
 medical droid
 ,
-[
-126
-]
 EV-A4-D
 .
-[
-128
-]
 After having his IG-100 MagnaGuards lock down the perimeter, Grievous set about reclaiming the upper hand over his would-be captors. He used his fortress's built-in countermeasures—including an incinerator pit and his pet
 roggwart
 ,
 Gor
-—to assail Fisto, Vebb, and their soldiers. Fil and the rest of his men perished, but Fisto managed to slay the vicious roggwart. Throughout it all, Vebb displayed a growing willingness to use excessive force in response to Grievous's tactics. Matters came to a head when Fisto sneaked into Grievous's control room, and Vebb refused to follow his former Master inside. Instead, Vebb stayed behind to confront Grievous on his own. Unable to help his former Padawan, Fisto could only watch through the surveillance system as Grievous slaughtered Vebb. Before escaping from the moon aboard his
+—to assail Fisto, Vebb, and their soldiers.
+Fil and the rest of his men perished, but Fisto managed to slay the vicious roggwart.
+Throughout it all, Vebb displayed a growing willingness to use excessive force in response to Grievous's tactics.
+Matters came to a head when Fisto sneaked into Grievous's control room, and Vebb refused to follow his former Master inside.
+Instead, Vebb stayed behind to confront Grievous on his own.
+Unable to help his former Padawan, Fisto could only watch through the surveillance system as Grievous slaughtered Vebb.
+Before escaping from the moon aboard his
 Delta-7B interceptor
 , Fisto dueled Grievous and managed to retrieve the late Vebb's lightsaber, which Grievous had claimed as a trophy. Though Grievous had bested Vebb and the clone troopers, Dooku had expected him to do so, and he was not pleased with Grievous's failure to defeat Fisto.
-[
-126
-]
 Dooku's temporary capture
 [
 ]
@@ -2790,9 +2000,6 @@ Skywalker
 And that's if you're lucky.
 "
 ―On Florrum, Obi-Wan Kenobi and Anakin Skywalker verify in person that Dooku is in the Ohnaka Gang's custody
-[
-129
-]
 Dooku was the next Confederate official who became a target for the Republic. As part of a manhunt for the Sith Lord, Anakin Skywalker infiltrated Dooku's current flagship, a
 Munificent
 -class star frigate
@@ -2809,26 +2016,17 @@ Ohnaka Gang
 , a band of pirates, to the nearby world of
 Florrum
 , Kenobi and Skywalker were left stranded on Vanqor, and Tano had to retrieve them from the planet's surface.
-[
-129
-]
 Count Dooku, Anakin Skywalker, and Obi-Wan Kenobi all became hostages of the Ohnaka Gang on Florrum.
 Nevertheless, Dooku had not yet reached safety. The Ohnaka Gang took Dooku hostage on Florrum, and the pirates' leader,
 Hondo Ohnaka
 , offered him to the Republic in exchange for a hefty sum of one million
 credits
 , paid in spice. Before Sheev Palpatine agreed to the deal, the Jedi High Council dispatched Kenobi and Skywalker to Florrum to confirm that Ohnaka and his men indeed had custody of Dooku. However, after the Jedi arrived,
-[
-129
-]
 Ohnaka drugged them and also took them prisoner, intending to ransom them to the Republic for an even larger payday. Unaware of Kenobi and Skywalker's situation, Palpatine dispatched Senator
 Kharrus
 and an escort team from the Coruscant Guard to
 deliver
 the spice ransom to Florrum and secure custody of Dooku.
-[
-130
-]
 Rogue elements within the Ohnaka Gang caused further trouble for the Republic. Ohnaka's lieutenant,
 Turk Falso
 , led a faction of pirates who shot down Kharrus's shuttle over Florrum, hoping to steal the ransom. Kharrus and the shuttle's crew died in the crash, leaving Jar Jar Binks, who was part of the delegation, as the ranking commander for Commander
@@ -2836,33 +2034,15 @@ Stone
 and his soldiers. By the time Binks, Stone, and their squad reached Ohnaka's
 base of operations
 , Dooku had escaped. He made his getaway by killing Falso and stealing his
-[
-130
-]
 Flarestar
 -class attack shuttle
 .
-[
-70
-]
 Rather than arresting Ohnaka, Kenobi and Skywalker left Ohnaka and his pirates alone. The Jedi departed with Binks and the clones aboard the
 Twilight
 ,
-[
-130
-]
 aboard which the Jedi had traveled to Florrum.
-[
-129
-]
 Whereas Ohnaka and the Jedi parted on good terms,
-[
-130
-]
 Dooku harbored a grudge against Ohnaka.
-[
-131
-]
 Crisis after crisis
 [
 ]
@@ -2883,24 +2063,15 @@ Link
 (
 file info
 )
-[
-57
-]
 Aayla Secura's fleet suffers damage over Quell.
 The
 Quell system
 became the next flashpoint of the Clone Wars when a Confederate armada intercepted Jedi General Aayla Secura's
 fleet
 of warships.
-[
-132
-]
 In the resulting
 Battle of Quell
 ,
-[
-133
-]
 the Separatist frigates pummeled Secura's cruisers with heavy bombardment. Soon, only Secura's flagship was maintaining altitude over the planet
 Quell
 . Skywalker, Tano, Captain Rex, and Wullf Yularen arrived aboard the
@@ -2914,29 +2085,17 @@ Resolute
 , a vulture droid attack inadvertently enabled their frigate's hyperdrive. The Jedi and clones found themselves on an unexpected detour, and they crash-landed on the remote planet
 Maridun
 . Yularen was left behind to oversee the Republic's campaign over Quell.
-[
-132
-]
 Stranded on Maridun, Bly, Rex, Secura, and Tano sought out medical attention for Skywalker, who had suffered critical injuries during the escape from Secura's flagship. They brought Skywalker to a
 village
 of Lurmen pacifists, who treated his wounds.
-[
-132
-]
 Just as Skywalker's condition was improving, the Separatist General
 Lok Durd
 selected Maridun as a test site for the Confederacy's newest weapon. Durd had developed the
 Defoliator
 , a cannon that exterminated organic matter while sparing inorganic subjects, such as battle droids. Durd decided to use the Lurmen colonists as test subjects for
-[
-57
-]
 his
 Defoliator Deployment Tank
 .
-[
-134
-]
 When Durd came to subjugate the Lurmen, the village's elder,
 Tee Watt Kaa
 , persuaded Bly, Rex, Secura, Skywalker, and Tano to leave in order to avoid a potential crossfire. However, the Jedi and clones returned once they realized that Durd was planning to test the Defoliator on the Lurmen village. In the
@@ -2944,9 +2103,6 @@ skirmish
 that followed, the Jedi and clones used a pair of stolen Separatist shield generators to protect the Lurmen from the Defoliator's incendiary capsules. Yet, after Durd's droid infantry breached the Jedi and clones' defenses,
 Wag Too
 —the village healer and Watt Kaa's son—convinced other young members of the colony to help defend their home. They succeeded, while Skywalker managed to impair the Defoliator and captured Durd. Nevertheless, Watt Kaa questioned whether it had been worth it for Too and his friends to sacrifice their pacifism for the victory.
-[
-57
-]
 Shortly thereafter, a brief but bloody conflict erupted on the
 glacial
 world of
@@ -2966,25 +2122,13 @@ Chi Cho
 and Senator
 Riyo Chuchi
 requested a detachment of soldiers to investigate the loss of contact with
-[
-135
-]
 Glid Station
 ,
-[
-136
-]
 the Republic base on Orto Plutonia. Rex, Skywalker, and Obi-Wan Kenobi oversaw a
 platoon
-[
-135
-]
 of Rex's troops, who wore the gear of
 cold assault troopers
 for the mission.
-[
-137
-]
 Riyo Chuchi establishes a peace accord with Thi-Sen.
 When Kenobi and Skywalker made contact with
 Chieftain
@@ -2996,51 +2140,24 @@ Open hostilities
 erupted when the Talz ambushed Cho, Rex, and their troops. Many Talz and clone troopers lost their lives until Chuchi received approval from the
 Pantoran Assembly
 to negotiate an end to the bloodshed.
-[
-135
-]
 Despite her youth and inexperience, Chuchi mustered the courage to personally establish a peaceful settlement with Thi-Sen. While Cho succumbed to fatal wounds that he had sustained, Chuchi agreed to cede complete jurisdiction of Orto Plutonia to Thi-Sen and the Talz. Chuchi thereafter departed from Orto Plutonia with Kenobi, Rex, Skywalker, and their troops, leaving the Talz in peace.
-[
-135
-]
 In light of Cho's death, the Pantorans eventually elected
 Baron
 Papanoida
 as their new chairman.
-[
-138
-]
 Other cold worlds that saw Republic operations were
 Toola
 and
 Rhen Var
 , which both saw the deployment of clone cold assault troopers.
-[
-14
-]
 At some point, Unduli and Secura teamed up in a
 confrontation
 against Ventress on
-[
-113
-]
 the frozen planet
-[
-139
-]
 Alzoc III
 . Ventress would be bested and left in an ice cave the two Jedi managed to collapse,
-[
-113
-]
 but she escaped and continued to menace the Republic for some time.
-[
-31
-]
 Unduli and Ventress had many more encounters over the course of the conflict.
-[
-113
-]
 The Battle of Ryloth ends
 [
 ]
@@ -3057,18 +2174,12 @@ Link
 (
 file info
 )
-[
-24
-]
 As the
 Resolute
 distracts the Separatist blockade, Ahsoka Tano's squadrons outmaneuver Mar Tuuk's armada.
 The Techno Union continued to subjugate Ryloth, and Wat Tambor gained an appointment as the
 emir
 of the conquered world.
-[
-140
-]
 The Republic Senate finally authorized an invasion force from the Grand Army to liberate the Twi'lek homeworld, reopening Ryloth as a Republic battlefront. Skywalker, Tano, and Wullf Yularen received the task of eliminating Confederate Captain
 Mar Tuuk
 's orbital blockade of Ryloth. The Republic's first assault on the blockade failed, since Tuuk's fleet obliterated the Star Destroyer
@@ -3082,9 +2193,6 @@ Ryloth system
 . Tano also suffered a devastating blow to her morale when she lost an entire unit of clone pilots,
 Blue Squadron
 , as part of her first command position.
-[
-24
-]
 Skywalker and Tano's next strategy had better results. Since the
 Defender
 had sustained heavy damages, Skywalker sacrificed the cruiser by personally ramming it into Tuuk's
@@ -3102,9 +2210,6 @@ Resolute
 s ventral hull toward the enemy blockade in order to lure its droid commanders into a trap. Once the frigates moved in, Tano launched several squadrons of starfighters from the
 Resolute
 and bombarded the frigates, leaving the blockade in disarray.
-[
-24
-]
 Thanks to Skywalker and Tano's efforts, Obi-Wan Kenobi and Mace Windu were able to safely enter Ryloth's atmosphere with a
 force
 of three
@@ -3117,24 +2222,12 @@ precluded Kenobi and Windu from landing their forces on the surface. From Nabat,
 T-series tactical droid
 TX-20
 targeted the Republic assault ships with aerial barrages from ground-based
-[
-141
-]
 J-1 proton cannons
 .
-[
-70
-]
 Windu withdrew the transports to a higher altitude until Kenobi, Commander Cody,
-[
-141
-]
 and the
 212th Attack Battalion
 's
-[
-104
-]
 Ghost Company
 could eliminate the proton cannons in Nabat. Once there, troopers
 Boil
@@ -3143,13 +2236,7 @@ Waxer
 befriended
 Numa
 , a young Twi'lek orphan who had lost her parents when the Separatists stormed Nabat. With Numa's help, Kenobi and Ghost Company disabled the proton cannons and also rescued Nabat's Twi'lek residents, whom TX-20 had been using as living shields to protect his encampment from attack. Once freed, the Twi'leks mobbed TX-20 and destroyed him in retaliation for his subjugation of their home.
-[
-141
-]
 Ghost Company's liberation of Nabat allowed Windu and his transports to use the city as a landing zone.
-[
-141
-]
 While Skywalker and Tano defeated the remnants of the Confederate blockade and secured the space around Ryloth, Kenobi freed more Twi'lek villages from the Techno Union's occupation. Kenobi soon retook the
 Jixuan desert
 , bringing Ryloth's southern hemisphere under Republic control. In response to the Republic's rising victories, Wat Tambor entrenched the majority of his droid infantry within the capital of
@@ -3157,23 +2244,19 @@ Lessu
 . It fell to Windu and Commander Ponds to secure Lessu and apprehend Tambor. However, a unit of Armored Assault Tanks inflicted severe casualties to Windu's
 Lightning Squadron
 during an ambush at a canyon outside of Lessu. Because the Grand Army could not spare any reinforcements, Windu decided to enlist the help of Cham Syndulla and his Twi'lek Resistance.
-[
-46
-]
 Cham Syndulla rallies the combined forces of Lightning Squadron and his Twi'lek Resistance to retake Lessu.
 When Windu sought him out, Syndulla still had reservations about working with the Republic, since the Grand Army had previously been unable to aid the Twi'lek Resistance. Syndulla also lacked trust in Ryloth's senator,
 Orn Free Taa
 , due to their political rivalry before the war. Yet, Syndulla changed his mind when Dooku ordered Tambor to plunder what he could from the Twi'lek villages, then exterminate everything else. In doing so, Dooku hoped to use Ryloth's demise as a political message about the ramifications of a Republic victory.
-[
-46
-]
 Ponds and Lightning Squadron witnessed Tambor's firebombing campaign firsthand, as
 Hyena
 -class Droid Bombers
-targeted all villages within range of Lessu, even those that were filled with innocent civilians. Skywalker and Tano concentrated their efforts on eliminating the bombers, but there were too many for their squadrons to handle. Tambor's ruthlessness reminded Syndulla and Taa of their common desire: achieving liberty for Ryloth. Under Windu's mediation, Syndulla promised not to exploit the situation for political power. Taa, meanwhile, agreed to Syndulla's stipulation to preserve Ryloth's independence, by ensuring that the Grand Army refrained from a post-invasion occupation of Ryloth. With that, Syndulla merged his forces with those of Windu, and the new allies organized a joint assault on Lessu.
-[
-46
-]
+targeted all villages within range of Lessu, even those that were filled with innocent civilians.
+Skywalker and Tano concentrated their efforts on eliminating the bombers, but there were too many for their squadrons to handle.
+Tambor's ruthlessness reminded Syndulla and Taa of their common desire: achieving liberty for Ryloth.
+Under Windu's mediation, Syndulla promised not to exploit the situation for political power.
+Taa, meanwhile, agreed to Syndulla's stipulation to preserve Ryloth's independence, by ensuring that the Grand Army refrained from a post-invasion occupation of Ryloth.
+With that, Syndulla merged his forces with those of Windu, and the new allies organized a joint assault on Lessu.
 Although Dooku ordered him to withdraw from Ryloth, Tambor delayed his departure to maximize the amount of plunder that he could seize from the Twi'leks. As a result, Windu and Advanced Recon Force troopers
 Razor
 and
@@ -3191,21 +2274,9 @@ TA-175
 , left aboard his shuttle. Despite Tambor's presence in Lessu, Dooku ordered TA-175 to have their
 Hyena
 -class bombers lay waste to the capital. However, Skywalker and Tano intercepted the bombers in their Delta-7B interceptors and wiped them out before they reached Lessu. Afterward, Tambor agreed to unconditionally surrender to Syndulla and Windu.
-[
-46
-]
 The Battle of Lessu, as it became known,
-[
-142
-]
 finally brought the lengthy Battle of Ryloth to an end. Now free once more, the Twi'leks held a parade in Lessu to celebrate their victory, with Syndulla, Taa, and Windu in attendance.
-[
-46
-]
 Syndulla and Windu's accomplishments at Lessu led them to become part of Twi'lek folklore, with songs naming their attack the Hammer of Ryloth.
-[
-142
-]
 Year two (21 BBY–20 BBY)
 [
 ]
@@ -3225,20 +2296,11 @@ We don't have time for games.
 Yes, kill me now and spare these old bones the Blue Shadow's dire embrace! Because once the first droid breaks out of that laboratory, all Naboo is doomed!
 "
 ―Anakin Skywalker and Nuvo Vindi after the latter's LEP servant droid detonates a viral bomb in the underground laboratory
-[
-90
-]
 Main article:
 Raid on Nuvo Vindi's laboratory
 In the Mid Rim, Naboo became the site of the Confederacy's foray into biological warfare.
-[
-143
-]
 Operating out of a secret Trade Federation
 laboratory
-[
-14
-]
 beneath Naboo's
 eastern swamps
 , Doctor
@@ -3252,50 +2314,29 @@ Neeyutnee
 and Captain
 Gregar Typho
 investigate the potential incursion. Amidala and Binks traced the battle droids' point of origin to the eastern swamps, where Vindi's forces captured them.
-[
-143
-]
 Ahsoka Tano, Captain Rex, and Padmé Amidala contain the Blue Shadow Virus within Nuvo Vindi's laboratory.
 In response, Kenobi, Skywalker, and Tano led a
 raid
 on Vindi's laboratory to rescue Amidala and Binks, as well as prevent Vindi from escaping with his cache of bombs. Captain Rex and the clone units
-[
-143
-]
 Calm Tree
 ,
 Snow Wolves
 , and
 Wildfire
-[
-144
-]
 provided tactical support for the Jedi's operation. After saving Amidala and Binks, Skywalker aided Kenobi in apprehending Vindi. In addition, the Republic task force's cadre of
 clone ordnance specialists
 managed to disarm Vindi's entire supply of viral bombs before he could release the plague to Naboo.
-[
-143
-]
 Kenobi and Skywalker thereafter escorted Vindi to Naboo's capital,
 Theed
 , to stand trial for his crimes.
-[
-90
-]
 However, the crisis was not over. Vindi's personal
 LEP-series service droid
 had secretly absconded with one of the vials containing the Blue Shadow Virus. The droid used a viral bomb to release the plague within the laboratory. While Kenobi and Skywalker
 traveled
 to the distant planet Iego to retrieve a potential cure, Amidala and Binks worked with Rex, Tano, and their men to eliminate the laboratory's remaining battle droids. If the droids escaped from the sealed compound, they would spread the outbreak to the rest of Naboo. Although the Blue Shadow Virus infected everyone save for Binks, the Republic personnel managed to eradicate the battle droids.
-[
-90
-]
 During their journey to Iego, Kenobi and Skywalker deactivated the Separatists' laser web over the planet, liberating the inhabitants from their confinement to the planetary surface. The two Jedi also obtained a sample of
 reeksa
 root, which was used to cure Amidala, Rex, Tano, and their men from the Blue Shadow Virus, bringing the incident to a close.
-[
-90
-]
 Victories and sacrifices
 [
 ]
@@ -3303,21 +2344,12 @@ Victories and sacrifices
 The setback at Felucia has affected our efforts in the whole sector. It'll take weeks before we can…
 "
 ―Obi-Wan Kenobi
-[
-145
-]
 Obi-Wan Kenobi, Anakin Skywalker, and their soldiers wait for Plo Koon's gunships to extract them from Felucia.
 Felucia, a
 jungle
 world in the Outer Rim, became a frequent battlefront throughout the war.
-[
-146
-]
 Early on, Felucia's strategic location on the
 Perlemian Trade Route
-[
-147
-]
 led it to become the site of a
 campaign
 between the Confederacy and the Republic. Kenobi, Skywalker, and Tano attempted to repel a Separatist military presence from the world, but the battle droids overwhelmed their detachment of clone troopers, led by Commander Cody and Captain Rex. Once Commander Wolffe arrived with a fleet of Star Destroyers and breached the Confederacy's orbital
@@ -3325,20 +2357,14 @@ blockade
 , Plo Koon and clone pilot
 Warthog
 rushed through the opening with a squadron of LAAT/i gunships.
-[
-145
-]
-From their starfighters, Koon and Warthog escorted the gunships to the surface, where they extracted Cody, Kenobi, Rex, Skywalker, and their men from the Republic's main staging area. Before leaving Felucia, the gunships also picked up Tano and her patrol of soldiers from elsewhere in the jungle. Though Tano initially refused to retreat, she and her soldiers boarded the gunships right before droid reinforcements compromised their position. The Republic's defeat at Felucia disrupted the Grand Army's efforts in the surrounding
+From their starfighters, Koon and Warthog escorted the gunships to the surface, where they extracted Cody, Kenobi, Rex, Skywalker, and their men from the Republic's main staging area.
+Before leaving Felucia, the gunships also picked up Tano and her patrol of soldiers from elsewhere in the jungle.
+Though Tano initially refused to retreat, she and her soldiers boarded the gunships right before droid reinforcements compromised their position.
+The Republic's defeat at Felucia disrupted the Grand Army's efforts in the surrounding
 sector
 of space. Tano also faced disciplinary action from the Jedi High Council for disobeying her orders to evacuate from Felucia.
-[
-145
-]
 Devaron
 , another forested planet, soon became one of the war's next battlefields.
-[
-148
-]
 Working for Darth Sidious, the bounty hunter
 Cad Bane
 collaborated with fellow mercenary
@@ -3350,9 +2376,6 @@ holocron
 from the Jedi Archives'
 Holocron Vault
 on Coruscant.
-[
-145
-]
 Bane then targeted Jedi Master
 Bolla Ropal
 , the keeper of the Jedi Order's
@@ -3379,9 +2402,6 @@ Resolute
 tore through the majority of Bane's frigates and also disabled his command ship's hyperdrive, trapping Bane in-system. Yet, when Ropal refused to use the holocron to access the memory crystal, Bane had his crew of battle droids
 torture
 Ropal to death.
-[
-148
-]
 Due to a lack of resources, Rex, Skywalker, and Tano repurposed a trio of AT-TE walkers as unorthodox boarding craft for their assault force, consisting of
 Execute Battalion
 and
@@ -3389,21 +2409,12 @@ Carnivore Battalion
 . Once the Jedi and clones had infiltrated his command ship, Bane lured them into an ambush with his droid infantry on the frigate's gunnery deck. Bane further separated Tano from her allies and took her hostage, using her as leverage to force Skywalker to open the Kyber memory crystal. Because the frigate's
 self-destruct sequence
 was active, Rex, Skywalker, Tano, and their detachment commandeered a shuttle and fled from the doomed frigate. Bane, still in possession of the holocron and the memory crystal,
-[
-148
-]
 stowed away on their shuttle by killing trooper Denal and stealing his
 armor
 .
-[
-149
-]
 Once aboard the
 Resolute
 , Bane seized a V-19 Torrent starfighter and jumped to hyperspace before Skywalker and Tano could apprehend him.
-[
-150
-]
 Working for Darth Sidious, the bounty hunter Cad Bane became a recurring menace to the Jedi Order.
 Following his victory at Devaron, Bane continued his work for Sidious and set out to abduct four Force-sensitive children who were listed in the Kyber memory crystal. After
 kidnapping
@@ -3438,13 +2449,7 @@ volcanic
 world of
 Mustafar
 . Nevertheless, the Jedi Order remained unaware that Sidious was behind the entire ordeal.
-[
-150
-]
 In spite of its earlier setback at Felucia,
-[
-145
-]
 the Republic maintained a presence in the
 Felucia system
 in the form of the
@@ -3454,14 +2459,8 @@ Haven
 -class medical station. Yet, it was devoid of any countermeasures to defend itself, making it an
 easy target
 for a small Confederate flotilla. When Kenobi, Skywalker, and Tano investigated the loss of contact with Felucia Medical Station HCTFF2,
-[
-151
-]
 a Separatist
 automated vulture droid deployment station
-[
-152
-]
 launched a squadron of vulture droids. The droid starfighters attacked the Jedi's
 T-6 shuttle
 , forcing them to crash-land on Felucia. While there, the Jedi helped the mercenaries
@@ -3481,9 +2480,6 @@ farmers
 '
 nysillin
 crops.
-[
-151
-]
 Battle of Malastare
 [
 ]
@@ -3491,22 +2487,13 @@ Battle of Malastare
 We need that treaty signed so we can gain access to the fuel reserves here on Malastare. Without it, our armies shall be vulnerable.
 "
 ―Sheev Palpatine reminds Nakha Urus of the necessity of a treaty between the Republic and the Dugs
-[
-153
-]
 Main article:
 Battle of Malastare
 During the Battle of Malastare, the Republic detonates Sionver Boll's electro-proton bomb.
 Concurrent to a Republic offensive, one of the longest and fiercest campaigns of the Clone Wars was
-[
-153
-]
 the
 Battle of Malastare
 .
-[
-154
-]
 In collaboration with
 Doge
 Nakha Urus
@@ -3519,19 +2506,10 @@ fuel
 industry was vital to the Republic's war machine and ensuring the continuation of the Republic's offensive—from a Confederate incursion. However, an enormous detachment from the Separatist Droid Army came close to conquering Malastare. Desperate to ensure a Republic victory, Sheev Palpatine authorized the use of the
 electro-proton bomb
 ,
-[
-153
-]
 an experimental weapon that Doctor
 Sionver Boll
 had developed
-[
-155
-]
 to disable only mechanical subjects. The electro-proton bomb generated an electromagnetic pulse that rendered all of the Confederacy's battle droids inert. The bomb's detonation zone also produced a massive sinkhole that engulfed some of the Republic's AT-TE walkers and command crews, requiring a rescue effort.
-[
-153
-]
 However, the crater was not the only byproduct of the electro-proton bomb. The blast also awoke a
 Zillo Beast
 , a member of a colossal
@@ -3539,14 +2517,8 @@ species
 that had been thought to be extinct. The Zillo Beast proved to be impervious to everything from blasterfire to Skywalker's
 lightsaber
 . Because of an ancient enmity between the Dugs and the Zillo Beasts, Urus and
-[
-153
-]
 his
 Dug Council
-[
-156
-]
 demanded that the Republic help them exterminate the creature. Yet, Windu was adamant against doing so, as the creature could be the last of its kind. Windu's actions strained the Republic's diplomatic relations with the Dugs, since the Grand Army still needed access to Malastare's fuel. In order to appease Urus, Skywalker and Windu used Republic
 RX-200
 Falchion
@@ -3554,25 +2526,13 @@ Falchion
 to non-lethally immobilize the Zillo Beast, making it appear as though the creature was dead. As a result, Urus and his council signed a
 treaty
 that provided the Republic with exclusive access to Malastare's fuel reserves.
-[
-153
-]
 In the wake of the Battle of Malastare, Palpatine ordered Skywalker and Windu to transport the Zillo Beast to Coruscant for study. Palpatine ordered Boll to synthesize the creature's highly durable scales to supplement a new iteration of
 clone trooper armor
 . However, the Zillo Beast escaped from the
-[
-154
-]
 Republic Science and Technical Center
-[
-157
-]
 and
 wreaked havoc
 across Coruscant, inflicting massive property damage and sowing terror among the populace. Unable to subdue the creature, the Jedi and their clone troopers were forced to kill the Zillo Beast.
-[
-154
-]
 Second Battle of Geonosis
 [
 ]
@@ -3589,9 +2549,6 @@ Link
 (
 file info
 )
-[
-28
-]
 Main articles:
 Mission to Cato Neimoidia
 ,
@@ -3603,15 +2560,9 @@ Second occupation of Geonosis
 and
 Skirmish aboard TB-73
 It was not long before the Clone Wars returned to Geonosis. Though the Republic had occupied the desert world since the war's outset, the Grand Army's pan-galactic war effort required that much of Geonosis's occupying forces be distributed elsewhere. Thanks to the Republic's waning attention, the Confederacy was able to re-establish a major presence on Geonosis.
-[
-14
-]
 Archduke Poggle the Lesser oversaw the construction of a series of new battle droid
 factories
 to expand the ranks of the Separatist Droid Army.
-[
-28
-]
 Poggle's
 primary foundry
 earned substantial investments from the Trade Federation and the InterGalactic Banking Clan. During a
@@ -3625,14 +2576,8 @@ hologram disc
 with the factory's coordinates and stole it from the Banking Clan's senator,
 Rush Clovis
 . The Republic and the Jedi High Council subsequently learned of the existence of Poggle's new droid foundries.
-[
-158
-]
 Ki-Adi-Mundi, Ahsoka Tano, Anakin Skywalker, and their combined forces finally reach Point Rain.
 Already, the Confederacy's total supply of battle droids far outnumbered the Republic's clone troopers, with Count Dooku claiming that the ratio was as high as one hundred to one.
-[
-88
-]
 Hoping to halt the Geonosians' production of new battle droids, the Grand Army committed an immense Jedi-led invasion force to retaking Geonosis. Since Poggle had barricaded himself in his primary foundry, the Jedi mounted a three-pronged assault on the facility's
 ray shield
 generator. Jedi General
@@ -3644,15 +2589,9 @@ routing
 Confederate forces near the planet
 Dorin
 —spearheaded the southward strike with Captain Rex. Wullf Yularen commanded the Republic Navy's efforts, including other areas of the planet-wide campaign.
-[
-28
-]
 As the
 Second Battle of Geonosis
 began,
-[
-14
-]
 the Geonosian defenses intercepted the majority of the Republic's LAAT/i gunships. Only Cody and his detachment of AT-TE walkers managed to reach
 Point Rain
 , the Republic's staging area near the ray shield generator, where Cody organized his walkers in a defensive formation. The Geonosians'
@@ -3670,48 +2609,40 @@ clone flametroopers
 used
 flamethrowers
 to overwhelm the Geonosians. Rex, Skywalker, Tano, and their troops obliterated an enormous canyon barricade of battle droids and rendezvoused with Jet, Mundi, and their men.
-[
-28
-]
-As Cody and Kenobi continued to defend Point Rain from oncoming waves of Geonosian soldiers, Mundi and Skywalker combined their forces and pushed onward to reinforce their comrades. At the same time, Yularen was able to spare a single squadron of Y-wing starfighters to provide aerial support for Mundi and Skywalker's advance. Consequently, the Jedi and clones were able to secure Point Rain. For the final stage of their operation, Skywalker and Tano led a small squad of troopers through the ray shield, and they used a volley of
+As Cody and Kenobi continued to defend Point Rain from oncoming waves of Geonosian soldiers, Mundi and Skywalker combined their forces and pushed onward to reinforce their comrades.
+At the same time, Yularen was able to spare a single squadron of Y-wing starfighters to provide aerial support for Mundi and Skywalker's advance.
+Consequently, the Jedi and clones were able to secure Point Rain.
+For the final stage of their operation, Skywalker and Tano led a small squad of troopers through the ray shield, and they used a volley of
 Electro Magnetic Pulse grenades
 to disable the Geonosians' J-1 proton cannons. Once they had done so, Cody moved in with a detail of AT-TE walkers and eliminated the shield generator. The ray shield dissipated, allowing Rex, Mundi, and the main body of troops to land there aboard their gunships. The remaining Geonosians surrendered, thus ending the first phase of the Republic's invasion.
-[
-28
-]
 While Kenobi, Mundi, and the other wounded troops returned to the Republic fleet for medical treatment,
-[
-28
-]
 Rex, Skywalker, and Tano undertook the next phase of the invasion: crippling Poggle's main droid foundry. Luminara Unduli; her Padawan,
 Barriss Offee
-; and Commander Gree brought in infantry reinforcements to support Skywalker's assault. However, a single bridge was the only means of crossing the chasm that isolated Poggle's factory from the surrounding area. Since the bridge formed a natural bottleneck, the Republic's clone troopers would be completely exposed during their advance on the foundry. As a result, Unduli had Offee memorize the entire labyrinth of catacombs beneath the facility. While Offee and Tano infiltrated the foundry from the catacombs below, Unduli and Skywalker collaborated with Gree and Rex to lead a frontal assault on the facility as a diversionary tactic. Yet, though the droid factory was operating at only half-capacity, Poggle and his tactical droid,
+; and Commander Gree brought in infantry reinforcements to support Skywalker's assault.
+However, a single bridge was the only means of crossing the chasm that isolated Poggle's factory from the surrounding area.
+Since the bridge formed a natural bottleneck, the Republic's clone troopers would be completely exposed during their advance on the foundry.
+As a result, Unduli had Offee memorize the entire labyrinth of catacombs beneath the facility.
+While Offee and Tano infiltrated the foundry from the catacombs below, Unduli and Skywalker collaborated with Gree and Rex to lead a frontal assault on the facility as a diversionary tactic.
+Yet, though the droid factory was operating at only half-capacity, Poggle and his tactical droid,
 TX-21
 , had already amassed ten garrisons of new troops that were ready for deployment.
-[
-159
-]
 At the main droid foundry's reactor, TX-21 intercepts Ahsoka Tano and Barriss Offee with a super tank.
 As Unduli, Skywalker, and their soldiers made headway against the foundry's droid defenses, Poggle allowed TX-21 to deploy twenty units of their newest creation: the
 super tank
-. The super tanks' ray shields enabled them to withstand barrages from the Republic's AV-7 Anti-Vehicle Cannons. In return, the super tanks launched a devastating volley of missiles, inflicting heavy casualties to the Republic troops. Gree and Rex led their soldiers into retreat, thereby drawing the super tanks onto the bridge across the chasm. Skywalker and Unduli climbed across the underside of the bridge, planting thermal detonators on their way to the other side. Once they had reached the factory, Skywalker and Unduli used the explosives to collapse the bridge, plunging the super tanks into the abyss.
-[
-159
-]
-Meanwhile, Offee and Tano reached the foundry's reactor via the catacombs, but TX-21 intercepted them with a super tank and a squad of Geonosian soldiers. Though Tano destroyed TX-21, the Geonosians purloined her and Offee's supply of thermal detonators. Unable to devise another means of eliminating the reactor, Offee and Tano commandeered the super tank and fired upon the reactor. Their attack generated a chain of explosions that ruptured the foundry's internal structure, bringing it plummeting to the ground.
-[
-159
-]
+.
+The super tanks' ray shields enabled them to withstand barrages from the Republic's AV-7 Anti-Vehicle Cannons.
+In return, the super tanks launched a devastating volley of missiles, inflicting heavy casualties to the Republic troops.
+Gree and Rex led their soldiers into retreat, thereby drawing the super tanks onto the bridge across the chasm.
+Skywalker and Unduli climbed across the underside of the bridge, planting thermal detonators on their way to the other side.
+Once they had reached the factory, Skywalker and Unduli used the explosives to collapse the bridge, plunging the super tanks into the abyss.
+Meanwhile, Offee and Tano reached the foundry's reactor via the catacombs, but TX-21 intercepted them with a super tank and a squad of Geonosian soldiers.
+Though Tano destroyed TX-21, the Geonosians purloined her and Offee's supply of thermal detonators.
+Unable to devise another means of eliminating the reactor, Offee and Tano commandeered the super tank and fired upon the reactor.
+Their attack generated a chain of explosions that ruptured the foundry's internal structure, bringing it plummeting to the ground.
 Although Unduli accepted Offee's fate, Skywalker was unwilling to let go of his own pupil, and he frantically joined his troops' search for the lost Padawans. Trapped with Offee in the wreckage of their super tank, Tano used a
 power cell
 to boost her comlink's reception, leading their Masters to their location. As a result, Unduli and Skywalker were able to rescue Offee and Tano from the mounds of debris. While the main body of troops continued their cleanup efforts,
-[
-159
-]
 Offee and Tano returned to the fleet for temporary recuperation.
-[
-59
-]
 As part of its continued campaign on Geonosis, the Grand Army eradicated other key Geonosian droid factories. Yet, Poggle remained at large, since he had escaped from his main foundry prior to its fall. Kenobi, who had recovered from his earlier injuries, joined Unduli in leading the manhunt for Poggle. As a sandstorm brewed, Unduli and trooper
 Buzz
 tracked Poggle to the
@@ -3723,19 +2654,16 @@ undead
 Geonosians who were being reanimated by her
 brain worms
 —killed Buzz and abducted Unduli, dragging her into the catacombs beneath the temple. Once the sandstorm had abated, Commander Cody, Kenobi, and Skywalker took a squad of troopers into the catacombs to rescue Unduli. However, the undead Geonosians took advantage of the tunnels' labyrinthine layout to deal casualties to Kenobi and Skywalker's search party.
-[
-59
-]
-Eventually, Cody Kenobi, Skywalker, and their remaining soldiers reached Karina's throne room, where Poggle had incarcerated Unduli. Despite Kenobi's attempt at negotiation, Karina refused to submit to Republic law. Instead, Karina had Poggle give Unduli a brain worm that would control her mind. Before the brain worm could infect Unduli, Cody and his soldiers turned their headlamps on Karina and the Geonosians, temporarily blinding them. Skywalker freed Unduli from her restraints, and together they handcuffed Poggle and brought him with them as they retreated with the rest of their comrades. Cody and his men eliminated the tunnel's supports on their way out, burying Karina underneath piles of rubble and killing her. Cody, Unduli, Kenobi, Skywalker, and their soldiers managed to escape with Poggle from the Progate Temple just before it collapsed.
-[
-59
-]
+Eventually, Cody Kenobi, Skywalker, and their remaining soldiers reached Karina's throne room, where Poggle had incarcerated Unduli.
+Despite Kenobi's attempt at negotiation, Karina refused to submit to Republic law.
+Instead, Karina had Poggle give Unduli a brain worm that would control her mind.
+Before the brain worm could infect Unduli, Cody and his soldiers turned their headlamps on Karina and the Geonosians, temporarily blinding them.
+Skywalker freed Unduli from her restraints, and together they handcuffed Poggle and brought him with them as they retreated with the rest of their comrades.
+Cody and his men eliminated the tunnel's supports on their way out, burying Karina underneath piles of rubble and killing her.
+Cody, Unduli, Kenobi, Skywalker, and their soldiers managed to escape with Poggle from the Progate Temple just before it collapsed.
 With that, the Second Battle of Geonosis ended in a Republic victory, starting the
 second occupation of Geonosis
 .
-[
-160
-]
 Barriss Offee kills Lieutenant Trap of Tango Company after a Geonosian brain worm infects him.
 Around the same time as the Republic's successful recapture of Geonosis, Mace Windu oversaw a
 campaign
@@ -3756,9 +2684,6 @@ Pelta
 -class frigate,
 TB-73
 .
-[
-160
-]
 Before long, Scythe had infected most of his fellow soldiers with the brain worms. Under the parasites' mind control, the clone troopers gunned down
 TB-73
 '
@@ -3772,9 +2697,6 @@ Trap
 , Tango Company's commanding officer, also opened fire at the Padawans, and Offee killed him in self-defense. In order to contain the parasites aboard their frigate, Offee went to disable the engines, while Tano contacted Kit Fisto, who was overseeing the Ord Cestus medcenter, to warn him of the outbreak. However, Scythe and his comrades intercepted Offee near the reactor room and infected her with a brain worm. With Offee gone, Tano was now the only uninfected person aboard
 TB-73
 .
-[
-160
-]
 When Offee confronted her, Tano briefly crossed lightsabers with her friend before escaping to the frigate's ventilation shafts. Meanwhile, after learning of the outbreak from Tano, Skywalker violently interrogated Poggle and learned that the brain worms were susceptible to subzero conditions. Consequently, Tano ruptured
 TB-73
 '
@@ -3786,9 +2708,6 @@ TB-73
 s engines, a pair of
 Republic tugboats
 used their tractor beams to reduce the frigate's speed, narrowly preventing a collision with the medcenter. With the brain worms contained, Fisto and his staff provided treatment to Offee, Tano, and the surviving members of Tango Company, guaranteeing a full recovery for all of them.
-[
-160
-]
 Hunt for Grievous
 [
 ]
@@ -3802,72 +2721,36 @@ Link
 (
 file info
 )
-[
-29
-]
 Grievous's capture of Eeth Koth prompted the Jedi Order to launch a manhunt for the cyborg general.
 Even though the Republic's victories outnumbered its defeats, the Separatist Droid Army continued to make advances in the Outer Rim Territories,
-[
-29
-]
 and, following the Second Battle of Geonosis, both sides effectively began to play a game of "cat and mouse" with each other.
-[
-161
-]
 Soon, Grievous began to specifically target members of the Jedi High Council,
-[
-85
-]
 including General
 Eeth Koth
 .
-[
-29
-]
 Deep in the Outer Rim,
-[
-162
-]
 while Koth and his
 fleet
 were investigating
 attacks on hyperspace routes
 ,
-[
-161
-]
 Grievous and his
 Recusant
 -class Commerce Guild destroyer
 launched an
 assault
 on Koth's flagship,
-[
-29
-]
 the
 Steadfast
 .
-[
-14
-]
 Grievous then boarded the
 Steadfast
 with a strike team of BX-series droid commandos, which swiftly overwhelmed the Star Destroyer's detachment of clone troopers.
-[
-29
-]
 While Koth ordered Captain
 Lock
-[
-162
-]
 and his troops to evacuate from the
 Steadfast
 , Koth dueled Grievous aboard the bridge, and he nearly bested Grievous in lightsaber combat despite an arm injury. However, Grievous's IG-100 MagnaGuards electrocuted Koth, allowing Grievous to subdue the Jedi Master and take him hostage.
-[
-29
-]
 When Grievous broadcast his capture of Koth to the Jedi Temple on Coruscant, Koth used hand signals to inform the Jedi High Council of his location: the
 Saleucami system
 . Jedi Generals
@@ -3885,23 +2768,18 @@ TV-94
 . Still, Gallia and Skywalker destroyed TV-94 and his droid commandos aboard the bridge, then freed Koth from his
 containment field
 there.
-[
-29
-]
 Aboard Kenobi's light cruiser, things were not going as planned. Kenobi cut down Grievous's MagnaGuards, but neither Kenobi nor Grievous were able to maintain the advantage during their subsequent duel. Grievous soon headed back to the light cruiser's
 airlock
-, where Cody and three of his men intercepted him. Grievous evaded their attempts to subdue him, then ordered his destroyer's crew to open fire on the light cruiser's engines. The ensuing barrages destabilized the cruiser just as Kenobi, Cody, and their soldiers followed Grievous into the airlock. Grievous engaged in a short rematch with Kenobi and also briefly dueled Gallia, who had come to aid Kenobi's efforts. Yet, when the airlock ruptured, all of the combatants were forced to contend with the breach into the
+, where Cody and three of his men intercepted him.
+Grievous evaded their attempts to subdue him, then ordered his destroyer's crew to open fire on the light cruiser's engines.
+The ensuing barrages destabilized the cruiser just as Kenobi, Cody, and their soldiers followed Grievous into the airlock.
+Grievous engaged in a short rematch with Kenobi and also briefly dueled Gallia, who had come to aid Kenobi's efforts.
+Yet, when the airlock ruptured, all of the combatants were forced to contend with the breach into the
 vacuum
 of space. While Grievous slipped away, Gallia helped Cody, Kenobi, and the other remaining trooper climb onto the enemy destroyer.
-[
-29
-]
 Grievous boarded a C-9979 troopship to reach Saleucami's surface, forcing Cody, Gallia, and Kenobi to suspend their pursuit of him. Instead, they joined Koth, Rex, and Skywalker aboard their shuttle to withdraw from Grievous's destroyer. Nevertheless, Grievous soon faced ramifications from targeting Kenobi's light cruiser in spite of its close proximity to his flagship. When the cruiser exploded, the debris collided with Grievous's
 landing craft
 , sending it crashing to Saleucami and forcing Grievous and his crew to transfer to the escape pods. Thanks to that turn of events, the Republic task force refocused its objectives. While Gallia escorted Koth to a medical frigate for treatment, Skywalker and Yularen stayed to complete the fleet's efforts against the remnants of the Confederate armada. Simultaneously, Kenobi headed to Saleucami's surface with Cody, Rex, and a troop contingent to track down the elusive Grievous.
-[
-29
-]
 On Saleucami, Grievous and his battle droids discovered that their escape pod's
 transmitter
 had not survived the crash, thereby preventing them from contacting their fleet in orbit. Since only one of the other escape pods had survived, Grievous and his crew headed to its location, trekking across Saleucami's farmlands. Meanwhile, after inspecting the C-9979 landing craft's crash site, Kenobi divided his forces. While Rex took a small squad—consisting of 501st troopers
@@ -3913,9 +2791,6 @@ Kix
 —aboard
 BARC speeders
 to scour Saleucami's wetlands for Grievous, Cody and Kenobi remained with their main force of AT-TE walkers to continue the search on the dry territory.
-[
-85
-]
 Obi-Wan Kenobi's troop contingent mounts a last-ditch effort to capture Grievous on Saleucami.
 During the course of Rex's patrol, a pair of droid commandos took a potshot at him, missing his
 heart
@@ -3934,19 +2809,16 @@ Jek
 and
 Shaeeah
 .
-[
-85
-]
 Meanwhile, Hardcase, Jesse, and Kix headed for the C-9979 troopship's final escape pod with Cody, Kenobi, and their forces. Both groups converged on the site just as Grievous arrived there with his own squad of battle droids. After having the escape pod's crew signal his fleet for an extraction from the surface, Grievous marshaled his battle droids in a defense of their position. Though Kenobi engaged Grievous in yet another duel, he was unable to stop Grievous from climbing aboard a
 Sheathipede
 -class shuttle and reaching his fleet in orbit of Saleucami. Similarly, the Republic fleet failed to intercept Grievous before he departed from the system. Consequently, Kenobi's repeated attempts to detain Grievous ended in frustration.
-[
-85
-]
-Back at the Lawquane farmstead, another of the escape pods from the C-9979 landing craft caused trouble for Lawquane and his family. A unit of droid commandos had crashed in an escape pod near the family's homestead, and Jek and Shaeeah inadvertently reactivated all twenty of the lethal droids. While Suu took their children upstairs to take cover, Lawquane entrusted Rex with being the last line of defense for his family. Lawquane, meanwhile, engaged the droid commandos in direct combat when they converged on his homestead. Due to their combined efforts, Lawquane and Rex were able to defeat the droids. The next morning, Rex went to rendezvous with Kenobi and the main body of troops before they departed from Saleucami. Before leaving, Rex promised not to report Lawquane's whereabouts to his superior officers, having reached a better understanding of the former soldier.
-[
-85
-]
+Back at the Lawquane farmstead, another of the escape pods from the C-9979 landing craft caused trouble for Lawquane and his family.
+A unit of droid commandos had crashed in an escape pod near the family's homestead, and Jek and Shaeeah inadvertently reactivated all twenty of the lethal droids.
+While Suu took their children upstairs to take cover, Lawquane entrusted Rex with being the last line of defense for his family.
+Lawquane, meanwhile, engaged the droid commandos in direct combat when they converged on his homestead.
+Due to their combined efforts, Lawquane and Rex were able to defeat the droids.
+The next morning, Rex went to rendezvous with Kenobi and the main body of troops before they departed from Saleucami.
+Before leaving, Rex promised not to report Lawquane's whereabouts to his superior officers, having reached a better understanding of the former soldier.
 Mandalore's fragile neutrality
 [
 ]
@@ -3961,17 +2833,8 @@ must
 remain a neutral system!
 "
 ―Sheev Palpatine and Satine Kryze debate the ramifications of a Republic occupation of Mandalore
-[
-163
-]
 In addition to propagating unrest within the Republic citizenry,
-[
-164
-]
 the Clone Wars caused an increase in crime throughout the galaxy, especially as the Jedi Order devoted its concentration to the Republic's war effort.
-[
-23
-]
 Many star systems became determined to preserve their neutrality from both the Republic and the Confederacy. As a result, over 1,500 systems coalesced into the
 Council of Neutral Systems
 , a body that advocated for their continued neutrality from the war. Eventually, the council gained a new leader:
@@ -3980,23 +2843,11 @@ Satine Kryze
 , who ruled the planet
 Mandalore
 through a pacifistic regime
-[
-48
-]
 known as the
 New Mandalorians
 .
-[
-165
-]
 Yet, Kryze attracted criticism when rumors spread that she was assembling an army for the Confederacy.
-[
-48
-]
 In truth, the real conspirators were Dooku and Darth Sidious,
-[
-163
-]
 who entered into an alliance with the
 Death Watch
 , a
@@ -4008,9 +2859,6 @@ governor
 of Mandalore's single moon,
 Concordia
 —pretended to be Kryze's ally while conspiring with Dooku to end her rule.
-[
-48
-]
 Pre Vizsla reveals himself as the leader of the Death Watch and duels with Obi-Wan Kenobi on Concordia.
 The Death Watch drew the Republic's attention when
 one
@@ -4024,19 +2872,10 @@ demolished
 the
 Memorial Shrine
 within Mandalore's capital city
-[
-48
-]
 of
 Sundari
 ,
-[
-166
-]
 the bomber threw himself from a balcony to avoid being captured by Kenobi. Kenobi and Kryze thereafter accompanied the late bomber's body to Concordia, where Vizsla received them.
-[
-48
-]
 Kenobi's continuing investigation led him to the Death Watch's
 secret base
 within the Concordian
@@ -4046,43 +2885,22 @@ overwhelmed
 him. Only Kryze's intervention saved Kenobi from dying in a rock crusher. While attempting to escape from the base, Kenobi and Kryze came across Vizsla, who revealed himself as Death Watch's leader. Vizsla used the
 Darksaber
 , an ancient weapon dating back to the Old Republic, to engage Kenobi in a lightsaber duel. However, Vizsla proved unable to defeat the Jedi Master, and Kenobi absconded from Concordia with Kryze.
-[
-48
-]
 Afterward, Kryze resolved to plead her case before the Galactic Senate,
-[
-167
-]
 and Kenobi joined Skywalker, Commander Cody, Captain Rex, and a squad of clone soldiers in providing protection for her voyage to Coruscant.
-[
-48
-]
 Unbeknownst to Kryze, another Death Watch agent was part of her inner circle of advisors. Senator
 Tal Merrik
 ,
-[
-167
-]
 who represented the planet
 Kalevala
 in the
 Mandalore system
 ,
-[
-168
-]
 smuggled a trio of deadly
 assassin probes
 onto Kryze's star liner,
-[
-167
-]
 the
 Coronet
 .
-[
-169
-]
 In the
 skirmish
 that followed, Cody, Rex, and Skywalker destroyed the first assassin probe in the
@@ -4102,9 +2920,6 @@ Kin Robb
 —who were Kryze's guests aboard the
 Coronet
 .
-[
-167
-]
 Although Rex destroyed the third and final assassin probe, Merrik remained at large. Merrik took Kryze hostage and slew all of the
 Coronet
 '
@@ -4118,13 +2933,13 @@ Coronet
 s hull and disgorged B2 super battle droids, which went head-to-head with the clone troopers and royal guards in the star liner's hallways. However, Merrik had rigged the
 Coronet
 '
-s engines with explosives, and he used both those and Kryze as leverage to reach one of the boarding ships, even as Kenobi pursued him and the captive Kryze there. Kryze disarmed Merrik and pilfered his blaster, but neither she nor Kenobi were willing to kill Merrik with so many lives at stake. Skywalker nonetheless intervened, murdering Merrik and recovering the detonator for his explosives. Cody, Rex, and their men finished routing the Separatist boarding party, thereby ensuring a safe conclusion to the
+s engines with explosives, and he used both those and Kryze as leverage to reach one of the boarding ships, even as Kenobi pursued him and the captive Kryze there.
+Kryze disarmed Merrik and pilfered his blaster, but neither she nor Kenobi were willing to kill Merrik with so many lives at stake.
+Skywalker nonetheless intervened, murdering Merrik and recovering the detonator for his explosives.
+Cody, Rex, and their men finished routing the Separatist boarding party, thereby ensuring a safe conclusion to the
 Coronet
 '
 s eventful journey.
-[
-167
-]
 Satine Kryze struggles to persuade the Republic Senate to halt a potential occupation of Mandalore.
 Even though Kryze had safely reached Coruscant, Vizsla continued to collaborate with the Confederacy to seize control of Mandalore. The Republic Senate was about to
 vote
@@ -4134,9 +2949,6 @@ Jerec
 , one of Kryze's close allies. When Kryze spoke before the Senate, Palpatine presented Jerec's doctored testimony, which decried Kryze's pacifist policies and advocated for the Republic to intervene in Mandalore's affairs. The Senate session occurred the same day that Jerec perished in a
 Death Watch bombing
 on Kalevala, preventing Kryze from confirming the veracity of her friend's claims.
-[
-163
-]
 Adding to Kryze's troubles was the fact that Vizsla dispatched a
 Death Watch assassin
 to
@@ -4146,19 +2958,10 @@ Davu Golec
 , a Mandalorian contact within the
 Republic Ministry of Intelligence
 . Golec gave Kryze a disc containing Jerec's original message, but the Death Watch assassin gunned down Golec before he could reveal any more information. Now on the run from
-[
-163
-]
 the
 Coruscant Security Force
 ,
-[
-170
-]
 Kryze finally decided to reach out to Kenobi for help.
-[
-163
-]
 As Senate
 Vice Chair
 Mas Amedda
@@ -4167,45 +2970,18 @@ Senate Building
 . There, Kryze turned herself in to the
 Senate Guard
 , while Kenobi transferred the disc containing Jerec's original message to Padmé Amidala. Amidala presented the recording at a following Senate session, convincing the Republic to rescind its occupation of Mandalore. As a result, Kryze managed to preserve her people's neutrality,
-[
-163
-]
 while also averting a major expansion of the Republic's war effort.
-[
-66
-]
 Sometime after Kryze's victory in the Senate,
-[
-163
-]
 Vizsla's alliance with Dooku disintegrated, and Dooku rescinded his support of the Death Watch. During the meeting between the two of them,
-[
-171
-]
 Dooku scarred Vizsla with his lightsaber
-[
-172
-]
 on his face.
-[
-171
-]
 Furthermore, without the necessary backing of the Mandalorian populace, the Death Watch abandoned its plan to conquer Mandalore. Vizsla and his allies instead roamed the galaxy as vagabonds,
-[
-173
-]
 eventually establishing a
 presence
 on the planet
 Carlac
 .
-[
-171
-]
 Even though the New Mandalorians maintained their neutrality,
-[
-163
-]
 a number of Mandalorians had chose to enter the Clone Wars at some point. Some of the planet
 Concord Dawn
 's reputed warriors provided training to the Republic Grand Army. Among their number was
@@ -4213,15 +2989,9 @@ Fenn Rau
 of the Mandalorian Protectors, who served as a
 flight instructor
 for the Republic Navy.
-[
-174
-]
 Rau also commanded
 Skull Squadron
 , a Mandalorian unit that supported Republic campaigns.
-[
-44
-]
 Crime on the rise
 [
 ]
@@ -4230,14 +3000,8 @@ I'm afraid our neutrality has caused our people to suffer. The war between the S
 "
 ―Prime Minister Almec's opening remarks during a meeting of the
 Mandalorian Government Council
-[
-175
-]
 Boba Fett and his fellow bounty hunters Bossk, Castas, and Aurra Sing repeatedly targeted Mace Windu.
 As crime continued to plague the war-torn galaxy,
-[
-176
-]
 Mace Windu became the subject of a series of assassination attempts after Boba Fett allied himself with fellow bounty hunters
 Aurra Sing
 ,
@@ -4245,9 +3009,6 @@ Bossk
 , and
 Castas
 to attain justice for Windu's murder of his father, Jango, at the First Battle of Geonosis.
-[
-177
-]
 The young Fett posed as a
 cadet
 within Clone Sergeant
@@ -4263,15 +3024,9 @@ Endurance
 , Fett
 sabotaged
 the cruiser's reactor, forcing Kilian to crash-land his vessel on nearby Vanqor.
-[
-178
-]
 Afterward, Fett and his crew abducted Kilian, Commander Ponds, and a
 clone navigation officer
 in the hopes that the Confederacy would offer them a reward for their hostages.
-[
-177
-]
 When Skywalker and Windu traveled to the
 Endurance
 '
@@ -4279,27 +3034,20 @@ s crash site in search of Kilian and his crew, Fett set another trap. He detonat
 Endurance
 '
 s bridge, pinning Skywalker and Windu underneath mounds of rubble. Both Jedi survived the attack, albeit barely.
-[
-177
-]
 By this time, the Confederacy had begun to offer bounties on Jedi, some as high as a million credits.
-[
-179
-]
 As a result, Fett and his allies sought to obtain evidence of Skywalker's and Windu's deaths so that they would be able to turn a profit from the incident. However, Skywalker's astromech droid, R2-D2, warded off the bounty hunters and managed to reach the Jedi Temple, where he notified Plo Koon and Ahsoka Tano of Skywalker and Windu's precarious plight. In response, Koon and Tano
 traveled
 with Commander Wolffe and his Wolfpack to Vanqor, where they rescued Skywalker and Windu before the remains of the
 Endurance
 finally collapsed.
-[
-177
-]
-Now having twice failed to execute Windu, Fett and his crew resorted to other methods to draw out their target. In a direct holotransmission to the Jedi Temple, Sing gunned down Ponds and threatened to kill Killian and his navigation officer in an attempt to provoke Windu into confronting them. Yet, since Windu was still recovering from the injuries that he had sustained on Vanqor, Koon and Tano instead went after Fett and his team. Koon and Tano tracked the bounty hunters to Florrum, where they had sought out Hondo Ohnaka and his pirate gang. Ohnaka, for his part, stayed out of Sing's plot against Windu, even after Sing murdered Castas for trying to sell her out to interested parties. A
+Now having twice failed to execute Windu, Fett and his crew resorted to other methods to draw out their target.
+In a direct holotransmission to the Jedi Temple, Sing gunned down Ponds and threatened to kill Killian and his navigation officer in an attempt to provoke Windu into confronting them.
+Yet, since Windu was still recovering from the injuries that he had sustained on Vanqor, Koon and Tano instead went after Fett and his team.
+Koon and Tano tracked the bounty hunters to Florrum, where they had sought out Hondo Ohnaka and his pirate gang.
+Ohnaka, for his part, stayed out of Sing's plot against Windu, even after Sing murdered Castas for trying to sell her out to interested parties.
+A
 lethal confrontation
 ensued when Koon and Tano clashed with Fett and Sing. When Koon captured Fett, Sing abandoned her young protégé and rendezvoused with Bossk, who was guarding Kilian and his navigation officer.
-[
-73
-]
 Ultimately, Koon convinced Fett—who was already apprehensive of Sing's brutal exploitation of the hostages—to divulge the location of the prisoners. Tano arrived there just in time to prevent Bossk from executing Kilian and the clone officer. Tano also prevented Sing from escaping aboard her crew's
 starship
 ,
@@ -4309,24 +3057,12 @@ stabilizer
 in mid-flight.
 Slave I
 crashed, taking down Sing with it.
-[
-73
-]
 Though Tano and her colleagues assumed that Sing had perished in the crash, Ohnaka later extracted her from
 Slave I
 '
 s wreckage, and she returned to her line of work.
-[
-4
-]
 The Jedi Order, meanwhile, incarcerated Bossk and Fett in the Judiciary Central Detention Center on Coruscant,
-[
-73
-]
 where they remained prisoners for quite some time.
-[
-180
-]
 Prime Minister Almec nearly deposed his longtime leader, Duchess Satine Kryze, by way of a black market crisis.
 In the meantime, the Mandalorians discovered that their hard-won neutrality was not without cost. The Clone Wars disrupted intergalactic trade, depriving many star systems of their much-needed supplies. The situation forced Mandalore to resort to the
 black market
@@ -4343,9 +3079,6 @@ tea
 to local schools. While visiting Mandalore, Padmé Amidala helped Satine Kryze
 dismantle
 the Moogans' operation because the mixture of tea and slabin had a lethal affect on Sundari's youth.
-[
-175
-]
 Furthermore, a
 crisis
 arose when Prime Minister Almec used the black market to monopolize the planet's imports of supplies. Ahsoka Tano, who was serving as a guest instructor at Mandalore's
@@ -4359,43 +3092,19 @@ Soniee
 , and Kryze's nephew
 Korkie
 —expose Almec as the culprit and arrested him.
-[
-181
-]
 The Clone Wars continued to change the galaxy, cultivating greed and corruption throughout the Republic and beyond.
-[
-175
-]
 The bounty hunter
 Durge
 was active during the Clone Wars
-[
-182
-]
 as a hired hand for the Separatists
-[
-183
-]
 who worked on his own time.
-[
-184
-]
 An assassin by the name of
 Ochi
 was also active, starting his career in Jedi hunting.
-[
-185
-]
 Whereas Palpatine assured the Senate that the Republic's war effort was faring well, some sources reported otherwise.
-[
-175
-]
 Even as the Republic made efforts to reinforce its fleet on the
 Hydian Way
 , where they hoped to counter Grievous's own efforts,
-[
-177
-]
 and deployed the
 Third Legion
 into a large-scale
@@ -4404,32 +3113,14 @@ on the planet
 Balith
 , another crisis unfolded. The war displaced countless civilians, leading Bail Organa, Padmé Amidala, and Senator
 Mon Mothma
-[
-4
-]
 of
 Chandrila
-[
-186
-]
 to host the
 Alderaan Refugee Conference
 .
-[
-14
-]
 Amidala served as the keynote speaker at the summit, which addressed the Republic's efforts to aid the refugees. The conference was interrupted when Ziro the Hutt hired Aurra Sing to kill Amidala in revenge for his imprisonment on Coruscant. Ahsoka Tano and Gregar Typho both helped Amidala subdue Sing,
-[
-4
-]
 who was nonetheless liberated from her ensuing incarceration
-[
-187
-]
 and soon resumed her bounty hunting career.
-[
-188
-]
 The Shadowfeeds of Murkhana
 [
 ]
@@ -4439,9 +3130,6 @@ Yes, Count Dooku succeeded in using the HoloNet for Separatist propaganda purpos
 ―Five years after the Clone Wars, Imperial Vice Admiral
 Dodd Rancit
 recalls the Republic's assault on Murkhana
-[
-1
-]
 Wilhuff Tarkin leads the Republic campaign to dismantle Murkhana's Shadowfeed operations.
 Nine
 months
@@ -4460,29 +3148,21 @@ propaganda
 campaign. The Confederacy hijacked the HoloNet and disseminated
 Shadowfeeds
 about Separatist accounts of wartime victories and falsifications of Republic war crimes. As a result, the populations of the Republic's Core Worlds began to fear that the Confederacy was on the verge of winning the war.
-[
-1
-]
 In order to shut down the Confederacy's Shadowfeeds, the Republic sent Captain Wilhuff Tarkin—the same man who had served as Governor of Eriadu and rejected Dooku's offers to join the CIS—and numerous platoons from the
 12th Sector Army
 to invade Murkhana. During the
 battle
-, Tarkin personally led the first waves of clone troopers into Murkhana City. After overwhelming the Separatist ground forces, Tarkin and his soldiers detained the scientists who were operating the Shadowfeeds. Tarkin then tortured the enemy scientists into divulging the details of their jamming and steganographic technology, allowing Republic cryptanalysis operatives to dismantle the Shadowfeeds. The Republic forces also destroyed Murkhana's sole HoloNet relay to stop the Shadowfeeds from reaching worlds along the Perlemian Trade Route. Murkhana retained its Separatist ties, but much of Murkhana City remained littered with refuse from the battle.
-[
-1
-]
+, Tarkin personally led the first waves of clone troopers into Murkhana City.
+After overwhelming the Separatist ground forces, Tarkin and his soldiers detained the scientists who were operating the Shadowfeeds.
+Tarkin then tortured the enemy scientists into divulging the details of their jamming and steganographic technology, allowing Republic cryptanalysis operatives to dismantle the Shadowfeeds.
+The Republic forces also destroyed Murkhana's sole HoloNet relay to stop the Shadowfeeds from reaching worlds along the Perlemian Trade Route.
+Murkhana retained its Separatist ties, but much of Murkhana City remained littered with refuse from the battle.
 In the wake of his victory on Murkhana, Tarkin executed thousands of beings who had abetted Dooku's takeover of the HoloNet, precluding the possibility of another communication breakdown. The Republic Navy's actions at Murkhana also led to the creation of the
 Commission for the Protection of the Republic
 . Tarkin, for his part, spent the next year serving Sheev Palpatine in a covert capacity. Tarkin garnered a number of similar victories for the Republic, eventually winning the captaincy of a Star Destroyer under Jedi General
 Even Piell
 .
-[
-1
-]
 All the while, the Shadowfeed was, ultimately, able to return to operation and even survived the war.
-[
-17
-]
 Battle of Kamino
 [
 ]
@@ -4494,33 +3174,18 @@ your
 half of the mission. We must stop the production of new clones if we are to win this war.
 "
 ―Asajj Ventress and General Grievous
-[
-30
-]
 Main articles:
 Battle of Kamino
 and
 Battle of Kamino (Kit Fisto)
 Even though Grievous and Asajj Ventress failed in their first attempt to invade Kamino,
-[
-83
-]
 the clone homeworld remained a critical target for the Confederacy. Therefore, Dooku opted to authorize a second invasion of Kamino. He placed Grievous in overall command of the mission, while sending Ventress ahead of the assault to infiltrate Kamino's defenses aboard her personal starship, the
 Trident
 . However, Obi-Wan Kenobi and Anakin Skywalker learned of the imminent invasion from an intercepted transmission between Grievous and Ventress. Acting quickly, Kenobi and Skywalker traveled to Kamino aboard the
 Resolute
 , bringing along Commander Cody, Captain Rex, and elements of the 501st Legion to bolster Tipoca City's defenses. Shaak Ti,
-[
-30
-]
 who supervised clone cadet training in Tipoca City,
-[
-82
-]
 also committed her efforts to helping Lama Su secure the Republic's fortifications of the cloning facilities.
-[
-30
-]
 Clone troopers defend Kamino's capital, Tipoca City, from aqua droids and
 Trident
 -class assault ships.
@@ -4542,122 +3207,61 @@ AQ-series battle droids
 Trident
 -class assault ships
 that Grievous had brought with him.
-[
-30
-]
 Even as Skywalker pressed his assault on the Confederate armada, both Kenobi and Ti sensed that something was amiss. By sacrificing his transports to protect his flagship, Grievous was exhibiting uncharacteristic recklessness. Suspicious of Grievous's tactics, Kenobi ventured into the oceans in a
 Kamino sub
 to investigate the wreckage from the downed Confederate vessels. Near the ocean floor, Kenobi witnessed the aqua droids readying the Confederacy's assault craft. When the aqua droids attacked his starship, Kenobi escaped back to sea level with the help of an
 aiwha
 .
-[
-30
-]
 Having diverted the Republic's attention to the space battle, Grievous and Ventress initiated their primary assault: the ground campaign. They launched from the oceans aboard their
 Trident
 -class assault ships, which clambered onto
-[
-30
-]
 the
 Tipoca City Military Complex
-[
-14
-]
-and drilled entry points for their troops. In doing so, the assault ships inflicted severe structural damage to the Military Complex and its array of cloning facilities. Kenobi quickly recalled Skywalker from the battle above Kamino, and they and Ti rushed to scramble their units of clone troopers in defense of Tipoca City. Since Grievous and Ventress did not have enough battle droids to seize control of the city, they sent their main body of troops to distract the Jedi and clones. After rendezvousing and meeting face-to-face for the first time, Grievous and Ventress split up to pursue separate objectives. While Grievous besieged the Military Complex's troop
+and drilled entry points for their troops.
+In doing so, the assault ships inflicted severe structural damage to the Military Complex and its array of cloning facilities.
+Kenobi quickly recalled Skywalker from the battle above Kamino, and they and Ti rushed to scramble their units of clone troopers in defense of Tipoca City.
+Since Grievous and Ventress did not have enough battle droids to seize control of the city, they sent their main body of troops to distract the Jedi and clones.
+After rendezvousing and meeting face-to-face for the first time, Grievous and Ventress split up to pursue separate objectives.
+While Grievous besieged the Military Complex's troop
 barracks
 , Ventress went after the last remaining sample of Jango Fett's DNA. The Confederacy hoped to use Fett's DNA to unlock new tactical possibilities against the Grand Army.
-[
-30
-]
 Before reaching the
 clone DNA room
 , Ventress slew
-[
-30
-]
 Commander
 Colt
 of the
 Advanced Recon Commandos
 .
-[
-82
-]
 Yet, before Ventress could abscond with the sample of Fett's DNA, Skywalker intercepted her at the DNA chamber and engaged her in a lightsaber duel. Similarly, Kenobi confronted Grievous outside the barracks, where they began yet another rematch as part of their longstanding rivalry. Meanwhile, 501st troopers Fives and Echo rallied a squad of young clone cadets to protect their home. Once Cody, Rex, and maintenance clone
 99
 brought them a supply of
 DC-15A blaster carbines
 and thermal detonators from the nearby armory, the cadets aided their commanding officers in defending the barracks from Grievous's B1 battle droids, capturing the droids in a classic pincer movement. Though the cadets and troopers successfully routed the droids, 99 died from enemy blasterfire while attempting to resupply his comrades. Cody, Echo, Fives, and Rex all mourned the loss of 99,
-[
-30
-]
 for even though his cloning malformation barred him from active duty,
-[
-82
-]
 they believed that their comrade had died as a true soldier.
-[
-30
-]
 Shaak Ti leads the Grand Army in repelling Separatist battle droids from Tipoca City's main hangar.
 When aqua droids breached Tipoca City's command center, Shaak Ti left Lama Su at the command post, while she personally led the front-line offensive against the invading troops. Ti and her clone troopers succeeded in repelling the aqua droids to the Military Complex's main hangar, where the clone soldiers unleashed barrages of blasterfire upon the enemy droids
-[
-30
-]
 with their
 Z-6 rotary blaster cannons
 .
-[
-189
-]
 The clones also used
 RPS-6 rocket launchers
-[
-190
-]
 to dislodge the
 Trident
 -class assault ships from their grip on the exterior walls of the Military Complex. As a result, the Grand Army made steady progress in its efforts to retake Tipoca City.
-[
-30
-]
 Ultimately, both Grievous and Ventress failed to achieve their objectives. Kenobi pursued Grievous to Tipoca City's exterior platforms, where Grievous evaded his foe and commandeered a
 Kaminoan flight pod
 . Similarly, Skywalker's duel with Ventress moved to the outer platforms, where Skywalker finally retrieved the sample of Fett's DNA from her. A squad of nearly twenty clone troopers came to Skywalker's aid and surrounded Ventress. Though Skywalker intended to let his soldiers execute Ventress, she escaped with Grievous in his stolen flight pod. Nevertheless, the Confederacy failed to win
-[
-30
-]
 the Battle of Kamino,
-[
-1
-]
 and the Republic emerged triumphant.
-[
-30
-]
 A number of Republic personnel received various forms of commendation for their performance in the Battle of Kamino. Cody and Rex promoted both Echo and Fives to the prestigious rank of Advanced Recon Commando,
-[
-30
-]
 while Wilhuff Tarkin was decorated for his involvement in the campaign.
-[
-1
-]
 The Kaminoans resumed their production of clone troopers for the Republic,
-[
-67
-]
 and Ti continued to collaborate with Kamino's cloners to train and expand the ranks of the Grand Army for the remainder of the war.
-[
-38
-]
 At another point, Kit Fisto was involved in
 battle
 on Kamino, during which he fought against Separatist droids.
-[
-191
-]
 Political intrigues
 [
 ]
@@ -4678,17 +3282,11 @@ feeble
 attempt to paint this as a domestic financial issue, and allow us to resume trade.
 "
 ―Lott Dod and Riyo Chuchi's addresses to the Republic Senate reflect the wider conflict between the Trade Federation and the Pantorans
-[
-138
-]
 Not all battles of the Clone Wars were fought between the Republic's clone troopers and the Confederacy's battle droids. Occasionally, Dooku relied on his contacts in the trade guilds to engineer plots that forced planets into joining the Confederacy. One such scheme involved the moon Pantora, which was a member of the Republic. Under the pretext that the Pantorans owed outstanding debts, the Trade Federation suspended all commerce with the
 Pantora system
 and
 blockaded
 Pantora. When the Republic Senate appeared unsympathetic to their plight, the Pantorans began to rally against the Republic. Complicating matters was Dooku's offer to aid the Pantorans on the condition that they join the Confederacy. The incident occurred not long into Baron Papanoida's first term as chairman of Pantora. In response to the unfolding crisis, Papanoida sent Senator Riyo Chuchi to Coruscant to convince the Senate to side with Pantora.
-[
-138
-]
 The Trade Federation's blockade of Pantora nearly caused the Pantorans to join the Confederacy.
 Hoping to legitimize the blockade of Pantora, Lott Dod reiterated the Trade Federation's claims of neutrality, which the
 Commerce Treaty of 1647
@@ -4705,9 +3303,6 @@ Che Amanwe
 , from the family's
 apartment
 . At the same time, Dooku personally offered to help Papanoida find his daughters.
-[
-138
-]
 Ahsoka Tano, who was good friends with Chuchi, volunteered to aid Papanoida's search for his daughters. Papanoida and his son,
 Ion
 , tracked down Greedo at Jabba's Palace on Tatooine. Speaking to Jabba, Papanoida cited the Hutt Clan's treaty with the Republic and persuaded Jabba to let him confirm that Greedo was one of the kidnappers, by matching Greedo's blood against a blood sample from the crime scene. Once Greedo admitted to abducting Amanwe and Eekway, he took Papanoida and his son to Mos Eisley's
@@ -4715,9 +3310,6 @@ cantina
 , where Amanwe was being held. After a
 short shootout
 with Greedo's comrades, Papanoida and Ion managed to rescue Amanwe.
-[
-138
-]
 Meanwhile, Chuchi and Tano paid a
 diplomatic visit
 to the Trade Federation's Droid Control Ship that was blockading Pantora. Aboard the vessel, they located and liberated Eekway from a holding cell. Chuchi also convinced the battleship's officer,
@@ -4725,29 +3317,11 @@ Sib Canay
 , as well as a
 fellow envoy
 to end the blockade due to their illicit involvement in the abduction of Papanoida's daughters. Canay took the fall for the whole debacle, with Dod publicly claiming that the influence of Viceroy Nute Gunray
-[
-138
-]
 —whom Dod described as an extremist,
-[
-109
-]
 since Gunray was a member of the Separatist Council
-[
-8
-]
 —extended to misguided officers like Canay. In the end, the Trade Federation relinquished its blockade of Pantora and resumed trade with the Pantorans.
-[
-138
-]
 A potential rift later emerged between the Republic and the Hutt Clan,
-[
-179
-]
 which had been allies ever since Dooku and Ziro the Hutt's plot to overthrow Jabba.
-[
-23
-]
 Since Ziro possessed a
 holodiary
 that
@@ -4755,9 +3329,6 @@ documented
 the
 Grand Hutt Council
 's illicit dealings, Jabba and the Hutt Council decided to forcefully obtain custody of Ziro from the Republic.
-[
-179
-]
 To that end, the Hutts hired Cad Bane to spring Ziro from the Republic Judiciary Central Detention Center. Bane did so by collaborating with fellow bounty hunters Aurra Sing,
 Shahan Alama
 , and
@@ -4765,17 +3336,8 @@ Robonino
 to engineer a
 hostage crisis
 in the Republic Senate.
-[
-188
-]
 Bane's high-profile breach of Coruscant's security
-[
-192
-]
 consequently forced Sheev Palpatine to release Ziro from prison.
-[
-188
-]
 Jedi Masters Obi-Wan Kenobi and
 Quinlan Vos
 tried to recapture Ziro, but Ziro's ex-lover, the renowned
@@ -4784,9 +3346,6 @@ Sy Snootles
 , killed him on Teth and retrieved the Hutt Council records as part of a prior arrangement with Jabba. Due to the Confederacy's million-credit bounties on Jedi, Bane—who had also pursued Ziro to Teth—
 attacked
 Kenobi and Vos, but their skirmish resulted in a draw.
-[
-179
-]
 No end in sight
 [
 ]
@@ -4796,56 +3355,26 @@ then
 some.
 "
 ―Dooku conspires with a cabal of Republic senators to sabotage a peace initiative between the Confederacy and the Republic
-[
-55
-]
 Over a year into the Clone Wars,
-[
-193
-]
 figures on both sides of the conflict nearly succeeded in ending the bloodshed. Their venture for peace emanated from the Republic Senate's endless debates about escalating its campaign against the Confederacy.
-[
-55
-]
 Many of the Republic's social services—including education, infrastructure, health care, and basic amenities—had suffered from budget cuts in favor of military spending. Furthermore, the war effort's fiscal cost dragged the Republic into debt,
-[
-194
-]
 leaving it on the verge of bankruptcy.
-[
-55
-]
 Furthermore, it seemed there was no end to the fighting in sight, and the Confederacy was gaining ground, resulting in great number of clones being slaughtered.
-[
-195
-]
 In response, Senator
 Gume Saam
 proposed a
 bill
 to open new lines of credit with the InterGalactic Banking Clan, which would facilitate future loans for the Grand Army's expenses. In truth, Saam's proposal was a war profiteering ploy, since the legislation would deregulate the banks and thus allow the Banking Clan, the Trade Federation, and the Techno Union to reap immense profits from the war.
-[
-55
-]
 By proxy, the Sith thwarted Mina Bonteri's proposal to open peace negotiations, and Dooku later had her killed.
 Though Bail Organa persuaded the Senate to table Saam's bill, Padmé Amidala remained concerned about the war's pervasive bloodshed. Consequently, she sought out a private meeting with her old friend Mina Bonteri,
-[
-55
-]
 who represented her homeworld of
 Onderon
 in the Separatist Senate.
-[
-196
-]
 In doing so, Amidala circumvented the Republic's
 law
 against speaking with Confederate officials, a policy that prevented the Republic from recognizing the Confederacy as a legitimate state. Amidala and Ahsoka Tano used the latter's special Jedi clearance to smuggle themselves onto Raxus, where Amidala persuaded Bonteri to introduce a proposal to the Separatist Senate to initiate diplomatic negotiations with the Republic. Bonteri's
 measure
 passed, thereby raising the prospect of an end to the war.
-[
-55
-]
 A potential resolution to the Clone Wars jeopardized the Sith's plans for galactic conquest, since their endgame had not yet come to fruition. Moreover, Saam and other Confederate-leaning members of the Republic Senate, including Lott Dod and
 Nix Card
 of the Banking Clan, were determined to pass the financial deregulation bill by any means necessary. Card proposed that they engineer a Confederate assault on Coruscant, which had not experienced a large-scale attack in over a millennium. Dooku agreed to Card's idea, since it would sow fear on the Republic capital and thus motivate the Senate into approving Saam's bill. Grievous subsequently sent a six-member team of
@@ -4855,33 +3384,15 @@ central power distribution grid
 . Their
 bombing
 coincided with the Separatist Senate's offer for peace talks, thereby sullying the apparent sincerity of Bonteri's monumental peace initiative.
-[
-55
-]
 As Grievous's bombing plunged Coruscant into a planet-wide blackout, Dod and Saam decried the Confederacy for its unprovoked assault. As Card had predicted, the Senate voted to deregulate the Banking Clan, with multiple senators calling for an expansion of the Grand Army.
-[
-55
-]
 Even as Amidala and her like-minded allies advocated for reductions to military spending, the Sith derailed her and Bonteri's joint initiative for peace.
-[
-194
-]
 Dooku had his agents murder Bonteri,
-[
-197
-]
 then alleged that Bonteri had perished in a
 Republic assault
 , which he used as justification to withdraw the Separatist Senate's offer for negotiations.
-[
-194
-]
 Bonteri was survived by her son,
 Lux
 , who embarked on a quest to kill Dooku in retaliation for his mother's death.
-[
-171
-]
 In the absence of the peace initiative, both sides of the conflict escalated their war efforts, further prolonging the Clone Wars. The Confederacy secured a loan from the Banking Clan to finance three million new battle droids for the Separatist Droid Army. Concurrently, Republic Senator
 Halle Burtoni
 of Kamino introduced an
@@ -4889,25 +3400,13 @@ emergency appropriations bill
 to produce five million more clone troopers for the Grand Army, using funding from the Banking Clan. However, the Banking Clan issued an interest rate hike on all loans due to its newfound deregulation. Moreover, Dooku utilized scare tactics by hiring the bounty hunters Robonino and
 Chata Hyoki
 to intimidate numerous senators into supporting Burtoni's pro-military proposal. Even though Amidala convinced the Senate to defeat Burtoni's resolution,
-[
-194
-]
 a pair of assassinations—Senators Onaconda Farr of Rodia and
 Mee Deechi
-[
-198
-]
 of
 Umbara
-[
-199
-]
 —destabilized the situation once more. Ultimately, the Senate's militarist faction won out, rejecting Amidala's
 proposal
 to reduce military spending in favor of a scheduled increase in clone trooper production.
-[
-198
-]
 Other incidents of year two
 [
 ]
@@ -4919,9 +3418,6 @@ Clone Wars!
 "
 ―
 CR-8R
-[
-200
-]
 At some point during the second year of the war, a squad of B1 battle droids, acting under a T-series tactical droid and a
 B1 lieutenant
 , was sent to the astronomical object
@@ -4937,9 +3433,6 @@ magnetic rock chimps
 , and finally a large
 bird
 that ate him over the course of his long march. Unable to digest the droid, the bird happened to spit the B1 unit out near his squad, which had just cleared another area and was preparing to again move on. Ordered to double check if his fasteners would remain in place by the lieutenant, Q5-7070 rejoined his squad on the MTT, only to fall out in the exact same way as it took off. Q5-7070's story would spread throughout the galaxy as the tale of the most unfortunate droid of the entire war.
-[
-200
-]
 Year three (20 BBY–19 BBY)
 [
 ]
@@ -4950,20 +3443,11 @@ The apprentices of Count Dooku
 You have failed me for the last time. You are no longer my apprentice. And now, you shall die.
 "
 ―Dooku betrays Asajj Ventress, sparking a chain of events leading to the ascension of Savage Opress
-[
-31
-]
 Betrayed by Dooku, Asajj Ventress unleashes her fury on Obi-Wan Kenobi and Anakin Skywalker.
 As the war's second year progressed, a cycle of betrayals and vengeance consumed the Sith hierarchy, which in turn affected a number of campaigns between the Confederacy and the Republic.
-[
-31
-]
 At the
 Battle of Sullust
 ,
-[
-201
-]
 Asajj Ventress spearheaded the Separatist navy's strike on a Republic fleet. Flying her personal
 Ginivex
 -class fanblade starfighter
@@ -4976,19 +3460,10 @@ two
 in overwhelming the
 Resolute
 .
-[
-31
-]
 Wullf Yularen narrowly escaped from his flagship before it went down.
-[
-202
-]
 Building on her success, Ventress gave chase to Obi-Wan Kenobi and Anakin Skywalker in their Delta-7B interceptors. However, both Kenobi and Ventress crashed in the hangar of the Separatist
 command ship
 , with Skywalker following them there.
-[
-31
-]
 From afar, Darth Sidious sensed Ventress's growing power in the Force, and he recognized her as a threat. Suspecting that Dooku was training Ventress as a means of supplanting him, Sidious demanded that Dooku prove his allegiance to him by eliminating Ventress. Though reluctant to do so, Dooku obeyed his Master's wishes. Dooku recalled Confederate reinforcements that were inbound to the
 Sullust system
 , then informed Ventress that she was no longer his apprentice—and that she would die. Shell-shocked from Dooku's betrayal, Ventress dueled Kenobi and Skywalker until Dooku ordered
@@ -4998,32 +3473,17 @@ armada
 over
 Sullust
 , to sacrifice their flagship and obliterate it.
-[
-31
-]
 Betrayed by Dooku, Asajj Ventress returns to her homeworld of Dathomir.
 Kenobi and Skywalker made it off the enemy command ship,
-[
-31
-]
 but both they
-[
-201
-]
 and Dooku presumed that Ventress died when the
 Providence
 -class Dreadnought was destroyed from friendly fire. Afterward, Dooku had TJ-912 withdraw their fleet from the Sullust system, conceding victory to the Republic. In actuality, Ventress had survived, albeit barely. Captain
 Ratch
 and his band of scavengers found her in the wreckage of her starfighter and brought her aboard their freighter,
-[
-31
-]
 the
 Raider
 .
-[
-202
-]
 Ventress slew Ratch and his crew and returned home to Dathomir, where her people, the
 Nightsisters
 , nursed her back to health. When Ventress and her fellow Nightsisters
@@ -5036,9 +3496,6 @@ Dooku at his palace on Serenno, Ventress conspired with
 Mother
 Talzin
 , the leader of her Nightsister clan, to exact her revenge on Dooku by different means.
-[
-31
-]
 From Dathomir's
 village
 of subservient
@@ -5052,17 +3509,8 @@ witches
 imbued Opress with their
 magicks
 , bringing him under their control. Officially, Talzin declined Dooku's proposal for an alliance between the Nightsisters and the Confederacy, as her clan had no interest in becoming involved in the Clone Wars;
-[
-203
-]
 although some Nightsisters were seen fighting for the Separatist cause during the war,
-[
-204
-]
 a formal alliance never emerged.
-[
-205
-]
 In any case, Dooku opted to assess Opress's abilities by sending him to an active battlefront on Devaron. There, the Separatist Droid Army was
 laying siege
 to the
@@ -5070,46 +3518,19 @@ Temple of Eedit
 , a
 Jedi temple
 that doubled as an outpost for the Grand Army. Opress was the sole survivor of the battle, as he butchered
-[
-203
-]
 Clone Commander
 Trauma
-[
-206
-]
 and his clone soldiers, as well as Jedi Master
 Halsey
 and his Padawan,
 Knox
 .
-[
-203
-]
 Impressed by Opress's performance,
-[
-203
-]
 Dooku trained his new apprentice in the ways of the Sith,
-[
-201
-]
 hoping to depose Sidious in accordance with the Rule of Two.
-[
-203
-]
 Opress's next task was to abduct King Katuunko of Toydaria, for Dooku still harbored a grudge against Katuunko
-[
-201
-]
 due to the latter's refusal to ally Toydaria with the Confederacy.
-[
-88
-]
 However, Opress's massacre on Devaron had caught the attention of the Jedi High Council.
-[
-201
-]
 After
 Delta Squad
 , a
@@ -5123,13 +3544,7 @@ Sev
 , and
 Scorch
 ,
-[
-207
-]
 recovered Halsey's and Knox's bodies from the Temple of Eedit, Kenobi and Skywalker went to investigate Opress's connection to Dathomir. The two Jedi headed to Toydaria after learning from Talzin that Opress was currently there.
-[
-201
-]
 Savage Opress ruins Asajj Ventress's scheme to kill Dooku by turning on both of them.
 Everything
 came to a head
@@ -5142,65 +3557,37 @@ Force-choked
 Katuunko to death. When Opress brought Katuunko's corpse aboard Dooku's
 Providence
 -class Dreadnought
-in orbit of Toydaria, Dooku was furious that Opress had disobeyed his orders to keep Katuunko alive. At that moment, Ventress entered Dooku's chambers and activated the spell that ensured Opress's loyalty to her. An intense duel erupted as Opress and Ventress tried to kill Dooku, but it escalated into a three-way confrontation when Opress broke free of Ventress's control and turned on both of his former masters. Evading Opress, Ventress pursued Dooku to the lower decks. But even in single combat, she was unable to defeat the Sith Lord. Ventress barely made it into an escape pod, and she departed from Dooku's dreadnought, now facing an uncertain future.
-[
-201
-]
+in orbit of Toydaria, Dooku was furious that Opress had disobeyed his orders to keep Katuunko alive.
+At that moment, Ventress entered Dooku's chambers and activated the spell that ensured Opress's loyalty to her.
+An intense duel erupted as Opress and Ventress tried to kill Dooku, but it escalated into a three-way confrontation when Opress broke free of Ventress's control and turned on both of his former masters.
+Evading Opress, Ventress pursued Dooku to the lower decks.
+But even in single combat, she was unable to defeat the Sith Lord.
+Ventress barely made it into an escape pod, and she departed from Dooku's dreadnought, now facing an uncertain future.
 Meanwhile, Opress again encountered Kenobi and Skywalker after they reached Dooku's dreadnought aboard the
 Thief's Eye
 , the personal yacht of the late Katuunko. When Dooku's battle droids opened fire on them in the main hangar, Opress and his Jedi adversaries escaped separately from the cruiser, bringing the showdown to an end. Opress limped home to Dathomir, where Talzin sent him on a quest to save his long-lost brother Maul,
-[
-201
-]
 who had once been Sidious's apprentice
-[
-62
-]
 and was in fact Talzin's son.
-[
-208
-]
 Republic defeat at Sarrish
 [
 ]
 Gregor (pictured) was clone commando who served in the devastating Battle of Sarrish.
 The grueling
 Battle of Sarrish
-[
-209
-]
 was also fought in 20 BBY. It occurred between Ventress's failed assassination attempt on Serenno and Talzin's offer of Savage Oppress to Dooku.
-[
-210
-]
 The battle became one of the Republic's greatest defeats, with many
-[
-211
-]
 clone troopers
-[
-212
-]
 killed in action. The elite
 clone commandos
 of
 Foxtrot Group
 , meanwhile,
-[
-211
-]
 were reported missing in action.
-[
-213
-]
 Commando captain
 Gregor
 survived the battle but suffered amnesia after a shuttle crash, finding himself on the distant planet
 Abafar
 with no memory of his past as a soldier.
-[
-209
-]
 Citadel prison break
 [
 ]
@@ -5208,16 +3595,10 @@ Citadel prison break
 There have not been battles like these since the days of the Old Republic.
 "
 ―Saesee Tiin
-[
-63
-]
 Main article:
 Battle of Lola Sayu
 Even Piell and his crew escape from incarceration in the Citadel with the help of a Republic strike team.
 A year and nine months into the Clone Wars,
-[
-214
-]
 the
 Nexus Route
 —a little-known hyperspace lane that connected Coruscant with the heart of Separatist space—gained critical importance for both the Republic and the Confederacy. When Jedi General Even Piell and his crew unearthed the coordinates of the Nexus Route, the Confederacy targeted him for capture. As a Confederate flotilla
@@ -5226,9 +3607,6 @@ his Star Destroyer, Piell divided the Nexus Route's coordinates with his naval c
 Warden
 Osi Sobeck
 .
-[
-32
-]
 After receiving word of Piell's capture, the Jedi High Council assembled an infiltration team to rescue him and his crew from the Citadel. Kenobi and Skywalker received command of a squad of clone troopers, with additional support from Commander Cody, Captain Rex, and ARC troopers Echo and Fives. Much to Skywalker's later consternation, Ahsoka Tano joined the mission even though he ordered her not to do so. At the Jedi Temple, the Jedi and clones
 encased
 themselves in
@@ -5238,49 +3616,29 @@ dangerous operation
 began when R2-D2 and a
 squad
 of reprogrammed B1 battle droids transported the Jedi and clones to
-[
-32
-]
 the
 Lola Sayu system
-[
-14
-]
 aboard a pilfered
 Sheathipede
 -class shuttle. Once they had bypassed the blockade and reached Lola Sayu's surface, R2-D2 unfroze his comrades from their carbonite blocks.
-[
-32
-]
 Despite Tano's unexpected appearance, Kenobi and Skywalker let her join their operation. After free-climbing a cliff to reach the Citadel, the infiltration team rescued Piell, as well as Tarkin and their clone officers. Along the way, they evaded Sobeck's countermeasures, which ranged from wall-mounted
 blaster cannons
 and electrical emitters, to elite BX-series droid commandos. Nevertheless, the squad incurred casualties from Sobeck's traps. As part of their plan's next stage, Kenobi and Skywalker divided their forces. While Skywalker and Tano brought Tarkin, Rex, Fives, Echo, and several troopers into the caverns beneath the Citadel, Kenobi, Piell, Cody, and the other soldiers created a diversion by exploding one of the Citadel's upper decks.
-[
-32
-]
 Yet, complications arose as both squads headed to their separate extraction points. R2-D2 and his reprogrammed droids landed the shuttle at the Citadel's rear landing pad, but Sobeck's tactical droid,
 K2-B4
 , intercepted them there. Moreover, Sobeck recaptured Cody, Kenobi, Piell, and their men, but R2-D2 and his battle droids freed them from Sobeck's droid security teams.
-[
-215
-]
-To reach their extraction point at the Citadel's external fuel pipeline, Skywalker, Tano, Tarkin, and their soldiers used thermal detonators to rupture a blocked cavern as well as a pursuing squad of battle droids. However, when R2-D2 and the shuttle missed their scheduled rendezvous, Skywalker and Tano resorted to their backup plan. After using more of their explosives to detonate the fuel in the exterior pipeline, Skywalker, Tano, Tarkin, and their men proceeded to the prison's main landing pad. They arrived at the airfield just as Kenobi, Piell, and their squad mounted a desperate offensive to eliminate the battle droids that had separated them from their shuttle. While Kenobi, Piell, Skywalker, and Tano concentrated on destroying an incoming squad of battle droids aboard
+To reach their extraction point at the Citadel's external fuel pipeline, Skywalker, Tano, Tarkin, and their soldiers used thermal detonators to rupture a blocked cavern as well as a pursuing squad of battle droids.
+However, when R2-D2 and the shuttle missed their scheduled rendezvous, Skywalker and Tano resorted to their backup plan.
+After using more of their explosives to detonate the fuel in the exterior pipeline, Skywalker, Tano, Tarkin, and their men proceeded to the prison's main landing pad.
+They arrived at the airfield just as Kenobi, Piell, and their squad mounted a desperate offensive to eliminate the battle droids that had separated them from their shuttle.
+While Kenobi, Piell, Skywalker, and Tano concentrated on destroying an incoming squad of battle droids aboard
 Single Trooper Aerial Platforms
 , Echo and Fives focused their attention on the ground-level enemy infantry. Yet, just as Echo tried to board the shuttle, a droid commando fired a turret blast at the craft, causing a fiery explosion that consumed the shuttle and, presumably, Echo.
-[
-215
-]
 Before dying, Even Piell passes on his half of the Nexus Route's coordinates to Ahsoka Tano.
 Without their shuttle, the four Jedi escaped from the Citadel's airfield with Tarkin, as well as Cody, Rex, Fives, and their remaining troopers. As they made their way across Lola Sayu's inhospitable terrain, Kenobi and Skywalker notified the Jedi High Council that they would require an extraction from Lola Sayu.
-[
-215
-]
 Consequently, the Council sent four of its members—Kit Fisto, Adi Gallia, Plo Koon, and
 Saesee Tiin
 —to the Lola Sayu system with a battle group of four Star Destroyers. In the meantime, Piell and his allies headed for an island that the Council had selected as their extraction point. En route, an endless number of battle droid squads pursued the Jedi and clones, leading R2-D2 to sacrifice his reprogrammed battle droids to delay the enemy forces as long as possible.
-[
-63
-]
 It was not long before Sobeck personally took charge of the effort to recapture his prisoners. Under pressure from Dooku to recover the Nexus Route intelligence, Sobeck dispatched a hunting party of ravenous
 anoobas
 to locate the Jedi and clones, then followed with a squad of droid commandos. Although the Jedi and clones defeated Sobeck's anoobas and
@@ -5288,9 +3646,6 @@ LM-432 crab droids
 , their momentary victory came at a severe cost. Piell died from fatal wounds from one of the anoobas, using his final breaths to pass his half of the Nexus Route coordinates to Tano. She and her comrades took a brief respite from the battle to lay Piell to rest, cremating his body in one of Lola Sayu's rivers of
 sulfurous
 lava.
-[
-63
-]
 Shortly thereafter, Fisto, Gallia, Koon, and Tiin arrived in the Lola Sayu system with their
 fleet
 of Star Destroyers. While Admiral
@@ -5304,29 +3659,18 @@ space gunship
 so that they could extract their comrades from the surface. Koon and Wolffe reached the appointed rendezvous point just after Sobeck arrived there with his battle droids to recapture Kenobi, Skywalker, Tano, Tarkin, and their soldiers. Frustrated by his prisoners' periodic evasion of recapture, Sobeck simply decided to kill Tarkin to ensure that his half of the Nexus Route intelligence died with him. Yet, Tano saved Tarkin by igniting her
 shoto lightsaber
 through Sobeck, killing him. Tano and her allies then escaped with Koon and Wolffe aboard their gunship, and all of them safely returned to Coburn's fleet with Fisto, Gallia, and Tiin. The Republic armada jumped to hyperspace, thereby resulting in a major defeat for the Confederacy.
-[
-63
-]
-On Coruscant, the Jedi Council was saddened to learn of Piell's sacrifice. Moreover, the Jedi encountered difficulties before they could debrief the Nexus Route coordinates. Whereas Tarkin had orders to provide his half of the information directly to Sheev Palpatine, Tano remained committed to Piell's dying wish that she deliver her share of the coordinates only to the High Council. Master Yoda subsequently met with Palpatine to figure out a solution to the matter. The entire incident also led Skywalker and Tarkin to find common ground based on their similar criticisms of the
+On Coruscant, the Jedi Council was saddened to learn of Piell's sacrifice.
+Moreover, the Jedi encountered difficulties before they could debrief the Nexus Route coordinates.
+Whereas Tarkin had orders to provide his half of the information directly to Sheev Palpatine, Tano remained committed to Piell's dying wish that she deliver her share of the coordinates only to the High Council.
+Master Yoda subsequently met with Palpatine to figure out a solution to the matter.
+The entire incident also led Skywalker and Tarkin to find common ground based on their similar criticisms of the
 Jedi Code
 and the Jedi Order's role as generals.
-[
-63
-]
 In addition, though Echo was presumed dead during the escape from the Citadel,
-[
-216
-]
 he had in fact survived.
-[
-217
-]
 The Techno Union purchased Echo from the Separatists and subjected him to extensive
 reconstructive surgery
 , fusing him with a large amount of cybernetics as part of a research project.
-[
-218
-]
 Conflict returns to Felucia
 [
 ]
@@ -5340,9 +3684,6 @@ Link
 (
 file info
 )
-[
-219
-]
 Main article:
 Second Battle of Felucia
 During the Battle of Felucia, Ahsoka Tano leads the Republic's charge into Separatist-held territory.
@@ -5360,9 +3701,6 @@ on Felucia. With the aid of Plo Koon, Skywalker and Tano mounted a three-pronged
 Corporal
 Comet
 , and Boost and other soldiers to scale the rear wall. All three teams converged at the outpost's central command post, where they eliminated TZ-33 and his remaining infantry.
-[
-219
-]
 However, Tano found herself unable to help her allies sack TZ-33's outpost. She was declared missing in action after
 Trandoshan
 hunters captured her and brought her to the moon
@@ -5370,13 +3708,7 @@ Wasskah
 , where the Trandoshans
 hunted
 her and other captives for sport. In spite of numerous perimeter sweeps of TZ-33's outpost, Koon and Skywalker failed to find Tano, and they withdrew their forces from Felucia the following morning.
-[
-219
-]
 Nevertheless, Tano returned to active duty after escaping from Wasskah with several Jedi younglings, who had also been stranded there for quite some time.
-[
-220
-]
 Civil war on Mon Cala
 [
 ]
@@ -5405,36 +3737,24 @@ Meena Tills
 tried to negotiate with the Quarren to no avail. The Jedi Council then sent Master Kit Fisto and Commander Ahsoka Tano to reinforce Anakin Skywalker and the
 Mon Calamari Guard
 against the Quarren's and Tamson's forces.
-[
-33
-]
 At first, the Republic and the Mon Calamari held out against the Separatist forces after Commander
 Monnk
 's
 SCUBA troopers
 reinforced them. However, the Republic forces were forced to retreat with the prince to the depths below when Tamson blew up their ship.
-[
-33
-]
 Meanwhile, the Jedi High Council had called the Gungan Grand Army to reinforce the prince and his forces. Tamson countered this when he rallied his Trident ships to create whirlpools around the battle sites. Tamson attempted to personally take out the prince, but Kit Fisto engaged him long enough for Lee-Char and Ahsoka Tano to escape.
-[
-39
-]
 Skywalker, Amidala, Fisto, and Binks were eventually captured by Tamson, who tortured them for answers using
 Mon Calamari eels
 , although to no avail. To get an answer faster, Tamson bit a hole in Amidala's helmet. However, he soon rushed back to the throne room when he learned that Lee-Char was apprehended. With Tamson gone, Fisto and Skywalker used the Force to remove the water from Amidala's helmet, and Binks sealed the puncture with his saliva.
-[
-42
-]
 Prince Lee-Char killed Riff Tamson when the Confederate warlord attacked him, helping to bring an end to the Battle of Mon Cala.
-Meanwhile, Tamson sentenced Lee-Char to public execution while proclaiming leadership over both the Quarren and Mon Calamari. This caused Nossir Ri to doubt what Tamson had initially promised. As the prisoners were brought to witness the execution, Ri communicated the Quarren's support to Ackbar, who united all the prisoners. Just before the prince was executed, the Quarren, Mon Calamari, Jedi, Gungans, and clones engaged the droids in battle once again. Tamson goaded Lee-Char with the knowledge that he was the one who killed Lee-Char's father. The prince pursued him as he tried to escape by throwing explosive knives at the Mon Calamari. Lee-Char stabbed Tamson with one of the knives and shot it, killing the Separatist warlord and leaving his remains to sink.
-[
-42
-]
+Meanwhile, Tamson sentenced Lee-Char to public execution while proclaiming leadership over both the Quarren and Mon Calamari.
+This caused Nossir Ri to doubt what Tamson had initially promised.
+As the prisoners were brought to witness the execution, Ri communicated the Quarren's support to Ackbar, who united all the prisoners.
+Just before the prince was executed, the Quarren, Mon Calamari, Jedi, Gungans, and clones engaged the droids in battle once again.
+Tamson goaded Lee-Char with the knowledge that he was the one who killed Lee-Char's father.
+The prince pursued him as he tried to escape by throwing explosive knives at the Mon Calamari.
+Lee-Char stabbed Tamson with one of the knives and shot it, killing the Separatist warlord and leaving his remains to sink.
 After the battle and the defeat of the CIS forces, Lee-Char was crowned the new king of the Quarren and Mon Calamari.
-[
-42
-]
 Failed peace conference on Mandalore
 [
 ]
@@ -5449,9 +3769,6 @@ legitimate
 .
 "
 ―Senators Padmé Amidala and Voe Atell
-[
-171
-]
 Main article:
 Confederate–Republic peace conference
 In an effort to end the Clone Wars, the Republic and Separatists held their first ever sanctioned
@@ -5462,24 +3779,12 @@ demanded her to, Amidala was reluctant to declare the CIS a legitimate governmen
 Separatist Congress Leader
 Bec Lawise
 immediately rejected the claim and ordered their commando droids to take the so-called traitor away.
-[
-171
-]
 Members of the Republic and Separatist Senates meet on Mandalore in an ultimately failed peace conference.
 Afterward, while Lawise was willing to continue the meeting, Amidala secretly allowed Tano,
-[
-171
-]
 who had met Bonteri during Amidala and Mina's earlier peace initiative,
-[
-55
-]
 to follow the droids, as the Jedi Padawan knew her friend's life was in danger. Unknown to her, Bonteri had planned on being captured, as he had wanted to get Dooku's attention. Believing they were a noble group, Bonteri had allied with Death Watch, who also wanted revenge on the Count, and planned on using a
 holotrace device
 to locate Dooku, which would allow Death Watch to attack him.
-[
-171
-]
 Brought into a C-9979 landing craft by the pair of commandos, Bonteri was dropped before a hologram of the Count. While Bonteri was able to activate his holotrace device, Dooku ordered the droids to kill the young man, but, after the Count's hologram deactivated, Tano entered the room and took out the commandos. During their escape, Tano contacted R2-D2, ordering him to activate the engines on their
 GX1 short hauler
 , the
@@ -5487,9 +3792,6 @@ Phoenix
 , and she and Bonteri were chased by a force of commando droids. Staying ahead of the droids, they reached the starship and were given covering fire by Captain
 Taggart's
 forces.
-[
-171
-]
 Aboard the GX1 with R2, they spoke with General Skywalker over hologram, who revealed the peace conference had all but collapsed. Although Tano intended to bring Bonteri to safety on Coruscant, where she and Skywalker could discuss giving the former Separatist amnesty, he zapped her unconscious and took the
 Phoenix
 to Death Watch on Carlac.
@@ -5499,9 +3801,6 @@ Ming Po Town
 . With the help of a group of droids Death Watch had been keeping as target practice, he, Tano, and R2 escaped the terrorists. Thinking he could not go with her, Bonteri still refused to go to the Republic and, after promising Tano that he would see her again, left the
 Phoenix
 aboard an escape pod.
-[
-171
-]
 Cortosis plot
 [
 ]
@@ -5513,21 +3812,12 @@ mission to Batuu
 , R2-D2 was shot by a
 B2-RP super battle droid
 when he had wanted to see what was unfolding; it had then taken technicians three days to rebuild R2.
-[
-47
-]
 Meanwhile, the
 Chiss Ascendancy
 , an empire that controlled part of the
 Unknown Regions
 ,
-[
-221
-]
 kept watch on the rest of the galaxy
-[
-47
-]
 and came to learn that a massive war was being fought there. Though their reports were unconfirmed, the
 Chiss
 also learned that one side largely used droids in combat. During the
@@ -5551,14 +3841,8 @@ Mitth'ali'astov
 Mitth family
 Trials
 .
-[
-2
-]
 Senior Captain Thrawn of the Chiss Ascendancy became involved in the Clone Wars while looking for allies.
 After finding nothing of value on the first four worlds they checked, Thrawn and Che'ri spotted a force of Separatist droid starfighters stationed at
-[
-2
-]
 the planet
 Mokivj
 . The Confederacy had taken over Mokivj after a then-unknown species—the
@@ -5576,23 +3860,11 @@ cortosis mine
 and
 droid factory
 , the latter producing
-[
-47
-]
 the
 C-B3 cortosis battle droid
 ,
-[
-222
-]
 a B2-series super battle droid with cortosis armor able to block blasters and lightsabers. To the confusion of the Grysks, the factory also produced clone trooper armor made from cortosis, as Darth Sidious planned to use the metal to help in the execution of Order 66. The factory was protected by a deflector shield,
-[
-47
-]
 which Thrawn spotted and realized could be of great use to the Ascendancy.
-[
-2
-]
 Directly afterward, Thrawn and Che'ri spotted another ship watching the droid starfighters, so the Senior Captain ordered Che'ri to navigate their ship to the first planet they had investigated in order to get there first, reasoning that, by being the most populous, it was the most likely destination for the other craft to rendezvous or send a message from. Indeed being the first to arrive at the planet, which was the Outer Rim world of
 Batuu
 , Thrawn sent a communication in several
@@ -5602,19 +3874,14 @@ Meese Caulf
 , the second-to-last trade language he had used. The pilot of the other ship was
 Duja
 ,
-[
-2
-]
 who had been a
 handmaiden
 to Padmé Amidala and had uncovered the Separatist conspiracy unfolding on Mokivj. As such, she sent that information to Amidala.
-[
-47
-]
-Nevertheless, in addition to rotating her ship slightly so she could fire upon the Chiss if need be, she only told the two her name before asking whether the Chiss supported the Republic or Confederacy. When Thrawn clarified that their government served neither, she decided she had no reason to speak with the Senior Captain, only asking if he had seen a Nubian ship arrive. When Thrawn confirmed they had not, Duja ended their conversation, leaving Thrawn with the feeling she was a scout or spy. As he explained to Che'ri, who had expected him to call Duja back, her armed ship and slight rotation confirmed she had training, but he understood she was not a warrior. Thus, he reasoned the two of them would wait until a warrior arrived.
-[
-2
-]
+Nevertheless, in addition to rotating her ship slightly so she could fire upon the Chiss if need be, she only told the two her name before asking whether the Chiss supported the Republic or Confederacy.
+When Thrawn clarified that their government served neither, she decided she had no reason to speak with the Senior Captain, only asking if he had seen a Nubian ship arrive.
+When Thrawn confirmed they had not, Duja ended their conversation, leaving Thrawn with the feeling she was a scout or spy.
+As he explained to Che'ri, who had expected him to call Duja back, her armed ship and slight rotation confirmed she had training, but he understood she was not a warrior.
+Thus, he reasoned the two of them would wait until a warrior arrived.
 Mission to Batuu
 [
 ]
@@ -5622,70 +3889,43 @@ Mission to Batuu
 This is no longer merely a search for a missing ambassador. It's become an important part of your Clone War. Remember that victory is the goal.
 »
 ―Senior Captain Thrawn, to Anakin Skywalker
-[
-47
-]
 Main article:
 Mission to Batuu
-Having received Duja's vague message that there was some kind of Separatist operation around Batuu, Republic High Command found the report too vague to act on, so Amidala decided to investigate it herself. Although she told Skywalker of her plan, noting that she would not be alone because of Duja's presence on Batuu, her husband was unable to go with her, needing to serve as the leader for an upcoming battle. Skywalker also claimed to her that the Clone Wars would indeed end one day, but he understood that everyone was questioning if the conflict would end, with only the Chancellor holding the Republic together. Promising to spend time with him once she returned, Amidala departed, and Skywalker went onto lead the battle; like many others, the engagement saw minor advancements and losses amid destruction and death. Skywalker's forces were weary after the end of the battle, returning to Coruscant after it, and Skywalker found that Amidala had yet to return nor had she sent any messages.
-[
-47
-]
+Having received Duja's vague message that there was some kind of Separatist operation around Batuu, Republic High Command found the report too vague to act on, so Amidala decided to investigate it herself.
+Although she told Skywalker of her plan, noting that she would not be alone because of Duja's presence on Batuu, her husband was unable to go with her, needing to serve as the leader for an upcoming battle.
+Skywalker also claimed to her that the Clone Wars would indeed end one day, but he understood that everyone was questioning if the conflict would end, with only the Chancellor holding the Republic together.
+Promising to spend time with him once she returned, Amidala departed, and Skywalker went onto lead the battle; like many others, the engagement saw minor advancements and losses amid destruction and death.
+Skywalker's forces were weary after the end of the battle, returning to Coruscant after it, and Skywalker found that Amidala had yet to return nor had she sent any messages.
 With Dooku making another advance, the Jedi Council denied Skywalker's request to search for her, as he instead had to fight in another, albeit quick, battle. When he returned to Corsucant again, still without any messages, Skywalker uncovered that her Nubian ship was abandoned on Batuu.
-[
-47
-]
 From space, Thrawn and Che'ri had seen Amidala's ship approach, with it arriving three days after they had spoken with Duja.
-[
-2
-]
 Amidala had tried to send messages to her husband, but Skywalker had not received them. After learning that Duja had died, Amidala retrieved a beacon call from her fallen friend's brooch, teaching her that the Separatist operation was a factory. She departed Batuu, which was only being used by Separatist smugglers to get supplies to the factory, aboard Duja's ship, the
 Possibility
 ,
-[
-47
-]
 a few hours after she had arrived. Thrawn and Che'ri saw the ship depart, with the navigator waiting for Nubian to follow it, only to see it remained hidden on the planet below. Days passed before
-[
-2
-]
 Skywalker arrived out of hyperspace, flying his
 Eta-2
 Actis
 -class light interceptor
 with R2-D2.
-[
-47
-]
 Senator Padmé Amidala undertook an investigation on Batuu after receiving a warning from her old friend Duja.
 Seeing the
 hyperspace transport ring
 the Eta-2 had used to exit hyperspace, Thrawn had his ship move closer to it in order to study it, which caught the attention of R2-D2 and Skywalker. Not wanting to lose his way out of the system, Skywalker sent out a transmission in
 Galactic Basic Standard
-before repeating it in Meese Caulf, asking for the identity of the crew and identifying himself. While he responded, Thrawn doubted Skywalker's claim that he was on a mission, understanding that a government at war would not send a lone starfighter. Lying by insisting he was not on a personal quest, Skywalker claimed that Palpatine, who actually did not know Skywalker was at Batuu, had sent him on the mission, understanding that the man he was speaking with likely knew of the Chancellor if he knew of the war. When Thrawn revealed he knew where the Nubian was, having deduced Skywalker was looking for the ship, he offered an alliance, claiming to be alone before Skywalker felt Che'ri's presence through the Force. Nevertheless, Thrawn went onto mention his "pilot" before learning R2 would be joining them for their mission. Upon the Chiss explaining he wanted to know more about the Clone Wars before it could sweep in the Ascendancy's own worlds, he also finally introduced himself.
-[
-47
-]
+before repeating it in Meese Caulf, asking for the identity of the crew and identifying himself.
+While he responded, Thrawn doubted Skywalker's claim that he was on a mission, understanding that a government at war would not send a lone starfighter.
+Lying by insisting he was not on a personal quest, Skywalker claimed that Palpatine, who actually did not know Skywalker was at Batuu, had sent him on the mission, understanding that the man he was speaking with likely knew of the Chancellor if he knew of the war.
+When Thrawn revealed he knew where the Nubian was, having deduced Skywalker was looking for the ship, he offered an alliance, claiming to be alone before Skywalker felt Che'ri's presence through the Force.
+Nevertheless, Thrawn went onto mention his "pilot" before learning R2 would be joining them for their mission.
+Upon the Chiss explaining he wanted to know more about the Clone Wars before it could sweep in the Ascendancy's own worlds, he also finally introduced himself.
 However, Thrawn claimed to be a commander, instead of stating his actual rank of Senior Captain, and never mentioned his desire to take the shield generator
-[
-2
-]
 from Mokivj. Skywalker agreed to the alliance, hoping the Ascendancy he now knew of may become an ally to the Republic. While Skywalker elected to fly down to Batuu in his Eta-2, Thrawn elected to take a shuttle to lead the way to the Nubian's location,
-[
-47
-]
 as he ordered Che'ri to take their ship back to the
 Mokivj system
 so that, when he arrived, she could fly down to retrieve the shield generator. He ordered her to use as many decoys as needed to keep the droid starfighters away once he signaled her.
-[
-2
-]
 Upon landing, after he fought a group of smugglers who had found the ship, Skywalker investigated the Nubian while Thrawn and R2 remained outside to search for clues. All three then departed for
 Black Spire Outpost
 aboard Thrawn's shuttle.
-[
-47
-]
 Devastation of Mokivj
 [
 ]
@@ -5696,9 +3936,6 @@ But you really should reconsider Padmé's offer. The Republic's going to win thi
 Perhaps someday. But for now, I must depart. I'll wait in orbit until you depart to guard against further attacks. Safe travels to you both.
 "
 ―Jedi General Anakin Skywalker and Senior Captain Thrawn
-[
-47
-]
 Main article:
 Mission to Mokivj
 In time, Skywalker and Thrawn learned of the smuggling operation for Mokivj, which they learned was under the command of Solha, and that a
@@ -5713,37 +3950,34 @@ Huga
 LebJau
 to keep her presence a secret, and Thrawn, Skywalker, and R2 landed at the Separatist factory with the captured CIS freighter
 Larkrer
-, initially pretending to be its crew before they were captured. The Chiss and Jedi ultimately escaped their improvised cells. Joined by Huga and Cimy, Amidala, who had witnessed the arrest of her husband and his allies, and her allies disguised themselves as maintenance workers to head to the detention block, with the Senator taking out two B1 battle droids guarding it. Upon entering, she united with Skywalker and Thrawn. As Skywalker served as a distraction, Amidala and Thrawn journeyed to retrieve the Jedi's lightsaber.
-[
-47
-]
+, initially pretending to be its crew before they were captured.
+The Chiss and Jedi ultimately escaped their improvised cells.
+Joined by Huga and Cimy, Amidala, who had witnessed the arrest of her husband and his allies, and her allies disguised themselves as maintenance workers to head to the detention block, with the Senator taking out two B1 battle droids guarding it.
+Upon entering, she united with Skywalker and Thrawn.
+As Skywalker served as a distraction, Amidala and Thrawn journeyed to retrieve the Jedi's lightsaber.
 General Anakin Skywalker and Senior Captain Thrawn worked together to investigate a Separatist conspiracy.
-Amidala also convinced Lebjau to evacuate the workers for their plan to destroy the factory. Skywalker found himself in the B2 assembly line, where he saw Solha, his brother, and his sister in suits of clone trooper armor. As Skywalker distracted the duke and his forces in the assembly room, Thrawn and Amidala found Skywalker's lightsaber, but the Chiss used the blade to cut out the shield generator core, claiming he had been given a mission to retrieve the generator. While Amidala protested the idea of him leaving, Thrawn remained steadfast in his commitment to the Chiss and additionally asked why the Republic had not allowed the Confederacy to secede peacefully. After she stated the Confederacy had attacked first, Thrawn advised her to use the south end's door before she was out of his sight.
-[
-47
-]
+Amidala also convinced Lebjau to evacuate the workers for their plan to destroy the factory.
+Skywalker found himself in the B2 assembly line, where he saw Solha, his brother, and his sister in suits of clone trooper armor.
+As Skywalker distracted the duke and his forces in the assembly room, Thrawn and Amidala found Skywalker's lightsaber, but the Chiss used the blade to cut out the shield generator core, claiming he had been given a mission to retrieve the generator.
+While Amidala protested the idea of him leaving, Thrawn remained steadfast in his commitment to the Chiss and additionally asked why the Republic had not allowed the Confederacy to secede peacefully.
+After she stated the Confederacy had attacked first, Thrawn advised her to use the south end's door before she was out of his sight.
 However, Thrawn made sure to return to helping shortly afterward, wielding a
 lightning gun
-to help take down the cortosis B2s. He also explained what the metal, which Skywalker had realized—in his battle against the droids—could resist lightsaber strikes, was and how it was rare. Additionally, the team elected to discover what the northern wing of the factory was producing. After R2 worked to reprogram the B2 factory, Amidala was confronted by Solha, while Skywalker and Thrawn uncovered the north wing was producing cortosis-weaved clone armor; Skywalker quickly assumed Dooku was planning a mass-
+to help take down the cortosis B2s.
+He also explained what the metal, which Skywalker had realized—in his battle against the droids—could resist lightsaber strikes, was and how it was rare.
+Additionally, the team elected to discover what the northern wing of the factory was producing.
+After R2 worked to reprogram the B2 factory, Amidala was confronted by Solha, while Skywalker and Thrawn uncovered the north wing was producing cortosis-weaved clone armor; Skywalker quickly assumed Dooku was planning a mass-
 Serennian
 infiltration of the clone army as a surprise attack. After Amidala knocked out Sophla, Skywalker ensured the factory was destroyed, yet he also sought to destroy the Cortosis mine. Thrawn confided to Amidala that he believed the Jedi General's plan was reckless, arguing that it would be better for the CIS to waste resources on Mokivj than to make them to look elsewhere.
-[
-47
-]
-Although she agreed, the Senator understood that her husband could not be talked out of his plan, even though Thrawn warned her it could be a threat to Mokivj. He also declined her offer to return to Coruscant with them to create a more formal Chiss—Republic alliance, stating he had other duties to attend to and that he was not tasked with such a role. Before departing, Thrawn also advised them that the clone armor may have not been intended for an infiltration, as such operations had a high risk of failing. Although Thrawn disagreed, Skywalker was certain that they did not need to worry about the plan. Skywalker's plan to collapse the mining tunnels would indeed have unintended consequences; as he, Amidala, and LebJau, who had asked to leave with them to start a new life on Batuu, watched from their ship, the cortosis redirected the explosives' heat, causing a
+Although she agreed, the Senator understood that her husband could not be talked out of his plan, even though Thrawn warned her it could be a threat to Mokivj.
+He also declined her offer to return to Coruscant with them to create a more formal Chiss—Republic alliance, stating he had other duties to attend to and that he was not tasked with such a role.
+Before departing, Thrawn also advised them that the clone armor may have not been intended for an infiltration, as such operations had a high risk of failing.
+Although Thrawn disagreed, Skywalker was certain that they did not need to worry about the plan.
+Skywalker's plan to collapse the mining tunnels would indeed have unintended consequences; as he, Amidala, and LebJau, who had asked to leave with them to start a new life on Batuu, watched from their ship, the cortosis redirected the explosives' heat, causing a
 catastrophe
 that, despite not moving towards the people of Mokivj, would devastate the environment of the world. While Amidala promised they would talk to the Senate about providing aid, all three understood it would do nothing, and they departed from the planet.
-[
-47
-]
 Upon his return to the Republic, Skywalker told Palpatine about Thrawn and praised the tactician. Thrawn, meanwhile, respected Skywalker greatly,
-[
-95
-]
 although he had come to the conclusion that the Republic was not a suitable ally for his people.
-[
-221
-]
 Additionally, he used the shielding technology from Mokivj to great effect in the
 battle over Primea
 , blocking blasts from the
@@ -5752,28 +3986,13 @@ Deathless
 in order to board its bridge. After the Chiss victory in that battle, the
 Nikardun Destiny
 and its conquests came to an end.
-[
-2
-]
 Rumors of a blue alien forming an alliance with Skywalker also spread in the galaxy, with the story coming to reach at least as far as the
 Thrugii asteroid belt
 .
-[
-95
-]
 Rather than correctly report
-[
-222
-]
 on Skywalker triggering the catastrophe that devastated Mokivj,
-[
-47
-]
 Clone Intelligence
 reported that the Chiss Expansionary Defense Fleet was responsible for the catastrophe.
-[
-222
-]
 Last days of the Republic
 [
 ]
@@ -5793,181 +4012,64 @@ Are we going too far? The war is popular in my sector. We would be seen by many 
 People are dying, Senator. The longer this conflict drags out, the more loopholes Palpatine will find for amending the constitution.
 "
 ―Bail Organa, Mon Mothma, Terr Taneel, and Padmé Amidala discuss the Petition of 2,000
-[
-223
-]
 Palpatine controlled the Clone Wars to consolidate the powers of the Republic in his own hands, setting the stage for his reign as Emperor.
 Thanks to the Emergency Powers Act from the beginning of the Separatist Crisis, Palpatine remained in power for the entirety of the Clone Wars,
-[
-40
-]
 although his prolonged time in office did begin to draw suspicion from the Jedi as the war reached its end
-[
-8
-]
 and relations between the Jedi and the Chancellor continued to break down.
-[
-61
-]
 As per his plans to transform the Republic into an autocracy with himself at its top,
-[
-8
-]
 Palpatine used the Clone Wars to further cement his political power and undermine the democracy
-[
-224
-]
 he claimed to represent.
-[
-15
-]
 By the end of the war, Maul had come to believe the Republic was long since dead and there was nothing the Jedi could do to save it.
-[
-225
-]
 Indeed, while senators like Mon Mothma, who would oppose Palpatine's power grabs, were distracted by the conflict with the Separatists, Palpatine, Amedda, and his other supporters waged a war of their own in the field of public relations, securing the love and mandate of the people.
-[
-17
-]
 Palpatine managed to amend the
 Galactic Constitution
 again and again, always using the war as his excuse
-[
-223
-]
 to secure more power for himself.
-[
-226
-]
 Although the Enhanced Privacy Invasion Bill was defeated in the Senate,
-[
-13
-]
 a number of other emergency war powers were passed,
-[
-223
-]
 with Palpatine becoming the most powerful chancellor since the
 Ruusan Reformations
 . In particular, four amendments to the constitution were cemented in law: one of the four was the
 Reflex Amendment
 , which granted Palpatine expansive powers by ceding near-total power over the Republic Military to Palpatine, who could thus bypass the Senate on military decisions.
-[
-40
-]
 The
 Sector Governance Decree
 was an amendment passed near the end of the war on the claim that it would bring unity and sure up the supply line; under the decree, Palpatine was granted the ability to name individuals
-[
-115
-]
 regional governors,
-[
-223
-]
 who would then unify neighboring star systems and focus their resources on the production of war materiel.
-[
-115
-]
 In practice, however, the existence of regional governors served to circumvent the power of the Senate by creating a new group of officials,
-[
-227
-]
 named by Palpatine himself,
-[
-115
-]
 with power over star systems.
-[
-227
-]
 Despite Palpatine's efforts to consolidate power attracting criticism from some senators, most defended it as a necessary evil in the name of defeating the Confederacy, which Dooku exercised near-total control over.
-[
-40
-]
 Dooku's own war powers saw opposition from his senate's Peace Faction,
-[
-13
-]
 but he continued to enjoy wide support amongst the Confederacy overall.
-[
-21
-]
 However, the Sector Governance Decree proved to be the final erosion of senatorial authority for a group of like-minded senators who became known as the
 Delegation of 2,000
 . Under the leadership of Senators Organa, Amidala, and Mothma,
-[
-40
-]
 who specifically recognized Palpatine as a threat to democracy but failed to understand the scope of his ambitions,
-[
-223
-]
 the group created a formal petition
-[
-40
-]
 known as the
 Petition of 2,000
 in protest of the Chancellor's conduct
-[
-228
-]
 and acquired powers.
-[
-40
-]
 Several members of the Delegation of 2,000 discuss Palpatine's growing wartime powers.
 Broadly, the petition had three demands: Palpatine was to give up his emergency powers
-[
-223
-]
 by returning those powers to the Senate at the end of the war,
-[
-228
-]
 abolish the Sector Governance Decree in particular, and open a cease-fire with the Confederacy. In what would end up being the final month of the war,
-[
-223
-]
 the three leaders of the delegation
-[
-40
-]
 began the
 Cantham House meetings
 by gathering a select number of like-minded senators to discuss and finalize their petition,
-[
-223
-]
 which they intended to present once it acquired two thousand signatures. By its end, the Clone War was losing the support of the public. The conflict brought great suffering, war taxes, and rationing, with even the Core Worlds being affected.
-[
-40
-]
 Although the war remained popular in the
 Senex sector
 , whose people saw a Republic victory as an inevitability,
-[
-223
-]
 a number of other senators faced great pressure from those they represented to push for peace. However, powerful lobbyists in the Senate managed to vote down those efforts in order to protect their war profits.
-[
-40
-]
 While she was indeed worried about Palpatine's growing power,
-[
-229
-]
 Senator
 Terr Taneel
 of the Senex sector was nervous about pressing for the end of the war and noted as such during a Cantham House meeting, citing her sector's support for the conflict. Amidala, however, defended it as necessity to both stop the bloodshed and Palpatine's excuse for creating amendments.
-[
-223
-]
 The delegation backed public calls for Palpatine to abandon his increased power as their public tactic. The group secretly prepared itself to go beyond the Senate and form a resistance effort should that be needed.
-[
-230
-]
 Battle over Coruscant
 [
 ]
@@ -5975,63 +4077,24 @@ Battle over Coruscant
 Ahsoka, surely you understand this is a pivotal moment in the Clone Wars? The heart of the Republic is under attack!
 "
 ―Obi-Wan Kenobi, to Ahsoka Tano
-[
-92
-]
 Towards the end of the war the Separatists launched a large-scale attack on the Republic's capital, Coruscant.
 The
 super tactical droid
 General
 Kalani
 would state his calculations showed the Separatists were on the verge of victory at the war's end.
-[
-231
-]
 Alternatively, the war's third year made others assume that the Republic now held all of the momentum.
-[
-52
-]
 Ultimately, however, both sides were in crisis by the end of the war.
-[
-8
-]
-[
-52
-]
 The Republic was crumbling due to Separatist attacks ordered by Dooku,
-[
-8
-]
 while the Separatists had been pushed back to the spiral arms of the galaxy. A campaign called the
 Outer Rim Sieges
 would result in most of the Republic's Jedi and military forces fighting on these outer worlds.
-[
-52
-]
 However, another part of the sieges occurred when Grievous launched a massive assault that pushed the Republic Military to the brink, so Jedi Generals were also sent far from the Core Worlds to help the clone army because of that offensive.
-[
-92
-]
 Ultimately, while the Republic had begun to overwhelm the Separatist armies and the Confederacy had lost much of its territory, with what remained being targeted in the sieges,
-[
-232
-]
 Grievous's overwhelming offensive was still a threat,
-[
-92
-]
 and the Republic Army was also engaging in desperate campaigns across the galaxy, while the Separatists were encircling the Republic, moving ever-nearer to the systems of the Core.
-[
-97
-]
 Nevertheless, despite being a bitter stalemate for a time,
-[
-233
-]
 the sieges would ultimately turn the tide of the conflict to be in the Republic's favor.
-[
-234
-]
 During the Outer Rim sieges, Kenobi, Skywalker, and their troops
 captured
 Yerbana
@@ -6045,73 +4108,37 @@ Bo-Katan Kryze
 and the
 Mandalorian resistance
 in tracking down Maul
-[
-92
-]
 , following his brief
 capture
-[
-6
-]
 and escape from Lord Sidious on Dathomir.
-[
-235
-]
 Kryze informed Kenobi and Skywalker that Maul was in Sundari according to transmissions between the Pykes and Maul. Kenobi and Skywalker were willing to speak the Jedi Council on this matter and help her.
-[
-92
-]
 During the final days of the conflict, the Republic space station
 Sentinel Flare
 was
 attacked
 by the Confederacy, which left the station severely damaged.
-[
-236
-]
 Prior to the war's end, Jedi General
 Weren Dal
 was shot down over Dathomir by an elite Separatist group.
-[
-237
-]
 Due to most Jedi and clones fighting in the Outer Rim, the Republic's capital of Coruscant was left relatively undefended. However, Republic strategists did not worry. They believed the Separatists would not dare attack the capital, but Grievous and Dooku launched a massive
 assault
 on Coruscant. The inexperienced
 Coruscant Home Defense Fleet
 was taken by surprise, and Grievous was able to sneak onto the surface of the planet.
-[
-52
-]
 The leader of the Separatist Alliance, Count Dooku, was killed by Anakin Skywalker.
 Grievous eventually managed to capture Palpatine and hold him hostage. Palpatine's capture was actually orchestrated by Sidious, as the latter desired Anakin to kill Dooku, in order to seduce the young Jedi to the dark Side and eventually have him replace Dooku as Sidious's apprentice, though both Dooku and Grievous were unaware of the Sith Lords' true intention. Grievous brought the Chancellor back to his flagship, the
 Invisible Hand
 .
-[
-8
-]
 After sending the
 332nd Division
 under Commanders Rex and Tano to assist Lady Kryze in hunting Maul Down on Mandalore, Kenobi and Skywalker took their forces to Coruscant.
-[
-92
-]
 The large-scale naval battle between the Separatist and Republic forces continued, and during this attack Kenobi and Skywalker raced to save the Chancellor. Dooku was defeated by Anakin and subsequently betrayed by Sidious who had him killed by Anakin.
-[
-8
-]
 Dooku's death was a massive blow to the Separatists and left Grievous as its new
 Head of State
 .
-[
-52
-]
 The Separatists, however, were unaware that Sidious orchestrated Dooku's death. The Jedi managed to escape the ship along with the Chancellor. Grievous also escaped and fled to the planet
 Utapau
 .
-[
-8
-]
 Siege at Mandalore
 [
 ]
@@ -6120,13 +4147,7 @@ Siege of Mandalore
 , Tano, Kryze, and their force of clone troopers and Mandalorians led their attack against the
 Mandalorian super commandos
 under Prime Minister Almec and Gar Saxon. Tano and Kryze were able to capture Almec but Maul and Saxon hid in the undercity.
-[
-92
-]
 Maul and Saxon were able to elude Tano, her troops, and Kryze's Mandalorians. During this time, Kenobi told Tano and Kryze about Darth Sidious, the man behind events leading up to and during the Clone Wars.
-[
-225
-]
 Rise of the New Order
 [
 ]
@@ -6134,39 +4155,28 @@ Rise of the New Order
 After you have killed all the Jedi in the Temple, go to the Mustafar system. Wipe out Viceroy Gunray and the other Separatist leaders. Once more the Sith will rule the galaxy! And we shall have… peace.
 "
 ―Darth Sidious to his new apprentice, Darth Vader
-[
-8
-]
 The Republic launched an invasion against Utapau led by Obi-Wan Kenobi to confront Grievous and end the war.
 On Utapau, Grievous, along with the rest of the leaders of the Confederacy of Independent Systems, awaited instructions from Sidious, who soon enough sent the Confederacy to the Mustafar system before Republic
 forces
-arrive. Not long after, Republic forces led by Obi-Wan Kenobi attacked the base. Kenobi managed to confront Grievous and the two began to fight. In the hassle, Kenobi managed to rip open the armor covering Grievous' gut sack. The Jedi then shot it with the General's blaster several times, killing the cyborg. The death of Grievous put Nute Gunray in charge. Meanwhile, on Coruscant, Palpatine revealed his true nature as the Dark Lord of the Sith to Skywalker, prompting him to inform Jedi Master Windu. Not long after, Windu along with Fisto, Tiin, and
+arrive.
+Not long after, Republic forces led by Obi-Wan Kenobi attacked the base.
+Kenobi managed to confront Grievous and the two began to fight.
+In the hassle, Kenobi managed to rip open the armor covering Grievous' gut sack.
+The Jedi then shot it with the General's blaster several times, killing the cyborg.
+The death of Grievous put Nute Gunray in charge.
+Meanwhile, on Coruscant, Palpatine revealed his true nature as the Dark Lord of the Sith to Skywalker, prompting him to inform Jedi Master Windu.
+Not long after, Windu along with Fisto, Tiin, and
 Agen Kolar
 attacked the Chancellor. Palpatine quickly admitted to this and killed Windu's team. Despite being disarmed and nearly killed by Windu, a desperate Anakin Skywalker who needed Sidious to save his wife Padmé from death, betrayed Windu which allowed Sidious to kill the Jedi. The Sith quickly declared the Jedi the enemies of the Republic and sent out Order 66,
-[
-8
-]
 which saw the biochips set off
-[
-238
-]
 and brainwash the clones into betraying and turning on their Jedi generals.
-[
-239
-]
 Skywalker betrayed the Jedi and surrendered to Sidious, so the Sith Lord dubbed him Darth Vader. Vader was sent to the Jedi Temple where he killed every Jedi left in it. On Utapau, after Clone Commander Cody received Order 66 from Sidious, which led to his biochip immediately brainwashing him into believing that Kenobi was a traitor to the Republic, he ordered his men to fire upon Kenobi, but the Jedi survived this. On
 Kashyyyk
 , Commander Gree with another clone attempted to assassinate Grand Master Yoda, however the master beheaded the two with his lightsaber before they could blast him. Many other Jedi were killed during Order 66, including Ki-Adi-Mundi, Aayla Secura, Plo Koon,
 Stass Allie
 , etc.
-[
-8
-]
 Newly christened Darth Vader kills Viceroy Nute Gunray.
 After murdering the Jedi on Coruscant, Vader followed Sidious's next command by heading to Mustafar to eliminate Viceroy Gunray and the rest of the Separatist leaders, who were hiding on the planet. Earlier, Sidious had duped the council into believing that Vader would protect them. After murdering the council, the fallen Jedi turned Sith Lord then received an order from Sidious to send a shutdown signal that mute all remaining Separatist droids, thus ending the war in the process.
-[
-8
-]
 Aftermath
 [
 ]
@@ -6204,30 +4214,15 @@ the cause they served? Holster your weapon, boy. We are no longer enemies. Perha
 Kleeve
 to surviving Jedi Commander
 Caleb Dume
-[
-240
-]
 Darth Vader and the stormtroopers became symbols of the Galactic Empire.
 The cataclysmic
-[
-97
-]
 Clone Wars had raged for three,
-[
-241
-]
 almost four, years by the end
-[
-242
-]
 and accomplished exactly what Palpatine had set out to achieve; the Jedi Order was destroyed, the Republic was transformed into the first
 Galactic Empire
 , and the Galactic Senate into the Imperial Senate, with Palpatine as its
 Emperor
 .
-[
-8
-]
 Nevertheless, during the following early months of the
 Imperial Era
 , the Clone Wars were not entirely over, as minor pockets of resistance, including a
@@ -6235,70 +4230,35 @@ force of rebels on Umbara
 , continued to fight the Republic's successor state. Accordingly, the newly formed
 Imperial Military
 was dispatched to crush these remaining obstacles to bring about the Empire's view of peace.
-[
-11
-]
 The galaxy at large, however, welcomed the Empire as a way to move forward from the destruction and devastation of war.
 Miyuki Trade League
 member
 Jet Kordo
 was not surprised by the rise of the Empire, but reflected solemnly in a journal that they did not expect the people of the galaxy to wake up to the price they were paying in return for the conflict's end.
-[
-243
-]
-In the aftermath of the conflict and with the dawn of the Empire, Senator Organa reflected that he was unsure if there was a "right side" to the Clone Wars. In regards to the CIS, he still opposed what he deemed the cruel, destructive tactics of the CIS military and the greed of its corporate sponsors, but he did recognize there were well-meaning people amongst the Separatist state. Nonetheless, he still believed that non-violent routes had still been open for the Separatists instead of deciding to go to war. As for the Republic, meanwhile, he had come to ponder if the war had been a misdirection of sorts by those in the government who already wanted to transform the government into the Empire. He recognized that Palpatine and his followers had pushed for the fighting
-[
-17
-]
+In the aftermath of the conflict and with the dawn of the Empire, Senator Organa reflected that he was unsure if there was a "right side" to the Clone Wars.
+In regards to the CIS, he still opposed what he deemed the cruel, destructive tactics of the CIS military and the greed of its corporate sponsors, but he did recognize there were well-meaning people amongst the Separatist state.
+Nonetheless, he still believed that non-violent routes had still been open for the Separatists instead of deciding to go to war.
+As for the Republic, meanwhile, he had come to ponder if the war had been a misdirection of sorts by those in the government who already wanted to transform the government into the Empire.
+He recognized that Palpatine and his followers had pushed for the fighting
 —something Palpatine had tried to cover up with public apprehension about going to war
-[
-11
-]
 —and had his own thoughts on Dooku, although he believed the particulars of Dooku's situation were not as important. Overall, he was forced to admit that, by taking part in the war, himself and everyone else involved had played into Palpatine's plan to establish the Empire.
-[
-17
-]
 The last remnants of the Confederacy, known as the
 Separatist holdouts
 , continued to fight the Empire.
-[
-11
-]
 The
 Imperial Navy
 justified its existence by claiming there was an unending war against the holdouts and a dissident rebellion against the Empire.
-[
-97
-]
 Imperial
 stormtroopers
 were deployed to bring former Confederate planets under the Empire's control;
-[
-14
-]
 even the former CIS capital world of Raxus Secundus fell under
 occupation
 during the early reign of the Empire.
-[
-20
-]
 A day into the Imperial Era, sixty-three members of the Delegation of 2,000 were
 arrested
 by clone troopers on the claim that they had helped the Jedi rebellion. Organa and Mothma were among those arrested but were released by publicly declaring their loyalty lied with the Empire,
-[
-223
-]
 which both continued to serve as senators. In secret, both used their positions as senators as a cover for rebellion.
-[
-244
-]
-[
-245
-]
 Amidala's death, meanwhile, was blamed on the Jedi rebellion.
-[
-246
-]
 Also during the early reign of the Empire, the future
 Grand Moff
 Wilhuff Tarkin led a brutal purge on the moon Antar 4 that became known as the
@@ -6320,15 +4280,9 @@ insurgent group
 consisting of survivors and witnesses of the Antar Atrocity. In
 14 BBY
 ,
-[
-247
-]
 Berch Teller's cell embarked on a
 campaign
 against Tarkin and the Empire, but it was defeated.
-[
-1
-]
 The unofficial conclusion
 [
 ]
@@ -6355,9 +4309,6 @@ Rex
 I am.
 "
 ―Rex, Ezra Bridger, and Kalani bring an unofficial end to the Clone Wars
-[
-231
-]
 In
 2 BBY
 , a last unofficial
@@ -6372,13 +4323,10 @@ Kanan Jarrus
 , and his padawan
 Ezra Bridger
 , forced them to run through a tactical scenario, intending to prove that the Separatists had a higher chance of victory and end the Clone Wars with a victory for the Confederacy.
-[
-231
-]
-While running through the scenario, Ezra Bridger observed that Rex was acting little better than a droid himself, and was struck by the futility of the exercise. While Rex and Kalani debated the meaning of the outcome, Bridger interrupted them. The young man successfully argued that the Clone Wars were never intended to be won and were only a means to an end by the faction that would become the Galactic Empire; now their goals in fighting against the Emprie aligned. After escaping from an Imperial capture attempt, both Rex and Kanan Jarrus observed that Bridger had done something that a galaxy of senators and soldiers were unable to do: get representatives of all the factions to find a middle ground, bringing a peaceful end to the Clone Wars.
-[
-231
-]
+While running through the scenario, Ezra Bridger observed that Rex was acting little better than a droid himself, and was struck by the futility of the exercise.
+While Rex and Kalani debated the meaning of the outcome, Bridger interrupted them.
+The young man successfully argued that the Clone Wars were never intended to be won and were only a means to an end by the faction that would become the Galactic Empire; now their goals in fighting against the Emprie aligned.
+After escaping from an Imperial capture attempt, both Rex and Kanan Jarrus observed that Bridger had done something that a galaxy of senators and soldiers were unable to do: get representatives of all the factions to find a middle ground, bringing a peaceful end to the Clone Wars.
 Legacy
 [
 ]
@@ -6392,33 +4340,15 @@ To the Jedi?
 To everyone.
 "
 ―Kanan Jarrus and Hera Syndulla
-[
-248
-]
 Following its creation, the Galactic Empire tried to sweep away the memories of the troubled times of the Clone Wars
-[
-22
-]
 but also used the memory of the conflict to justify its expansion; the Empire expanded its reach across the galaxy, using the memory of the Clone Wars by promising order to a galaxy tired of war.
-[
-249
-]
 After it became clear that the Empire was oppressive, however, the
 Rebel Alliance
 was created to oppose the Empire's rule.
-[
-250
-]
 The seeds of the Alliance dated back to the Clone Wars: its roots came from the local resistance cells established by the Jedi on Confederate worlds and from the Delegation of 2,000, fulfilling that group's fear that armed resistance would be needed to restore democracy.
-[
-230
-]
 Palpatine's victory in the Clone Wars lasted just over two decades, as the
 Galactic Civil War
 led to the fall of Palpatine and his Empire, as well as the redemption of Anakin Skywalker who renounced the persona of Vader, before dying peacefully.
-[
-251
-]
 Many Imperials—such as the ambitious Imperial Navy officer Thrawn, the very same Chiss who had met Anakin Skywalker during the conflict—remembered the Clone Wars as the cause of billions of deaths, hundreds of destroyed worlds, and thousands of ruined worlds clawing back from the brink. He regarded secessionist movements such as the
 one
 on
@@ -6434,23 +4364,14 @@ Filia Rossi
 , the captain of the
 Blood Crow
 ship, for having equipment used by the Separatists in his possession.
-[
-95
-]
 Droids were also suspect in some beings' eyes;
 Din Djarin
 , for example, hated all droids because Separatist battle droids had destroyed his family.
-[
-252
-]
 The Empire also housed veterans of the struggle in poorly maintained places like
 Crispus Commons
 , where they were forced to deal with shabby maintenance and low-paying jobs. The conspiracy behind the conflict had not yet been brought to public light, and nearly the entirety of the galaxy's population believed the war to have been exactly what it had seemed; a rebellion initiated by numerous worlds of the Mid and Outer Rims desiring independence from a corrupt and decadent central government. Despite this, some, such as
 Skelly
 , pieced together there was a greater truth about the Clone Wars.
-[
-22
-]
 Some individuals took part in historical re-enactments of the Clone Wars and there was also a section on the Clone Wars in the
 Emperor's Museum
 on Coruscant and although they used real footage they told a false history, which was seen by the
@@ -6458,47 +4379,23 @@ Apprentice Legislature
 on a tour in
 3 BBY
 .
-[
-253
-]
 In her message for Obi-Wan Kenobi, Leia Organa mentions Kenobi serving alongside her father during the Clone Wars.
 Wilhuff Tarkin also remained suspicious of the cause of the war even after its conclusion, and believed that some group of elite outsiders had manufactured the war for their own purposes.
-[
-1
-]
 There were those, such as Bail Organa, who remembered the bravery of those like the Jedi Knights during the Clone Wars who passed this knowledge to his daughter, Princess
 Leia Organa
-[
-227
-]
 as well as the stories such as that of the Senate hostage crisis as well as several about Obi-Wan Kenobi.
-[
-253
-]
 Leia would later sent a holographic message to Kenobi appealing to him in the name of his service alongside her father during the Clone Wars.
-[
-227
-]
 A couple of months after the
 Battle of Endor
 , a Separatist droid factory under the city of
 Myrra
 on Akiva still had marks of Jedi lightsabers.
-[
-93
-]
 It remained one of the most destructive conflicts in galactic history, with billions of casualties on both sides.
-[
-254
-]
 After Sidious's ultimate defeat in the
 Battle of Exegol
 of
 35 ABY
 ,
-[
-210
-]
 historian
 Beaumont Kin
 carried out the
@@ -6506,9 +4403,6 @@ Exegol Excavation Project
 and discovered the extent of Palpatine's treachery in the Sith records, publishing his deception and manipulation of the Clone Wars in his historical book
 The Rise and Fall of the Galactic Empire
 .
-[
-255
-]
 Behind the scenes
 [
 ]
@@ -6523,42 +4417,27 @@ Star Wars
 : Episode IV
 A New Hope
 .
-[
-227
-]
 The canon details of the conflict were first revealed in the
 prequel trilogy
 films
 Star Wars
 : Episode II
 Attack of the Clones
-[
-15
-]
 and
 Star Wars
 : Episode III
 Revenge of the Sith
 .
-[
-8
-]
 The first reference to the Clone Wars dates back to
 George Lucas
 '
 third draft
 for Episode IV, which mentioned the grizzled cyborg General Kenobi's "diary of the Clone Wars."
-[
-256
-]
 The passing mentions of the Clone Wars in
 A New Hope
 were the only mentions of the conflict in the
 original trilogy
 .
-[
-227
-]
 In
 Leigh Brackett
 's first draft of the script for the
@@ -6570,9 +4449,6 @@ The Empire Strikes Back
 ,
 Lando Calrissian
 was a clone from a clone planet that was nearly ravaged in the Clone Wars.
-[
-257
-]
 The Clone Wars was first adapted in
 Star Wars: Clone Wars
 in
@@ -6586,9 +4462,6 @@ Star Wars: The Clone Wars
 , as well as the
 animated television series
 by the same title.
-[
-88
-]
 By
 2014
 , both
@@ -6596,12 +4469,6 @@ The Clone Wars
 film and the television series are part of the
 Star Wars
 canon, as they reflected the vision of Lucas.
-[
-258
-]
-[
-259
-]
 In the attempt to keep the
 Star Wars
 toy line active after the final film in the original trilogy,
@@ -6619,15 +4486,9 @@ Atha Prime
 , one of the architects of the Clone Wars, and his
 Clone Warriors
 .
-[
-260
-]
 In
 Attack of the Clones
 , it was seen that Darth Sidious and Count Dooku fill that role.
-[
-15
-]
 Appearances
 [
 ]

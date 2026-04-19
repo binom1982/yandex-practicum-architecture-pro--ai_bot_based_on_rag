@@ -3,9 +3,6 @@ Exegol does not appear on any star chart. But legend describes it as the hidden 
 "
 ―
 C-3PO
-[
-1
-]
 Exegol
 (also spelled
 Ixigul
@@ -92,13 +89,7 @@ Sith
 came to Exegol, the
 planet
 was green and fertile, capable of supporting many forms of animal and plant life.
-[
-12
-]
 Since its despoiling by the Sith,
-[
-2
-]
 Exegol was a dark, barren, and
 rocky
 planet with
@@ -110,28 +101,16 @@ atmosphere
 , created enormous static discharges that appeared as lightning strikes from the planet, which made the atmosphere too dangerous to deploy
 deflector shields
 .
-[
-5
-]
 The dead
-[
-13
-]
 and desolate world was covered with enormous fissures that reached deep into its crust. These were excavated by
 Sith loyalists
 who were attempting to reach a transportative
 vergence
 they believed to lie beneath the surface.
-[
-5
-]
 The darkness of Exegol was so extreme that the
 astromech droid
 R7-FNG
 was needed to be optimized to work in its environment.
-[
-14
-]
 Exegol's nearby
 space
 was littered with the remains of megafauna, resulting in the formation of a cloud of red
@@ -139,9 +118,6 @@ gas
 and stardust forming around the world, which posed a navigation barrier known as the
 Red Honeycomb Zone
 .
-[
-5
-]
 History
 [
 ]
@@ -153,9 +129,6 @@ They are the Despoilers of Worlds, and have Laid to Waste once Fertile Habitats 
 "
 ―Kli the Elder,
 Rammahgon
-[
-2
-]
 According to legend, Darth Noctyss and Darth Sanguis both sought immortality on Exegol
 As mentioned by the
 Jedi
@@ -172,41 +145,23 @@ Ziost
 , and
 Asog
 .
-[
-2
-]
 Kli also wrote that Exegol was a place of
 eternal life
 .
-[
-10
-]
 Among the changes the Sith made was the creation of massive underground
 shipyard
 forges in the
 Forbidden District
 .
-[
-7
-]
 Exegol was one of the oldest Sith bastions
-[
-5
-]
 and one of their
 throneworlds
 .
-[
-15
-]
 Under the Sith, the
 Sith Citadel
 was built on Exegol for meetings and rituals to be conducted within, and Sith loyalists excavated the world's large and deep planetary fissures in hopes of reaching a transportive
 vergence
 believed to lie beneath the planet surface.
-[
-5
-]
 According to legend, two
 Sith Lords
 ,
@@ -216,9 +171,6 @@ Darth Sanguis
 , reached Exegol in their quest for
 immortality
 , which the former hoped to learn from the latter. Unknown to Noctyss, Sanguis had achieved immortality by transforming himself into a horrendous creature. Tricking Noctyss by not revealing himself as Darth Sanguis, Sanguis managed to be killed by Noctyss in a ritual to acquire immortality, leading Noctyss to conclude too late that Sanguis had tricked her into becoming a creature like him and freeing him from his miserable existence.
-[
-9
-]
 Imperial Era
 [
 ]
@@ -241,9 +193,6 @@ building
 this power?
 "
 ―Ochi and Darth Vader
-[
-16
-]
 Due to its remote location and inherent veil of secrecy, the
 Sith Eternal
 cult
@@ -251,9 +200,6 @@ chose Exegol as its base; a planet unknown to even the most studious of
 galactic
 historians
 , some of whom knew about Moraband and the other Sith worlds.
-[
-5
-]
 Xyston
 -class Star Destroyers under construction by the Sith Eternal during the Galactic Civil War.
 By the
@@ -265,15 +211,9 @@ Darth Sidious
 intended for Exegol to become his permanent seat of power. Seeking to unlock the secrets of immortality, his underlings began to experiment with
 cloning
 technology in a bid to extend his lifespan.
-[
-17
-]
 Sidious also proceeded to modernize the ancient
 shipyards
 , making them highly automated
-[
-7
-]
 so the construction of a
 fleet
 of
@@ -291,9 +231,6 @@ Darth Vader
 . The
 Emperor
 also stored several other frail specimens within vats and kept them existing in a state of pain.
-[
-11
-]
 These schemes were kept hidden from Vader until shortly after his
 duel on Cloud City
 , when he encountered the
@@ -303,18 +240,12 @@ Mustafar
 , who gifted him with a
 Sith wayfinder
 that led to Exegol.
-[
-18
-]
 Seeking answers, Vader forced the
 Sith assassin
 Ochi of Bestoon
 to accompany him on his journey, and together they passed through the
 Red Honeycomb Zone
 , eventually crash-landing on the planet's surface.
-[
-19
-]
 Vader fought through Sidious' defenses and spotted a severed hand in the cloning center. Eventually, Vader and Ochi found themselves faced with a mountain-sized
 kyber crystal
 being tormented by their Master's followers so they can
@@ -322,9 +253,6 @@ corrupt
 it to the dark side and have the pieces used to power his fleet's cannons. The power of the crystal was too much for Ochi, whose eyes were burnt by its power, but Vader pressed on, intent to finally take his revenge on Sidious. Nevertheless, the
 Sith Master
 taunted Vader, telling him of his power and how he could only share it if he once again accepted his position as an apprentice. Although Vader received a vision of his son telling him he was destined to kill Sidious, Vader agreed to rejoin his Master.
-[
-11
-]
 Return of Panshard and Sidious
 [
 ]
@@ -332,9 +260,6 @@ Return of Panshard and Sidious
 The might of the Final Order will soon be ready. It will be yours if you do as I ask.
 "
 ―Darth Sidious, to Kylo Ren
-[
-1
-]
 The Sith Star Destroyers emerged from Exegol to deploy across the galaxy, but were stopped by the Resistance.
 After Sidious' first
 death
@@ -347,9 +272,6 @@ Star Destroyer
 armed with an
 axial superlaser
 capable of destroying entire planets, the Sith fleet would spearhead the Sith reconquest of the galaxy.
-[
-5
-]
 Ochi, meanwhile, sought the path to Exegol to heal his eyes. The spirit of Sith
 Viceroy
 Exim Panshard
@@ -365,9 +287,6 @@ Forbidden Valley
 of the planet
 Pasaana
 , Skywalker was able to destroy Panshard's mask, which he incorrectly believed ended the threat of the Sith once more due to being unaware of Sidious until after he died.
-[
-10
-]
 As the threat of their return to the galaxy loomed, the
 Resistance
 mustered its forces and fought a desperate
@@ -377,49 +296,28 @@ Citizens' Fleet
 , the Resistance destroyed the
 Sith forces
 and killed Darth Sidious.
-[
-1
-]
 In the months after the battle, an excavation team under historian
 Beaumont Kin
 was at work
 uncovering
 the secrets of the Sith Citadel.
-[
-20
-]
 Locations
 [
 ]
 The Sith Citadel, the centerpiece of the Planet.
 Built on Exegol in ancient times, the Sith Citadel was one of the earliest bastions of the Sith.
-[
-5
-]
 Constructed on the surface of the planet, the citadel was both above ground and subterranean in design, with the former section being a large upside-down truncated pyramid-like structure built out of black stone. Below the surface there was a large hall with massive ancient statues
-[
-1
-]
 carved in the likenesses of ancient Sith
 Lords
 .
-[
-2
-]
 There was also an
 ampitheater
 that housed the
 Throne of the Sith
 . The citadel was destroyed during the Battle of Exegol
-[
-1
-]
 in
 35 ABY
 .
-[
-21
-]
 Behind the scenes
 [
 ]
@@ -427,9 +325,6 @@ Behind the scenes
 This droid is optimized to function in the dark and desolate environment of Exegal [sic] and its underlying threat. Join R7-FNG on their adventures throughout the galaxy!
 "
 ―R7-FNG's description
-[
-22
-]
 Exegol first appeared in the
 2019
 film
@@ -440,17 +335,11 @@ The Rise of Skywalker
 Star Wars
 sequel trilogy
 .
-[
-1
-]
 In the feature-length documentary "
 The Skywalker Legacy
 ," art director
 Rick Carter
 mused that Exegol may have been the place where the Sith Order was born.
-[
-23
-]
 Canonically
 , the Sith originated from
 Moraband
@@ -459,41 +348,20 @@ Star Wars: The Clone Wars
 episode "
 Destiny
 ."
-[
-24
-]
 The product description of the
 Star Wars: Droid Factory
 toy
 R7-FNG
 misspells the planet's name as "Exegal."
-[
-22
-]
 The story of Luke Skywalker and Lando Calrissian's quest for Exegol was explored in the novel
 Shadow of the Sith
 by
 Adam Christopher
 .
-[
-10
-]
 According to Christopher, Anakin Skywalker did not simply tell Luke about Exegol because,
-[
-25
-]
 as a Force Ghost, he was simply a "spirit guide" held back by the Force itself not wanting Luke to know about Exegol.
-[
-26
-]
 As he noted, Anakin needed to use all his strength to rescue Luke from his brief appearance on Exegol and then was stopped by "something" that wanted their conversation to stop.
-[
-25
-]
 Christopher also referred to Exegol as a "font of dark power" that hampered Force ghost powers.
-[
-27
-]
 Appearances
 [
 ]
