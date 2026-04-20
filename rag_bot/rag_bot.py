@@ -9,12 +9,33 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
 from langchain_ollama import ChatOllama
 from langchain_huggingface import HuggingFaceEndpoint
-
+from sentence_transformers import CrossEncoder
 
 # Параметры
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 FAISS_PATH = "../task3_build_index/faiss_index"
 LLM_MODEL = "gpt-3.5-turbo"
+
+# Загрузка модели (легкая, работает на CPU за ~50-100 мс)
+cross_encoder = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+
+def rerank_and_filter(query: str, docs: list, top_k: int = 3, threshold: float = 0.5):
+    if not docs:
+        return []
+    
+    # 1. Формируем пары [вопрос, текст_чанка]
+    pairs = [[query, doc.page_content] for doc in docs]
+    
+    # 2. Получаем скоры релевантности
+    scores = cross_encoder.predict(pairs)
+    
+    # 3. Фильтруем по порогу и сортируем
+    scored_docs = list(zip(docs, scores))
+    filtered = [doc for doc, score in scored_docs if score >= threshold]
+    filtered.sort(key=lambda x: scores[docs.index(x[0])], reverse=True)
+    
+    return [doc for doc, _ in filtered[:top_k]]
+
 
 # 1. Загрузка эмбеддингов и векторной БД
 embeddings = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL)
@@ -27,10 +48,10 @@ db = FAISS.load_local(FAISS_PATH, embeddings, allow_dangerous_deserialization=Tr
 #ollama run llama3.2:3b
 llm = ChatOllama(
     model="llama3.2:3b",
-    temperature=0.2,          # Немного случайности
-    repeat_penalty=1.1,       # Штраф за повторения
-    num_predict=512,          # Ограничить длину ответа
-    stop=["\n\nЗапрос:", "Запрос:"]  # Стоп-токены
+    temperature=0.1,           # Чуть больше свободы
+    repeat_penalty=1.05,       # Мягкий штраф
+    num_predict=400,           # Чуть длиннее ответы
+    stop=["\n\nЗапрос:"]       # Оставьте только один стоп-токен
 )
 
 # Вариант 2: Hugging Face (бесплатно, но медленнее) GGUF ~4.1–4.8 ГБ Мультиязычность: Преимущественно английский
@@ -38,8 +59,13 @@ llm = ChatOllama(
 
 
 # 3. Промпт (Few-shot + Chain-of-Thought)
-PROMPT_TEMPLATE = """System: Ты помощник, который сначала размышляет, а потом отвечает. Всегда пиши свои шаги.
-ВАЖНО: Отвечай на русском, но сохраняй оригинальные термины из базы (Xarn Velgor, Synth Flux, Phase Blade и т.д.).
+PROMPT_TEMPLATE = """
+System: Ты помощник, который сначала размышляет, а потом отвечает. Всегда пиши свои шаги.
+ВАЖНО: 
+- Отвечай ТОЛЬКО на основе Контекста ниже.
+- Отвечай на русском, но сохраняй оригинальные термины из базы (Xarn Velgor, Synth Flux)
+- Если в Контексте нет информации — пиши «Я не знаю». 
+- Не используй знания извне, даже если вопрос кажется знакомым.
 
 Контекст:
 {context}
@@ -65,8 +91,14 @@ retriever = db.as_retriever(search_kwargs={"k": 3})
 def format_docs(docs):
     return "\n\n".join([doc.page_content for doc in docs])
 
+def retrieve_and_rerank(query: str):
+    raw_docs = retriever.invoke(query)          # FAISS: быстро ищем 10 чанков
+    filtered_docs = rerank_and_filter(query, raw_docs) # CrossEncoder: оставляем 3 лучших
+    return format_docs(filtered_docs)
+
 rag_chain = (
-    {"context": retriever | format_docs, "input": RunnablePassthrough()}
+    {"context": RunnablePassthrough().assign(context=retrieve_and_rerank), 
+     "input": RunnablePassthrough()}
     | prompt
     | llm
     | StrOutputParser()
@@ -80,6 +112,14 @@ def main():
         if q.lower() in ("выход", "exit"): break
         if not q: continue
         try:
+            # 1. Проверяем, что нашёл retriever
+            docs = retriever.invoke(q)
+            print(f"\n[DEBUG] Найдено чанков: {len(docs)}")
+            for i, d in enumerate(docs):
+                source = d.metadata.get("source", "unknown")
+                print(f"--- Чанк {i+1} ({source}) ---\n{d.page_content[:200]}...\n")
+
+            # 2. Запускаем полную цепочку RAG
             res = rag_chain.invoke(q)
             print(res)
         except Exception as e:
