@@ -17,7 +17,8 @@ db = FAISS.load_local(FAISS_PATH, embeddings, allow_dangerous_deserialization=Tr
 
 # 2. LLM
 llm = ChatOllama(
-    model="llama3.2:3b",
+    # model="llama3.2:3b",
+    model="llama3.1:8b",
     temperature=0.1,
     repeat_penalty=1.05,
     num_predict=400,

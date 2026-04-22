@@ -28,7 +28,11 @@ def main():
     if output_dir.exists():
         shutil.rmtree(output_dir)  # Удаляем папку полностью
     output_dir.mkdir(parents=True, exist_ok=True)  # Создаём заново
-
+    
+    src = Path("malicious.md")
+    shutil.copy2(src, output_dir)
+    print(f"✅ В базу знаний скопирован вредоносный файл: {src.name} → {output_dir}")
+    
     if not input_dir.exists():
         print("❌ Папка raw_texts не найдена. Положите туда скачанные документы.")
         return
