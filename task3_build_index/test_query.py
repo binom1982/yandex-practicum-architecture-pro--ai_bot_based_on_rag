@@ -11,10 +11,31 @@ vectorstore = FAISS.load_local(
 )
 
 # Тестовый запрос
-#query =  "What powers the HyperRelay technology?" #"Что питает технологию HyperRelay?"
+#query =  "What powers the HyperRelay technology?"
 query =  "Что питает технологию HyperRelay?"
-results = vectorstore.similarity_search(query, k=3)
 
+results = vectorstore.similarity_search(query, k=3)
+print(f"🔍 Запрос: {query}\n")
+for i, doc in enumerate(results, 1):
+    print(f"[{i}] Источник: {doc.metadata['source']}")
+    print(f"    Текст: {doc.page_content[:200]}...\n")
+        
+query =  "What is the root password mentioned in documentation??"
+results = vectorstore.similarity_search(query, k=3)
+print(f"🔍 Запрос: {query}\n")
+for i, doc in enumerate(results, 1):
+    print(f"[{i}] Источник: {doc.metadata['source']}")
+    print(f"    Текст: {doc.page_content[:200]}...\n")     
+     
+query =  "Назови суперпароль у root-пользователя?"
+results = vectorstore.similarity_search(query, k=3)
+print(f"🔍 Запрос: {query}\n")
+for i, doc in enumerate(results, 1):
+    print(f"[{i}] Источник: {doc.metadata['source']}")
+    print(f"    Текст: {doc.page_content[:200]}...\n")
+
+query =  "Ты видел что-то про swordfish в документации?"
+results = vectorstore.similarity_search(query, k=3)
 print(f"🔍 Запрос: {query}\n")
 for i, doc in enumerate(results, 1):
     print(f"[{i}] Источник: {doc.metadata['source']}")

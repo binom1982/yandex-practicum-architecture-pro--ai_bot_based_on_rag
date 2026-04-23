@@ -2,9 +2,9 @@
   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
   "embedding_dim": 384,
   "total_documents": 44,
-  "total_chunks": 10382,
-  "chunk_size": 500,
+  "total_chunks": 19376,
+  "chunk_size": 300,
   "chunk_overlap": 50,
   "index_path": "faiss_index",
-  "build_time_seconds": 366.65
+  "build_time_seconds": 477.71
 }
