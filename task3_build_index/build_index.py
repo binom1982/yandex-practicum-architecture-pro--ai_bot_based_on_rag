@@ -12,8 +12,8 @@ import shutil
 # Параметры по умолчанию
 DEFAULT_KNOWLEDGE_BASE_DIR = "../rag_project/knowledge_base"
 DEFAULT_INDEX_OUTPUT_PATH = "faiss_index"
-DEFAULT_CHUNK_SIZE = 300
-DEFAULT_CHUNK_OVERLAP = 50
+DEFAULT_CHUNK_SIZE = 500
+DEFAULT_CHUNK_OVERLAP = 10
 
 # Карта моделей: имя → размерность эмбеддинга
 EMBEDDING_DIM_MAP = {

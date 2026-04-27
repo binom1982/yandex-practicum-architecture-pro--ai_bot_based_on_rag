@@ -1,18 +1,18 @@
-# Формат: вопрос | ожидаемый_ответ | тип_темы (known/unknown)
-# Сущности указаны на английском, как в исходной базе знаний
+# Format: question | expected_answer_snippet | type
+# Questions in English to match KB content and prompt language
 
-# === Известные темы (бот должен ответить) ===
-What energy source powers the HyperRelay technology? | Void Core | known
-Who commands the fleet of the Central Hegemony? | Xarn Velgor | known
-What is the name of the energy field used by the Order of Lumin adepts? | Synth Flux | known
-What is the capital city of the planet Mikuqegese? | Zenith Prime | known
-Which weapon do the knights of the Order of Lumin wield? | Phase Blade | known
-Who is the master of the adept Zunifep? | Nukeq Qazoki | known
-What is the name of the Hegemony's superweapon space station? | Void Core | known
-Where is the main base of the Free Systems Coalition located? | Aridion | known
+# === Known: answers exist in KB ===
+What is Synth Flux? | energy field created by all living things | known
+What superweapon was created by the Central Hegemony? | Void Core | known
+Who commanded forces pursuing the Free Systems Coalition? | Xarn Velgor | known
+Which planet is the capital of the Central Hegemony? | Zenith Prime | known
+What weapon symbolizes the Order of Lumin knights? | Phase Blade | known
+What energy field connects all life in the galaxy? | Remadize | known
+Which organization opposed the Central Hegemony? | Free Systems Coalition | known
+What powers the HyperRelay technology? | Void Core | known
 
-# === Удалённые темы (бот НЕ должен знать — ответ: "Я не знаю") ===
-What is the organizational structure of Talak Quzebe? | unknown | unknown
-What event occurred on the planet Zinomoleha during the uprising? | unknown | unknown
-Who is the criminal authority figure Kigedobok? | unknown | unknown
-Where are the temples of the Talak Quzebe organization located? | unknown | unknown
+# === Unknown: removed entities (bot should refuse) ===
+What is the structure of Talak Quzebe? | unknown | unknown
+What happened on Zinomoleha during the uprising? | unknown | unknown
+Who is the criminal figure Kigedobok? | unknown | unknown
+Where are Talak Quzebe temples located? | unknown | unknown

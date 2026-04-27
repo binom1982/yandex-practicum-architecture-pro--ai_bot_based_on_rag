@@ -1,10 +1,10 @@
 {
   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
   "embedding_dim": 384,
-  "total_documents": 44,
-  "total_chunks": 19376,
-  "chunk_size": 300,
-  "chunk_overlap": 50,
+  "total_documents": 47,
+  "total_chunks": 10064,
+  "chunk_size": 500,
+  "chunk_overlap": 10,
   "index_path": "faiss_index",
-  "build_time_seconds": 477.71
+  "build_time_seconds": 389.15
 }
