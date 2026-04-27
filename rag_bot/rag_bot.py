@@ -6,6 +6,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from langchain_ollama import ChatOllama
+from rag_logger import log_query
 
 # === 🔧 НАСТРОЙКИ ===
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
@@ -141,8 +142,11 @@ def main():
                 preview = " ".join(d.page_content.strip().split())[:100] + "..."
                 print(f"{i}. [{src}] {preview}")
 
+            answer = rag_chain.invoke(q)
+            log_query(q, reranked, answer)  # 🔥 Логирование сразу после ответа
+            
             print("\nОтвет:")
-            print(rag_chain.invoke(q))
+            print(answer)
             
         except Exception as e:
             print(f"Ошибка: {e}")

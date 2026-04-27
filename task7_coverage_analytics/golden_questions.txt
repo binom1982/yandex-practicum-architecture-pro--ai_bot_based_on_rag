@@ -1,0 +1,18 @@
+# Формат: вопрос | ожидаемый_ответ | тип_темы (known/unknown)
+# Сущности указаны на английском, как в исходной базе знаний
+
+# === Известные темы (бот должен ответить) ===
+What energy source powers the HyperRelay technology? | Void Core | known
+Who commands the fleet of the Central Hegemony? | Xarn Velgor | known
+What is the name of the energy field used by the Order of Lumin adepts? | Synth Flux | known
+What is the capital city of the planet Mikuqegese? | Zenith Prime | known
+Which weapon do the knights of the Order of Lumin wield? | Phase Blade | known
+Who is the master of the adept Zunifep? | Nukeq Qazoki | known
+What is the name of the Hegemony's superweapon space station? | Void Core | known
+Where is the main base of the Free Systems Coalition located? | Aridion | known
+
+# === Удалённые темы (бот НЕ должен знать — ответ: "Я не знаю") ===
+What is the organizational structure of Talak Quzebe? | unknown | unknown
+What event occurred on the planet Zinomoleha during the uprising? | unknown | unknown
+Who is the criminal authority figure Kigedobok? | unknown | unknown
+Where are the temples of the Talak Quzebe organization located? | unknown | unknown
