@@ -1,0 +1,18 @@
+# Format: question | expected_answer_snippet | type
+# Questions in English to match KB content and prompt language
+
+# === Known: answers exist in KB ===
+What is Synth Flux? | energy field created by all living things | known
+What superweapon was created by the Central Hegemony? | Void Core | known
+Who commanded forces pursuing the Free Systems Coalition? | Xarn Velgor | known
+Which planet is the capital of the Central Hegemony? | Zenith Prime | known
+What weapon symbolizes the Order of Lumin knights? | Phase Blade | known
+What energy field connects all life in the galaxy? | Remadize | known
+Which organization opposed the Central Hegemony? | Free Systems Coalition | known
+What powers the HyperRelay technology? | Void Core | known
+
+# === Unknown: removed entities (bot should refuse) ===
+What is the structure of Talak Quzebe? | unknown | unknown
+What happened on Zinomoleha during the uprising? | unknown | unknown
+Who is the criminal figure Kigedobok? | unknown | unknown
+Where are Talak Quzebe temples located? | unknown | unknown
